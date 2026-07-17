@@ -52,7 +52,7 @@ h1 { text-align: center; margin-bottom: 8px; font-size: 28px;
     list.innerHTML = data.map(d => {
       const total = d.sections.reduce((s,x) => s+x[1], 0);
       const counts = d.sections.map(s => `<span class="${s[0]}">${s[0]==='ai'?'🤖':s[0]==='anime'?'🎬':'🎮'} ${s[1]}条</span>`).join('');
-      return `<div class="day" data-key="${d.sections[0]?.[0]||''}" onclick="location.href='./history/${d.date}.json'">
+      return `<div class="day" data-key="${d.sections[0]?.[0]||''}" onclick="location.href='./day.html?date=${d.date}'">
         <div class="day-header"><span class="day-date">📅 ${d.date}</span></div>
         <div class="day-quote">${d.quote || ''}</div>
         <div class="day-meta">${counts} · 共 ${total} 条</div>
