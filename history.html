@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📰 日报归档</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+  background: linear-gradient(135deg, #0a0a1a 0%, #16213e 100%);
+  color: #fff; min-height: 100vh; padding: 40px 16px;
+}
+.container { max-width: 700px; margin: 0 auto; }
+h1 { text-align: center; margin-bottom: 8px; font-size: 28px;
+  background: linear-gradient(90deg, #60a5fa, #f59e0b, #4ade80);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+.sub { text-align: center; color: #888; margin-bottom: 32px; font-size: 13px; }
+.day { background: rgba(255,255,255,.05); border-radius: 10px; padding: 16px 20px;
+  margin-bottom: 10px; cursor: pointer; transition: background .2s;
+  border-left: 3px solid transparent; }
+.day:hover { background: rgba(255,255,255,.1); }
+.day[data-key="ai"] { border-left-color: #1a73e8; }
+.day[data-key="anime"] { border-left-color: #e8710a; }
+.day[data-key="game"] { border-left-color: #188038; }
+.day-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.day-date { font-weight: 700; font-size: 15px; }
+.day-quote { font-size: 13px; color: #bbb; line-height: 1.5; font-style: italic; }
+.day-meta { font-size: 12px; color: #666; margin-top: 4px; }
+.day-meta span { margin-right: 12px; }
+.day-meta .ai { color: #60a5fa; } .day-meta .anime { color: #f59e0b; } .day-meta .game { color: #4ade80; }
+.empty { text-align: center; color: #555; padding: 60px 0; }
+.back { text-align: center; margin-top: 30px; }
+.back a { color: #60a5fa; text-decoration: none; font-size: 14px; }
+.loading { text-align: center; padding: 60px 0; color: #666; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>📰 日报归档</h1>
+  <p class="sub">最近 100 天的历史日报（点击日期查看）</p>
+  <div id="list"><div class="loading">加载中…</div></div>
+  <div class="back"><a href="./">← 返回今日日报</a></div>
+</div>
+<script>
+(async () => {
+  const list = document.getElementById('list');
+  try {
+    const res = await fetch('./history/index.json');
+    const data = await res.json();
+    if (!data.length) { list.innerHTML = '<div class="empty">暂无历史记录</div>'; return; }
+    list.innerHTML = data.map(d => {
+      const total = d.sections.reduce((s,x) => s+x[1], 0);
+      const counts = d.sections.map(s => `<span class="${s[0]}">${s[0]==='ai'?'🤖':s[0]==='anime'?'🎬':'🎮'} ${s[1]}条</span>`).join('');
+      return `<div class="day" data-key="${d.sections[0]?.[0]||''}" onclick="location.href='./history/${d.date}.json'">
+        <div class="day-header"><span class="day-date">📅 ${d.date}</span></div>
+        <div class="day-quote">${d.quote || ''}</div>
+        <div class="day-meta">${counts} · 共 ${total} 条</div>
+      </div>`;
+    }).join('');
+  } catch(e) {
+    list.innerHTML = '<div class="empty">加载失败，请确认已部署最新版本</div>';
+  }
+})();
+</script>
+</body>
+</html>
