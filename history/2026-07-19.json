@@ -1,13 +1,20 @@
 {
-  "date": "2026-07-18",
-  "quote": "「TikTok 正在测试人工智能相似度检测工具」等AI 56条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "date": "2026-07-19",
+  "quote": "「Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”」等AI 46条、动漫 20条、游戏 33条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "TikTok 正在测试人工智能相似度检测工具、苹果粉碎 OpenAI 的阴谋、纽约州州长表示，她正在使用人工智能来分析“每一条规则”在该州",
+      "summary": "Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”、TikTok 正在测试人工智能相似度检测工具、苹果粉碎 OpenAI 的阴谋",
       "items": [
+        {
+          "title": "Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”",
+          "summary": "去年，Sam Altman 邀请作家 Dave Eggers 为大约 200 名 OpenAI 员工发表演讲。他写了无数的小说、剧本和新闻文章，创办了麦克斯威尼学校，并创办了多所学校和非营利组织，以更广泛地支持作家和艺术。因此，人们可能会期望他会走进公司的办公室并提供[&#8230;]",
+          "source": "The Verge",
+          "date": "07-18",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
+        },
         {
           "title": "TikTok 正在测试人工智能相似度检测工具",
           "summary": "社交媒体顾问马特·纳瓦拉 (Matt Navarra) 发现，TikTok 正在开始测试一种选择加入工具，该工具可以扫描人工智能相似之处，并让创作者向公司报告。 TikTok 美国发言人 Zachary Kizer 告诉 The Verge，该工具最初正在与“一些”美国创作者进行测试。 YouTube 一直在开发类似的工具 [&#8230;]",
@@ -58,18 +65,11 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam"
         },
         {
-          "title": "AI 烂片成为新的视频直接抢钱渠道",
-          "summary": "本周末，世界各地的影迷将前往当地影院，一饱眼福克里斯托弗·诺兰改编的《奥德赛》新作。短短几天内，它的收入有望达到 80 至 1 亿美元。人们显然很高兴看到诺兰如何使用尖端的电影制作技术来制作荷马史诗[&#8230;]",
-          "source": "The Verge",
-          "date": "07-15",
-          "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"
-        },
-        {
-          "title": "Suno 从 YouTube、Genius 和 Deezer 抢走了数百万首歌曲",
-          "summary": "据 404 Media 报道，Suno 在一次黑客事件中获得的数据显示，人工智能音乐生成器是通过从 YouTube Music、Deezer 和 Genius 等在线音频平台上抓取数百万首歌曲和歌词来训练的。鉴于 Suno 避免透露其训练数据集中的内容以及它们是如何获取的，这是罕见的[&#8230;]",
-          "source": "The Verge",
-          "date": "07-15",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack"
+          "title": "Kimi：威胁还是威胁？",
+          "summary": "中国公司探月人工智能本周发布了新版Kimi模型，引发了人们对“全面人工智能共产主义”的担忧。",
+          "source": "TechCrunch",
+          "date": "07-18",
+          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
         },
         {
           "title": "尼尔·里默 (Neil Rimer) 认为人工智能资金正在回归",
@@ -84,8 +84,15 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "《挂田月的梅赛德斯》公布了主要演员、主要工作人员以及 2027 年冬季首个宣传片、《中介银行》的额外演员阵容公布、《Kanata kara》公布 2026 年秋季主要演员、工作人员和预告片",
+      "summary": "《Mayonaka Heart Tune 第二季》公布额外演员阵容，将于 2027 年首次亮相、《挂田月的梅赛德斯》公布了主要演员、主要工作人员以及 2027 年冬季首个宣传片、《中介银行》的额外演员阵容公布",
       "items": [
+        {
+          "title": "《Mayonaka Heart Tune 第二季》公布额外演员阵容，将于 2027 年首次亮相",
+          "summary": "电视动画改编自五十岚正国的《Mayonaka Heart Tune》（调入午夜之心）漫画的官方网站于周六公布了第二季的额外演员阵容和第二个预告片视觉效果（如图）。新一季将于 2027 年首播。配音演员小清水亚美（《大神与交神梁》）和本藤枫（《魔女的旅人》）将分别饰演山吹莉奈和山吹水户。第一季由 Gekkou 制作，在 Ja...",
+          "source": "MyAnimeList",
+          "date": "07-18",
+          "url": "https://myanimelist.net/news/74490039?_location=rss"
+        },
         {
           "title": "《挂田月的梅赛德斯》公布了主要演员、主要工作人员以及 2027 年冬季首个宣传片",
           "summary": "娱乐公司博报堂 DY Music &amp;周三，Pictures 开设了根据 Firehead 的《Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shita Kedo Suteraresou》改编的电视动画的官方网站。工作人员、预告片（右图）和第一个宣传视频。该动画系列将于一月首映……",
@@ -136,7 +143,7 @@
           "url": "https://myanimelist.net/news/74466912?_location=rss"
         },
         {
-          "title": "《Yukyuu no Gusha Asley no, Kenja no Susume》公布主要演员、工作人员、预告片，将于 2027 年 1 月首播",
+          "title": "《Yukyuu No Gusha Asley No, Kenja No Susume》公布主要演员、工作人员、预告片，将于 2027 年 1 月首播",
           "summary": "改编自日文轻小说的电视动画《永远的愚者的智慧之语：神奇的冒险》于周日在官方网站上公开了主要演员、工作人员以及预告片宣传视频。该动画预计于 2027 年 1 月首播。配音演员丰永敏行（时光大利人）和日笠阳子（通灵王（2021））分别饰演阿斯利和波奇。监督：大西圭介...",
           "source": "MyAnimeList",
           "date": "07-13",
@@ -148,13 +155,6 @@
           "source": "MyAnimeList",
           "date": "07-12",
           "url": "https://myanimelist.net/news/74464491?_location=rss"
-        },
-        {
-          "title": "漫画《Munou na Nana》十年连载结束",
-          "summary": "《Loose Boy》和古谷伊织的漫画《无才奈奈》于周五在《少年钢画》杂志八月号上以第 122 章完结。 Loose Boy 和 Furuya 于 2016 年 5 月开始在《少年 Gangan》杂志上连载这部心理惊悚漫画。史克威尔艾尼克斯于 2025 年 12 月出版了第 14 卷，并将于今年 9 月发行第 15 卷，即最终卷。 Crunchyroll 在北美以数字方式出版该漫画直至 2023 ",
-          "source": "MyAnimeList",
-          "date": "07-10",
-          "url": "https://myanimelist.net/news/74457682?_location=rss"
         }
       ]
     },
@@ -162,7 +162,7 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、詹妮弗·英格利希因健康问题退出《毁灭战士》角色",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、马拉松游戏总监在动荡时期离开 Bungie",
       "items": [
         {
           "title": "《军团要塞 2》更新已发布",
@@ -177,41 +177,6 @@
           "source": "Steam",
           "date": "07-11",
           "url": "https://store.steampowered.com/news/275791/"
-        },
-        {
-          "title": "詹妮弗·英格利希因健康问题退出《毁灭战士》角色",
-          "summary": "由于健康问题，英国女演员詹妮弗·英格利希 (Jennifer English) 将不再担任 Eclipse Glow Games 的《毁灭之潮》中的主角。",
-          "source": "IGN",
-          "date": "07-18",
-          "url": "https://www.ign.com/articles/jennifer-english-steps-away-from-tides-of-annihilation-role-due-to-health-concerns"
-        },
-        {
-          "title": "《侏罗纪公园》粉丝在《泰坦之路》中向山姆尼尔致敬，催人泪下",
-          "summary": "在山姆尼尔去世的消息震惊侏罗纪公园社区后，《泰坦之路》的玩家们在游戏中向山姆尼尔致敬，表达了感人至深的敬意。",
-          "source": "IGN",
-          "date": "07-17",
-          "url": "https://www.ign.com/articles/jurassic-park-fans-go-viral-with-tear-jerking-tribute-to-sam-neill-in-path-of-titans"
-        },
-        {
-          "title": "PlayStation 实体光盘持续遭到抵制，漫威金刚狼预告片评论如潮",
-          "summary": "昨天，Insomniac Games 发布了漫威金刚狼的新电影预告片，试图引起人们的兴奋，但没过多久，粉丝们的负面评论就如潮水般涌来，在索尼宣布计划停止生产 PlayStation 游戏的实体光盘后，他们还没有原谅索尼。",
-          "source": "IGN",
-          "date": "07-17",
-          "url": "https://www.ign.com/articles/marvels-wolverine-trailer-flooded-with-comments-as-physical-disc-backlash-against-playstation-continues"
-        },
-        {
-          "title": "《刺客信条：黑旗》重新同步新游戏+育碧销量突破 300 万份",
-          "summary": "育碧已确认计划将 New Game Plus 纳入《刺客信条：黑旗》重新同步版，其重制版销量已突破 300 万份。",
-          "source": "IGN",
-          "date": "07-17",
-          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-new-game-plus-confirmed-as-ubisoft-marks-3-million-copies-sold"
-        },
-        {
-          "title": "为什么我不再推荐 Steam Deck",
-          "summary": "自从 Steam Deck 于 2022 年首次亮相以来，它一直是我最喜欢的设备之一。对于手持游戏电脑来说，它的价格相对实惠，但仍然足够强大，可以玩我在旅途中实际玩的几乎所有游戏。虽然我仍然喜欢这个东西，但最近的价格上涨使得几乎不可能向现在正在寻找预算游戏掌上电脑的人推荐。",
-          "source": "IGN",
-          "date": "07-17",
-          "url": "https://www.ign.com/articles/why-i-dont-recommend-the-steam-deck-anymore"
         },
         {
           "title": "马拉松游戏总监在动荡时期离开 Bungie",
@@ -233,6 +198,41 @@
           "source": "GameSpot",
           "date": "07-17",
           "url": "https://www.gamespot.com/articles/todd-howard-addresses-fan-chatter-about-bethesda-obsidian-rivalry-conspiracies/"
+        },
+        {
+          "title": "据报道，沙特阿拉伯收购 EA 将清除欧盟障碍",
+          "summary": "据报道，在宣布 将于 2025 年 9 月斥资 550 亿美元收购 EA 后，欧盟已决定据路透社最新报道，沙特阿拉伯将在 7 月底批准购买公共投资基金 (PIF)。\n\n\n\n据路透社 7 月 17 日报道，沙特阿拉伯的 PIF 将根据欧盟补贴规则获得欧盟的批准。这意味着，在欧盟于 7 月 22 日完成《外国补贴条例》(FSR) 的初步审查后，据报道该收购将于 7 月 30 日获得批准。总而言之，该交",
+          "source": "GameSpot",
+          "date": "07-17",
+          "url": "https://www.gamespot.com/articles/saudi-arabias-ea-takeover-reportedly-set-to-clear-eu-hurdle/"
+        },
+        {
+          "title": "《暗黑破坏神 4》第 14 季最糟糕的神话变化不再是：“并非所有想法都能实现”",
+          "summary": "暗黑破坏神 4 第 14 季最具争议的变化，即一次只能装备一件精心制作的神话物品，现在已成为过去。\n\n\n\n令人惊讶的是，7 月 16 日发布的 PC 版补丁（主机玩家将于 7 月 17 日某个时间发布），暴雪选择取消一项装备精良的神话限制，该限制是作为赛季的一部分引入的死亡觉醒，以及增加新季节性巢穴 Boss 的神话和标志性神话掉落率。\n\n\n\n暴雪宣布了本赛季另一个最具争议的新增内容，即赫拉德里克",
+          "source": "GameSpot",
+          "date": "07-17",
+          "url": "https://www.gamespot.com/articles/diablo-4-season-14s-worst-mythic-change-is-no-more-not-every-idea-lands/"
+        },
+        {
+          "title": "AC Black Flag Resync 销量达 300 万份，但人们对一件事特别不满",
+          "summary": "《刺客信条：黑旗》重新同步版于 7 月 9 日推出，这款虚张声势的海盗冒险游戏迎来了一个良好的开端。负责《刺客信条》品牌的新公司 Vantage Studios 于 7 月 10 日宣布，《Resynced》在上市后 24 小时内销量超过 200 万份。 7月17日，该公司确认上市7天销量就达到300万辆。 \n\n\n\n然而，这并不是一个完全成功的故事，围绕游戏的负面情绪与通常的罪魁祸首有关：微交易。",
+          "source": "GameSpot",
+          "date": "07-10",
+          "url": "https://www.gamespot.com/articles/ac-black-flag-resynced-is-a-hit-but-people-are-particularly-upset-about-one-thing/"
+        },
+        {
+          "title": "这位 PC 玩家正在制作自己的实体 Steam 游戏，一次一个昂贵的卡带",
+          "summary": "由于 Steam 等数字发行平台的兴起，实体 PC 游戏已经过时很多年了。虽然包含 CD 和 DVD-ROM 的大型 PC 游戏盒基本上已经消失，但一位改装者决定将游戏卡带带回他们的 Steam 库，将固态驱动器与 Steam 灵活的桌面客户端相结合。\n\n\n\n在 PC Master Gaming Race subreddit 上，Jibril-sama 详细介绍了他们玩 Steam 游戏的即插即用",
+          "source": "GameSpot",
+          "date": "07-17",
+          "url": "https://www.gamespot.com/articles/this-pc-gamer-is-making-his-own-physical-steam-games-one-expensive-cartridge-at-a-time/"
+        },
+        {
+          "title": "Bethesda 老板谈论《上古卷轴 6》、《辐射 5》、Xbox 裁员等",
+          "summary": "托德·霍华德 (Todd Howard)，贝塞斯达游戏工作室 (BGS) 的高层，终于打破了他对贝塞斯达几乎所有事情的沉默。其中包括《辐射》游戏的新闻（例如《辐射 3》、《辐射 3》、《辐射 5》和《辐射 5》） href=\"https://www.gamespot.com/games/fallout-new-vegas/\">辐射：新维加斯），确认黑曜石娱乐的辐射衍生作品（我们已经知道了），Sta",
+          "source": "GameSpot",
+          "date": "07-17",
+          "url": "https://www.gamespot.com/articles/bethesda-boss-talks-elder-scrolls-6-fallout-5-xbox-layoffs-and-more/"
         }
       ]
     }
