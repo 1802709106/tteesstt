@@ -1,68 +1,33 @@
 {
-  "date": "2026-07-19",
-  "quote": "「Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”」等AI 46条、动漫 20条、游戏 33条——每日精选资讯速览。",
+  "date": "2026-07-20",
+  "quote": "「苹果的诉讼会破坏 OpenAI 的硬件计划吗？」等AI 56条、动漫 20条、游戏 33条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”、TikTok 正在测试人工智能相似度检测工具、苹果粉碎 OpenAI 的阴谋",
+      "summary": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？、《奥德赛》导演克里斯托弗·诺兰称人工智能是明显的“特洛伊木马”、非营利组织 Current AI 正在竞相构建免费的人工智能万维网",
       "items": [
         {
-          "title": "Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”",
-          "summary": "去年，Sam Altman 邀请作家 Dave Eggers 为大约 200 名 OpenAI 员工发表演讲。他写了无数的小说、剧本和新闻文章，创办了麦克斯威尼学校，并创办了多所学校和非营利组织，以更广泛地支持作家和艺术。因此，人们可能会期望他会走进公司的办公室并提供[&#8230;]",
-          "source": "The Verge",
-          "date": "07-18",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
+          "title": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+          "summary": "在最新一期的《Equity》节目中，我们讨论了苹果的诉讼是否会影响 OpenAi 备受讨论的进军硬件和上市的计划。",
+          "source": "TechCrunch",
+          "date": "07-19",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
         },
         {
-          "title": "TikTok 正在测试人工智能相似度检测工具",
-          "summary": "社交媒体顾问马特·纳瓦拉 (Matt Navarra) 发现，TikTok 正在开始测试一种选择加入工具，该工具可以扫描人工智能相似之处，并让创作者向公司报告。 TikTok 美国发言人 Zachary Kizer 告诉 The Verge，该工具最初正在与“一些”美国创作者进行测试。 YouTube 一直在开发类似的工具 [&#8230;]",
-          "source": "The Verge",
-          "date": "07-17",
-          "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool"
+          "title": "《奥德赛》导演克里斯托弗·诺兰称人工智能是明显的“特洛伊木马”",
+          "summary": "“每个人都知道希腊人在里面。”",
+          "source": "TechCrunch",
+          "date": "07-19",
+          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
         },
         {
-          "title": "苹果粉碎 OpenAI 的阴谋",
-          "summary": "苹果正在起诉 OpenAI。正如这些事情经常发生的那样，投诉是可读且激烈的，尽管许多专家似乎认为许多指控只是做事的方式。那么苹果真正想要的是什么，为什么它要与 OpenAI 进行如此公开的斗争呢？关于这一集的[&#8230;]",
-          "source": "The Verge",
-          "date": "07-17",
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"
-        },
-        {
-          "title": "纽约州州长表示，她正在使用人工智能来分析“每一条规则”在该州",
-          "summary": "纽约州州长 Kathy Hochul 可能刚刚签署了暂停在该州新建人工智能数据中心的协议，但她并不反对自己使用该技术。在接受彭博社 Odd Lot 播客采访时，Hochul 表示，她的团队正在使用“人工智能来分析每一项规则、法规和政策”，以检查是否有过时的[&#8230;]",
-          "source": "The Verge",
-          "date": "07-16",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"
-        },
-        {
-          "title": "Google 正在将 NotebookLM 更名为 Gemini Notebook",
-          "summary": "谷歌正在给其人工智能笔记应用程序一个新名称。该公司周四宣布，NotebookLM 将更名为 Gemini Notebook，但仍将是一个独立的应用程序，尽管它在 Gemini 和 Google 搜索之间进行了更深入的集成。 Google 于 2023 年 5 月首次发布了 Gemini Notebook（当时称为 Project Tailwind），然后广泛发布[&#8230;]",
-          "source": "The Verge",
-          "date": "07-16",
-          "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
-        },
-        {
-          "title": "Claude 现在可以为您使用您的 1Password 凭据",
-          "summary": "1Password 为 Claude 推出了新的浏览器集成，允许 Anthropic 聊天机器人访问存储的安全凭证，例如用户名和密码。 Claude 的 1Password 功能意味着用户可以授权 Claude 代表他们完成多步骤任务，例如预订旅行和管理在线帐户，而无需手动输入登录信息 [&#8230;]",
-          "source": "The Verge",
-          "date": "07-16",
-          "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"
-        },
-        {
-          "title": "谷歌被勒令向欧洲竞争对手开放Android和搜索",
-          "summary": "在欧盟命令谷歌遵守欧盟的数字反垄断规则后，谷歌必须为竞争对手的人工智能助手和搜索引擎提供更多对安卓和谷歌搜索关键部分的访问权限。周四公布的这两项决定可能会削弱谷歌对科技行业两个最重要平台的控制，并[&#8230;]",
-          "source": "The Verge",
-          "date": "07-16",
-          "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"
-        },
-        {
-          "title": "xAI 起诉一名男子使用 Grok 生成 CSAM“deepfakes”",
-          "summary": "埃隆·马斯克 (Elon Musk) 旗下的 xAI 正在起诉一名南卡罗来纳州男子，该男子涉嫌使用该公司的 Grok AI 聊天机器人生成儿童性虐待材料 (CSAM)。在路透社早些时候报道的诉讼中，xAI 声称 Terry Wayne Harwood “故意并故意使用 Grok 来规避安全措施、更改未经同意的图像以及生成和分发 CSAM”，这违反了 [&#8230;]",
-          "source": "The Verge",
-          "date": "07-15",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam"
+          "title": "非营利组织 Current AI 正在竞相构建免费的人工智能万维网",
+          "summary": "Current AI 是一种非营利性的人工智能，不让任何一种文化落后，在设备、人工智能聊天等方面取得了显着的进步。",
+          "source": "TechCrunch",
+          "date": "07-19",
+          "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
         },
         {
           "title": "Kimi：威胁还是威胁？",
@@ -77,6 +42,41 @@
           "source": "TechCrunch",
           "date": "07-18",
           "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+        },
+        {
+          "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+          "summary": "从人工智能工作流程到电池寿命和安全性，这就是每天使用 Vertu 豪华可折叠手机的真实感受。",
+          "source": "TechCrunch",
+          "date": "07-17",
+          "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
+        },
+        {
+          "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
+          "summary": "Databricks 将其形象重塑为一家人工智能公司，并发表了关于开放权重人工智能模型编码成本节省的研究。",
+          "source": "TechCrunch",
+          "date": "07-17",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
+        },
+        {
+          "title": "Agility Robotics 在特斯拉后院插上了自己的旗帜",
+          "summary": "Agility 正在加利福尼亚州弗里蒙特开设一个新的 Digit 机器人培训中心。",
+          "source": "TechCrunch",
+          "date": "07-17",
+          "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
+        },
+        {
+          "title": "人工智能驱动的内存紧缩震动了印度智能手机市场",
+          "summary": "印度智能手机的放缓凸显了人工智能热潮如何重塑消费电子产品，从定价和需求到企业战略。",
+          "source": "TechCrunch",
+          "date": "07-17",
+          "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
+        },
+        {
+          "title": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划",
+          "summary": "苹果公司上周五对 OpenAI 提起了商业秘密诉讼，而且它并没有闲着。起诉书称，OpenAI 存在一种不当行为，一直蔓延到了 OpenAI 的首席硬件官，并声称目前有 400 多名苹果前员工在该公司工作。到目前为止，OpenAI 的回应已经被谨慎地对冲，而且时机已经不能更糟了。据报道，该公司正在考虑 IPO [&#8230;]",
+          "source": "TechCrunch",
+          "date": "07-17",
+          "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
         }
       ]
     },
@@ -84,8 +84,29 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "《Mayonaka Heart Tune 第二季》公布额外演员阵容，将于 2027 年首次亮相、《挂田月的梅赛德斯》公布了主要演员、主要工作人员以及 2027 年冬季首个宣传片、《中介银行》的额外演员阵容公布",
+      "summary": "漫画《Yurayura Q》获电视动画改编、《Kino no Tabi》创作者推出新漫画、网络漫画《Real mo Tama ni wa Uso wo Tsuku》将于 2027 年电视动画化",
       "items": [
+        {
+          "title": "漫画《Yurayura Q》获电视动画改编",
+          "summary": "制作公司 Nikkatsu 于周一宣布改编自 Gido Amagakure 的 Yurayura Q（Yura Yura Queen）漫画的电视动画，并公布了预告片视觉效果（如图）。天隐最初以两幅单镜头的形式出版了这部超自然喜剧漫画，然后于 2019 年 10 月在《花与梦》杂志上开始定期连载。白泉社于 1 月 20 日出版了第五卷。主要故事将于 7 月 27 日的下一期结束，并计划于明年推出衍生",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74495845?_location=rss"
+        },
+        {
+          "title": "《Kino no Tabi》创作者推出新漫画",
+          "summary": "轻小说作家西格泽圭一于周五开始在《每周CoroCoro漫画》网站上连载他与漫画作者朝木隼人的第一部原创漫画《Kemono-tachi no Peregrinatio》（Peregrinatio Bestiarum）。西格泽于 2000 年 3 月开始在电击 hp 杂志上连载由黑河红白绘制插图的轻小说《奇诺之旅：美丽的世界》。角川于 7 月以电击文库的名义出版了第一卷。",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74495692?_location=rss"
+        },
+        {
+          "title": "网络漫画《Real mo Tama ni wa Uso wo Tsuku》将于 2027 年电视动画化",
+          "summary": "漫画作者 Niichi 周日在其官方 X 帐户上宣布，他们的网络漫画《Real mo Tama ni wa Uso wo Tsuku》（有时甚至现实也是谎言！）正在接受电视动画改编。新一画了一幅插图来纪念这一宣布（如图）。该动漫系列将于 2027 年首播。Niichi 最初于 2018 年 8 月开始在其 X（以前的 Twitter）和 Pixiv 帐户上发布这部浪漫喜剧漫画，标题为《Game-z",
+          "source": "MyAnimeList",
+          "date": "07-19",
+          "url": "https://myanimelist.net/news/74493492?_location=rss"
+        },
         {
           "title": "《Mayonaka Heart Tune 第二季》公布额外演员阵容，将于 2027 年首次亮相",
           "summary": "电视动画改编自五十岚正国的《Mayonaka Heart Tune》（调入午夜之心）漫画的官方网站于周六公布了第二季的额外演员阵容和第二个预告片视觉效果（如图）。新一季将于 2027 年首播。配音演员小清水亚美（《大神与交神梁》）和本藤枫（《魔女的旅人》）将分别饰演山吹莉奈和山吹水户。第一季由 Gekkou 制作，在 Ja...",
@@ -134,27 +155,6 @@
           "source": "MyAnimeList",
           "date": "07-13",
           "url": "https://myanimelist.net/news/74467405?_location=rss"
-        },
-        {
-          "title": "漫画《木津口与后太》将于 2027 年冬季电视动画化",
-          "summary": "周一，根据七井海星的《木津口与绷带》漫画改编的电视动画的官方网站开通，公布了主要工作人员和两个预告片视觉效果（如上图所示）。该动画系列计划于 2027 年 1 月凌晨 2:00 在 ABC 电视台和朝日电视台的 ANiMAZiNG 节目栏首播。总导演：石田美雪（Danjo no Yuujou wa Seiritsu suru？（Iya，Shinai!!）副导演）脚本：Susumu Yamakawa",
-          "source": "MyAnimeList",
-          "date": "07-13",
-          "url": "https://myanimelist.net/news/74466912?_location=rss"
-        },
-        {
-          "title": "《Yukyuu No Gusha Asley No, Kenja No Susume》公布主要演员、工作人员、预告片，将于 2027 年 1 月首播",
-          "summary": "改编自日文轻小说的电视动画《永远的愚者的智慧之语：神奇的冒险》于周日在官方网站上公开了主要演员、工作人员以及预告片宣传视频。该动画预计于 2027 年 1 月首播。配音演员丰永敏行（时光大利人）和日笠阳子（通灵王（2021））分别饰演阿斯利和波奇。监督：大西圭介...",
-          "source": "MyAnimeList",
-          "date": "07-13",
-          "url": "https://myanimelist.net/news/74466075?_location=rss"
-        },
-        {
-          "title": "漫画《青之箱》连载结束",
-          "summary": "三浦晃司的漫画《青之箱》历经五年连载，于周一在《周刊少年Jump》杂志第33期上完结第250话。三浦最初于 2020 年 8 月在《周刊少年 Jump》上一次性绘制了这部体育浪漫漫画。该漫画于次年 4 月开始在同一杂志上连载。集英社于7月3日出版了第26卷。第27卷预定于10月2日发售，第28卷即最终卷将于12月4日发售……",
-          "source": "MyAnimeList",
-          "date": "07-12",
-          "url": "https://myanimelist.net/news/74464491?_location=rss"
         }
       ]
     },
@@ -207,7 +207,7 @@
           "url": "https://www.gamespot.com/articles/saudi-arabias-ea-takeover-reportedly-set-to-clear-eu-hurdle/"
         },
         {
-          "title": "《暗黑破坏神 4》第 14 季最糟糕的神话变化不再是：“并非所有想法都能实现”",
+          "title": "《暗黑破坏神 4》第 14 季最糟糕的神话改动不再是：“并非所有想法都能实现”",
           "summary": "暗黑破坏神 4 第 14 季最具争议的变化，即一次只能装备一件精心制作的神话物品，现在已成为过去。\n\n\n\n令人惊讶的是，7 月 16 日发布的 PC 版补丁（主机玩家将于 7 月 17 日某个时间发布），暴雪选择取消一项装备精良的神话限制，该限制是作为赛季的一部分引入的死亡觉醒，以及增加新季节性巢穴 Boss 的神话和标志性神话掉落率。\n\n\n\n暴雪宣布了本赛季另一个最具争议的新增内容，即赫拉德里克",
           "source": "GameSpot",
           "date": "07-17",
