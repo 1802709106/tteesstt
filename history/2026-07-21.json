@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-21",
+  "quote": "「中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾」等AI 47条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾、下载：人工智能招聘偏见和天气数据破坏、人工智能在招聘时比人类更有可能形成偏见",
+      "items": [
+        {
+          "title": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾",
+          "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周末，唐纳德·特朗普总统的几位现任和前任人工智能顾问公开侮辱了美国领先的人工智能公司。大卫·萨克斯（David Sacks），总统的人工智能和加密货币“沙皇”，直到",
+          "source": "MIT科技评论",
+          "date": "07-20",
+          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+        },
+        {
+          "title": "下载：人工智能招聘偏见和天气数据破坏",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。人工智能在招聘时比人类更有可能形成偏见下次当你申请工作时，人工智能可能会在任何人看到你的简历之前对其进行筛选。但有&#8230;",
+          "source": "MIT科技评论",
+          "date": "07-20",
+          "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
+        },
+        {
+          "title": "人工智能在招聘时比人类更有可能形成偏见",
+          "summary": "下次你申请工作时，人工智能可能会在任何人看到之前筛选你的简历。但我们有充分的理由质疑人工智能是否会公平地评判你。研究人员已经知道法学硕士会从他们的训练数据中发现人类偏见。新的研究表明，法学硕士也可以从“法学硕士”中发展自己的偏见。",
+          "source": "MIT科技评论",
+          "date": "07-20",
+          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+        },
+        {
+          "title": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。关于围绝经期有很多炒作。不要买它。围绝经期曾经被认为是禁忌，但现在不再是了。至少部分感谢电视医生和社交媒体影响者，&#8230;",
+          "source": "MIT科技评论",
+          "date": "07-17",
+          "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
+        },
+        {
+          "title": "天气数据遭到破坏的风险正在上升",
+          "summary": "每天早上，世界各地的航空公司调度员、电网运营商和农民都会根据同一件事做出决策：天气预报。尽管大多数人只看一眼这些天气预报两秒钟，但天气预报影响着许多行业的重大战略决策，关系到真金白银、生计甚至现实生活。农民使用“",
+          "source": "MIT科技评论",
+          "date": "07-17",
+          "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
+        },
+        {
+          "title": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。来认识一下 GPT-Red：一个 LLM 超级黑客 OpenAI 旨在使其模型更安全 OpenAI 已经构建了一个名为 GPT-Red 的 LLM 超级黑客，它用它作为陪练伙伴来帮助其他人。",
+          "source": "MIT科技评论",
+          "date": "07-16",
+          "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
+        },
+        {
+          "title": "认识一下 GPT-Red：LLM 超级黑客 OpenAI，旨在使其模型更安全",
+          "summary": "OpenAI 构建了一个名为 GPT-Red 的 LLM 超级黑客，将其用作陪练伙伴，帮助其其他模型增强对网络攻击的防御能力。上周该公司发布了其旗舰 LLM 的最新版本 GPT-5.6。 OpenAI 表示，针对 GPT-Red 进行训练使该模型成为迄今为止最强大的版本。 GPT-Red 自动化&#8230;",
+          "source": "MIT科技评论",
+          "date": "07-15",
+          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+        },
+        {
+          "title": "下载：有用的量子机器和破纪录的海底隧道",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 PsiQuantum 计划利用光制造一台大型量子计算机。这台可以改变世界的机器将被安置在一个看起来像数据中心的房间里。",
+          "source": "MIT科技评论",
+          "date": "07-15",
+          "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
+        },
+        {
+          "title": "以下是索尼起诉 Udio 人工智能音乐生成器的 30,000 首歌曲",
+          "summary": "索尼音乐娱乐公司又对 Udio 提起诉讼，指控人工智能音乐生成器侵犯了其 30,000 多首歌曲的版权，其中包括埃尔维斯·普雷斯利 (Elvis Presley) 的《Hound Dog》、碧昂丝 (Beyonc) 的《Say My Name》和哈利·斯泰尔斯 (Harry Styles) 的《As It Was》。该诉讼于周一向纽约法院提起，声称这[&#8230;]",
+          "source": "The Verge",
+          "date": "07-20",
+          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright"
+        },
+        {
+          "title": "解释说 SpaceX 在你的指数基金中",
+          "summary": "指数基金被誉为最安全的投资方式之一。指数基金不是挑选个别股票，而是让您押注整个市场。那么，当像 SpaceX 这样的公司——一场巨大的赌博，而且在我看来，定价过高——快速进入纳斯达克 100 指数时，会发生什么呢？是否[&#8230;]",
+          "source": "The Verge",
+          "date": "07-20",
+          "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "TV动画《Fate/kaleid liner Prisma☆Illya Finale》将于2027年播出、漫画《Yurayura Q》获电视动画改编、《Kino no Tabi》创作者推出新漫画",
+      "items": [
+        {
+          "title": "TV动画《Fate/kaleid liner Prisma☆Illya Finale》将于2027年播出",
+          "summary": "《Fate/kaleid》系列《Prisma☆Illya》的官方网站于周一公布了续集动画的第二个预告视觉图（如图）。这部电视动画名为《Fate/kaleid liner Prisma☆Illya Finale》，计划于 2027 年首播。前几部的主角和主要工作人员将重新扮演他们的角色。演员 伊利亚斯菲尔·冯·爱因兹贝伦： 门胁麻衣（强袭魔女） Miyu Edelfelt： 名冢香织（尤里卡七） 克",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74496736?_location=rss"
+        },
+        {
+          "title": "漫画《Yurayura Q》获电视动画改编",
+          "summary": "制作公司 Nikkatsu 于周一宣布改编自 Gido Amagakure 的 Yurayura Q（Yura Yura Queen）漫画的电视动画，并公布了预告片视觉效果（如图）。天隐最初以两幅单镜头的形式出版了这部超自然喜剧漫画，然后于 2019 年 10 月在《花与梦》杂志上开始定期连载。白泉社于 1 月 20 日出版了第五卷。主要故事将于 7 月 27 日的下一期结束，并计划于明年推出衍生",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74495845?_location=rss"
+        },
+        {
+          "title": "《Kino no Tabi》创作者推出新漫画",
+          "summary": "轻小说作家西格泽圭一于周五开始在《每周CoroCoro漫画》网站上连载他与漫画作者朝木隼人的第一部原创漫画《Kemono-tachi no Peregrinatio》（Peregrinatio Bestiarum）。西格泽于 2000 年 3 月开始在电击 hp 杂志上连载由黑河红白绘制插图的轻小说《奇诺之旅：美丽的世界》。角川于 7 月以电击文库的名义出版了第一卷。",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74495692?_location=rss"
+        },
+        {
+          "title": "网络漫画《Real mo Tama ni wa Uso wo Tsuku》将于 2027 年电视动画化",
+          "summary": "漫画作者 Niichi 周日在其官方 X 帐户上宣布，他们的网络漫画《Real mo Tama ni wa Uso wo Tsuku》（有时甚至现实也是谎言！）正在接受电视动画改编。新一画了一幅插图来纪念这一宣布（如图）。该动漫系列将于 2027 年首播。Niichi 最初于 2018 年 8 月开始在其 X（以前的 Twitter）和 Pixiv 帐户上发布这部浪漫喜剧漫画，标题为《Game-z",
+          "source": "MyAnimeList",
+          "date": "07-19",
+          "url": "https://myanimelist.net/news/74493492?_location=rss"
+        },
+        {
+          "title": "《Mayonaka Heart Tune 第二季》公布额外演员阵容，将于 2027 年首次亮相",
+          "summary": "电视动画改编自五十岚正国的《Mayonaka Heart Tune》（调入午夜之心）漫画的官方网站于周六公布了第二季的额外演员阵容和第二个预告片视觉效果（如图）。新一季将于 2027 年首播。配音演员小清水亚美（《大神与交神梁》）和本藤枫（《魔女的旅人》）将分别饰演山吹莉奈和山吹水户。第一季由 Gekkou 制作，在 Ja...",
+          "source": "MyAnimeList",
+          "date": "07-18",
+          "url": "https://myanimelist.net/news/74490039?_location=rss"
+        },
+        {
+          "title": "《挂田月的梅赛德斯》公布了主要演员、主要工作人员以及 2027 年冬季首个宣传片",
+          "summary": "娱乐公司博报堂 DY Music &amp;周三，Pictures 开设了根据 Firehead 的《Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shita Kedo Suteraresou》改编的电视动画的官方网站。工作人员、预告片（右图）和第一个宣传视频。该动画系列将于一月首映……",
+          "source": "MyAnimeList",
+          "date": "07-15",
+          "url": "https://myanimelist.net/news/74476151?_location=rss"
+        },
+        {
+          "title": "《中介银行》的额外演员阵容公布",
+          "summary": "改编自田中一光的《Junket Bank》漫画的电视动画的官方网站于周三宣布了另外一对演员阵容。该动画计划从 2026 年 10 月开始，每周二中午 12:00 在东京电视台附属公司首播。配音演员波多野渡 (Fate/strange Fake) 和平川大辅 (Yuusha no Kuzu) 将分别饰演狮神敬一和村雨零二。 Seiji Kishi (Ansatsu Kyoushitsu, Youko",
+          "source": "MyAnimeList",
+          "date": "07-15",
+          "url": "https://myanimelist.net/news/74476122?_location=rss"
+        },
+        {
+          "title": "《Kanata kara》公布 2026 年秋季主要演员、工作人员和预告片",
+          "summary": "周三，根据冰川恭子的漫画《彼方》改编的电视动画的官方网站公布了主要演员、工作人员、预告片视觉图（如图）和预告片宣传视频。动画预定于10月5日中午12点在Tokyo MX首播，随后在ABC TV和WOWOW上播出。演员：黑泽智世（Skip to Loafer）伊扎克·起亚（Izark Kia）目标：熊谷健太郎（Dungeon Meshi）厨师：梅原佑一郎（Douse、Koishite Shimaun",
+          "source": "MyAnimeList",
+          "date": "07-14",
+          "url": "https://myanimelist.net/news/74471698?_location=rss"
+        },
+        {
+          "title": "漫画《虎津组：津计划》获电视动画改编",
+          "summary": "制作公司 NBCUniversal Entertainment Japan 于周二开设了改编自 ippatu 的《虎津组：津组计划》漫画的电视动画的官方网站，并公布了预告片视觉效果（如图）和预告片宣传视频。 Ippatu 最初于 2019 年 7 月通过出版商 Ki-oon 在法国出版了动作生存漫画。讲谈社从 2021 年 1 月至 2023 年 9 月开始在其 Weekly Young Maga",
+          "source": "MyAnimeList",
+          "date": "07-14",
+          "url": "https://myanimelist.net/news/74471273?_location=rss"
+        },
+        {
+          "title": "‘哲佑！ 《遇见铁道娘》公布配角、工作人员、片尾曲、第二部宣传片",
+          "summary": "铁洋的官方网站！电视动画《遇见铁道娘》（如图）于周一公布了配角、工作人员、片尾主题、主视觉图（如图）以及第二部宣传视频。原作动画预计于 2026 年 10 月首播。 演员 芦生咲惠：濑户麻美（Shoushimin 系列） 朝仓千早：中岛由纪（Hitoribocchi no Isekai Kouryaku） 椎名井草：Hana Hishikawa（Uruwashi no Yoi no Tsuki）",
+          "source": "MyAnimeList",
+          "date": "07-13",
+          "url": "https://myanimelist.net/news/74469019?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、《极限竞速：地平线 5》创意总监表示，游戏通行证是个好主意，但行不通",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "《极限竞速：地平线 5》创意总监表示，游戏通行证是个好主意，但行不通",
+          "summary": "《极限竞速：地平线 5》创意总监 Mike Brown 发表了他对 Xbox 当前形势的看法，他评论的内容之一就是 Xbox Game Pass。他在接受采访时表示，简单地说，Xbox Game Pass 无法吸引足够的订户使其成为一项可行的业务，这导致了 Xbox 今天所经历的痛苦。毕竟，我们最近发现微软希望现在拥有 7700 万订阅者，但实际上这个数字只有 3000 万左右。 \n\n\n\n“这实际",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/game-pass-was-a-good-idea-but-it-didnt-work-forza-horizon-5-creative-director-says/"
+        },
+        {
+          "title": "《使命召唤：现代战争 4》测试版：日期、内容以及如何参与",
+          "summary": "动视已确认《使命召唤：现代战争 4》多人测试版日期，将于 8 月 21 日开始。该公司还透露了如何获得它、测试版中有哪些内容以及何时可以期待更多详细信息。继续阅读以了解更多信息。\n\n\n\n现代战争 4 测试版日期\n\n\n\n抢先体验公开测试版将于 8 月 21 日至 25 日在 PC、PS5 和 Xbox Series X|S 上运行。随后，多人测试版将于 8 月 28 日至 9 月 1 日向所有人开放",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/"
+        },
+        {
+          "title": "最初的《口袋妖怪入门》已经准备好让你成为口袋妖怪",
+          "summary": "性玩具店如何在颈部按摩器和床边伙伴随处可见的现代时代脱颖而出？答案出奇的简单，因为你所要做的就是看看一个流行的 IP，然后付出一些努力，把这个想法变成一个令人惊讶的可爱的床头柜伙伴。这正是一家公司所做的，其 Pokemon（或 Pokemoan）系列回归 - 性玩具。\n\n\n\n\n\n\n\n这些将于 7 月 21 日开始发售，让我们看看 Pokemon 黄牛试图破坏这次发布。 Geeky Sex Toys",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/the-original-pokemon-starters-are-ready-to-make-you-pokemoan/"
+        },
+        {
+          "title": "《毁灭之潮》失去《远征 33》配音演员詹妮弗·英格利希",
+          "summary": "《毁灭之潮》开发商 Eclipse Glow Games 宣布，由于个人健康原因，配音演员 Jennifer English 将不再为游戏主角 Gwendolyn 配音。在其社交平台上的更新中，Eclipse Glow Games 确认 English 已于 6 月辞去该角色，但她仍将以顾问角色参与游戏。 English 已经帮助推荐了一位新的配音演员来接替格温多琳，但 Eclipse Glow ",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/tides-of-annihilation-loses-expedition-33-voice-actor-jennifer-english/"
+        },
+        {
+          "title": "GameSpot 独家《万智牌》——霍比特人卡牌将死亡变成机会",
+          "summary": "在 MagicCon 阿姆斯特丹上发布的一系列公告中，有《霍比特人》的首次亮相、《万智牌》的下一个资料片和回归前往 J.R.R. 的宇宙托尔金。不过，首次亮相只是一个开始，随着该系列将于八月发布，我们现在正处于预览季。 \n\n\n\n我们可以独家展示霍比特人主系列中的两张新稀有卡牌。一个是强大的绿色结界，可以让你的战场备货充足，另一个是可以以多种格式整齐地融入磨坊策略的生物。\n\n\n\n首先，这是参与友谊。",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/gamespots-exclusive-magic-the-gathering-the-hobbit-cards-turn-death-into-an-opportunity/"
+        },
+        {
+          "title": "下一部《权力的游戏》游戏已被推迟",
+          "summary": "下一款《权力的游戏》游戏，即 RTS 维斯特洛之战，已被推迟。这款 PC 游戏原定于 2026 年发布，但开发商 Playside 宣布推迟到“2027 年初”。\n\n\n\n开发者在博文中表示：“我们始终坚定不移地致力于交付一款以维斯特洛世界为背景的实时战略游戏，满足 RTS 玩家和权力游戏粉丝的期望。”“这一决定让我们有时间继续实现这一目标。并确保游戏达到我们目标的高品质水平。”\n\n\n\n“感谢您的耐",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/the-next-game-of-thrones-game-has-been-delayed/"
+        },
+        {
+          "title": "Xbox Game Pass 很快就会删除更多游戏",
+          "summary": "下一批 Xbox Games Pass 移除内容已经确定，并且似乎还有更多游戏将在本月底离开该服务。 \n\n\n\nPure Xbox 首先发现 Xbox 移动应用上的“即将退出”选项卡列出了 7 月 31 日停止服务的 8 款游戏。其中包括《Celeste》、《Whiskerwood》、 《狙击精英：抵抗》、《十字军之王 3》等。您可以在下面查看完整列表。\n\n\n\nMicrosoft 每月分两波从 Ga",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-removing-a-lot-more-games-very-soon/"
+        },
+        {
+          "title": "Hot Toys 的全新 Marvel Rivals 人物模型会让某些收藏家非常高兴",
+          "summary": "随着圣地亚哥动漫展本周末拉开帷幕，Hot Toys 推出了多款新的第六比例人偶，其中包括 Luna Snow 收藏品，这将使 Marvel Rivals 粉丝们非常高兴。这是该公司首款第六比例的Marvel Rivals人偶，与该系列的所有其他收藏品一样，它是韩国 K-Pop 偶像转型为低温动力超级英雄的令人印象深刻的复制品。\n\n\n\n当涉及到展示大量皮肤的人物时，Hot Toys 通常会使用专门的",
+          "source": "GameSpot",
+          "date": "07-20",
+          "url": "https://www.gamespot.com/articles/hot-toys-new-marvel-rivals-figure-is-going-to-make-a-certain-kind-of-collector-very-happy/"
+        }
+      ]
+    }
+  ]
+}
