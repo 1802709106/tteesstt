@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-22",
+  "quote": "「尼尔·布洛姆坎普的新僵尸人工智能“电影”刚刚预热」等AI 55条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "尼尔·布洛姆坎普的新僵尸人工智能“电影”刚刚预热、OpenAI 表示，它使用新的人工智能系统意外黑了 Hugging Face、Substack 添加了一个 AI 检测器，以帮助发现无人撰写的博客",
+      "items": [
+        {
+          "title": "尼尔·布洛姆坎普的新僵尸人工智能“电影”刚刚预热",
+          "summary": "周一，《第九区》和《Gran Turismo》导演尼尔·布洛姆坎普 (Neill Blomkamp) 公布了他的最新项目：一部名为《Nightborne》的 13 分钟科幻短片，大致改编自 Peter Watts 2014 年的小说 Echopraxia。这部短片来自 Blomkamp 的新人工智能初创公司/制作公司 Barley Studios，其角色的声音和面孔都是模仿人类演员的。但是[&#8",
+          "source": "The Verge",
+          "date": "07-21",
+          "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance"
+        },
+        {
+          "title": "OpenAI 表示，它使用新的人工智能系统意外黑了 Hugging Face",
+          "summary": "OpenAI 表示，其人工智能模型在内部测试期间错误地破坏了开源人工智能平台 Hugging Face。 OpenAI 在周二的博客文章中写道，GPT-5.6 Sol 和“功能更强大的预发布模型”在其沙盒测试环境中发现了漏洞，使他们能够访问互联网并瞄准 Hugging Face。 7 月 16 日，[&#8230;]",
+          "source": "The Verge",
+          "date": "07-21",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai"
+        },
+        {
+          "title": "Substack 添加了一个 AI 检测器，以帮助发现无人撰写的博客",
+          "summary": "Substack 现在将帮助用户确定他们正在阅读的内容是否是由人工智能编写的。根据周二发布的一篇博客文章，该平台上的一个新工具可以扫描帖子、笔记、回复和评论，以估计人工智能可以生成或在人工智能协助下编写的文本量。 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-21",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool"
+        },
+        {
+          "title": "Anthropic 15 亿美元的图书盗版和解协议获得法官批准",
+          "summary": "据路透社早些时候报道，一位联邦法官已签署了 Anthropic 与作者签署的 15 亿美元集体诉讼和解协议，这些作者指控该公司在受版权保护的书籍上训练其人工智能模型。在周一的一项命令中，阿拉塞利·马丁内斯-奥尔古恩法官写道，和解协议将提供“有意义的救济”，为每本书的作者提供约 3,000 美元的赔偿[]",
+          "source": "The Verge",
+          "date": "07-21",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
+        },
+        {
+          "title": "谷歌推出了一种更便宜的替代方案来替代 Mythos 等大型人工智能安全模型",
+          "summary": "Google 正在推出 Gemini 3.6 Flash 以及致力于快速查找和修补安全漏洞的新安全模型。在周二的一篇博客文章中，谷歌将 Gemini 3.5 Flash Cyber​​ 描述为更大、更昂贵的人工智能系统（例如 Anthropic 的 Mythos 提供的系统）的“经济高效且功能强大的替代品”。网络安全模型[&#8230;]",
+          "source": "The Verge",
+          "date": "07-21",
+          "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
+        },
+        {
+          "title": "美国需要停止对中国人工智能感到震惊",
+          "summary": "上周，两家中国人工智能公司推出了他们认为可以与 OpenAI 和 Anthropic 的最佳系统相媲美的模型。反应迅速且可预测。市场摇摇欲坠，评论员宣称硅谷正在震动，政策制定者则诉诸军备竞赛和警钟等熟悉的语言。美联社在一个标题中说 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-21",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment"
+        },
+        {
+          "title": "以下是索尼起诉 Udio 人工智能音乐生成器的 30,000 首歌曲",
+          "summary": "索尼音乐娱乐公司又对 Udio 提起诉讼，指控人工智能音乐生成器侵犯了其 30,000 多首歌曲的版权，其中包括埃尔维斯·普雷斯利 (Elvis Presley) 的《Hound Dog》、碧昂丝 (Beyonc) 的《Say My Name》和哈利·斯泰尔斯 (Harry Styles) 的《As It Was》。该诉讼于周一向纽约法院提起，声称这[&#8230;]",
+          "source": "The Verge",
+          "date": "07-20",
+          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright"
+        },
+        {
+          "title": "解释说 SpaceX 在你的指数基金中",
+          "summary": "指数基金被誉为最安全的投资方式之一。指数基金不是挑选个别股票，而是让您押注整个市场。那么，当像 SpaceX 这样的公司——一场巨大的赌博，而且在我看来，定价过高——快速进入纳斯达克 100 指数时，会发生什么呢？是否[&#8230;]",
+          "source": "The Verge",
+          "date": "07-20",
+          "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained"
+        },
+        {
+          "title": "Adobe 的“自然外观”相机应用程序拥抱生成式 AI",
+          "summary": "Adobe 的实验性相机应用程序发生了意想不到的转变。去年推出 Project Indigo 旨在为 iPhone 摄影提供“更自然（类似单反）的外观”后，Indigo 相机应用程序现在正在更新一套生成式 AI 工具。而且这一变化并不依赖于 Adob​​e 自己的 Firefly AI 模型。 Adobe 描述了 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-20",
+          "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
+        },
+        {
+          "title": "下载：中国人工智能分裂白宫，版权支出创纪录",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾上周末，唐纳德·特朗普总统的几位现任和前任人工智能顾问公开侮辱了该国领先的人工智能领域。",
+          "source": "MIT科技评论",
+          "date": "07-21",
+          "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《Doko yori mo Tooi Basho ni Iru Kimi e》公布追加演员阵容、主题曲、主要预告片、漫画《Studio Cabana》将于 2027 年电视动画化、《Mahou no Princess Minky Mo…",
+      "items": [
+        {
+          "title": "《Doko yori mo Tooi Basho ni Iru Kimi e》公布追加演员阵容、主题曲、主要预告片",
+          "summary": "周三，电影《To You in the Beyond》的官方网站公布了更多演员阵容、主视觉图（如右图）和预告片。这部改编自阿部明子悬疑爱情小说的动画电影已于 7 月 4 日在 Anime Expo 上进行了预映，并将于 10 月 9 日在日本影院上映。 演员 三岛环：上坂堇（让女主角变成大杉！）相叶修二：波多野渡（命运/奇怪的赝品）矢野明光：冈本信彦（Akujiki Reijou to Kyouk",
+          "source": "MyAnimeList",
+          "date": "07-22",
+          "url": "https://myanimelist.net/news/74504097?_location=rss"
+        },
+        {
+          "title": "漫画《Studio Cabana》将于 2027 年电视动画化",
+          "summary": "周三，制作公司角川开设了改编自 Aguri Uma 的 Studio Cabana 的电视动画的官方网站，公布了主要演员、工作人员和预告片视觉效果（如图）。该动画系列将于 2027 年播出。配音演员铃代沙由美（Bocchi the Rock！）饰演女主角由香里真希。职员监督：牛岛真一郎（Kimi no Suizou wo Tabetai）系列构成：平林佐和子（大神少女到黑王子）角色设计：Haruk",
+          "source": "MyAnimeList",
+          "date": "07-22",
+          "url": "https://myanimelist.net/news/74503755?_location=rss"
+        },
+        {
+          "title": "《Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo》公布了额外演员阵容和预告片",
+          "summary": "新《Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duet》原创视频动画的官方网站于周三公布了更多演员、主视觉图（如图）和预告片。 OVA 定于 11 月 13 日在家庭视频发布之前在影院上映。演员资料：福地落合（Karakai Jouzu no Takagi-san）Chamocha：Natsumi Fujiwara（",
+          "source": "MyAnimeList",
+          "date": "07-22",
+          "url": "https://myanimelist.net/news/74503685?_location=rss"
+        },
+        {
+          "title": "漫画《花开，修罗之德》连载结束",
+          "summary": "插画家 Musshu 的官方 X（前 Twitter）帐户周五宣布，竹田绫乃的漫画《花与阿修罗》将在《Ultra Jump》杂志 8 月号上完结。武田（Hibike！上低音号）和 Musshu 于 2021 年 6 月开始在《Ultra Jump》杂志上连载这部校园戏剧漫画。集英社于 3 月 18 日出版了第十卷。由 Studio Bind 制作的 12 集电视动画改编版于 2025 年冬季播出。",
+          "source": "MyAnimeList",
+          "date": "07-21",
+          "url": "https://myanimelist.net/news/74501053?_location=rss"
+        },
+        {
+          "title": "TV动画《Fate/kaleid liner Prisma☆Illya Finale》将于2027年播出",
+          "summary": "《Fate/kaleid》系列《Prisma☆Illya》的官方网站于周一公布了续集动画的第二个预告视觉图（如图）。这部电视动画名为《Fate/kaleid liner Prisma☆Illya Finale》，计划于 2027 年首播。前几部的主角和主要工作人员将重新扮演他们的角色。演员 伊利亚斯菲尔·冯·爱因兹贝伦： 门胁麻衣（强袭魔女） Miyu Edelfelt： 名冢香织（尤里卡七） 克",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74496736?_location=rss"
+        },
+        {
+          "title": "漫画《Yurayura Q》获电视动画改编",
+          "summary": "制作公司 Nikkatsu 于周一宣布改编自 Gido Amagakure 的 Yurayura Q（Yura Yura Queen）漫画的电视动画，并公布了预告片视觉效果（如图）。天隐最初以两幅单镜头的形式出版了这部超自然喜剧漫画，然后于 2019 年 10 月在《花与梦》杂志上开始定期连载。白泉社于 1 月 20 日出版了第五卷。主要故事将于 7 月 27 日的下一期结束，并计划于明年推出衍生",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74495845?_location=rss"
+        },
+        {
+          "title": "《Kino no Tabi》创作者推出新漫画",
+          "summary": "轻小说作家西格泽圭一于周五开始在《每周CoroCoro漫画》网站上连载他与漫画作者朝木隼人的第一部原创漫画《Kemono-tachi no Peregrinatio》（Peregrinatio Bestiarum）。西格泽于 2000 年 3 月开始在电击 hp 杂志上连载由黑河红白绘制插图的轻小说《奇诺之旅：美丽的世界》。角川于 7 月以电击文库的名义出版了第一卷。",
+          "source": "MyAnimeList",
+          "date": "07-20",
+          "url": "https://myanimelist.net/news/74495692?_location=rss"
+        },
+        {
+          "title": "网络漫画《Real mo Tama ni wa Uso wo Tsuku》将于 2027 年电视动画化",
+          "summary": "漫画作者 Niichi 周日在其官方 X 帐户上宣布，他们的网络漫画《Real mo Tama ni wa Uso wo Tsuku》（有时甚至现实也是谎言！）正在接受电视动画改编。新一画了一幅插图来纪念这一宣布（如图）。该动漫系列将于 2027 年首播。Niichi 最初于 2018 年 8 月开始在其 X（以前的 Twitter）和 Pixiv 帐户上发布这部浪漫喜剧漫画，标题为《Game-z",
+          "source": "MyAnimeList",
+          "date": "07-19",
+          "url": "https://myanimelist.net/news/74493492?_location=rss"
+        },
+        {
+          "title": "《Mayonaka Heart Tune 第二季》公布额外演员阵容，将于 2027 年首次亮相",
+          "summary": "电视动画改编自五十岚正国的《Mayonaka Heart Tune》（调入午夜之心）漫画的官方网站于周六公布了第二季的额外演员阵容和第二个预告片视觉效果（如图）。新一季将于 2027 年首播。配音演员小清水亚美（《大神与交神梁》）和本藤枫（《魔女的旅人》）将分别饰演山吹莉奈和山吹水户。第一季由 Gekkou 制作，在 Ja...",
+          "source": "MyAnimeList",
+          "date": "07-18",
+          "url": "https://myanimelist.net/news/74490039?_location=rss"
+        },
+        {
+          "title": "《挂田月的梅赛德斯》公布了主要演员、主要工作人员以及 2027 年冬季首个宣传片",
+          "summary": "娱乐公司博报堂 DY Music &amp;周三，Pictures 开设了根据 Firehead 的《Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shita Kedo Suteraresou》改编的电视动画的官方网站。工作人员、预告片（右图）和第一个宣传视频。该动画系列将于一月首映……",
+          "source": "MyAnimeList",
+          "date": "07-15",
+          "url": "https://myanimelist.net/news/74476151?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、也许并非所有东西都需要与《堡垒之夜》合作",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "也许并非所有东西都需要与《堡垒之夜》合作",
+          "summary": "老实说，我认为我不会再对 Fortnite 和其他各种 IP 之间的疯狂合作感到惊讶了。在《堡垒之夜》利润丰厚的生命周期的这个阶段，一般的经验法则似乎是：“如果它很受欢迎，它最终就会出现在《堡垒之夜》中。”该死的，几乎每一个漫威电影宇宙的角色都曾出现过，无数的音乐艺术家在游戏中举办过音乐会，而 Epic 一直非常擅长确保互联网在任何特定时刻所痴迷的内容最终都会以某种方式与游戏联系在一起。\n\n\n\n\n",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/maybe-not-everything-needs-to-be-a-fortnite-collab/"
+        },
+        {
+          "title": "尽管有续作，《黑暗地牢》仍将推出新 DLC",
+          "summary": "Red Hook Studios 在续集发布几年后宣布推出首款游戏的新 DLC，令《暗黑地牢》的粉丝们大吃一惊。它的标题是The Fire's Edge，将于八月发布。\n\n\n\n《黑暗地牢》 于 2016 年退出抢先体验，最后一次收到 DLC 是在 2020 年 5 月。在此后的六年里，红钩推出了续作，该续作建立在第一款游戏的坚实基础上，并通过 DLC 对其进行了支持。这就是为什么看到开发者回归最初",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/darkest-dungeon-is-getting-new-dlc-even-though-it-has-a-sequel/"
+        },
+        {
+          "title": "育碧对《幽灵行动》泄密做出反应，承诺八月发布消息",
+          "summary": "育碧已确认将在 8 月 6 日庆祝该系列 25 周年纪念日时分享幽灵行动的后续内容。在此之前，有一些关于即将推出的《幽灵行动》游戏的报道和谣言过去一个月出现的。\n\n\n\n7 月 20 日，Insider Gaming 报道了《幽灵行动：荒野最终版》的泄露，该游戏是 2017 年游戏将添加新任务，支持 4K 分辨率，并以每秒 60 帧的速度运行。它声称这是育碧内部“升级治疗”计划的一部分，旨在帮助玩家",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/ubisoft-reacts-to-ghost-recon-leaks-promises-news-in-august/"
+        },
+        {
+          "title": "华纳兄弟收购案再次陷入法律困境",
+          "summary": "派拉蒙 Skydance 收购华纳兄弟探索频道的计划又遇到了另一个障碍，法官已暂停其计划中的收购两周。 由加州总检察长 Rob Bonta 领导的 12 名州检察官组成的联盟认为合并将违反联邦反垄断法，并可能导致电影和电视价格上涨，法官Araceli Martinez-Olguin 暂停了合并。\n\n\n\n该订单可以从 14 天延长至 28 天，派拉蒙 Skydance 原本预计于 7 月 22 日完",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/warner-bros-acquisition-is-stuck-in-legal-limbo-again/"
+        },
+        {
+          "title": "任天堂基本上表示《喷射战士 4》将会推出",
+          "summary": "虽然 Splatoon Raiders 看起来像是任天堂以多人竞技为主的系列游戏的一个支点，但该系列的一位制作人证实 Splatoon 中的 PvP 游戏玩法将会持续下去，甚至在接受采访时说出了“Splatoon 4”这个词。\n\n\n\n任天堂的询问开发者功能（根据《任天堂生活》）包含了一个直截了当的问题，问制作人 Seita Inoue 为什么衍生作品是该系列的下一款作品，而不是真正的 Splato",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/nintendo-basically-says-that-splatoon-4-will-happen/"
+        },
+        {
+          "title": "孩之宝在减记 5600 万美元后押注于更少、更大的视频游戏",
+          "summary": "孩之宝进军视频游戏领域的雄心勃勃的计划似乎遇到了代价高昂的障碍，根据其第二季度收益结果，该公司已记录了 2028 年及以后的视频游戏组合相关的 5600 万美元减值费用。对于外行来说，减值费用是资产价值的突然损失，使其价值远远低于公司最初支付的价格。\n\n\n\n“在过去的几个季度中，我们审查了我们的产品组合并更新了孩之宝数字化未来的计划”，孩之宝首席执行官 Chris考克斯对股东说道。 “这项工作包括",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/hasbro-is-betting-on-fewer-bigger-video-games-after-56-million-write-down/"
+        },
+        {
+          "title": "我们终于知道萨拉塔斯对魔兽世界的邪恶计划",
+          "summary": "经过多年的理论和猜测，魔兽世界玩家可能终于揭开了当前主要反派萨拉塔斯的真正结局。\n\n\n\n萨拉塔斯在过去的几次扩张中一直是艾泽拉斯的一大坏蛋，但除了在她的黑暗之心神器中积聚力量之外，她的确切动机尚不完全清楚。她似乎不是为上古之神工作，而是为自己工作，尽管其目的是什么一直存在争议。 \n\n\n\n现在，游戏即将发布的 12.1 更新中的一段经过数据挖掘的对话可能刚刚揭示了她的最终目标：几乎肯定会给艾泽拉斯甚",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/we-finally-know-xalataths-evil-plan-for-the-world-of-warcraft/"
+        },
+        {
+          "title": "尼尔·布洛姆坎普 (Neill Blomkamp) 的人工智能电影让粉丝们纷纷要求观看《第十区》",
+          "summary": "一些电影制作人已经开始测试人工智能生成的电影，本周，Gran Turismo 导演 Neill Blomkamp 展示了完全利用该技术制作的 14 分钟短片。这位曾拍摄过《第九区》和《极乐世界》等邪教经典电影的著名导演是否会成为好莱坞第一批使用生成式人工智能且没有遭到压倒性负面影响的人之一？可能不会，因为对 Blomkamp 最新项目的评论从冷漠到敌对，恳求电影制片人制作一部第 10 区的电影。\n",
+          "source": "GameSpot",
+          "date": "07-21",
+          "url": "https://www.gamespot.com/articles/neill-blomkamps-ai-film-has-fans-asking-for-district-10-instead/"
+        }
+      ]
+    }
+  ]
+}
