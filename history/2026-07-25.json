@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-25",
+  "quote": "「Midjourney 购买了占星应用程序 Co-Star」等AI 45条、动漫 20条、游戏 28条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Midjourney 购买了占星应用程序 Co-Star、你不能再忽视 Google Zero、Anthropic 发布了 Opus 5，其功能“接近”《神鬼寓言 5》",
+      "items": [
+        {
+          "title": "Midjourney 购买了占星应用程序 Co-Star",
+          "summary": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。据彭博社早些时候报道，这家人工智能初创公司周四宣布，它已经收购了个性化占星应用程序 Co-Star。 Co-Star 是一款免费应用程序，提供每日星座运势并允许您检查您的[&#8230;]",
+          "source": "The Verge",
+          "date": "07-24",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+        },
+        {
+          "title": "你不能再忽视 Google Zero",
+          "summary": "网络和谷歌曾经达成一项协议：谷歌收集数据并为网页建立索引，作为交换，向网站发送大量流量。这笔交易并不完美，而且谷歌赚的钱肯定比网站赚的钱还多，但它持续了很长一段时间。然而现在，这笔交易似乎已经胎死腹中。还有[&#8230;]",
+          "source": "The Verge",
+          "date": "07-24",
+          "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
+        },
+        {
+          "title": "Anthropic 发布了 Opus 5，其功能“接近”《神鬼寓言 5》",
+          "summary": "在 Anthropic 与美国政府最近一次正面交锋几周后，以及主导科技行业讨论的 OpenAI 安全事件几天后，Anthropic 于周四发布了其最新型号 Claude Opus 5。该公司在一份新闻稿中表示，Opus 5“在许多领域接近 Claude Fable 5 的功能”，并且 […]",
+          "source": "The Verge",
+          "date": "07-24",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"
+        },
+        {
+          "title": "Meta 正在使其人工智能聊天机器人更像一个助手",
+          "summary": "Meta 正在升级其人工智能聊天机器人，为其提供新的生产力功能，以与 Gemini、ChatGPT 和 Claude 等竞争对手竞争。此次更新将允许 Meta AI 进入您的日历，帮助您计划活动并生成每日简报，以及进行深入研究，您可以随着研究的进展进行指导。 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-24",
+          "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+        },
+        {
+          "title": "美国科学的技术扩展正式开始",
+          "summary": "特朗普政府于周四公布了第一笔“创世纪任务”拨款，向数百个人工智能驱动的科学项目拨款 50 亿美元，白宫称其“紧迫性和雄心可与曼哈顿计划相媲美”。大约在同一时间，特朗普的科学顾问迈克尔·克拉齐奥斯 (Michael Kratsios) 在国会山向立法者推销[&#8230;]",
+          "source": "The Verge",
+          "date": "07-24",
+          "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants"
+        },
+        {
+          "title": "Alexa Plus 正在进行人工智能更新以处理更复杂的指令",
+          "summary": "亚马逊正在推出 Alexa Plus 助手的更新，使其能够以新的方式连接到智能家居设备。通过当前预览版的更新，Alexa Plus 可以与博世、达美航空、科沃斯、iRobot、Yale Home、惠而浦、Tapo、Eufy 等公司的技术连接，同时自动将请求路由到 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-23",
+          "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
+        },
+        {
+          "title": "克劳德的语音模式现在可用于 Opus 和 Sonnet",
+          "summary": "到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。现在，该公司正在以语音模式提供 Opus 和 Sonnet 模型，并将其覆盖范围扩展到 Gmail、Slack 和 Canva 等应用程序。当 Anthropic 去年推出语音模式时，它主要专注于交付 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-23",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+        },
+        {
+          "title": "Patreon 将解雇 20% 的员工",
+          "summary": "据 404 Media 早些时候报道，Patreon 将解雇 20% 的员工，即大约 93 名员工。 Patreon 首席执行官 Jack Conte 在给员工的一份备忘录中写道，公司不会做出这些改变“因为我们相信人工智能会取代人类”，但表示人工智能“从根本上改变了科技行业，包括我们的工作方式，[&#8230;]",
+          "source": "The Verge",
+          "date": "07-23",
+          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai"
+        },
+        {
+          "title": "OpenAI 向所有人推出 ChatGPT Health 时发出了重大声明",
+          "summary": "OpenAI 将于周四向美国所有人推出 ChatGPT Health，让更多人将他们的医疗记录和健康跟踪信息连接到聊天机器人。 OpenAI 健康产品副总裁阿什利·亚历山大 (Ashley Alexander) 在一次简报中表示，该公司的模型“现在能够进行比临床医生水平更好的推理”。 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-23",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+        },
+        {
+          "title": "立法者准备法案要求人工智能“终止开关”",
+          "summary": "据 Politico 报道，立法者正准备推出一项“人工智能终止开关法案”，要求人工智能公司根据国土安全部的命令关闭或限制其系统。众议员特德·刘（D-CA）和纳撒尼尔·莫兰（Nathaniel Moran）（德克萨斯州共和党）预计将于周四提出该法案。 [&#8230;]的消息",
+          "source": "The Verge",
+          "date": "07-23",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《顶点力量》公布主要演员和首个宣传片、《世界最强的魔女，Hajimemashita》公布了额外的演员阵容和第二个角色宣传片、动画《机动战士高达 RG XARX-ZERO》将于 2027 年上映",
+      "items": [
+        {
+          "title": "《顶点力量》公布主要演员和首个宣传片",
+          "summary": "《顶点力量》原创电视动画的官方网站于周五公布了主要演员阵容、第一个关键视觉图（如图）和第一个主要宣传视频。 Shitara Dainana Ouji Datta Node, Kimama ni Majutsu wo Kiwamemasu) Eleanor Northbrook: Ami Koshimizu (Yasei no Last Boss ga...",
+          "source": "MyAnimeList",
+          "date": "07-24",
+          "url": "https://myanimelist.net/news/74512579?_location=rss"
+        },
+        {
+          "title": "《世界最强的魔女，Hajimemashita》公布了额外的演员阵容和第二个角色宣传片",
+          "summary": "改编自榊榊的电视动画《世界最强的魔女，肇始：渡岳》的官方网站轻小说《世界最强魔女：在只有我能看到在线攻略指南的世界开始自由生活》于周五公布了一对追加演员阵容和第二个角色宣传视频。该动画系列预计于 10 月 7 日晚上 10 点首播。在东京...",
+          "source": "MyAnimeList",
+          "date": "07-24",
+          "url": "https://myanimelist.net/news/74511501?_location=rss"
+        },
+        {
+          "title": "动画《机动战士高达 RG XARX-ZERO》将于 2027 年上映",
+          "summary": "周四，圣地亚哥动漫展上的高达展示会 2026 宣布了机动战士高达系列的新动画《RG XARX-ZERO》，并公布了主要工作人员、演员阵容、预告片视觉效果（如图）和预告片宣传视频。该动画计划于 2027 年首播。配音演员大冢武夫（Kusuriya no Hitorigoto、[Oshi no Ko]）饰演 Ray Azumi。工作人员原创概念：富野由纪，矢立肇监督，系列构成：神山健二（Koukaku",
+          "source": "MyAnimeList",
+          "date": "07-23",
+          "url": "https://myanimelist.net/news/74510385?_location=rss"
+        },
+        {
+          "title": "轻小说《Shin no Seijo de Aru Watashi wa Tsuihou saremashita》。 《Dakara Kono Kuni wa Mou Owari desu》将于 2027 年推出电视动画",
+          "summary": "改编自宇泽志木曾的《Shin no Seijo de Aru Watashi wa Tsuihou saremashita》的电视动画的官方网站已开通。周四，轻小说《Dakara Kono Kuni wa Mou Owari desu》（因为我，真正的圣人被放逐，那个国家完蛋了！）透露了主要演员、工作人员和预告视觉（如图）。该动画系列将于 2027 年首播。配音演员田泽真澄（六城魔的神ryakus",
+          "source": "MyAnimeList",
+          "date": "07-23",
+          "url": "https://myanimelist.net/news/74508597?_location=rss"
+        },
+        {
+          "title": "漫画《Kusunoki-san wa Koukou Debut ni Shippaishiteiru》获得电视动画改编",
+          "summary": "DMM Pictures 周四公布了改编自 Mitsuki Mii 的 Kusunoki-san wa Koukou Debut ni Shippaishiteiru（Kusunoki 的高中不及格）的电视动画的主要演员、工作人员、预告片视觉图（如图）和预告片宣传视频。配音演员植村雄人（西条大濑）和楠木智守（友哉）分别饰演静木圭介和楠木静香。职员...",
+          "source": "MyAnimeList",
+          "date": "07-23",
+          "url": "https://myanimelist.net/news/74508584?_location=rss"
+        },
+        {
+          "title": "“转生哥布林断门阿鲁？”宣布追加演员阵容",
+          "summary": "三木荠的转生妖精 Dakedo Shitsumon Aru 改编的电视动画的官方网站？ 《重生为妖精有什么问题吗？》漫画于周三公布了更多演员阵容和主题曲艺术家。该动画预计于 2026 年 10 月首播。演员阿尔伯特：花江夏树（东京食尸鬼）伊豆：下野浩（鬼灭之矢场）天地开白：田村由香莉（寒蝉鸣泣之时）歌手兼作曲家 Sou 将演唱片头曲和 J-rock ba...",
+          "source": "MyAnimeList",
+          "date": "07-22",
+          "url": "https://myanimelist.net/news/74504947?_location=rss"
+        },
+        {
+          "title": "《Doko yori mo Tooi Basho ni Iru Kimi e》公布追加演员阵容、主题曲、主要预告片",
+          "summary": "周三，电影《To You in the Beyond》的官方网站公布了更多演员阵容、主视觉图（如右图）和预告片。这部改编自阿部明子悬疑爱情小说的动画电影已于 7 月 4 日在 Anime Expo 上进行了预映，并将于 10 月 9 日在日本影院上映。 演员 三岛环：上坂堇（让女主角变成大杉！）相叶修二：波多野渡（命运/奇怪的赝品）矢野明光：冈本信彦（Akujiki Reijou to Kyouk",
+          "source": "MyAnimeList",
+          "date": "07-22",
+          "url": "https://myanimelist.net/news/74504097?_location=rss"
+        },
+        {
+          "title": "漫画《Studio Cabana》将于 2027 年电视动画化",
+          "summary": "周三，制作公司角川开设了改编自 Aguri Uma 的 Studio Cabana 的电视动画的官方网站，公布了主要演员、工作人员和预告片视觉效果（如图）。该动画系列将于 2027 年播出。配音演员铃代沙由美（Bocchi the Rock！）饰演女主角由香里真希。职员监督：牛岛真一郎（Kimi no Suizou wo Tabetai）系列构成：平林佐和子（大神少女到黑王子）角色设计：Haruk",
+          "source": "MyAnimeList",
+          "date": "07-22",
+          "url": "https://myanimelist.net/news/74503755?_location=rss"
+        },
+        {
+          "title": "《Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo》公布了额外演员阵容和预告片",
+          "summary": "新《Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duet》原创视频动画的官方网站于周三公布了更多演员、主视觉图（如图）和预告片。 OVA 定于 11 月 13 日在家庭视频发布之前在影院上映。演员资料：福地落合（Karakai Jouzu no Takagi-san）Chamocha：Natsumi Fujiwara（",
+          "source": "MyAnimeList",
+          "date": "07-22",
+          "url": "https://myanimelist.net/news/74503685?_location=rss"
+        },
+        {
+          "title": "漫画《花开，修罗之德》连载结束",
+          "summary": "插画家 Musshu 的官方 X（前 Twitter）帐户周五宣布，竹田绫乃的漫画《花与阿修罗》将在《Ultra Jump》杂志 8 月号上完结。武田（Hibike！上低音号）和 Musshu 于 2021 年 6 月开始在《Ultra Jump》杂志上连载这部校园戏剧漫画。集英社于 3 月 18 日出版了第十卷。由 Studio Bind 制作的 12 集电视动画改编版于 2025 年冬季播出。",
+          "source": "MyAnimeList",
+          "date": "07-21",
+          "url": "https://myanimelist.net/news/74501053?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、PSN 宕机了吗？今天持续了几个小时，但现在又恢复了",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "PSN 宕机了吗？今天持续了几个小时，但现在又恢复了",
+          "summary": "今天（7 月 24 日）索尼的 PlayStation Network 遇到了网络问题，但这些问题现在似乎已得到解决。与往常一样，您的里程可能会有所不同，但长达数小时的停电现在似乎已经解决了。\n\n\n\n官方 PlayStation 状态页面指出：“所有服务均已启动并正在运行。”\n\n\n\n今天早些时候的停电非常严重。所有服务最初都受到影响，包括帐户管理、游戏和社交、PlayStation Video、P",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/psn-is-down-2/"
+        },
+        {
+          "title": "病毒浣熊吉莫西正在成为可赚钱的魔兽世界宠物",
+          "summary": "俘获互联网芳心的短刺浣熊吉莫西即将来到魔兽世界。\n\n\n\n在过去的几周里，浣熊吉莫西迅速走红，西雅图当地人分享了这位动物名人日常生活的图片和视频。他很难被忽视，因为他独特的脊柱状况使他的躯干和颈部明显缩短，使他看起来像浣熊形态的妖精。\n\n\n\n自然地，随着 Jimothy 人气的飙升，各品牌也开始注意到这一点，包括《魔兽世界》。暴雪很快就发布了一个模型，展示了吉莫西在《魔兽世界》中的样子，据暴雪称，反",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/jimothy-the-viral-raccoon-is-becoming-an-earnable-wow-pet/"
+        },
+        {
+          "title": "PlayStation YouTube 页面上的《生化危机》电影预告片中充斥着要求索尼改变光盘路线的人",
+          "summary": "《武器》导演 Zach Cregger 即将上映的《生化危机》电影的最新预告片已经发布，PlayStation YouTube 页面上发布的预告片版本充满了笑话，并提到了索尼终止支持《生化危机》的有争议的决定。 2028年实体游戏光盘。\n\n\n\n这部电影出自索尼影业，除了与索尼有联系之外，与 PlayStation 品牌没有太多关系，但自从它发布在 PlayStation 的 YouTube 页面上",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/resident-evil-movie-trailer-on-playstations-youtube-page-is-full-of-people-asking-sony-to-change-course-on-discs/"
+        },
+        {
+          "title": "暴雪员工因涉嫌帮助朋友在《魔兽世界》中作弊而失业",
+          "summary": "一名暴雪员工据称使用开发者工具帮助一群朋友完成魔兽世界中具有挑战性的 Mythic+ 地下城，暴雪已确认该员工已不再在公司工作。\n\n\n\n本周早些时候，Reddit 上的一个帖子呼吁关注可疑的 Mythic+ 23 地下城活动。在 Warcraftlogs（玩家用来跟踪地下城和团队副本表现的网站）上简单查看一下有问题的关键，表明地下城不应该有及时完成，因为在最终boss之后，团队仍然需要杀死地牢早期",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/blizzard-employee-out-of-a-job-after-allegedly-helping-friends-cheat-in-wow/"
+        },
+        {
+          "title": "光环：战役演变的秘密结局似乎是在挑逗光环 2 重制版",
+          "summary": "《光环：战役进化》（以及 2001 年原版）的剧透如下。\n\n\n\n在传奇难度下完成战役后，会出现一段轻松的场景，其中约翰逊中士在岸边的临时沙滩椅上放松，同时以某种方式观看《光环：战斗进化》中的原始传奇笑话结局。 \n\n\n\n意识到同名光环正在爆炸（我猜是 2001 年原作的剧透）后，约翰逊被一只鹈鹕救起，但在此之前他转向镜头，打破了第四堵墙，并宣布：“续集中见。”我不知道具体原因，但最后",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/halo-campaign-evolved-secret-ending-seems-to-tease-a-halo-2-remake/"
+        },
+        {
+          "title": "GTA 6 是我见过的第一款有保质期的游戏",
+          "summary": "距年度最大型游戏侠盗猎车手 6 发布还有大约四个月的时间。毫无疑问，炒作已经达到顶峰，但如果您在日本，您需要将这种兴奋转化为立即行动，因为您兑换游戏盒中的代码的时间有限。\n\n\n\n正如 Rockstar Games 支持页面上的 6 月 24 日常见问题解答中所述，日本玩家将有 170 天的时间使用该代码，否则代码将过期。官方的说法如下：\n\n\n\n根据地区法规，日本的产品代码将于发布日期（即发布日期（",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/gta-6-is-the-first-game-ive-seen-with-a-best-before-date/"
+        },
+        {
+          "title": "世嘉不会放弃物理媒体，但表示数字化扩张至关重要",
+          "summary": "没有人真正喜欢索尼决定在 2028 年 1 月取消实体 PlayStation 光盘，但是有数据支持公司的计划。世嘉总裁理解这种选择和数字，但他表示，尽管正在推动全数字化的未来，但公司仍然致力于生产物理媒体。\n\n\n\n在最近接受《Fami通》采访（由 Eurogamer 翻译）时，世嘉总裁内海修二谈到了公司需要如何“更加数字化意识和变得更加全球化。”对于世嘉来说，“数字化”是公司未来业务的重要组成部",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/sega-wont-ditch-physical-media-but-says-digital-expansion-is-vital/"
+        },
+        {
+          "title": "《古墓丽影：催化剂》悄然推迟至 2028 年",
+          "summary": "开发商 Crystal Dynamics 的第二款主要《古墓丽影》游戏 Catalyst 突然被亚马逊游戏工作室悄悄推迟了。\n\n\n\n在 7 月 23 日接受 The Game Business 的长篇采访中，亚马逊游戏公司的老板 Jeff Gattis 偷偷提到《古墓丽影：催化剂》将避开 2027 年的发布窗口，而是在 2028 年发布。\n\n\n\n“我们已经宣布了两款《古墓丽影》游戏，”加蒂斯说道。",
+          "source": "GameSpot",
+          "date": "07-24",
+          "url": "https://www.gamespot.com/articles/tomb-raider-catalyst-quietly-gets-delayed-to-2028/"
+        }
+      ]
+    }
+  ]
+}
