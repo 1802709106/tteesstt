@@ -1,82 +1,82 @@
 {
-  "date": "2026-07-25",
-  "quote": "「Midjourney 购买了占星应用程序 Co-Star」等AI 45条、动漫 20条、游戏 28条——每日精选资讯速览。",
+  "date": "2026-07-26",
+  "quote": "「Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司」等AI 47条、动漫 20条、游戏 27条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Midjourney 购买了占星应用程序 Co-Star、你不能再忽视 Google Zero、Anthropic 发布了 Opus 5，其功能“接近”《神鬼寓言 5》",
+      "summary": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司、图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会、一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。",
       "items": [
         {
-          "title": "Midjourney 购买了占星应用程序 Co-Star",
-          "summary": "Midjourney 已经从生成 AI 猫图像到全身超声波扫描，正在进入一个新领域：占星术。据彭博社早些时候报道，这家人工智能初创公司周四宣布，它已经收购了个性化占星应用程序 Co-Star。 Co-Star 是一款免费应用程序，提供每日星座运势并允许您检查您的[&#8230;]",
-          "source": "The Verge",
+          "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+          "summary": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。",
+          "source": "TechCrunch",
+          "date": "07-26",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+        },
+        {
+          "title": "图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会",
+          "summary": "在全国各地的图书馆，“避免人工智能”研讨会引发了前所未有的需求。",
+          "source": "TechCrunch",
+          "date": "07-25",
+          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
+        },
+        {
+          "title": "一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。",
+          "summary": "弗吉尼亚州北部的一次千钧一发事件揭示了数据中心对电网中断的反应是多么糟糕。以下是解决该问题的方法。",
+          "source": "TechCrunch",
+          "date": "07-25",
+          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
+        },
+        {
+          "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
+          "summary": "OpenAI 精美的新型 AI 键盘对某些人来说会很有趣，而其他许多人可能不会碰它。",
+          "source": "TechCrunch",
+          "date": "07-25",
+          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+        },
+        {
+          "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+          "summary": "Neolab 坚信，日常计算机任务的自动化将很快超过编码，成为人工智能最大的用例。",
+          "source": "TechCrunch",
           "date": "07-24",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
         },
         {
-          "title": "你不能再忽视 Google Zero",
-          "summary": "网络和谷歌曾经达成一项协议：谷歌收集数据并为网页建立索引，作为交换，向网站发送大量流量。这笔交易并不完美，而且谷歌赚的钱肯定比网站赚的钱还多，但它持续了很长一段时间。然而现在，这笔交易似乎已经胎死腹中。还有[&#8230;]",
-          "source": "The Verge",
+          "title": "Cognition为何收购Poke：AI个性正在成为竞争优势",
+          "summary": "此次收购将 Poke 的对话风格和交互模型带给 Cognition 的编码代理 Devin，这反映出人们越来越相信 AI 助手与用户的交互方式与为用户提供支持的模型同样重要。",
+          "source": "TechCrunch",
           "date": "07-24",
-          "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
+          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
         },
         {
-          "title": "Anthropic 发布了 Opus 5，其功能“接近”《神鬼寓言 5》",
-          "summary": "在 Anthropic 与美国政府最近一次正面交锋几周后，以及主导科技行业讨论的 OpenAI 安全事件几天后，Anthropic 于周四发布了其最新型号 Claude Opus 5。该公司在一份新闻稿中表示，Opus 5“在许多领域接近 Claude Fable 5 的功能”，并且 […]",
-          "source": "The Verge",
+          "title": "随着美国权衡对中国人工智能的反应，业界敦促不要广泛的开放权重限制",
+          "summary": "在华盛顿就如何应对中国人工智能和所谓的模型蒸馏进行辩论之际，包括英伟达和米斯特拉尔在内的人工智能公司敦促政策制定者避免对开放权重人工智能模型进行广泛限制。",
+          "source": "TechCrunch",
           "date": "07-24",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"
+          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
         },
         {
-          "title": "Meta 正在使其人工智能聊天机器人更像一个助手",
-          "summary": "Meta 正在升级其人工智能聊天机器人，为其提供新的生产力功能，以与 Gemini、ChatGPT 和 Claude 等竞争对手竞争。此次更新将允许 Meta AI 进入您的日历，帮助您计划活动并生成每日简报，以及进行深入研究，您可以随着研究的进展进行指导。 [&#8230;]",
-          "source": "The Verge",
+          "title": "Bluesky 的 AI 助手 Attie 扩展为开放的社会研究工具",
+          "summary": "用户现在可以在 Bluesky 和 ​​AT 协议上的其他应用程序上向 Attie 询问有关新闻、趋势和对话的问题。",
+          "source": "TechCrunch",
           "date": "07-24",
-          "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+          "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
         },
         {
-          "title": "美国科学的技术扩展正式开始",
-          "summary": "特朗普政府于周四公布了第一笔“创世纪任务”拨款，向数百个人工智能驱动的科学项目拨款 50 亿美元，白宫称其“紧迫性和雄心可与曼哈顿计划相媲美”。大约在同一时间，特朗普的科学顾问迈克尔·克拉齐奥斯 (Michael Kratsios) 在国会山向立法者推销[&#8230;]",
-          "source": "The Verge",
+          "title": "Midjourney 收购占星应用 Co-Star",
+          "summary": "人工智能实验室 Midjourney 继续将其范围扩展到图像和视频生成之外。",
+          "source": "TechCrunch",
           "date": "07-24",
-          "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants"
+          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
         },
         {
-          "title": "Alexa Plus 正在进行人工智能更新以处理更复杂的指令",
-          "summary": "亚马逊正在推出 Alexa Plus 助手的更新，使其能够以新的方式连接到智能家居设备。通过当前预览版的更新，Alexa Plus 可以与博世、达美航空、科沃斯、iRobot、Yale Home、惠而浦、Tapo、Eufy 等公司的技术连接，同时自动将请求路由到 [&#8230;]",
-          "source": "The Verge",
-          "date": "07-23",
-          "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
-        },
-        {
-          "title": "克劳德的语音模式现在可用于 Opus 和 Sonnet",
-          "summary": "到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。现在，该公司正在以语音模式提供 Opus 和 Sonnet 模型，并将其覆盖范围扩展到 Gmail、Slack 和 Canva 等应用程序。当 Anthropic 去年推出语音模式时，它主要专注于交付 [&#8230;]",
-          "source": "The Verge",
-          "date": "07-23",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
-        },
-        {
-          "title": "Patreon 将解雇 20% 的员工",
-          "summary": "据 404 Media 早些时候报道，Patreon 将解雇 20% 的员工，即大约 93 名员工。 Patreon 首席执行官 Jack Conte 在给员工的一份备忘录中写道，公司不会做出这些改变“因为我们相信人工智能会取代人类”，但表示人工智能“从根本上改变了科技行业，包括我们的工作方式，[&#8230;]",
-          "source": "The Verge",
-          "date": "07-23",
-          "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai"
-        },
-        {
-          "title": "OpenAI 向所有人推出 ChatGPT Health 时发出了重大声明",
-          "summary": "OpenAI 将于周四向美国所有人推出 ChatGPT Health，让更多人将他们的医疗记录和健康跟踪信息连接到聊天机器人。 OpenAI 健康产品副总裁阿什利·亚历山大 (Ashley Alexander) 在一次简报中表示，该公司的模型“现在能够进行比临床医生水平更好的推理”。 [&#8230;]",
-          "source": "The Verge",
-          "date": "07-23",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
-        },
-        {
-          "title": "立法者准备法案要求人工智能“终止开关”",
-          "summary": "据 Politico 报道，立法者正准备推出一项“人工智能终止开关法案”，要求人工智能公司根据国土安全部的命令关闭或限制其系统。众议员特德·刘（D-CA）和纳撒尼尔·莫兰（Nathaniel Moran）（德克萨斯州共和党）预计将于周四提出该法案。 [&#8230;]的消息",
-          "source": "The Verge",
-          "date": "07-23",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+          "title": "“人工智能共产主义”、流氓模型以及 Kimi K3 为何令华尔街感到恐慌",
+          "summary": "中国人工智能实验室 Moonshot 的开放模型 Kimi 本周迅速走红，其原因与模型本身关系不大，更多的是与美国人工智能行业对此的反应有关。与此同时，一个未发布的 OpenAI 模型在其测试环境之外徘徊，最终与真正的“Hugging Face 安全漏洞”相关——一个提醒 [&#8230;]",
+          "source": "TechCrunch",
+          "date": "07-24",
+          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/"
         }
       ]
     },
@@ -84,8 +84,29 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "《顶点力量》公布主要演员和首个宣传片、《世界最强的魔女，Hajimemashita》公布了额外的演员阵容和第二个角色宣传片、动画《机动战士高达 RG XARX-ZERO》将于 2027 年上映",
+      "summary": "网络漫画《小美与山田同学》将于 2027 年改编成动画、新动画《乱马 ½》第三季宣布追加演员阵容、东映动画制作新剧场版动画《银河铁道999》",
       "items": [
+        {
+          "title": "网络漫画《小美与山田同学》将于 2027 年改编成动画",
+          "summary": "出版公司讲谈社周日宣布将小豆宁宁的 Mii-chan 改编成山田小姐（Mii-chan 和山田小姐）的网络漫画，并公布了小豆为纪念这一消息而绘制的插图（如图）。该动画预计于 2027 年首播。小豆于 2024 年 9 月开始在 Magazine pocket 网站上连载该剧漫画。讲谈社于 4 月 23 日发行了第六卷，并将于 9 月 9 日发行第七卷也是最后一卷。Mii-chan 向 Yamada",
+          "source": "MyAnimeList",
+          "date": "07-25",
+          "url": "https://myanimelist.net/news/74517481?_location=rss"
+        },
+        {
+          "title": "新动画《乱马 ½》第三季宣布追加演员阵容",
+          "summary": "新乱马&frac12官方网站；该动画系列于周六公布了第三季的额外演员阵容和主视觉图（如图）。改编自高桥留美子的浪漫喜剧漫画的动画系列将于 10 月 4 日中午 12 点 55 分在日本电视台首播。 演员 校长：野泽雅子（战队大师角） 大门寺千太郎：福山润（碧蓝） 翼 红：田中南（杀青） 田中真弓（坂本时代） MAPPA，电影。",
+          "source": "MyAnimeList",
+          "date": "07-25",
+          "url": "https://myanimelist.net/news/74517421?_location=rss"
+        },
+        {
+          "title": "东映动画制作新剧场版动画《银河铁道999》",
+          "summary": "周六，东映动画宣布了《银河铁道 999》（银河铁道 999）系列动画的新剧场版动画改编。新电影由伦太郎（《银河铁道999》（电影）、《再见银河铁道999》导演）负责故事概念，并由东映动画制作动画。 《银河铁道999》（银河铁道999）改编自松本零二的科幻漫画，于1977年1月至1981年10月在《少年王》杂志上连载。少年漫画社以18卷的形式出版了该漫画。",
+          "source": "MyAnimeList",
+          "date": "07-25",
+          "url": "https://myanimelist.net/news/74516828?_location=rss"
+        },
         {
           "title": "《顶点力量》公布主要演员和首个宣传片",
           "summary": "《顶点力量》原创电视动画的官方网站于周五公布了主要演员阵容、第一个关键视觉图（如图）和第一个主要宣传视频。 Shitara Dainana Ouji Datta Node, Kimama ni Majutsu wo Kiwamemasu) Eleanor Northbrook: Ami Koshimizu (Yasei no Last Boss ga...",
@@ -134,27 +155,6 @@
           "source": "MyAnimeList",
           "date": "07-22",
           "url": "https://myanimelist.net/news/74504097?_location=rss"
-        },
-        {
-          "title": "漫画《Studio Cabana》将于 2027 年电视动画化",
-          "summary": "周三，制作公司角川开设了改编自 Aguri Uma 的 Studio Cabana 的电视动画的官方网站，公布了主要演员、工作人员和预告片视觉效果（如图）。该动画系列将于 2027 年播出。配音演员铃代沙由美（Bocchi the Rock！）饰演女主角由香里真希。职员监督：牛岛真一郎（Kimi no Suizou wo Tabetai）系列构成：平林佐和子（大神少女到黑王子）角色设计：Haruk",
-          "source": "MyAnimeList",
-          "date": "07-22",
-          "url": "https://myanimelist.net/news/74503755?_location=rss"
-        },
-        {
-          "title": "《Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo》公布了额外演员阵容和预告片",
-          "summary": "新《Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duet》原创视频动画的官方网站于周三公布了更多演员、主视觉图（如图）和预告片。 OVA 定于 11 月 13 日在家庭视频发布之前在影院上映。演员资料：福地落合（Karakai Jouzu no Takagi-san）Chamocha：Natsumi Fujiwara（",
-          "source": "MyAnimeList",
-          "date": "07-22",
-          "url": "https://myanimelist.net/news/74503685?_location=rss"
-        },
-        {
-          "title": "漫画《花开，修罗之德》连载结束",
-          "summary": "插画家 Musshu 的官方 X（前 Twitter）帐户周五宣布，竹田绫乃的漫画《花与阿修罗》将在《Ultra Jump》杂志 8 月号上完结。武田（Hibike！上低音号）和 Musshu 于 2021 年 6 月开始在《Ultra Jump》杂志上连载这部校园戏剧漫画。集英社于 3 月 18 日出版了第十卷。由 Studio Bind 制作的 12 集电视动画改编版于 2025 年冬季播出。",
-          "source": "MyAnimeList",
-          "date": "07-21",
-          "url": "https://myanimelist.net/news/74501053?_location=rss"
         }
       ]
     },
@@ -162,7 +162,7 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、PSN 宕机了吗？今天持续了几个小时，但现在又恢复了",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、奎托斯的下一款《战神》游戏将接续劳菲留下的内容",
       "items": [
         {
           "title": "《军团要塞 2》更新已发布",
@@ -177,6 +177,20 @@
           "source": "Steam",
           "date": "07-11",
           "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "奎托斯的下一款《战神》游戏将接续劳菲留下的内容",
+          "summary": "奎托斯的故事还没有结束，《战神》开发商索尼圣莫尼卡宣布，继战神劳菲于2027 年 2 月。圣莫尼卡工作室创意主管 Cory Barlog 在圣地亚哥动漫展上发表讲话，简要宣布了一款由奎托斯主导的新游戏，该游戏将直接与明年的新战神冒险游戏相连，该游戏由他已故的妻子 Faye 主演。\n\n\n\n“我们在 Faye 游戏中所做的一切都是对之前内容的延续，并建立和扩展接下来的内容，”Barlog 说道（来自 ",
+          "source": "GameSpot",
+          "date": "07-25",
+          "url": "https://www.gamespot.com/articles/kratos-next-god-of-war-game-will-pick-up-where-laufey-leaves-off/"
+        },
+        {
+          "title": "惊喜：《战神》劳菲确定了发行日期，奎托斯主导的续集也已公布",
+          "summary": "《战神 Laufey》的发行日期已经公布，正如我们预期的那样，您无需等待太久即可玩到 Faye 的故事。\n\n\n\n在 2026 年圣地亚哥动漫展上，索尼圣莫尼卡工作室正式宣布战神劳菲的上映日期为 2027 年 2 月 16 日。 \n\n\n\n\nhttps://twitter.com/SonySantaMonica/status/2080831512820519253\n\n\n\n\n游戏总监 Cory Barl",
+          "source": "GameSpot",
+          "date": "07-25",
+          "url": "https://www.gamespot.com/articles/surprise-god-of-war-laufey-has-a-release-date-and-its-kratos-led-sequel-has-been-announced/"
         },
         {
           "title": "PSN 宕机了吗？今天持续了几个小时，但现在又恢复了",
@@ -219,20 +233,6 @@
           "source": "GameSpot",
           "date": "07-24",
           "url": "https://www.gamespot.com/articles/gta-6-is-the-first-game-ive-seen-with-a-best-before-date/"
-        },
-        {
-          "title": "世嘉不会放弃物理媒体，但表示数字化扩张至关重要",
-          "summary": "没有人真正喜欢索尼决定在 2028 年 1 月取消实体 PlayStation 光盘，但是有数据支持公司的计划。世嘉总裁理解这种选择和数字，但他表示，尽管正在推动全数字化的未来，但公司仍然致力于生产物理媒体。\n\n\n\n在最近接受《Fami通》采访（由 Eurogamer 翻译）时，世嘉总裁内海修二谈到了公司需要如何“更加数字化意识和变得更加全球化。”对于世嘉来说，“数字化”是公司未来业务的重要组成部",
-          "source": "GameSpot",
-          "date": "07-24",
-          "url": "https://www.gamespot.com/articles/sega-wont-ditch-physical-media-but-says-digital-expansion-is-vital/"
-        },
-        {
-          "title": "《古墓丽影：催化剂》悄然推迟至 2028 年",
-          "summary": "开发商 Crystal Dynamics 的第二款主要《古墓丽影》游戏 Catalyst 突然被亚马逊游戏工作室悄悄推迟了。\n\n\n\n在 7 月 23 日接受 The Game Business 的长篇采访中，亚马逊游戏公司的老板 Jeff Gattis 偷偷提到《古墓丽影：催化剂》将避开 2027 年的发布窗口，而是在 2028 年发布。\n\n\n\n“我们已经宣布了两款《古墓丽影》游戏，”加蒂斯说道。",
-          "source": "GameSpot",
-          "date": "07-24",
-          "url": "https://www.gamespot.com/articles/tomb-raider-catalyst-quietly-gets-delayed-to-2028/"
         }
       ]
     }
