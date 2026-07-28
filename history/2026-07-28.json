@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-28",
+  "quote": "「OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。」等AI 56条、动漫 20条、游戏 37条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。、下载：用于核燃料的激光器和器官保存的进展、通往超级人工智能之路",
+      "items": [
+        {
+          "title": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。",
+          "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，当我读到 OpenAI 的报道时，我第一次了解到它的一些模型如何突破遏制并侵入另一家人工智能公司 Hugging Face 的计算机系统。",
+          "source": "MIT科技评论",
+          "date": "07-27",
+          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+        },
+        {
+          "title": "下载：用于核燃料的激光器和器官保存的进展",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。激光如何帮助为核反应堆提供燃料？目前，核电提供了全球约 9% 的电力，随着各国寻求建造新反应堆，这一比例可能会上升。",
+          "source": "MIT科技评论",
+          "date": "07-27",
+          "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
+        },
+        {
+          "title": "通往超级人工智能之路",
+          "summary": "想象一下由多个人工智能代理组成的医疗保健系统：一个负责管理症状评估，另一个负责调度，第三个保险和第四个药房。每个人都是其领域的专家。但他们都有自己独特的知识和目标。如今，他们可以交换数据，但还无法真正协调——",
+          "source": "MIT科技评论",
+          "date": "07-27",
+          "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
+        },
+        {
+          "title": "关闭人工智能驱动药物发现的数据循环",
+          "summary": "药物发现是一项高成本、高风险的工作，它面临着越来越大的来自先发优势所定义的市场的压力。自 20 世纪 50 年代以来，开发新药物的成本大约每九年翻一番，这种现象被称为“埃鲁姆定律”。如今，将一种新药推向市场平均需要 10 至 15 年的时间，而且成本高昂。",
+          "source": "MIT科技评论",
+          "date": "07-27",
+          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+        },
+        {
+          "title": "构建代理人工智能的企业环境",
+          "summary": "对于企业来说，代理人工智能的承诺不仅仅是一个更好的聊天机器人。它是跨人员、业务工作流程、数据和系统端到端执行业务任务的软件代理。最适合运行代理的平台具有适当的 CPU 容量、弹性数据访问、策略感知工具使用、可观察性、内存​​管理和“可扩展性”。",
+          "source": "MIT科技评论",
+          "date": "07-27",
+          "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
+        },
+        {
+          "title": "追求让器官在体外保持活力",
+          "summary": "本周，我报道了一项保存体外器官的令人着迷的努力。供体器官严重短缺，主要原因之一是时间——即使将它们保存在冰上，它们在体外也只能存活几个小时。医生梦想着器官库——可以保存的人体器官的储存库——",
+          "source": "MIT科技评论",
+          "date": "07-24",
+          "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+        },
+        {
+          "title": "下载：器官移植突破和国产芯片",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”——对于器官捐献来说，时间就是一切。一旦器官从捐献者的体内被摘除，",
+          "source": "MIT科技评论",
+          "date": "07-24",
+          "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+        },
+        {
+          "title": "下载：能源传输和美国对中国人工智能的威胁",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。可能重塑纽约电网的输电线遇到了障碍。在 7 月 3 日的热浪期间，纽约州电网从加拿大进口了足够的电力来满足大约 100% 的电力需求。",
+          "source": "MIT科技评论",
+          "date": "07-23",
+          "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
+        },
+        {
+          "title": "Anthropic的Dario Amodei回应：不反对开放权重模型，但担心中国AI",
+          "summary": "Anthropic创始人兼首席执行官Dario Amodei明确表达了他对开放权重模型和中国不断增长的人工智能能力的看法。",
+          "source": "TechCrunch",
+          "date": "07-28",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+        },
+        {
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
+          "summary": "纳德拉表示，没有自己的模型的公司，或者没有被称为人工智能网关的人工智能基础设施层，将其提示与模型本身分开的公司，将会遇到麻烦。",
+          "source": "TechCrunch",
+          "date": "07-27",
+          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "漫画《Odoru Sennen Kazoku》获得电视动画化、《二十世纪电气木录：Eureka Evrika》的支持演员阵容公布、《Wareware wa Uchuujin》公布了更多演员阵容、主题曲、主要预告片",
+      "items": [
+        {
+          "title": "漫画《Odoru Sennen Kazoku》获得电视动画化",
+          "summary": "周一，隈研吾制作​​公司宣布将改编自和井明的《千禧家族》漫画，并公布主演阵容、工作人员、预告片视觉效果（如图）和宣传片。该动画系列将在TBS和其他频道播出。配音演员安田陆也（Mayonaka Heart Tune）饰演提奥。系列构成担当监督：神房正人（《Tate no Yuusha no Nariagari Season 2》、《Dokyuu Hentai HxEros》）角色设计、首席动画导演",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74526362?_location=rss"
+        },
+        {
+          "title": "《二十世纪电气木录：Eureka Evrika》的支持演员阵容公布",
+          "summary": "改编自悠纪宏的《二十世纪电力目录》轻小说的电视动画的官方网站周日公布了一对配角演员和第 4 集的视觉效果（如图）。动画于7月5日晚上11点首播。在 Tokyo MX 上播出，并在 Netflix 上全球独家播出，其次是 BS11、ABC TV 和 TV Aichi。配音演员玉川咲子（Yomi no Tsugai）和宫崎优（Nige Jouzu no Wakagimi）将加入动画，分别饰演井田千代和",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74525574?_location=rss"
+        },
+        {
+          "title": "《Wareware wa Uchuujin》公布了更多演员阵容、主题曲、主要预告片",
+          "summary": "Wareware wa Uchuujin（我们是外星人）的官方 X（以前的 Twitter）于周一公布了额外的演员阵容、主题曲、主视觉图（如右图）和主要预告片。该片计划于 9 月 25 日在日本影院首映。演员松井毛里和山崎十将分别饰演片原和小夏。日本歌手 adieu（Honzuki no Gekokujou：Shisho ni Naru Tame ni wa Shudan wo Erandeira",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74525538?_location=rss"
+        },
+        {
+          "title": "视觉小说《Senren＊Banka》将于 2027 年改编成动画",
+          "summary": "Yuzusoft SongFes 2026 活动周日宣布将其《Senren＊Banka》视觉小说改编成动画，并公布了演员阵容和片头主题曲艺术家。该动画系列将于 2027 年首播。演员 吉野友武：空遥真子 日立：优花 Yuuka Murasame：佐藤美柑 Liechtenauer Lena：Sawa Sawasawa 创作型歌手 KOTOKO（灼眼的夏娜）将演唱片头主题曲。这部浪漫视觉小说由 Yu",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74525196?_location=rss"
+        },
+        {
+          "title": "《鬼之花嫁》追加演员阵容公布",
+          "summary": "改编自红羽小说《老虎新娘》的电视动画的追加演员阵容已于周日公布。该动画系列于7月5日中午12点30分首播。东京MX、BS11、群马电视台和栃木电视台的最新突发新闻。配音演员石田彰（《乙女游戏世界》《怪物世界》）和福园美里（《我的英雄学院》）将分别饰演桐生院仙哉和桐生院纱罗。和日...",
+          "source": "MyAnimeList",
+          "date": "07-26",
+          "url": "https://myanimelist.net/news/74520888?_location=rss"
+        },
+        {
+          "title": "网络漫画《小美与山田同学》将于 2027 年改编成动画",
+          "summary": "出版公司讲谈社周日宣布将小豆宁宁的 Mii-chan 改编成山田小姐（Mii-chan 和山田小姐）的网络漫画，并公布了小豆为纪念这一消息而绘制的插图（如图）。该动画预计于 2027 年首播。小豆于 2024 年 9 月开始在 Magazine pocket 网站上连载该剧漫画。讲谈社于 4 月 23 日发行了第六卷，并将于 9 月 9 日发行第七卷也是最终卷。Mii-chan 向 Yamada-",
+          "source": "MyAnimeList",
+          "date": "07-25",
+          "url": "https://myanimelist.net/news/74517481?_location=rss"
+        },
+        {
+          "title": "新动画《乱马 ½》第三季宣布追加演员阵容",
+          "summary": "新乱马&frac12官方网站；该动画系列于周六公布了第三季的额外演员阵容和主视觉图（如图）。改编自高桥留美子的浪漫喜剧漫画的动画系列将于 10 月 4 日上午 12 点 55 分在日本电视台首播。 演员 校长：野泽雅子（战队大师角）大门寺千太郎：福山润（碧蓝）红翼：田中南（杀青）田中真由美（已经）早水沙织（坂本） Days) 宇田幸之助 (Days) 是 r.",
+          "source": "MyAnimeList",
+          "date": "07-25",
+          "url": "https://myanimelist.net/news/74517421?_location=rss"
+        },
+        {
+          "title": "东映动画制作新剧场版动画《银河铁道999》",
+          "summary": "周六，东映动画宣布了《银河铁道 999》（银河铁道 999）系列动画的新剧场版动画改编。新电影由伦太郎（《银河铁道999》（电影）、《再见银河铁道999》导演）负责故事概念，并由东映动画制作动画。 《银河铁道999》（银河铁道999）改编自松本零二的科幻漫画，于1977年1月至1981年10月在《少年王》杂志上连载。少年漫画社以18卷的形式出版了该漫画。",
+          "source": "MyAnimeList",
+          "date": "07-25",
+          "url": "https://myanimelist.net/news/74516828?_location=rss"
+        },
+        {
+          "title": "《顶点力量》公布主要演员和首个宣传片",
+          "summary": "《顶点力量》原创电视动画的官方网站于周五公布了主要演员阵容、第一个关键视觉图（如图）和第一个主要宣传视频。 Shitara Dainana Ouji Datta Node, Kimama ni Majutsu wo Kiwamemasu) Eleanor Northbrook: Ami Koshimizu (Yasei no Last Boss ga...",
+          "source": "MyAnimeList",
+          "date": "07-24",
+          "url": "https://myanimelist.net/news/74512579?_location=rss"
+        },
+        {
+          "title": "《世界最强的魔女，Hajimemashita》公布了额外的演员阵容和第二个角色宣传片",
+          "summary": "改编自榊榊的电视动画《世界最强的魔女，肇始：渡岳》的官方网站轻小说《世界最强魔女：在只有我能看到在线攻略指南的世界开始自由生活》于周五公布了一对追加演员阵容和第二个角色宣传视频。该动画系列预计于 10 月 7 日晚上 10 点首播。在东京...",
+          "source": "MyAnimeList",
+          "date": "07-24",
+          "url": "https://myanimelist.net/news/74511501?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、Xbox 高管解释故障原因并誓言“做得更好”",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，此更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Xbox 高管解释故障原因并誓言“做得更好”",
+          "summary": "Xbox 首席技术官 Scott Van Vliet 对从周日深夜到周一影响许多玩家的游戏库、登录和游戏启动的系统和服务中断提供了透明度和解释，并发誓要“做得更好”。",
+          "source": "IGN",
+          "date": "07-28",
+          "url": "https://www.ign.com/articles/xbox-executive-explains-outage-vows-to-do-better"
+        },
+        {
+          "title": "《使命召唤：黑色行动》粉丝在发布 15 年后发现被删减的僵尸内容",
+          "summary": "《使命召唤：黑色行动》的粉丝们在游戏最初发行十五年后发现了一种新的僵尸模式。",
+          "source": "IGN",
+          "date": "07-27",
+          "url": "https://www.ign.com/articles/call-of-duty-black-ops-fans-discover-cut-zombies-content-over-15-years-after-release"
+        },
+        {
+          "title": "育碧向部分游戏的 Xbox 用户提供免费 PC 副本",
+          "summary": "育碧正在向 Xbox 用户免费提供部分 PC 游戏。",
+          "source": "IGN",
+          "date": "07-27",
+          "url": "https://www.ign.com/articles/ubisoft-gives-free-pc-copies-to-xbox-owners-of-select-games"
+        },
+        {
+          "title": "Best Buy 拥有状况良好的华硕 ROG Xbox Ally 手持游戏电脑，售价不到 500 美元",
+          "summary": "鉴于此，我们建议购买 ROG Xbox Ally 而不是 Steam Deck。",
+          "source": "IGN",
+          "date": "07-27",
+          "url": "https://www.ign.com/articles/asus-rog-ally-deal-july-2026"
+        },
+        {
+          "title": "Marvel Tokon: Fighting Souls Beta 证明粉丝们仍然非常想要那部《刀锋》电影",
+          "summary": "《Marvel Tokon: Fighting Souls》即将迎来一个破纪录的公测周末，其中两个特殊角色在游戏的其他演员中占据了主导地位。",
+          "source": "IGN",
+          "date": "07-27",
+          "url": "https://www.ign.com/articles/the-marvel-tokon-fighting-souls-beta-proves-fans-still-really-want-that-blade-movie"
+        },
+        {
+          "title": "龙之屋：雷妮拉最糟糕的预兆却预示着“随之而来的腐烂”",
+          "summary": "《龙之屋：第三季》的第六集描绘了一个被导演称为“一系列坏事的煽动事件”的时刻。 “雷妮拉手指上的伤口引发了很多不好的事情，”导演洛尼·佩里斯特在 HBO 的剧集内幕特辑中宣称。",
+          "source": "IGN",
+          "date": "07-27",
+          "url": "https://www.ign.com/articles/house-of-the-dragon-rhaenyra-cut-finger-iron-throne"
+        },
+        {
+          "title": "采用 Hi-QLED Mini-LED 技术的新款 2026 海信 U6 4K Fire 电视可节省 40%",
+          "summary": "2026 年最实惠的电视之一，具有 4K HDR 电影和 PS5 游戏的高级功能。",
+          "source": "IGN",
+          "date": "07-27",
+          "url": "https://www.ign.com/articles/new-for-2026-hisense-u6-4k-fire-tv-deal"
+        },
+        {
+          "title": "GTA 6 的实体“副本”将在日本发售后 170 天后过期",
+          "summary": "如果您在日本购买《GTA 6》的“实体”副本，您最好快速行动并快速下载该代码，否则它可能会在您不注意时过期。",
+          "source": "IGN",
+          "date": "07-27",
+          "url": "https://www.ign.com/articles/physical-copies-of-gta-6-will-expire-170-days-after-launch-date-in-japan"
+        }
+      ]
+    }
+  ]
+}
