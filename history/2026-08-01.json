@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-01",
+  "quote": "「下载：蒙大拿州新的实验药物规则」等AI 37条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "下载：蒙大拿州新的实验药物规则、下载：欺骗法学硕士，重振地热发电厂、一个根本性的缺陷使得法学硕士极易受到攻击",
+      "items": [
+        {
+          "title": "下载：蒙大拿州新的实验药物规则",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。",
+          "source": "MIT科技评论",
+          "date": "07-31",
+          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+        },
+        {
+          "title": "下载：欺骗法学硕士，重振地热发电厂",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一个根本缺陷使法学硕士极易受到攻击 由于大型语言模型的工作方式存在根本缺陷，因此不可能使大型语言模型完全免受黑客攻击。",
+          "source": "MIT科技评论",
+          "date": "07-30",
+          "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
+        },
+        {
+          "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
+          "summary": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该声明对该技术的安全性具有巨大影响，该技术",
+          "source": "MIT科技评论",
+          "date": "07-30",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+        },
+        {
+          "title": "被忽视的地热发电厂如何获得第二次机会",
+          "summary": "2024 年 6 月，一家名为 Zanskar 的小公司购买了新墨西哥州的一座地热发电厂，但该发电厂很快就崩溃了。来自地下水库的水一天天变冷，使得工厂的运行变得不经济。两年后的现在，得益于新的设备，该工厂再次满负荷运行。",
+          "source": "MIT科技评论",
+          "date": "07-29",
+          "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
+        },
+        {
+          "title": "下载：一场芯片人才之战，并抑制人工智能炒作",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。三星的芯片工人正在跳槽到竞争对手 SK 海力士。李是三星半导体部门的一名工程师，过去经常工作到很晚。但最近，他一直准时下班，并且正在努力……",
+          "source": "MIT科技评论",
+          "date": "07-29",
+          "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
+        },
+        {
+          "title": "人工智能炒作指数：不性感的人工智能",
+          "summary": "当一封由顶尖经济学家签署的公开信警告人工智能可能会抢走你的工作时，这已经够糟糕的了。事实上它很快就会比你做晚饭更好？侮辱伤害。但这正是 1X 公司在展示一双新的、令人印象深刻的灵巧（对某些人来说，“”）时所承诺的。",
+          "source": "MIT科技评论",
+          "date": "07-29",
+          "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
+        },
+        {
+          "title": "下载：OpenAI 可预测的黑客攻击以及 AI 股票的抛售",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。&#160; —Will Douglas Heaven，高级 AI 编辑 上周阅读了 OpenAI 的报道，了解其某些模型如何打破了他们的规则。",
+          "source": "MIT科技评论",
+          "date": "07-28",
+          "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+        },
+        {
+          "title": "三星的芯片工人正在跳槽到竞争对手 SK 海力士",
+          "summary": "三星半导体部门的工程师李在下班时打卡下班。他过去常常工作更长的时间，加倍努力以出色地完成他的项目。但最近，他直接回家为这家芯片制造商的韩国竞争对手 SK 海力士处理工作申请，并与同事分享了关于“芯片制造商”的建议。",
+          "source": "MIT科技评论",
+          "date": "07-28",
+          "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
+        },
+        {
+          "title": "谷歌地球的AI Deepfake工具只持续了一天",
+          "summary": "谷歌已经关闭了周四推出的谷歌地球功能，该功能允许用户使用人工智能编辑带有文本提示的卫星图像。该工具本质上是让用户使用文本提示创建现实世界的人工智能深度赝品；例如，Digital Digging 的 Henk van Ess 故意生成图像，添加墨西哥边境附近的难民等内容 [&#8230;]",
+          "source": "The Verge",
+          "date": "07-31",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
+        },
+        {
+          "title": "这是在 Google Earth 中放置 AI 图像生成器的问题",
+          "summary": "只需文本提示，即可使用 Google 地球的卫星、航空和 3D 图像以及现已回滚的人工智能功能生成扭曲现实的图像，例如由 Digital Digging 的 Henk van Ess 生成的这些图像，显示“墨西哥边境附近的难民”和加沙一家医院附近的炸弹坑。谷歌最初回应[&#8230;]",
+          "source": "The Verge",
+          "date": "07-31",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《Hyouken no Majutsushi ga Sekai wo Suberu II》公布了更多演员、工作人员和预告片、“Ojisan wa Kawaii Mono ga Osuki。”宣布追加演员阵容、轻小说《Tsuihou s…",
+      "items": [
+        {
+          "title": "《Hyouken no Majutsushi ga Sekai wo Suberu II》公布了更多演员、工作人员和预告片",
+          "summary": "改编自御子柴奈奈轻小说《冰刃魔法师将统治世界》的电视动画官方网站周五公布了第二季的更多演员、工作人员和预告片宣传视频。新一季预计于 2026 年 10 月在 TBS 和 BS11 首播。演员 Elisa Griffith：Miyu Kubota（Love Live！ Nijigasaki Gakuen School Idol Doukoukai） NEW Albert Allium：Kohei A",
+          "source": "MyAnimeList",
+          "date": "07-31",
+          "url": "https://myanimelist.net/news/74540961?_location=rss"
+        },
+        {
+          "title": "“Ojisan wa Kawaii Mono ga Osuki。”宣布追加演员阵容",
+          "summary": "《Ojisan of Kawaii Mono ga Osuki》是改编自努的《Ojisan wa Kawaii Mono ga Osuki》的电视动画。 《中年男人爱可爱的东西》漫画于周五公布了额外的演员阵容和主视觉图（如图）。该动画系列预计于 10 月 4 日晚上 10 点首播。于东京 MX 播出，随后于 10 月 5 日在 BS Asahi 和读卖电视台播出。 河合健太演员：江贵一卓也（茜斑梨",
+          "source": "MyAnimeList",
+          "date": "07-31",
+          "url": "https://myanimelist.net/news/74540477?_location=rss"
+        },
+        {
+          "title": "轻小说《Tsuihou sareta Shounin wa Kane no Chikara de Sekai wo Sukuu》电视动画化",
+          "summary": "周五，出版公司 Shufu to Seikatsusha 宣布将根据 Daken 的《Tsuihou sareta Shounin wa Kane no Chikara de Sekai wo Sukuu》轻小说改编为电视动画。 Daken 于 2023 年 3 月开始在 Shousetsuka ni Narou 网站上撰写这部奇幻小说。 Shufu to Seikatsusha 后来收购了该系列",
+          "source": "MyAnimeList",
+          "date": "07-30",
+          "url": "https://myanimelist.net/news/74537797?_location=rss"
+        },
+        {
+          "title": "《丝带英雄》公布配角阵容，第三部预告片",
+          "summary": "周四，原创动画电影《丝带英雄》的官方网站公布了配角阵容和第三支预告片。 （Eizouken ni wa Te wo Dasu na！） 小鸡：Lunlun Tack：Debidebi Debiru 教皇：Haruhiko Jou（...的传说",
+          "source": "MyAnimeList",
+          "date": "07-30",
+          "url": "https://myanimelist.net/news/74537215?_location=rss"
+        },
+        {
+          "title": "《天幕之蛇》追加演员阵容公布",
+          "summary": "电视动画《天幕之女巫》的官方网站于周四在第六集之前宣布了更多演员阵容。改编自《番茄汤》历史剧漫画的动画系列于7月4日晚上11点连续播出两集。之后动画将于晚上11点30分播出。朝日电视台及其 24 家附属机构播出IMAnimation编程块，其次是BS Asahi。 Dayir：石田晃（银魂） Khulan：水濑祈（异世界四角）...",
+          "source": "MyAnimeList",
+          "date": "07-30",
+          "url": "https://myanimelist.net/news/74536950?_location=rss"
+        },
+        {
+          "title": "《Kyouran Reijou Nia Liston：Byoujaku Reijou ni Tensei Shita Kamigoroshi no Bujin no Karei naru Musouroku》公布了额外演员阵容和首个宣传片",
+          "summary": "改编自海风南野的轻小说《Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kamigoroshi no Bujin no Karei naru Musouroku》的电视动画的官方网站于周二公布了额外演员阵容、主视觉图（如图）和首个宣传视频。该动画系列预定于 10 月 6 日晚上 9 点 25 分首播。东京 MX 播出，其次是 B",
+          "source": "MyAnimeList",
+          "date": "07-28",
+          "url": "https://myanimelist.net/news/74530328?_location=rss"
+        },
+        {
+          "title": "漫画《Odoru Sennen Kazoku》获得电视动画化",
+          "summary": "周一，隈研吾制作​​公司宣布将改编自和井明的《千禧家族》漫画，并公布主演阵容、工作人员、预告片视觉效果（如图）和宣传片。该动画系列将在TBS和其他频道播出。配音演员安田陆也（Mayonaka Heart Tune）饰演提奥。系列构成担当监督：神房正人（《Tate no Yuusha no Nariagari Season 2》、《Dokyuu Hentai HxEros》）角色设计、首席动画导演",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74526362?_location=rss"
+        },
+        {
+          "title": "《二十世纪电气木录：Eureka Evrika》的支持演员阵容公布",
+          "summary": "改编自悠纪宏的《二十世纪电力目录》轻小说的电视动画的官方网站周日公布了一对配角演员和第 4 集的视觉效果（如图）。动画于7月5日晚上11点首播。在 Tokyo MX 上播出，并在 Netflix 上全球独家播出，其次是 BS11、ABC TV 和 TV Aichi。配音演员玉川咲子（Yomi no Tsugai）和宫崎优（Nige Jouzu no Wakagimi）将加入动画，分别饰演井田千代和",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74525574?_location=rss"
+        },
+        {
+          "title": "《Wareware wa Uchuujin》公布了额外的演员阵容、工作人员、主题曲、主要预告片",
+          "summary": "周一，《Wareware wa Uchuujin》（《我们是外星人》）的官方 X（以前的 Twitter）公布了额外的演员阵容、工作人员、主题曲、主视觉图（如右图）和主要预告片。该片计划于 9 月 25 日在日本影院首映。演员松井毛里和山崎十将分别饰演片原和小夏。艺术总监：山田清濑、山田一树摄影指导：辰川敬一郎剪辑：门胁晃平、阙庆一郎...",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74525538?_location=rss"
+        },
+        {
+          "title": "视觉小说《Senren＊Banka》将于 2027 年改编成动画",
+          "summary": "Yuzusoft SongFes 2026 活动周日宣布将其《Senren＊Banka》视觉小说改编成动画，并公布了演员阵容和片头主题曲艺术家。该动画系列将于 2027 年首播。演员 吉野友武：空遥真子 日立：优花 Yuuka Murasame：佐藤美柑 Liechtenauer Lena：Sawa Sawasawa 创作型歌手 KOTOKO（灼眼的夏娜）将演唱片头主题曲。这部浪漫视觉小说由 Yu",
+          "source": "MyAnimeList",
+          "date": "07-27",
+          "url": "https://myanimelist.net/news/74525196?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、如果你对《Stellar Blade: Blood Rain》感到兴奋，这里有一段 AI-Slop 音乐视频可以解决这个问题",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，此更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "如果你对《Stellar Blade: Blood Rain》感到兴奋，这里有一段 AI-Slop 音乐视频可以解决这个问题",
+          "summary": "视频看起来完全是人工智能生成的，主角 Evie 在探索游戏中的反乌托邦赛博朋克城市时唱着一首名为“Wanna be in Love”的“原创”歌曲官方公告预告片作为夏季奥运会节的一部分首次亮相。\n\n\n\n在城市中漫步时，Evie 捡到了一个 KPop Demon Hunters 钥匙扣。在视频的最后，有 Shift Up 开发人员与 Evie 一起“在现场”的“幕后花絮”，为她提供了直接指导",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/if-you-were-excited-about-stellar-blade-blood-rain-heres-an-ai-slop-music-video-to-fix-that/"
+        },
+        {
+          "title": "《魔兽世界》即将登陆 D&D，让你像 MMO 一样赢得声望",
+          "summary": "《魔兽世界》 即将推出《地下城》和《魔兽世界》。 Dragons 的待遇，标志性的桌面角色扮演游戏将于今年 11 月将开发商暴雪的流行 MMORPG 转化为适当的纸笔体验。 \n\n\n\nD&D：魔兽世界带来了很多东西，其中包括地下城主创建艾泽拉斯战役可能需要的一切。对于初学者来说，所有 13 个 WoW 职业都可以玩，还有 6 个额外的子职业、3 个修改过的职业以及 40 多个职业专长可供选择。该扩展",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/world-of-warcraft-is-coming-to-dd-and-will-let-you-grind-renown-just-like-the-mmo/"
+        },
+        {
+          "title": "毫不奇怪，受益于关税退款的是 PlayStation，而不是你",
+          "summary": "美国关税可能迫使索尼提高其 PlayStation 硬件的价格，但该公司现在正从这些关税退还中受益。作为该公司最新收益报告的一部分，它指出营业收入的增长可能部分归因于关税退款——退款似乎不太可能转嫁给支付更高价格的消费者。\n\n\n\n这些退款是在今年早些时候美国最高法院宣布特朗普总统实施的关税非法后发放的。索尼 2026 年第一季度收益（涵盖 4 月至 6 月）指出，关税退款是其游戏和游戏收入增长 3",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/playstation-parent-company-made-more-money-thanks-to-tariffs-it-shouldnt-have-paid/"
+        },
+        {
+          "title": "这就是为什么人们认为《时之笛》重制版将在《GTA 6》前一周推出",
+          "summary": "《塞尔达传说》粉丝开始怀疑《时之笛》重制版将于 11 月中旬推出，与《侠盗猎车手 6》相差无几。这些理论围绕着任天堂 Amiibo 发行的明显模式展开，很难责怪任何人购买它们。\n\n\n\n每Kotaku，粉丝声称已在英国任天堂的一对星之卡比空中骑士 Amiibo 玩偶（Sword Kirby 和 Noir Dedede）的发布日期为 11 月 11 日（根据正确的区域系统时钟设置调整为 11 月 12",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/heres-why-people-think-the-ocarina-of-time-remake-will-launch-a-week-before-gta-6/"
+        },
+        {
+          "title": "《迷雾猎人》的最佳职业变得更加出色",
+          "summary": "开发商 Bellring Games 的提取乱斗游戏Mistfall Hunter 经过几次测试后终于推出了，在 7 月 29 日发布之后，开发商已经发布了一个更新，使游戏中最好的职业之一变得更好。\n\n\n\n本次更新于 7 月 30 日推出，对最新职业枯萎骑士进行了一些重要的平衡性调整。在测试期间，神圣哨兵只挥舞着一把巨剑。但现在完整版游戏已经发布，枯萎骑士像其他五个职业一样获得了第二件武器：长柄武",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/mistfall-hunters-best-class-just-got-even-better/"
+        },
+        {
+          "title": "Marvel Tokon：《格斗之魂》最大的秘密已经上线",
+          "summary": "八月随着 Beast of Reincarnation 和 Pro Jank Footy 等游戏的发布，八月将成为一个有趣的月份，如果您是格斗游戏迷，您可以还可以下载Marvel Tokon: Fighting Souls。该游戏的实体版将于下周正式发布，已经成功打破了发售日期，当然，网上也有很多剧透。\n\n\n\n虽然我们不会在此处列出它们，但请开始针对特定关键字微调您的过滤器。从我们在网上看到的情况",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/marvel-tokon-fighting-souls-biggest-secrets-are-already-online/"
+        },
+        {
+          "title": "Xbox 首席执行官的扭转局面的计划如下",
+          "summary": "虽然微软本身刚刚创下了历史上最大单日市值波动的记录，但该公司的 Xbox 部门却陷入困境。新任 Xbox 首席执行官阿莎·夏尔马 (Asha Sharma) 将如何扭转局面？ \n\n\n\n在 The Verge 获得的一份给员工的备忘录中，Sharma 分享了本财年及以后的 Xbox 首要任务。其中包括四个主要部分——核心、内容、创建和连接。其中一些努力包括使 Minecraft 成为“世界创作者平台",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/here-is-xbox-ceos-plan-to-turn-things-around/"
+        },
+        {
+          "title": "两款未发布的 Virtual Boy 游戏即将登陆 Nintendo Switch Online",
+          "summary": "三十年前，任天堂在未能流行后停产了 Virtual Boy 游戏机。但现在，两款未发布的 Virtual Boy 游戏将在 Nintendo Switch Online 上首次亮相。\n\n\n\n任天堂宣布 D-Hopper 和零赛车将于 8 月 4 日在 Nintendo Switch Online + Expansion Pass 上推出。D-Hopper 最初被称为Dragon Hopper，它是",
+          "source": "GameSpot",
+          "date": "07-31",
+          "url": "https://www.gamespot.com/articles/two-unreleased-virtual-boy-games-are-coming-to-nintendo-switch-online/"
+        }
+      ]
+    }
+  ]
+}
