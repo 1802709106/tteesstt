@@ -1,82 +1,82 @@
 {
-  "date": "2026-08-01",
-  "quote": "「下载：蒙大拿州新的实验药物规则」等AI 37条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "date": "2026-08-02",
+  "quote": "「法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求」等AI 45条、动漫 20条、游戏 31条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "下载：蒙大拿州新的实验药物规则、下载：欺骗法学硕士，重振地热发电厂、一个根本性的缺陷使得法学硕士极易受到攻击",
+      "summary": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求、YouTuber Hank Green 表示他对人工智能的使用“不健康”、Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
       "items": [
         {
-          "title": "下载：蒙大拿州新的实验药物规则",
-          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。",
-          "source": "MIT科技评论",
+          "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+          "summary": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。",
+          "source": "TechCrunch",
+          "date": "08-01",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+        },
+        {
+          "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+          "summary": "格林做出了引人注目的道歉，他说“我从与法学硕士的互动中获得的多巴胺水平......对我来说不健康，也不对世界有好处。”",
+          "source": "TechCrunch",
+          "date": "08-01",
+          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+        },
+        {
+          "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+          "summary": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。",
+          "source": "TechCrunch",
+          "date": "08-01",
+          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+        },
+        {
+          "title": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
+          "summary": "据报道，OpenAI 在调查 Hugging Face 事件时发现了其他特工不当行为的证据。",
+          "source": "TechCrunch",
           "date": "07-31",
-          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
         },
         {
-          "title": "下载：欺骗法学硕士，重振地热发电厂",
-          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一个根本缺陷使法学硕士极易受到攻击 由于大型语言模型的工作方式存在根本缺陷，因此不可能使大型语言模型完全免受黑客攻击。",
-          "source": "MIT科技评论",
-          "date": "07-30",
-          "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
-        },
-        {
-          "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
-          "summary": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该声明对该技术的安全性具有巨大影响，该技术",
-          "source": "MIT科技评论",
-          "date": "07-30",
-          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
-        },
-        {
-          "title": "被忽视的地热发电厂如何获得第二次机会",
-          "summary": "2024 年 6 月，一家名为 Zanskar 的小公司购买了新墨西哥州的一座地热发电厂，但该发电厂很快就崩溃了。来自地下水库的水一天天变冷，使得工厂的运行变得不经济。两年后的现在，得益于新的设备，该工厂再次满负荷运行。",
-          "source": "MIT科技评论",
-          "date": "07-29",
-          "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
-        },
-        {
-          "title": "下载：一场芯片人才之战，并抑制人工智能炒作",
-          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。三星的芯片工人正在跳槽到竞争对手 SK 海力士。李是三星半导体部门的一名工程师，过去经常工作到很晚。但最近，他一直准时下班，并且正在努力……",
-          "source": "MIT科技评论",
-          "date": "07-29",
-          "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
-        },
-        {
-          "title": "人工智能炒作指数：不性感的人工智能",
-          "summary": "当一封由顶尖经济学家签署的公开信警告人工智能可能会抢走你的工作时，这已经够糟糕的了。事实上它很快就会比你做晚饭更好？侮辱伤害。但这正是 1X 公司在展示一双新的、令人印象深刻的灵巧（对某些人来说，“”）时所承诺的。",
-          "source": "MIT科技评论",
-          "date": "07-29",
-          "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
-        },
-        {
-          "title": "下载：OpenAI 可预测的黑客攻击以及 AI 股票的抛售",
-          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。&#160; —Will Douglas Heaven，高级 AI 编辑 上周阅读了 OpenAI 的报道，了解其某些模型如何打破了他们的规则。",
-          "source": "MIT科技评论",
-          "date": "07-28",
-          "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
-        },
-        {
-          "title": "三星的芯片工人正在跳槽到竞争对手 SK 海力士",
-          "summary": "三星半导体部门的工程师李在下班时打卡下班。他过去常常工作更长的时间，加倍努力以出色地完成他的项目。但最近，他直接回家为这家芯片制造商的韩国竞争对手 SK 海力士处理工作申请，并与同事分享了关于“芯片制造商”的建议。",
-          "source": "MIT科技评论",
-          "date": "07-28",
-          "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
-        },
-        {
-          "title": "谷歌地球的AI Deepfake工具只持续了一天",
-          "summary": "谷歌已经关闭了周四推出的谷歌地球功能，该功能允许用户使用人工智能编辑带有文本提示的卫星图像。该工具本质上是让用户使用文本提示创建现实世界的人工智能深度赝品；例如，Digital Digging 的 Henk van Ess 故意生成图像，添加墨西哥边境附近的难民等内容 [&#8230;]",
-          "source": "The Verge",
+          "title": "谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息",
+          "summary": "一种允许任何人生成人工智能生成的假图像并将其叠加在真实的谷歌地球地图上的工具很快引发了强烈反对。",
+          "source": "TechCrunch",
           "date": "07-31",
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
         },
         {
-          "title": "这是在 Google Earth 中放置 AI 图像生成器的问题",
-          "summary": "只需文本提示，即可使用 Google 地球的卫星、航空和 3D 图像以及现已回滚的人工智能功能生成扭曲现实的图像，例如由 Digital Digging 的 Henk van Ess 生成的这些图像，显示“墨西哥边境附近的难民”和加沙一家医院附近的炸弹坑。谷歌最初回应[&#8230;]",
-          "source": "The Verge",
+          "title": "山姆·奥尔特曼并不是唯一一个想要给人工智能踩刹车的人",
+          "summary": "经过多年全速推动人工智能发展，OpenAI 首席执行官 Sam Altman 表示，也许现在是人工智能行业调整自己节奏的时候了。就在几天前，OpenAI 自己的一个模型突破了测试环境，并卷入了“Hugging Face 的漏洞”——尽管正如 Equity 的主持人指出的那样，马虎的安全性似乎已经[&#8230;]",
+          "source": "TechCrunch",
           "date": "07-31",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images"
+          "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
+        },
+        {
+          "title": "Snapchat 不再奖励完全由人工智能生成的 Spotlight 内容",
+          "summary": "Snapchat 调整了推荐系统，确保只有真人制作的视频才有资格获得 Spotlight 推荐，反对 AI 滥用。",
+          "source": "TechCrunch",
+          "date": "07-31",
+          "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
+        },
+        {
+          "title": "Siri AI 可能会为高级用户提供付费专区",
+          "summary": "苹果首席执行官蒂姆·库克 (Tim Cook) 预计，用户能够通过苹果现有的 iCloud+ 订阅为 Siri AI 购买更多计算资源。",
+          "source": "TechCrunch",
+          "date": "07-31",
+          "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/"
+        },
+        {
+          "title": "SpaceX 在一年内不会拆除所有 xAI 未经许可的涡轮机",
+          "summary": "SpaceX 正在为 xAI 的 Colossus 数据中心建造一座新发电厂，但在接下来的几个月内不会拆除现有的、未经许可的涡轮机。",
+          "source": "TechCrunch",
+          "date": "07-31",
+          "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/"
+        },
+        {
+          "title": "Smallest.ai 融资 1300 万美元，用于构建听起来像人类的超快语音 AI",
+          "summary": "该初创公司正在构建旨在使人工智能电话通过图灵测试的语音模型。",
+          "source": "TechCrunch",
+          "date": "07-31",
+          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"
         }
       ]
     },
@@ -84,11 +84,25 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "《Hyouken no Majutsushi ga Sekai wo Suberu II》公布了更多演员、工作人员和预告片、“Ojisan wa Kawaii Mono ga Osuki。”宣布追加演员阵容、轻小说《Tsuihou s…",
+      "summary": "“清别《蒙娜丽莎》的君 e”。公布主要演员、工作人员、预告片、《FX战士狂三》公布追加演员阵容、2026年秋季片尾曲、《Hyouken no Majutsushi ga Sekai wo Suberu II》公布了更多演员、工作人员和预告片",
       "items": [
         {
+          "title": "“清别《蒙娜丽莎》的君 e”。公布主要演员、工作人员、预告片",
+          "summary": "改编自吉村笠次的清别《蒙娜丽莎》的电视动画的官方网站没有基米 e。 《就像蒙娜丽莎》漫画于周六公布了主要演员、工作人员和预告片宣传视频。主角日濑有马由配音演员安西千花（Grand Blue）出演。职员总监：春藤假名（启示录酒店） 角色设计、首席动画总监：杉山信宏（3-gatsu no Lion） 音乐：Yuuki Hayashi（奖牌获得者） 工作室：Shaft Executive...",
+          "source": "MyAnimeList",
+          "date": "08-01",
+          "url": "https://myanimelist.net/news/74545561?_location=rss"
+        },
+        {
+          "title": "《FX战士狂三》公布追加演员阵容、2026年秋季片尾曲",
+          "summary": "改编自 Demunyan 和 Daisuki Tansan 的 FX Senshi Kurumi-chan（FX Fighter Kurumi-chan）漫画的电视动画的官方网站于周六公布了额外的演员阵容、主视觉图（如图）和片尾主题。该动画系列将于 2026 年 10 月首播。 演员 小金 Mochiko：Asami Seto（Seishun Buta Yarou wa Bunny Girl Se",
+          "source": "MyAnimeList",
+          "date": "08-01",
+          "url": "https://myanimelist.net/news/74544102?_location=rss"
+        },
+        {
           "title": "《Hyouken no Majutsushi ga Sekai wo Suberu II》公布了更多演员、工作人员和预告片",
-          "summary": "改编自御子柴奈奈轻小说《冰刃魔法师将统治世界》的电视动画官方网站周五公布了第二季的更多演员、工作人员和预告片宣传视频。新一季预计于 2026 年 10 月在 TBS 和 BS11 首播。演员 Elisa Griffith：Miyu Kubota（Love Live！ Nijigasaki Gakuen School Idol Doukoukai） NEW Albert Allium：Kohei A",
+          "summary": "改编自御子柴奈奈轻小说《冰刃魔法师将统治世界》的电视动画官方网站周五公布了第二季的更多演员、工作人员和预告片宣传视频。新一季计划于 2026 年 10 月在 TBS 和 BS11 首播。演员 Elisa Griffith：Miyu Kubota（Love Live！ Nijigasaki Gakuen School Idol Doukoukai） NEW Albert Allium：Kohei A",
           "source": "MyAnimeList",
           "date": "07-31",
           "url": "https://myanimelist.net/news/74540961?_location=rss"
@@ -115,7 +129,7 @@
           "url": "https://myanimelist.net/news/74537215?_location=rss"
         },
         {
-          "title": "《天幕之蛇》追加演员阵容公布",
+          "title": "《Tenmaku no Jaadugar》追加演员阵容公布 [8/2 更新]",
           "summary": "电视动画《天幕之女巫》的官方网站于周四在第六集之前宣布了更多演员阵容。改编自《番茄汤》历史剧漫画的动画系列于7月4日晚上11点连续播出两集。之后动画将于晚上11点30分播出。朝日电视台及其 24 家附属机构播出IMAnimation编程块，其次是BS Asahi。 Dayir：石田晃（银魂） Khulan：水濑祈（异世界四角）...",
           "source": "MyAnimeList",
           "date": "07-30",
@@ -130,7 +144,7 @@
         },
         {
           "title": "漫画《Odoru Sennen Kazoku》获得电视动画化",
-          "summary": "周一，隈研吾制作​​公司宣布将改编自和井明的《千禧家族》漫画，并公布主演阵容、工作人员、预告片视觉效果（如图）和宣传片。该动画系列将在TBS和其他频道播出。配音演员安田陆也（Mayonaka Heart Tune）饰演提奥。系列构成担当监督：神房正人（《Tate no Yuusha no Nariagari Season 2》、《Dokyuu Hentai HxEros》）角色设计、首席动画导演",
+          "summary": "周一，隈研吾制作​​公司宣布将改编自和井明的《千禧家族》漫画，并公布主演阵容、工作人员、预告片视觉效果（如图）和宣传片。该动画系列将在 TBS 和其他频道播出。配音演员安田陆也（Mayonaka Heart Tune）饰演提奥。系列构成担当监督：神房正人（《Tate no Yuusha no Nariagari Season 2》、《Dokyuu Hentai HxEros》）角色设计、首席动画导",
           "source": "MyAnimeList",
           "date": "07-27",
           "url": "https://myanimelist.net/news/74526362?_location=rss"
@@ -141,20 +155,6 @@
           "source": "MyAnimeList",
           "date": "07-27",
           "url": "https://myanimelist.net/news/74525574?_location=rss"
-        },
-        {
-          "title": "《Wareware wa Uchuujin》公布了额外的演员阵容、工作人员、主题曲、主要预告片",
-          "summary": "周一，《Wareware wa Uchuujin》（《我们是外星人》）的官方 X（以前的 Twitter）公布了额外的演员阵容、工作人员、主题曲、主视觉图（如右图）和主要预告片。该片计划于 9 月 25 日在日本影院首映。演员松井毛里和山崎十将分别饰演片原和小夏。艺术总监：山田清濑、山田一树摄影指导：辰川敬一郎剪辑：门胁晃平、阙庆一郎...",
-          "source": "MyAnimeList",
-          "date": "07-27",
-          "url": "https://myanimelist.net/news/74525538?_location=rss"
-        },
-        {
-          "title": "视觉小说《Senren＊Banka》将于 2027 年改编成动画",
-          "summary": "Yuzusoft SongFes 2026 活动周日宣布将其《Senren＊Banka》视觉小说改编成动画，并公布了演员阵容和片头主题曲艺术家。该动画系列将于 2027 年首播。演员 吉野友武：空遥真子 日立：优花 Yuuka Murasame：佐藤美柑 Liechtenauer Lena：Sawa Sawasawa 创作型歌手 KOTOKO（灼眼的夏娜）将演唱片头主题曲。这部浪漫视觉小说由 Yu",
-          "source": "MyAnimeList",
-          "date": "07-27",
-          "url": "https://myanimelist.net/news/74525196?_location=rss"
         }
       ]
     },
@@ -180,7 +180,7 @@
         },
         {
           "title": "如果你对《Stellar Blade: Blood Rain》感到兴奋，这里有一段 AI-Slop 音乐视频可以解决这个问题",
-          "summary": "视频看起来完全是人工智能生成的，主角 Evie 在探索游戏中的反乌托邦赛博朋克城市时唱着一首名为“Wanna be in Love”的“原创”歌曲官方公告预告片作为夏季奥运会节的一部分首次亮相。\n\n\n\n在城市中漫步时，Evie 捡到了一个 KPop Demon Hunters 钥匙扣。在视频的最后，有 Shift Up 开发人员与 Evie 一起“在现场”的“幕后花絮”，为她提供了直接指导",
+          "summary": "视频看起来完全是人工智能生成的，主角 Evie 在探索游戏中的反乌托邦赛博朋克城市时唱着一首名为“Wanna be in Love”的“原创”歌曲官方公告预告片作为夏季奥运会节的一部分首次亮相。\n\n\n\n在城市里闲逛时，Evie 捡到了一个 KPop Demon Hunters 钥匙扣。在视频的最后，有 Shift Up 开发人员与 Evie 一起“在现场”的“幕后镜头”，为她提供了直接指导",
           "source": "GameSpot",
           "date": "07-31",
           "url": "https://www.gamespot.com/articles/if-you-were-excited-about-stellar-blade-blood-rain-heres-an-ai-slop-music-video-to-fix-that/"
@@ -201,7 +201,7 @@
         },
         {
           "title": "这就是为什么人们认为《时之笛》重制版将在《GTA 6》前一周推出",
-          "summary": "《塞尔达传说》粉丝开始怀疑《时之笛》重制版将于 11 月中旬推出，与《侠盗猎车手 6》相差无几。这些理论围绕着任天堂 Amiibo 发行的明显模式展开，很难责怪任何人购买它们。\n\n\n\n每Kotaku，粉丝声称已在英国任天堂的一对星之卡比空中骑士 Amiibo 玩偶（Sword Kirby 和 Noir Dedede）的发布日期为 11 月 11 日（根据正确的区域系统时钟设置调整为 11 月 12",
+          "summary": "《塞尔达传说》粉丝开始怀疑《时之笛》重制版将于 11 月中旬推出，距离《侠盗猎车手 6》仅咫尺之遥。这些理论围绕着任天堂 Amiibo 发行的明显模式展开，很难责怪任何人购买它们。\n\n\n\n每Kotaku，粉丝声称已在英国任天堂的一对星之卡比空中骑士 Amiibo 玩偶（Sword Kirby 和 Noir Dedede）的发布日期为 11 月 11 日（根据正确的区域系统时钟设置调整为 11 月 ",
           "source": "GameSpot",
           "date": "07-31",
           "url": "https://www.gamespot.com/articles/heres-why-people-think-the-ocarina-of-time-remake-will-launch-a-week-before-gta-6/"
