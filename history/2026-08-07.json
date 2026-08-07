@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-07",
+  "quote": "「下载：谷歌的人工智能变革和 Meta 的流氓模型」等AI 45条、动漫 20条、游戏 40条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "下载：谷歌的人工智能变革和 Meta 的流氓模型、下载：美国宇航局的新望远镜和中国技术进口限制、下载：美国机器人限制和 ICE 的 DNA 抓取",
+      "items": [
+        {
+          "title": "下载：谷歌的人工智能变革和 Meta 的流氓模型",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。谷歌的人工智能帝国正在重塑。这是更改的内容。在经历了一波技术人才大战的痛苦损失、下一代旗舰机型的推迟以及士气低落的抱怨之后，“",
+          "source": "MIT科技评论",
+          "date": "08-06",
+          "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+        },
+        {
+          "title": "下载：美国宇航局的新望远镜和中国技术进口限制",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。美国宇航局的新型暗能量太空望远镜还可以探测杀手小行星 八月底，美国宇航局计划从肯尼迪航天公司发射南希·格雷斯·罗马太空望远镜",
+          "source": "MIT科技评论",
+          "date": "08-05",
+          "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
+        },
+        {
+          "title": "下载：美国机器人限制和 ICE 的 DNA 抓取",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。特朗普的人工智能保护主义针对的是机器人技术——詹姆斯·奥唐纳 (James O’Donnell)人形机器人通常引起的畏缩多于敬畏：它们会绊倒、踢孩子，尽管取得了进步，但在“使用双手”方面仍然比我的孩子差。这是&#8230;",
+          "source": "MIT科技评论",
+          "date": "08-04",
+          "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+        },
+        {
+          "title": "特朗普的人工智能保护主义针对机器人",
+          "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。人形机器人通常引起的畏缩多于敬畏：它们绊倒、踢孩子，尽管取得了进步，但在使用双手方面仍然比我的孩子差。这是一个新兴行业，而这样的机器人……",
+          "source": "MIT科技评论",
+          "date": "08-03",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+        },
+        {
+          "title": "下载：奖励黑客行为的解释和可疑的伊朗网络攻击",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么人工智能代理为了达到目标而撒谎和作弊的原因。 上个月，当两个 OpenAI 模型入侵 Hugging Face 时，他们并不是想赚钱或进行破坏，而是……",
+          "source": "MIT科技评论",
+          "date": "08-03",
+          "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
+        },
+        {
+          "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
+          "summary": "麻省理工学院技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。当两个 OpenAI 模型在 7 月份侵入 Hugging Face 网站时，他们并不是想赚钱或进行破坏——他们只是在寻找答案……",
+          "source": "MIT科技评论",
+          "date": "08-03",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+        },
+        {
+          "title": "下载：蒙大拿州新的实验药物规则",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。",
+          "source": "MIT科技评论",
+          "date": "07-31",
+          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+        },
+        {
+          "title": "据报道，Jony Ive 的第一个 OpenAI 小工具是一个冰球大小的智能扬声器",
+          "summary": "据彭博社记者 Mark Gurman 报道，OpenAI 与前苹果设计师 Jony Ive 共同开发的人工智能设备“本质上是一款没有显示屏的智能扬声器”，由电池供电，呈甜甜圈形状，大小与冰球差不多。该设备预计将于 2027 年推出，价格超过 300 美元，据报道“将具有独特的外观，[&#8230;]",
+          "source": "The Verge",
+          "date": "08-06",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+        },
+        {
+          "title": "Suno 分享打击垃圾人工智能音乐的计划",
+          "summary": "Suno 宣布计划实施新的水印技术和下载政策，以限制垃圾 AI 曲目的传播并提高透明度。在一篇长篇博客文章中，首席执行官兼联合创始人 Mikey Shulman 阐述了公司的原则以及公司寻求合法性的后续步骤。该公司正在推出新的[&#8230;]",
+          "source": "The Verge",
+          "date": "08-06",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark"
+        },
+        {
+          "title": "OpenAI 为 ChatGPT 免费用户提供无限制的文本聊天",
+          "summary": "OpenAI 正在为其免费和 Go 级别的 ChatGPT 用户做出重大改变：据 OpenAI 称，从下周开始，这些级别的用户将能够与聊天机器人进行无限制的文本聊天。目前，如果您在这些级别上进行过多的文本聊天，您可能会遇到速率限制，但是[&#8230;]",
+          "source": "The Verge",
+          "date": "08-06",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《深渊制造：Mezameru Shinpi》公布额外演员阵容、主题曲、第三部预告片、《幽灵：夜之恨》公布主要演员阵容，第三部预告片、轻小说《Destiny Unchain Online》电视动画化",
+      "items": [
+        {
+          "title": "《深渊制造：Mezameru Shinpi》公布额外演员阵容、主题曲、第三部预告片",
+          "summary": "《深渊制造》动画系列的官方网站周五公布了动画电影 Mezameru Shinpi（觉醒之谜）的一对额外演员、主题曲和第三个预告片。这部电影计划于 10 月 23 日在日本影院上映。 Tepasté：Sumire Morohoshi (Yakusoku no Neverland) Cravagli: Takanori Hoshino (Mob Psycho 100 II) Kevin Penkin ",
+          "source": "MyAnimeList",
+          "date": "08-07",
+          "url": "https://myanimelist.net/news/74565602?_location=rss"
+        },
+        {
+          "title": "《幽灵：夜之恨》公布主要演员阵容，第三部预告片",
+          "summary": "《幽灵：夜之恨》原创动画电影的官方网站于周五公布了主要演员阵容和第三支预告片。该电影计划于 2027 年 2 月 11 日在日本上映。演员堀田麻友（Blue Thermal）和高桥一生（Mimi wo Sumaseba）分别饰演耐克和马苏。摇滚乐队 Hitsujibungaku（Jujutsu Kaisen 第二季、[Oshi no Ko] 第二季）将为电影表演六首歌曲，包括主题曲。插入曲《Sug",
+          "source": "MyAnimeList",
+          "date": "08-07",
+          "url": "https://myanimelist.net/news/74565234?_location=rss"
+        },
+        {
+          "title": "轻小说《Destiny Unchain Online》电视动画化",
+          "summary": "官方X（以前的Twitter）帐户为resn和八千本的命运Unchain Online改编的电视动画：Kyuuketsuki Shoujo to Natte，Yagate“Aka no Maou”开设星期五的轻小说《Yobareru you ni Narimashita》（《Destiny Unchain Online：我如何成为红魔》）。八本画了一幅插图来纪念这一宣布（如图）。 resn 于 2",
+          "source": "MyAnimeList",
+          "date": "08-06",
+          "url": "https://myanimelist.net/news/74563433?_location=rss"
+        },
+        {
+          "title": "《巨人大君》2027 年冬季首映主要人员名单公布",
+          "summary": "周五，改编自 Q Nikumura 的《巨人大王》漫画的电视动画的官方网站开通，并公布了主要工作人员和预告片视觉效果（如图）。该动画预计于 2027 年 1 月首播。 总导演：池畑博（《魔女守望》） 副导演：大岛克也（《魔法少女的工作室》剧集导演） 角色设计、首席动画导演：光田肇（秋叶之旅动画） 系列构成、脚本：佐藤悠（Haite Kudasai、...",
+          "source": "MyAnimeList",
+          "date": "08-06",
+          "url": "https://myanimelist.net/news/74563408?_location=rss"
+        },
+        {
+          "title": "新电视动画《攻壳机动队》宣布追加演员阵容",
+          "summary": "新电视动画《攻壳机动队》的官方网站于周四宣布了另外一对演员阵容。新电视动画于周二晚上 11:00 首播。关西电视台和富士电视台附属公司。声优久川彩（《龙珠大马》）和熊谷妮娜（《飙速宅男》）将分别饰演安纳普纳和尤尼普玛。 Moko-chan（Dandadan 副导演）正在 Science SARU 执导这部动画。卓恩乔（哥斯拉：S.P）正在处理系列...",
+          "source": "MyAnimeList",
+          "date": "08-06",
+          "url": "https://myanimelist.net/news/74560956?_location=rss"
+        },
+        {
+          "title": "漫画《Dokagui Daisuki!》 《望月同学》改编成电视动画",
+          "summary": "制作公司东宝动画开设了根据丸与野海鸥的《Dokagui Daisuki》改编的电视动画的官方网站！周二，望月同学（我爱 Dokagui！望月同学）漫画揭晓了 Maruyono 的庆祝插画。动画工作室 Passione 正在制作这部动画。丸与乃于2024年5月开始在Young Animal Zero杂志和Young Animal Web网站上连载喜剧美食漫画。白泉社于2025年11月出版了第三卷，第",
+          "source": "MyAnimeList",
+          "date": "08-04",
+          "url": "https://myanimelist.net/news/74554728?_location=rss"
+        },
+        {
+          "title": "《弥生的最后 Boss 阿拉瓦雷塔！》第二季公布更多演员、片头主题、首个宣传片",
+          "summary": "电视动画《Firehead 的野星最后的 Boss 阿拉瓦雷塔》改编的官方网站！轻小说《狂野的最后boss出现了！》周二公开了第二季的追加演员阵容、片头曲以及首个宣传视频。新一季计划于 2026 年 10 月在 Tokyo MX、BS Asahi 和关西电视台首播。 卡金诺斯：铃木亮太（斯通博士：科学未来） 天蝎座：高桥千秋（银魂） 卡斯特：樱井贵宏（灵能百分百）米扎尔：新普...",
+          "source": "MyAnimeList",
+          "date": "08-04",
+          "url": "https://myanimelist.net/news/74554597?_location=rss"
+        },
+        {
+          "title": "漫画《新网球王子》结束27年连载",
+          "summary": "今野武的《网球王子 II》漫画在 Jump SQ 2026 年 9 月号上完结。周二，标志着其近 27 年连载的结束。 Konomi开始在Jump SQ上连载续作体育漫画。 2009年3月，集英社于6月4日出版了第47卷。第48卷也是最终卷预计于9月4日发行。原作体育漫画于1998年至2008年在《周刊少年Jump》上连载，并被编辑为42卷。维兹米...",
+          "source": "MyAnimeList",
+          "date": "08-04",
+          "url": "https://myanimelist.net/news/74553567?_location=rss"
+        },
+        {
+          "title": "八月北美动漫和漫画发布",
+          "summary": "以下是八月份最受欢迎的动画、漫画和轻小说。第 1 周：8 月 4 日 - 10 部动漫发布《All You Need Is Kill》蓝光 Niwatori Fighter（Rooster Fighter）[限量版]漫画发布 Ao No Hako（蓝盒）卷。伊瓦雷塔宁尤姬，位于德雷代尔市的八梅塔拉王子的田地。狗术！公主新郎 Vol.1 黑色四叶草 Vol.37 公主新郎 Vol.37 公主新郎 V",
+          "source": "MyAnimeList",
+          "date": "08-02",
+          "url": "https://myanimelist.net/news/74549344?_location=rss"
+        },
+        {
+          "title": "新《数码宝贝》动画将于 2027 年推出",
+          "summary": "《数码宝贝》动漫系列的官方 X（以前的 Twitter）帐户于 8 月 1 日宣布了一个动漫项目。新系列计划于 2027 年播出。《数码宝贝》系列于 1997 年开始作为一款虚拟宠物游戏，后来因 1999 年的动漫《数码宝贝大冒险》（《数码宝贝》）而广受欢迎。该系列至今已制作了总共 10 部电视动画和 11 部电影。最新系列《Digimon Beatbreak》于 2025 年 10 月 5 日在",
+          "source": "MyAnimeList",
+          "date": "08-02",
+          "url": "https://myanimelist.net/news/74548488?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、PSA：《Marvel Tokon：格斗灵魂》在 PC 上出现第一天问题",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，此更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "PSA：《Marvel Tokon：格斗灵魂》在 PC 上出现第一天问题",
+          "summary": "Marvel Tokon: Fighting Souls 今天发布，但 PC 玩家在游戏中遇到了一些 PlayStation 5 玩家不必处理的问题。开发商 Arc System Works 指出，PC 端口在上个月的公测期间出现了问题，它承诺在第一天就通过补丁修复它们。然而，PC 玩家报告 Marvel Tokon 仍然遇到同样的问题，导致其在测试期间几乎无法玩。\n\n\n\n正如 <a href=\"",
+          "source": "GameSpot",
+          "date": "08-06",
+          "url": "https://www.gamespot.com/articles/psa-marvel-tokon-fighting-souls-has-day-one-issues-on-pc/"
+        },
+        {
+          "title": "《GTA 6》预告片在 Netflix 后面付费让很多人感到不安，但这是时代的标志",
+          "summary": "Rockstar 和 Netflix 今天突然宣布，《GTA 6》的“加长版”将于 8 月 27 日在流媒体平台上推出。考虑到预告片 2 已经过去一年多了，人们一直在强烈要求游戏有新的外观，但很少有人能想到 GTA 6 的下一款版会通过 Netflix 推出。很多人对此感到失望，他们表示 Rockstar 暂时通过 Netflix 独家托管下一部《GTA 6》预告片，实际上是在付费。\n\n\n\n可以肯",
+          "source": "GameSpot",
+          "date": "08-06",
+          "url": "https://www.gamespot.com/articles/gta-6-being-paywalled-behind-netflix-is-upsetting-a-lot-of-people-but-its-a-sign-of-the-times/"
+        },
+        {
+          "title": "独立游戏捆绑包帮助下岗开发者筹集了近 20 万美元",
+          "summary": "在飙升超过 100,000 美元的初始目标后，Itch.io 上的游戏行业困难基金捆绑包现已筹集到接近 200,000 美元，还剩 7 天。\n\n\n\n该捆绑包迄今为止已筹集超过 163,000 美元，包含 127 款游戏，最低价格为 10 美元，收益将用于帮助下岗的开发者支付日常开支。其中还包括一些大牌游戏，包括《Skatebird》、《A Short Hike》和《Arranger》等独立游戏。\n",
+          "source": "GameSpot",
+          "date": "08-06",
+          "url": "https://www.gamespot.com/articles/indie-game-bundle-aiding-laid-off-developers-is-nearing-200000-raised/"
+        },
+        {
+          "title": "迷恋明星 Inde Navarrette 已获得视频游戏角色，喜欢史莱克",
+          "summary": "因德·纳瓦雷特 (Inde Navarrette) 在主演库里·巴克 (Curry Barker) 的恐怖电影《痴迷》(Obsession) 后，今年的名气达到了新的高度。她也是电子游戏的忠实粉丝。她现在透露，她收到了游戏中的角色，并且她喜欢《怪物史莱克》。\n\n\n\n“是的，我很快就会开始我的旅程，”当被问及是否有工作室打电话邀请她参与视频游戏时，她告诉 Variety。 “我想尝试一些更小的东西来",
+          "source": "GameSpot",
+          "date": "08-03",
+          "url": "https://www.gamespot.com/articles/obsession-star-inde-navarrette-has-been-offered-video-game-roles-loves-shrek/"
+        },
+        {
+          "title": "Peak的最终重大更新将添加一个充满危险的地下城",
+          "summary": "Peak，一款与朋友一起爬山的“friendslop”游戏，第一年销量就超过 1000 万份，将于8 月 11 日，这对于经验丰富的球探来说似乎是一个合适的挑战。\n\n\n\n被称为“最终攀登”的更新将引入两个新的游戏后期生物群系：幽暗和城堡，它们将与游戏当前的火山口和窑炉生物群系一起循环出现。更新的预告片显示幽暗是一个看起来幽灵般的沼泽，而城堡看起来是一个中世纪的堡垒，配有像摆动连枷这样的陷阱。似乎这",
+          "source": "GameSpot",
+          "date": "08-06",
+          "url": "https://www.gamespot.com/articles/peaks-final-major-update-will-add-a-danger-filled-dungeon/"
+        },
+        {
+          "title": "随着加密货币趋势的消退，另一家区块链游戏工作室关闭",
+          "summary": "加密游戏行业的持续崩溃本周又造成了另一个受害者，区块链初创公司 Proof of Play 在关闭其旗舰游戏《Pirate Nation》大约一年后宣布倒闭。\n\n\n\nProof of Play 由 FarmVille 联合创始人 Amitt Mahajan 创立，是众多试图将熟悉的休闲游戏玩法与加密代币激励和 NFT 形式的玩家拥有资产结合起来的公司之一，而这是大多数游戏玩家从未热衷的前提。\n\n\n",
+          "source": "GameSpot",
+          "date": "08-06",
+          "url": "https://www.gamespot.com/articles/another-blockchain-game-studio-shuts-down-as-crypto-trend-sputters-out/"
+        },
+        {
+          "title": "《塞尔达传说》真人电影可能已经找到了它的加农多夫",
+          "summary": "索尼影业和任天堂制作的真人版《塞尔达传说》电影已经选定了塞尔达和林克，但其他角色呢？一份新报道称，因电视剧《Young Rock》而闻名的澳大利亚演员乌利·拉图克夫将饰演反派加农多夫。 \n\n\n\n这是根据《纽约时报》好莱坞资深记者凯尔·布坎南报道的。他说他“听说”拉图克夫得到了这个角色，但工作室尚未正式证实。 Deadline 也报道了他的选角，并称他达成了多部电影协议。\n\n\n\n<img alt=\"",
+          "source": "GameSpot",
+          "date": "08-06",
+          "url": "https://www.gamespot.com/articles/the-legend-of-zelda-live-action-movie-may-have-found-its-ganondorf/"
+        },
+        {
+          "title": "最新的 PS5 盒子带有相当惨淡的警告",
+          "summary": "PlayStation 及其全数字游戏未来的计划——或者确切地说，是在 PlayStation 5 的包装上——已经是不祥之兆。据报道，随着索尼于 2028 年 1 月结束游戏光盘的生产，这家 PS5 制造商已开始在其游戏机的补货上贴上警告贴纸，告知消费者游戏只能在17 个月后的数字格式。\n\n\n\n由 YouTuber Behind the Games 发现 - 他说该游戏机是由他们认识的“可信来源",
+          "source": "GameSpot",
+          "date": "08-06",
+          "url": "https://www.gamespot.com/articles/the-latest-ps5-boxes-come-with-a-pretty-bleak-warning/"
+        }
+      ]
+    }
+  ]
+}
