@@ -1,13 +1,20 @@
 {
-  "date": "2026-08-08",
-  "quote": "「OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度」等AI 37条、动漫 20条、游戏 32条——每日精选资讯速览。",
+  "date": "2026-08-09",
+  "quote": "「OpenAI 收购演示初创公司 NextSlide」等AI 33条、动漫 20条、游戏 31条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度、Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具、Cloudflare 推出 Kitesurf，一款专为 AI 代理构建…",
+      "summary": "OpenAI 收购演示初创公司 NextSlide、OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度、Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
       "items": [
+        {
+          "title": "OpenAI 收购演示初创公司 NextSlide",
+          "summary": "NextSlide 表示其团队成员目前正在开发 ChatGPT。",
+          "source": "TechCrunch",
+          "date": "08-08",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+        },
         {
           "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
           "summary": "OpenAI 表示，这个仍在开发中的模型已经达到了“关键的网络安全阈值”，这意味着它可以独立识别并针对传统上受到良好保护的现实世界系统进行网络攻击。",
@@ -45,7 +52,7 @@
         },
         {
           "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-          "summary": "有关 OpenAI 神秘的新型人工智能设备的更多细节使它听起来像一个昂贵的智能扬声器。",
+          "summary": "关于 OpenAI 神秘的新型人工智能设备的更多细节使它听起来像一个昂贵的智能扬声器。",
           "source": "TechCrunch",
           "date": "08-06",
           "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
@@ -59,7 +66,7 @@
         },
         {
           "title": "Naïve 筹集了 2850 万美元，用于自动化设立和运营公司的繁重工作",
-          "summary": "Naïve 进一步推进了振动编码，声称其基础设施可以自动化建立和运营企业的大部分工作。",
+          "summary": "Naïve 将振动编码更进一步，声称其基础设施可以自动化建立和运营企业的大部分工作。",
           "source": "TechCrunch",
           "date": "08-06",
           "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
@@ -70,13 +77,6 @@
           "source": "TechCrunch",
           "date": "08-06",
           "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
-        },
-        {
-          "title": "OpenAI 称苹果自身的安全做法破坏了其商业机密案件",
-          "summary": "新提交的法庭证物显示了 OpenAI 在苹果商业机密诉讼中的法律策略：辩称苹果自身的安全和离职做法——包括允许苹果经理在前工程师离开公司后访问他的 iCloud 账户——削弱了其声称被盗信息得到适当保护的说法。",
-          "source": "TechCrunch",
-          "date": "08-06",
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
         }
       ]
     },
@@ -162,7 +162,7 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、REANIMAL DLC“囚徒”现已推出",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、姆明：仲夏疯狂将于今年秋季推出",
       "items": [
         {
           "title": "《军团要塞 2》更新已发布",
@@ -177,6 +177,27 @@
           "source": "Steam",
           "date": "07-11",
           "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "姆明：仲夏疯狂将于今年秋季推出",
+          "summary": "点击式冒险游戏《姆明：仲夏疯狂》将通过 &hellip; 推出 Switch 2、Switch 和 PC 版",
+          "source": "Gematsu",
+          "date": "08-09",
+          "url": "https://www.gematsu.com/2026/08/moomin-midsummer-madness-launches-this-fall"
+        },
+        {
+          "title": "Neverness to Everness 1.3 版更新“从月光雾中升起”将于 8 月 19 日发布",
+          "summary": "免费超自然城市开放世界动作角色扮演游戏《Neverness to Everness》的 1.3 版更新，名为……",
+          "source": "Gematsu",
+          "date": "08-08",
+          "url": "https://www.gematsu.com/2026/08/neverness-to-everness-version-1-3-update-rising-from-the-moonlight-fog-launches-august-19"
+        },
+        {
+          "title": "1998 年：PS5 版《收费员故事》现已推出",
+          "summary": "PlayStation 5 版叙事模拟游戏 1998: The Toll Keeper Story 现已推出……",
+          "source": "Gematsu",
+          "date": "08-08",
+          "url": "https://www.gematsu.com/2026/08/1998-the-toll-keeper-story-for-ps5-now-available"
         },
         {
           "title": "REANIMAL DLC“囚徒”现已推出",
@@ -212,27 +233,6 @@
           "source": "Gematsu",
           "date": "08-07",
           "url": "https://www.gematsu.com/2026/08/disney-epic-mickey-rebrushed-coming-to-ios-android-on-september-16"
-        },
-        {
-          "title": "HandyGames 更名为 THQ Nordic Mobile",
-          "summary": "母公司 THQ Nordic 宣布，HandyGames 已更名为 THQ Nordic Mobile。下……",
-          "source": "Gematsu",
-          "date": "08-07",
-          "url": "https://www.gematsu.com/2026/08/handygames-rebrands-to-thq-nordic-mobile"
-        },
-        {
-          "title": "《英雄萨姆：破碎宇宙》将于 8 月 31 日推出",
-          "summary": "多人 Roguelite 第一人称射击游戏《Serious Sam: Shatterverse》将于 PlayStation 5、Xbox Series 等平台推出",
-          "source": "Gematsu",
-          "date": "08-07",
-          "url": "https://www.gematsu.com/2026/08/serious-sam-shatterverse-launches-august-31"
-        },
-        {
-          "title": "《呼啸惊涛》3.6版本更新“幻灯灯心剑意”8月20日上线",
-          "summary": "Kuro Games 将发布免费开放世界动作角色扮演游戏《Wuthering Waves》的 3.6 版更新，&hellip;",
-          "source": "Gematsu",
-          "date": "08-07",
-          "url": "https://www.gematsu.com/2026/08/wuthering-waves-version-3-6-update-lamplight-in-mirage-swords-resolve-in-heart-launches-august-20"
         }
       ]
     }
