@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-10",
+  "quote": "「下载：审查制度阴谋论和人工智能创造的第一个病毒」等AI 42条、动漫 20条、游戏 32条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "下载：审查制度阴谋论和人工智能创造的第一个病毒、庞大审查网络的想法如何从网络边缘转向特朗普政策、下载：谷歌的人工智能变革和 Meta 的流氓模型",
+      "items": [
+        {
+          "title": "下载：审查制度阴谋论和人工智能创造的第一个病毒",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。庞大审查网络的想法如何从网络边缘转向特朗普政策多年来，有关“审查工业综合体”的叙述在右翼圈子中传播。该理论声称，根据“",
+          "source": "MIT科技评论",
+          "date": "08-07",
+          "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+        },
+        {
+          "title": "庞大审查网络的想法如何从网络边缘转向特朗普政策",
+          "summary": "本文是在韦恩·巴雷特项目的支持下与 Type Investigations 合作制作的。 2025 年 4 月的一天早上，美国国务院一个小办公室的员工收到了他们中许多人一直害怕的电子邮件。几个月来，埃隆·马斯克 (Elon Musk) 领导的政府效率部一直在大力开展工作。",
+          "source": "MIT科技评论",
+          "date": "08-07",
+          "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
+        },
+        {
+          "title": "下载：谷歌的人工智能变革和 Meta 的流氓模型",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。谷歌的人工智能帝国正在重塑。这是更改的内容。在经历了一波技术人才大战的痛苦损失、下一代旗舰机型的推迟以及士气低落的抱怨之后，“",
+          "source": "MIT科技评论",
+          "date": "08-06",
+          "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+        },
+        {
+          "title": "下载：美国宇航局的新望远镜和中国技术进口限制",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。美国宇航局的新型暗能量太空望远镜还可以探测杀手小行星 八月底，美国宇航局计划从肯尼迪航天公司发射南希·格雷斯·罗马太空望远镜",
+          "source": "MIT科技评论",
+          "date": "08-05",
+          "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
+        },
+        {
+          "title": "下载：美国机器人限制和 ICE 的 DNA 抓取",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。特朗普的人工智能保护主义针对的是机器人技术——詹姆斯·奥唐纳 (James O’Donnell)人形机器人通常引起的畏缩多于敬畏：它们会绊倒、踢孩子，尽管取得了进步，但在“使用双手”方面仍然比我的孩子差。这是&#8230;",
+          "source": "MIT科技评论",
+          "date": "08-04",
+          "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+        },
+        {
+          "title": "特朗普的人工智能保护主义针对机器人",
+          "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。人形机器人通常引起的畏缩多于敬畏：它们绊倒、踢孩子，尽管取得了进步，但在使用双手方面仍然比我的孩子差。这是一个新兴行业，而这样的机器人……",
+          "source": "MIT科技评论",
+          "date": "08-03",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+        },
+        {
+          "title": "下载：奖励黑客行为的解释和可疑的伊朗网络攻击",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么人工智能代理为了达到目标而撒谎和作弊的原因。 上个月，当两个 OpenAI 模型入侵 Hugging Face 时，他们并不是想赚钱或进行破坏，而是……",
+          "source": "MIT科技评论",
+          "date": "08-03",
+          "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
+        },
+        {
+          "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
+          "summary": "麻省理工学院技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。当两个 OpenAI 模型在 7 月份侵入 Hugging Face 网站时，他们并不是想赚钱或进行破坏——他们只是在寻找答案……",
+          "source": "MIT科技评论",
+          "date": "08-03",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+        },
+        {
+          "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
+          "summary": "这家专注于人工智能的对冲基金仍在进行一些大赌注。",
+          "source": "TechCrunch",
+          "date": "08-09",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+        },
+        {
+          "title": "Anthropic 默认开启 Claude Code 的自动模式",
+          "summary": "使用 Claude Code 进行编程很快将需要更少的人工监督。",
+          "source": "TechCrunch",
+          "date": "08-09",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "漫画《加百列的辍学》连载结束、网络漫画《恶棍注定死》电视动画化、《罗梅莉亚战记》公布更多演员阵容和 2026 年秋季首个宣传片",
+      "items": [
+        {
+          "title": "漫画《加百列的辍学》连载结束",
+          "summary": "作者Ukami的官方X帐户周日宣布，Gabriel DropOut漫画将在漫画电击大王“g”10月号上完结。杂志，标志着该漫画近 13 年连载的结束。宇神开始在漫画电击大王《g》中连载超自然喜剧漫画。杂志于 2013 年 12 月出版。角川于 2025 年 9 月出版了第 16 卷。由 Doga Kobo 制作的 12 集电视动画改编作品于 2017 年冬季播出，随后又推出了两部...",
+          "source": "MyAnimeList",
+          "date": "08-09",
+          "url": "https://myanimelist.net/news/74574148?_location=rss"
+        },
+        {
+          "title": "网络漫画《恶棍注定死》电视动画化",
+          "summary": "出版公司 Kakao Piccoma 于周日宣布改编自 Gyeoeul Gwon 的网络漫画《恶人注定要死》的电视动画，并展示了纪念主要故事结局的视觉效果（如上图所示）。权于 2019 年 3 月至 2020 年 8 月在 KakaoPage 网站上创作了原创网络小说。D&C Media 出版了该系列四卷，并于次月出版了外传。 SUOL最初于5月2日开始在Kakao Webtoon平台上绘制网络漫",
+          "source": "MyAnimeList",
+          "date": "08-09",
+          "url": "https://myanimelist.net/news/74573419?_location=rss"
+        },
+        {
+          "title": "《罗梅莉亚战记》公布更多演员阵容和 2026 年秋季首个宣传片",
+          "summary": "改编自有山亮轻小说《罗梅利亚战争编年史》的电视动画的官方网站于周五公布了更多演员阵容和首个宣传视频。该动画系列将于 2026 年 10 月在东京 MX、BS11、Sun TV 和 KBS 京都播出两期。 安德鲁演员：千叶翔也（Koori no Jouheki） 角斗士的拉格贝尔：梶原岳人（黑色三叶草） 奥特海姆：渡贯龙之介（灵能百分百） 风暴冷却器：堀江俊（Boku n.",
+          "source": "MyAnimeList",
+          "date": "08-07",
+          "url": "https://myanimelist.net/news/74567271?_location=rss"
+        },
+        {
+          "title": "《异世界转生创想》公布追加演员、主要工作人员、首个宣传片、2027 年冬季首映",
+          "summary": "改编自高见良泉小说《异世界转生创想》的电视动画的官方网站于周五公布了额外演员阵容、主要工作人员、第一张主视觉图（如图）和第一部宣传视频。该动画预计于 2027 年 1 月首播。 演员 Seilune: Yukari Anzai (沉默的魔女) Oka Sanai: Takashi Matsuyama (Nageki no Bourei wa Intai Shitai) Oka Masaharu: ",
+          "source": "MyAnimeList",
+          "date": "08-07",
+          "url": "https://myanimelist.net/news/74567040?_location=rss"
+        },
+        {
+          "title": "《深渊制造：Mezameru Shinpi》公布额外演员阵容、主题曲、第三部预告片",
+          "summary": "《深渊制造》动画系列的官方网站周五公布了动画电影 Mezameru Shinpi（觉醒之谜）的一对额外演员、主题曲和第三个预告片。这部电影计划于 10 月 23 日在日本影院上映。 Tepasté：Sumire Morohoshi (Yakusoku no Neverland) Cravagli: Takanori Hoshino (Mob Psycho 100 II) Kevin Penkin ",
+          "source": "MyAnimeList",
+          "date": "08-07",
+          "url": "https://myanimelist.net/news/74565602?_location=rss"
+        },
+        {
+          "title": "《幽灵：夜之恨》公布主要演员阵容，第三部预告片",
+          "summary": "《幽灵：夜之恨》原创动画电影的官方网站于周五公布了主要演员阵容和第三支预告片。该电影计划于 2027 年 2 月 11 日在日本上映。演员堀田麻友（Blue Thermal）和高桥一生（Mimi wo Sumaseba）分别饰演耐克和马苏。摇滚乐队 Hitsujibungaku（Jujutsu Kaisen 第二季、[Oshi no Ko] 第二季）将为电影表演六首歌曲，包括主题曲。插入曲《Sug",
+          "source": "MyAnimeList",
+          "date": "08-07",
+          "url": "https://myanimelist.net/news/74565234?_location=rss"
+        },
+        {
+          "title": "轻小说《Destiny Unchain Online》电视动画化",
+          "summary": "为resn和八千本的命运Unchain Online改编的电视动画开设了官方X帐户：Kyuuketsuki Shoujo to Natte，Yagate“Aka no Maou”星期五的轻小说《Yobareru you ni Narimashita》（《Destiny Unchain Online：我如何成为红魔》）。八本画了一幅插图来纪念这一宣布（如图）。 resn 于 2020 年 5 月开始",
+          "source": "MyAnimeList",
+          "date": "08-06",
+          "url": "https://myanimelist.net/news/74563433?_location=rss"
+        },
+        {
+          "title": "《巨人大君》2027 年冬季首映主要人员名单公布",
+          "summary": "周五，改编自 Q Nikumura 的《巨人大王》漫画的电视动画的官方网站开通，并公布了主要工作人员和预告片视觉效果（如图）。该动画预计于 2027 年 1 月首播。 总导演：池畑博（《魔女守望》） 副导演：大岛克也（《魔法少女的工作室》剧集导演） 角色设计、首席动画导演：光田肇（秋叶之旅动画） 系列构成、脚本：佐藤悠（Haite Kudasai、...",
+          "source": "MyAnimeList",
+          "date": "08-06",
+          "url": "https://myanimelist.net/news/74563408?_location=rss"
+        },
+        {
+          "title": "新电视动画《攻壳机动队》宣布追加演员阵容",
+          "summary": "新电视动画《攻壳机动队》的官方网站于周四宣布了另外一对演员阵容。新电视动画于周二晚上 11:00 首播。关西电视台和富士电视台附属公司。声优久川彩（《龙珠大马》）和熊谷妮娜（《飙速宅男》）将分别饰演安纳普纳和尤尼普玛。 Moko-chan（Dandadan 副导演）正在 Science SARU 执导这部动画。卓恩乔（哥斯拉：S.P）正在处理系列...",
+          "source": "MyAnimeList",
+          "date": "08-06",
+          "url": "https://myanimelist.net/news/74560956?_location=rss"
+        },
+        {
+          "title": "漫画《Dokagui Daisuki!》 《望月同学》改编成电视动画",
+          "summary": "制作公司东宝动画开设了根据丸与野海鸥的《Dokagui Daisuki》改编的电视动画的官方网站！周二，望月同学（我爱 Dokagui！望月同学）漫画揭晓了 Maruyono 的庆祝插画。动画工作室 Passione 正在制作这部动画。丸与乃于2024年5月开始在Young Animal Zero杂志和Young Animal Web网站上连载喜剧美食漫画。白泉社于2025年11月出版了第三卷，第",
+          "source": "MyAnimeList",
+          "date": "08-04",
+          "url": "https://myanimelist.net/news/74554728?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、THQ Nordic Showcase 2026：所有新闻、预告片和透露",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，此更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "THQ Nordic Showcase 2026：所有新闻、预告片和透露",
+          "summary": "自从夏季游戏展示会的 Not-E3 闪电战以来，事情一直相对平静。在此期间，THQ Nordic 发布了一个充满预告片的新展示，以展示发行商从各个工作室发布的内容。虽然 THQ Nordic 并不专注于像专门的 Xbox 和 PlayStation 展示中那样的大牌游戏，但它拥有非常特定的利基类型和 IP 的游戏。\n\n\n\n\nhttps://youtu.be/ToLh5Ruefxk\n\n\n\n\n其中一些",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/thq-nordic-showcase-2026-all-the-news-trailers-and-reveals/"
+        },
+        {
+          "title": "GTA 6 发行商老板表示人工智能工具不会取代任何人",
+          "summary": "在侠盗猎车手 6 母公司 Take-Two Interactive 的最新投资募集期间，首席执行官 Strauss Zelnick 就人工智能在游戏开发中的未来发表了看法。虽然泽尔尼克承认即使是他的公司也会利用人工智能，但他重申了他的信念，即新兴技术不会取代任何人。\n\n\n\n“这些 [AI] 工具不会取代任何人，”泽尔尼克说。他还扩展了公司的方法，他将其描述为专注于创造娱乐而不是以技术领先。 \n\n\n",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/"
+        },
+        {
+          "title": "MLB The Show 26 庆祝交易截止日最大恶棍",
+          "summary": "塔里克·斯库巴尔 (Tarik Skubal) 是过去几年棒球界最好的先发投手之一，作为底特律老虎队的一员，连续两次赢得赛扬奖。但老虎队经历了一个艰难的赛季，球队在上周末的交易截止日期前将斯库巴尔交易给了道奇队。现在，MLB The Show 26 正在用一张特殊的钻石王朝卡来庆祝 Skubal 搬到洛杉矶，这样每个人都可以扮演棒球界最大的反派。\n\n\n\n\n\n\n\nNew Threads Trade ",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/mlb-the-show-26-celebrates-the-trade-deadlines-biggest-villain/"
+        },
+        {
+          "title": "Take-Two 表示，为什么《GTA 6》没有抢先体验",
+          "summary": "Take-Two Interactive 的季度财报电话会议提供了大量有关GTA 6的新信息，包括为什么游戏不会推出享有早期访问特权。在接受投资者采访时，首席执行官 Strauss Zelnick 还被问到为什么 Take-Two Interactive 销售的 GTA 6 特别版本较少（到目前为止，只有 80 美元的标准版和 100 美元的终极版可供预订），以及为什么在其 2K 体育游戏（如 N",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/why-gta-6-doesnt-have-early-access-according-to-take-two/"
+        },
+        {
+          "title": "以下是如何检查您本月是否可以玩《黄昏之血》的方法",
+          "summary": "您现在可以检查自己是否被选中参加The Duskbloods 封闭网络测试，但您不会像您预期的那样收到电子邮件邀请。\n\n\n\n要查看您是否可以参加 From Software 的 Switch 2 多人游戏测试，您必须访问网络测试网站。从那里，点击页面右上角的三行菜单，然后选择“帐户”以转到您的个人页面。\n\n\n\n到达那里后，您将看到您的选择结果 - 该页面将告诉您任一方式。不幸的是，如果您看到蓝色的",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/heres-how-to-check-if-you-can-play-the-duskbloods-this-month/"
+        },
+        {
+          "title": "Take-Two 首席执行官表示，流媒体很快就会让昂贵的游戏机不再那么重要",
+          "summary": "基础 PS5 或 Xbox Series X|S 主机现在的成本远高于以前差不多六年前，但尽管如此，GTA 6 发行商 Take-Two Interactive 并不认为更昂贵的游戏硬件会减缓其业务或即将推出的游戏的销售。作为最近财务季度简报的一部分，Take-Two 首席执行官斯特劳斯·泽尔尼克 (Strauss Zelnick) 在向投资者发表讲话时确实提到，价格较低的游戏硬件仍然更受欢迎，但",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/take-two-ceo-says-streaming-could-soon-make-expensive-consoles-matter-less/"
+        },
+        {
+          "title": "Take-Two 声称《GTA 6》预购量在整个行业是“史无前例”的",
+          "summary": "继 6 月下旬推出GTA 6 预订后，毫不奇怪，对该游戏的巨大需求立即显现出来。现在，在 Take-Two 财报电话会议上，该出版公司的首席执行官表示，预订数量在整个行业是“前所未有的”。\n\n\n\nStrauss Zelnick 表示：“在 Take-Two 或整个行业中，从来没有人见过这样的事情。”他接着补充说，不过，出色的预购并不总是等于出色的销售。 “需要明确的是，我们还没有售出一台。您可以取",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/gta-6-preorders-are-unprecedented-across-the-industry-take-two-claims/"
+        },
+        {
+          "title": "Take-Two 捍卫 GTA 6 80 美元的价格，称其“非凡价值”",
+          "summary": "虽然 Take-Two Interactive 的大多数游戏定价为 70 美元（从 2020 年起，这成为新游戏更常见的建议零售价）--GTA 6 是少数游戏，零售价80 美元——发行商认为这个价格对于这款开放世界游戏来说是“非凡的价值”。\n\n\n\n在 Take-Two 季度收益发布后与投资者交谈时，首席执行官 Strauss Zelnick 回答了有关发行商如何将 GTA 6 的定价定为 80 美",
+          "source": "GameSpot",
+          "date": "08-07",
+          "url": "https://www.gamespot.com/articles/take-two-defends-gta-6s-80-price-calls-it-phenomenal-value/"
+        }
+      ]
+    }
+  ]
+}
