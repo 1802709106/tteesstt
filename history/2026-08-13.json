@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-13",
+  "quote": "「一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它」等AI 43条、动漫 20条、游戏 28条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它、默认情况下，亚马逊将针对 Twitch 主播的内容进行训练，除非他们选择退出、据报道，人工智能编码初创公司 Cognition 已在就估值…",
+      "items": [
+        {
+          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
+          "summary": "Anthropic 的新水印系统是一种嘲讽吗？一些人在社交媒体上抱怨事实确实如此。",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+        },
+        {
+          "title": "默认情况下，亚马逊将针对 Twitch 主播的内容进行训练，除非他们选择退出",
+          "summary": "Twitch 首席产品官 Mike Minton 在直播中回应用户反馈时表示：“如果这是选择加入，那么没有人会选择加入。” “这就是诚实的答案。”",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+        },
+        {
+          "title": "据报道，人工智能编码初创公司 Cognition 已在就估值 40B 美元的融资进行谈判",
+          "summary": "在以 260 亿美元的估值筹集 10 亿美元后的几个月，Cognition 可能正在寻求另一轮大型融资。",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+        },
+        {
+          "title": "随着人工智能安全问题的加剧，三位先驱者提出了保持开放的理由",
+          "summary": "在 Ai4 会议上，世界上最受尊敬的三位人工智能专家——杰弗里·辛顿 (Geoffrey Hinton)、李飞飞和吴恩达 (Andrew Ng)——讨论了监管、开源准入以及美国如何在中国在亚洲取得进步的情况下进行竞争。",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
+        },
+        {
+          "title": "OpenAI 支持的 Thrive Holdings 筹集了 20 亿美元，将人工智能引入企业",
+          "summary": "Thrive Holdings 已从软银、D1 Capital Partners 和 Altimeter Capital 等投资者处筹集了 20 亿美元新资金，估值为 120 亿美元。",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+        },
+        {
+          "title": "Automattic 面向所有人的 CRM Mesh 现已登陆 Android",
+          "summary": "Mesh 是一款来自 Automattic 的人工智能驱动的联系人应用程序和关系管理器，现已成为 Android 应用程序。",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/"
+        },
+        {
+          "title": "为什么 Stream 戒指制造商 Sandbar 表示 AI 可穿戴设备的未来是语音",
+          "summary": "人工智能笔记硬件在过去几年里已经取得了飞速发展，信用卡大小的设备、吊坠、别针，甚至转录耳塞都有望捕捉你的会议并将其转化为摘要和行动项目。现在，一波可穿戴设备——尤其是戒指——正在押注人们想要以同样的方式捕捉杂乱的想法和想法。 [&#8230;]之一",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/"
+        },
+        {
+          "title": "Lovable 确认新估值 13.3B 美元，再融资 4 亿美元",
+          "summary": "Lovable 告诉 TechCrunch，这笔新融资是在 6 月份年化运行收入达到 5 亿美元之后进行的。",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
+        },
+        {
+          "title": "一笔 2.5 亿美元的收购如何陷入欺诈和伪造签名指控",
+          "summary": "投资者仍在等待这 2.5 亿美元的意外之财，而 VideoVerse 联合创始人 Vinayak Shrivastav 目前正处于多起法律案件的中心。",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
+        },
+        {
+          "title": "为什么Sandbar认为它的语音戒指可以避免人工智能硬件坟墓",
+          "summary": "人工智能笔记硬件在过去几年里已经取得了飞速发展，信用卡大小的设备、吊坠、别针，甚至转录耳塞都有望捕捉你的会议并将其转化为摘要和行动项目。现在，一波可穿戴设备——尤其是戒指——正在押注人们想要以同样的方式捕捉杂乱的想法和想法。 [&#8230;]之一",
+          "source": "TechCrunch",
+          "date": "08-12",
+          "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《Kinsou no Vermeil》漫画家梅津阳子去世、《Cheat Fuyo》透露了更多工作人员，第二个预告片、《地狱模式第 2 季》公布了《罗森海姆篇》的更多演员阵容",
+      "items": [
+        {
+          "title": "《Kinsou no Vermeil》漫画家梅津阳子去世",
+          "summary": "漫画家梅津阳子 (Youko Umezu) 因脑梗死于 7 月 7 日去世，他因天名幸太 (Kouta Amana) 漫画《金银之银》(Kinsou no Vermeil) 的插画家而闻名。她的近亲为她举行了葬礼。 《月刊少年Gangan》编辑部周三宣布了这一消息，称这次突然的告别对艺术家本人来说一定是始料未及的，这对她的家人、编辑人员和所有相关人员来说都是一次令人心碎的事件。 ”我们会...",
+          "source": "MyAnimeList",
+          "date": "08-13",
+          "url": "https://myanimelist.net/news/74586483?_location=rss"
+        },
+        {
+          "title": "《Cheat Fuyo》透露了更多工作人员，第二个预告片",
+          "summary": "改编自六岛麻的电视动画《Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru》的官方网站。一立大城部？ （下岗的金手指法师享受新生活：我不仅可以给武器加“强化点”，还可以给任何东西加“强化点”，并且可以随时取消效果，……",
+          "source": "MyAnimeList",
+          "date": "08-12",
+          "url": "https://myanimelist.net/news/74584650?_location=rss"
+        },
+        {
+          "title": "《地狱模式第 2 季》公布了《罗森海姆篇》的更多演员阵容",
+          "summary": "改编自 Hamuo 的《地狱模式：Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru》轻小说的电视动画官方网站周三公布了第二季的额外演员阵容和新视觉效果（右图）。该动画系列于 7 月 4 日凌晨 1 点在 Tokyo MX 首播，随后在 MBS、AT-X 和 BS Nippon Television 上播出。演员 Rozen：Se",
+          "source": "MyAnimeList",
+          "date": "08-12",
+          "url": "https://myanimelist.net/news/74584342?_location=rss"
+        },
+        {
+          "title": "《坦克椅》公布了更多演员、工作人员、主题曲和首个宣传片",
+          "summary": "改编自八代学的坦克椅漫画的电视动画的官方网站于周三公布了更多演员、工作人员、主视觉图（如图）、主题曲和首个宣传视频。该动画系列预计于 10 月 4 日晚上 11:00 首播。东京 MX，其次是 BS11、CBC 和 MBS。广播博士：Yurina Amami（Sayounara Ryuusei，Konnichiwa Jinsei）Uzu：Gen Satou（Dr. Stone）Gorou Aras",
+          "source": "MyAnimeList",
+          "date": "08-12",
+          "url": "https://myanimelist.net/news/74583863?_location=rss"
+        },
+        {
+          "title": "《梅甘娜、Tokidoki、Yankee-kun》主要工作人员公开，预告片将于 2027 年首次亮相",
+          "summary": "周二，改编自成木的《眼镜蛇》漫画的电视动画的官方网站公布了主要工作人员、两个预告片视觉效果（如上图）和预告片宣传视频。该动画系列将于 2027 年首播。 工作导演：星野诚（Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta Node, Henkyou de Slow Life suru Koto ni Shimashita） 系列构成：Me",
+          "source": "MyAnimeList",
+          "date": "08-11",
+          "url": "https://myanimelist.net/news/74579580?_location=rss"
+        },
+        {
+          "title": "《机动警察：EZY》公布了更多演员阵容，文件 3 预告片",
+          "summary": "动画《机动警察：EZY》（Patlabor The Mobile Police：EZY）的官方网站于周二公布了额外的演员阵容、File 3 主视觉图（如图）和预告片。第一部于 5 月 15 日在影院上映，第二部计划于 8 月 14 日首映。《档案 3》电影计划于 2027 年 3 月 5 日上映。配音演员名冢香织（《赤红杀手！》）和八代卓（坂本时代）将加入演员阵容，分别饰演御手洗薰和新野拓哉。",
+          "source": "MyAnimeList",
+          "date": "08-10",
+          "url": "https://myanimelist.net/news/74579036?_location=rss"
+        },
+        {
+          "title": "《武食转生 III》公布追加演员阵容和《Chaos Breaker》宣传片",
+          "summary": "改编自《利风神那马子手》的《无食转生：异世界一塔拉本木大须》的电视动画的官方网站公布了更多演员阵容，以及“混沌破坏者”的角色信息。周一发布第三季的宣传视频。动画于7月6日中午12点首播。东京 MX 和 BS11 播出，其次是 KBS 京都和 Sun TV。演员详情多拉：小山力也（命运/零）银：常松步美（淡岛百景）Atoferatofe Rybak：。",
+          "source": "MyAnimeList",
+          "date": "08-10",
+          "url": "https://myanimelist.net/news/74577181?_location=rss"
+        },
+        {
+          "title": "小说《Akazukin，Tabi no Tochuu de Shitai to Deau》。 2027 年电视动画化",
+          "summary": "制作公司 Pony Canyon 开设了改编自 Aito Aoyagi 的《Akazukin》的电视动画《Tabi no Tochuu de Shitai to Deau》的官方网站。 （小红帽……）小说于周一公布了主要演员、工作人员、预告片视觉效果（如图）和预告片宣传视频。该动画系列将于 2027 年首播。配音演员宫本梦 (Kanojo ga Koushaku-tei ni Itta Riyuu",
+          "source": "MyAnimeList",
+          "date": "08-10",
+          "url": "https://myanimelist.net/news/74577115?_location=rss"
+        },
+        {
+          "title": "《Marronnier Oukoku no Shichinin no Kishi》主要演员阵容公布，首个宣传片",
+          "summary": "主要演员阵容、主视觉图（右图）和首个宣传视频已于周一公开。该动画系列计划于 10 月 3 日下午 6 点 25 分在 NHK E-Tele 首播。演员姓名：高梨健吾（Dorohedoro）薄爱：谷川真琴主演：石谷春树（Marriagetoxin）猪俣智（Koori n.",
+          "source": "MyAnimeList",
+          "date": "08-10",
+          "url": "https://myanimelist.net/news/74576992?_location=rss"
+        },
+        {
+          "title": "《游戏世界转生“Dankatsu”》公布了主要演员、主要工作人员以及 2027 年冬季预告片",
+          "summary": "制作公司 ABC 动画开设了改编自锦枫的游戏世界转生“Dankatsu”的电视动画的官方网站：Gamer wa“Dungeon Shuukatsu no Susume”我“Hajime kara”周一播放轻小说《轮回游戏世界弹活：游戏迷玩《新游戏》中的《地下城找工作的鼓励》》，公开了主演阵容、工作人员、预告视觉（如图）以及预告宣传视频……",
+          "source": "MyAnimeList",
+          "date": "08-10",
+          "url": "https://myanimelist.net/news/74576953?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、Mind Diver 将于 8 月 27 日登陆 PS5、Switch 2",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，此更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Mind Diver 将于 8 月 27 日登陆 PS5、Switch 2",
+          "summary": "发行商 PLAYISM 和开发商 Indoor Sunglasses 将发布 PlayStation 5 和 Switch 2 版本……",
+          "source": "Gematsu",
+          "date": "08-13",
+          "url": "https://www.gematsu.com/2026/08/mind-diver-coming-to-ps5-switch-2-on-august-27"
+        },
+        {
+          "title": "受弹珠机启发的 Roguelike 游戏 High Roller Penny 宣布推出 PC 版",
+          "summary": "《STARDUST: Wish of Witch》开发商 Kniv Studio 宣布推出 High Roller Penny，这是一款受弹球盘启发的 Roguelike 游戏……",
+          "source": "Gematsu",
+          "date": "08-13",
+          "url": "https://www.gematsu.com/2026/08/pachinko-inspired-roguelike-game-high-roller-penny-announced-for-pc"
+        },
+        {
+          "title": "Animo 将于 9 月 16 日推出",
+          "summary": "免费开放世界生物捕捉动作角色扮演游戏 Aniimo 即将推出 PlayStation 5、Xbox 系列、PC 等平台",
+          "source": "Gematsu",
+          "date": "08-13",
+          "url": "https://www.gematsu.com/2026/08/aniimo-launches-september-16"
+        },
+        {
+          "title": "《安吉琳纪元》将于 9 月 2 日登陆 PS5、Xbox Series、PS4、Xbox One 和 Switch",
+          "summary": "Analgesic Productions 将推出适用于 PlayStation 5、Xbox Series、PlayStation 等的 3D 动作角色扮演游戏《Angeline Era》",
+          "source": "Gematsu",
+          "date": "08-12",
+          "url": "https://www.gematsu.com/2026/08/angeline-era-coming-to-ps5-xbox-series-ps4-xbox-one-and-switch-on-september-2"
+        },
+        {
+          "title": "Half Mermaid Productions 的 PRECOGNITION（以前称为 Project C）将于 2028 年春季推出 PS5、Xbox Series、Switch 2 和 PC 平台",
+          "summary": "Kinetic Publishing 将出版 Half Mermaid Productions 的作品2024 年 1 月宣布真人科幻恐怖游戏 Project C，…",
+          "source": "Gematsu",
+          "date": "08-12",
+          "url": "https://www.gematsu.com/2026/08/half-mermaid-productions-precognition-formerly-project-c-launches-in-spring-2028-for-ps5-xbox-series-switch-2-and-pc"
+        },
+        {
+          "title": "舒适的巫师生活模拟游戏《Aether Wizard Life》将于 2028 年秋季推出，适用于 PS5、Xbox Series、Switch 2 和 PC",
+          "summary": "Kinetic Publishing 将出版 Vonder Games 开发的舒适巫师生活模拟游戏《Aether Wizard Life》……",
+          "source": "Gematsu",
+          "date": "08-12",
+          "url": "https://www.gematsu.com/2026/08/cozy-wizard-life-simulation-game-aether-wizard-life-launches-in-fall-2028-for-ps5-xbox-series-switch-2-and-pc"
+        },
+        {
+          "title": "《寄生类银河恶魔城》《Shellbound》将于 2028 年夏季推出 PS5、Xbox 系列、Switch 2 和 PC 平台",
+          "summary": "Kinetic Publishing 将出版 Fake Lobster Games 开发的《寄生类银河恶魔城》；游戏《Shellbound》启动时...",
+          "source": "Gematsu",
+          "date": "08-12",
+          "url": "https://www.gematsu.com/2026/08/parasitic-metroidvania-shellbound-launches-in-summer-2028-for-ps5-xbox-series-switch-2-and-pc"
+        },
+        {
+          "title": "《新月郡》将于 2027 年夏季推出 PS5、Xbox 系列、Switch 2 和 PC 版",
+          "summary": "Kinetic Publishing 将出版 Electric Saint 开发的“舒适咬合生活切片游戏”；新月县推出时......",
+          "source": "Gematsu",
+          "date": "08-12",
+          "url": "https://www.gematsu.com/2026/08/crescent-county-launches-in-summer-2027-for-ps5-xbox-series-switch-2-and-pc"
+        }
+      ]
+    }
+  ]
+}
