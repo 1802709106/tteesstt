@@ -1,13 +1,34 @@
 {
-  "date": "2026-08-16",
-  "quote": "「女子声称她的继父使用 Grok 将童年照片变成露骨图像」等AI 31条、动漫 20条、游戏 32条——每日精选资讯速览。",
+  "date": "2026-08-17",
+  "quote": "「据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter」等AI 40条、动漫 18条、游戏 31条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "女子声称她的继父使用 Grok 将童年照片变成露骨图像、Anthropic 分享了有关克劳德新水印如何运作的更多细节、SpaceX 正式完成 Cursor 收购",
+      "summary": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter、为什么人们不相信马克·扎克伯格的人工智能未来、Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
       "items": [
+        {
+          "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+          "summary": "OpenRouter 的首席执行官最近将这家初创公司描述为“Stripe for AI”。",
+          "source": "TechCrunch",
+          "date": "08-16",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+        },
+        {
+          "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "TechCrunch",
+          "date": "08-16",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
+        },
+        {
+          "title": "Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
+          "summary": "达里奥·阿莫迪 (Dario Amodei) 反驳了他对人工智能描绘的过于悲观的看法。",
+          "source": "TechCrunch",
+          "date": "08-16",
+          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+        },
         {
           "title": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
           "summary": "这位女士声称人工智能工具“正在将日常生活变成儿童性虐待”。",
@@ -38,13 +59,13 @@
         },
         {
           "title": "马克·扎克伯格真的相信人工智能“适合所有人”吗？",
-          "summary": "Meta 本周发布了 Glimmer，这是一个开放式 AI 模型，任何人都可以下载并在自己的硬件上运行，这与该公司更强大的模型 Muse Spark 形成鲜明对比，该模型始终锁定在自己的 API 后面。该发布同时发布了马克·扎克伯格的一封信，信中主张人工智能应该“为所有人服务”，而不是由少数实验室控制，但正如 Equity 所言 [&#8230;]",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "source": "TechCrunch",
           "date": "08-14",
           "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
         },
         {
-          "title": "Kog 正在更深入地利用 GPU 进行更多推理",
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "summary": "法国初创公司 Kog 表示，认为 GPU 不太适合代理工作流程的想法可能是一种误解。",
           "source": "TechCrunch",
           "date": "08-14",
@@ -52,31 +73,10 @@
         },
         {
           "title": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气",
-          "summary": "美国部分地区的天然气价格可能会上涨两倍，这可能会给超大规模企业带来巨额费用来为其人工智能数据中心供电。",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "source": "TechCrunch",
           "date": "08-14",
           "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
-        },
-        {
-          "title": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题",
-          "summary": "Meta 本周发布了 Glimmer，这是一个开放式 AI 模型，任何人都可以下载并在自己的硬件上运行，这与该公司更强大的模型 Muse Spark 形成鲜明对比，该模型始终锁定在自己的 API 后面。该发布同时发布了马克·扎克伯格的一封信，信中主张人工智能应该“为所有人服务”，而不是由少数实验室控制，但正如 Equity 所言 [&#8230;]",
-          "source": "TechCrunch",
-          "date": "08-14",
-          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
-        },
-        {
-          "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
-          "summary": "作为 Z.ai 开源模型 GLM-5.2 的训练后变体，Writer 表示新系统应该以低得多的价格提供部署就绪的功能。",
-          "source": "TechCrunch",
-          "date": "08-13",
-          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
-        },
-        {
-          "title": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。",
-          "summary": "Ali Ghodsi 告诉 TechCrunch，人工智能很昂贵。由于有如此多的投资者想要参与他的最新一轮投资，他对超出计划的投资表示同意。",
-          "source": "TechCrunch",
-          "date": "08-13",
-          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
         }
       ]
     },
@@ -84,8 +84,15 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "网络漫画《小美与山田同学》第七卷完结、游戏中心少女漫画第12卷、《Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen》公布了更多演员、工作人员和首个宣传片",
+      "summary": "《转生shitara Ken deshita II》公布额外演员阵容、主题曲、第二部宣传片、网络漫画《小美与山田同学》第七卷完结、游戏中心少女漫画第12卷",
       "items": [
+        {
+          "title": "《转生shitara Ken deshita II》公布额外演员阵容、主题曲、第二部宣传片",
+          "summary": "周日，根据田中悠的轻小说《转生剑》改编的电视动画的官方网站公布了第二季的额外三名演员、主视觉图（如图）、主题曲和第二个宣传视频。该动画将于 10 月 8 日中午 12 点在 Tokyo MX 首播，随后在 ABC TV、BS Asahi 和 AT-X 上播出。配音演员井泽诗织 (Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?), Show ",
+          "source": "MyAnimeList",
+          "date": "08-16",
+          "url": "https://myanimelist.net/news/74598744?_location=rss"
+        },
         {
           "title": "网络漫画《小美与山田同学》第七卷完结",
           "summary": "出版商讲谈社周六宣布，Nene Azuki 的 Mii-chan 与 Yamada-san（Mii-chan 和 Miss Yamada）网络漫画将在第七卷完结，该漫画在 Magazine Pocket 应用程序上发布了第 37 章，也是最后一章。第七卷计划于 9 月 9 日发行，标志着该系列的结束。两年运行。小豆于 2024 年 9 月开始在杂志口袋网站上连载该剧漫画。讲谈社于 4 月 23 日",
@@ -148,13 +155,6 @@
           "source": "MyAnimeList",
           "date": "08-12",
           "url": "https://myanimelist.net/news/74583863?_location=rss"
-        },
-        {
-          "title": "《梅甘娜、Tokidoki、Yankee-kun》主要工作人员公开，预告片将于 2027 年首次亮相",
-          "summary": "周二，改编自成木的《眼镜蛇》漫画的电视动画的官方网站公布了主要工作人员、两个预告片视觉效果（如上图）和预告片宣传视频。该动画系列将于 2027 年首播。 工作导演：星野诚（Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta Node, Henkyou de Slow Life suru Koto ni Shimashita） 系列构成：Me",
-          "source": "MyAnimeList",
-          "date": "08-11",
-          "url": "https://myanimelist.net/news/74579580?_location=rss"
         }
       ]
     },
@@ -162,8 +162,22 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "在与前作家进行有争议的交流后，Rideshare Stimulator 概述了人工智能的使用、光环：进化后的战役很快就会变得更好、观看《战神》劳菲明星第一天粉碎《最后生还者》高尔夫俱乐部道具",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、在与前作家进行有争议的交流后，Rideshare Stimulator 概述了人工智能的使用",
       "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
         {
           "title": "在与前作家进行有争议的交流后，Rideshare Stimulator 概述了人工智能的使用",
           "summary": "在 Sabre Interactive 推出即将推出的游戏Rideshare Stimulator后，前首席作家 Stella Sacco 站出来表示，她在开发过程中已被 ChatGPT 取代。 Sabre 首席执行官 Matthew Karch 否认了萨科关于她已被人工智能取代的指控，但该公司现已分享了之前未公开的有关 Rideshare Stimulator 使用人工智能的细节。\n\n\n\nRid",
@@ -173,7 +187,7 @@
         },
         {
           "title": "光环：进化后的战役很快就会变得更好",
-          "summary": "光环：战役进化将于下周收到第一个主要补丁，该补丁将使玩家能够更好地控制游戏的视觉效果，并对豺狼和中士进行改进。约翰逊。\n\n\n\n正如Halo Support X 帐户所述，下周某个时候发布的补丁将解决 Halo Studios 重制版玩家的一些痛点。这次更新应该会让图形纯粹主义者感到高兴，因为它将增加禁用游戏中非常明显的胶片颗粒和色差的功能。该补丁还将包括“跨多个平台的额外稳定性改进。”\n\n\n\n在游",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "source": "GameSpot",
           "date": "08-14",
           "url": "https://www.gamespot.com/articles/halo-campaign-evolved-will-look-way-better-soon/"
@@ -186,13 +200,6 @@
           "url": "https://www.gamespot.com/articles/watch-god-of-war-laufey-star-smash-the-last-of-us-golf-club-prop-on-her-first-day/"
         },
         {
-          "title": "Roblox 现在成为国会调查的目标：“儿童受到伤害”",
-          "summary": "美国参议员乔什·霍利 (Josh Hawley) 和迪克·德宾 (Dick Durbin) 宣布，Roblox 将成为国会调查的对象，因为有人声称该游戏平台对儿童安全构成威胁。 \n\n\n\n“你们宣传 Roblox 是五岁儿童的安全数字游乐场，”两人在一封公开信中写道。 “但公开记录对这种安全承诺提出了严重质疑。在过去的十年中，警方逮捕了许多人，因为他们对通过 Roblox 认识的儿童实施了严重的暴力",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/roblox-is-now-the-target-of-a-congressional-investigation-children-are-hurting/"
-        },
-        {
           "title": "《使命召唤：现代战争 4》Beta 版将做以前 CoD Beta 版没有的事情",
           "summary": "动视宣布即将推出的《使命召唤：现代战争 4》测试版将不仅仅包含多人游戏内容。 MW4 Beta 版还将包括访问战役任务“根深蒂固”以及即将推出的战区模式“Resurgence Zodiac”。 \n\n\n\n动视将在 8 月 21 日的《使命召唤：下一个》活动期间展示其中的部分内容。正如之前所宣布的，该测试版将从 8 月 21 日至 25 日为预订者提供抢先体验期，然后在 8 月 28 日至 9 月 1",
           "source": "GameSpot",
@@ -201,7 +208,7 @@
         },
         {
           "title": "迪士尼拥有 9 个游戏专营权，零售额超过 10 亿美元，其中包括《王国之心》",
-          "summary": "迪士尼概述了视频游戏对该公司未来的强大和重要作用。在 D23 之前发布的一篇博文中——预计将有《王国之心》的消息——该公司的游戏老板 Sean Shoptaw 透露，游戏现在已成为“更广泛的娱乐领域的基本组成部分”。\n\n\n\n他表示迪士尼已经收获了回报，迄今为止，其九个游戏系列的零售总收入超过 10 亿美元。 “所以，这是关于讲述真正原创的故事，这些故事对于这种媒体来说确实是独一无二的，”他说。\n\n",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "source": "GameSpot",
           "date": "08-14",
           "url": "https://www.gamespot.com/articles/disney-has-9-gaming-franchises-that-have-generated-1-billion-at-retail-including-kingdom-hearts/"
@@ -226,13 +233,6 @@
           "source": "GameSpot",
           "date": "08-14",
           "url": "https://www.gamespot.com/articles/2011-lord-of-the-rings-game-didnt-get-a-fair-shake-launching-near-skyrim-former-wb-boss-says/"
-        },
-        {
-          "title": "2K Games 正在制作新的体育系列，所有迹象都指向足球",
-          "summary": "2K Games 宣布成立 Small Axe Studios，这是一家新开发商，据称将专注于打造新的“重磅”体育系列。尽管该发行商（Take-Two Interactive 旗下的发行商）已表示该游戏将加入其其他系列游戏，但 2K 似乎可能会挑战 EA 的年度足球系列游戏《EA Sports FC》。\n\n\n\n目前，Small Axe Studios 包括几位前 EA 开发人员，其中 Aaron ",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/2k-games-is-making-a-new-sports-franchise-and-all-signs-point-to-soccer/"
         }
       ]
     }
