@@ -1,15 +1,50 @@
 {
-  "date": "2026-08-17",
-  "quote": "「据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter」等AI 40条、动漫 18条、游戏 31条——每日精选资讯速览。",
+  "date": "2026-08-18",
+  "quote": "「AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队」等AI 42条、动漫 20条、游戏 32条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter、为什么人们不相信马克·扎克伯格的人工智能未来、Anthropic首席执行官表示，人工智能的强烈反对“从根本上来说是一场信任危机”",
+      "summary": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队、以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能、Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
       "items": [
         {
-          "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+          "title": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
+          "summary": "Relay 创始人兼首席执行官 Jacob Bank 表示：“我们有一些非常雄心勃勃的计划来帮助您在 Chrome 中使用人工智能来完成工作，我很快就会分享更多内容。”",
+          "source": "TechCrunch",
+          "date": "08-17",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
+        },
+        {
+          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
+          "summary": "善本对于培训法学硕士来说非常有价值，因为这些模型已经根据在线可用的任何内容进行了培训。",
+          "source": "TechCrunch",
+          "date": "08-17",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+        },
+        {
+          "title": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
+          "summary": "Groq 以 35 亿美元的估值筹集了 3.5 亿美元，这家前 AI 芯片制造商转向 Neocloud 业务并扩大其由 Nvidia 驱动的数据中心业务。",
+          "source": "TechCrunch",
+          "date": "08-17",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+        },
+        {
+          "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+          "summary": "英伟达对软银数据中心开发商的投资将保证其芯片为 OpenAI 数据中心提供动力。",
+          "source": "TechCrunch",
+          "date": "08-17",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
+        },
+        {
+          "title": "Wispr 以 20 亿美元估值筹集 2.8 亿美元，因为它看起来超越了指令",
+          "summary": "这些资金将使 Wispr 能够利用其新发布的笔记工具进军会议等新领域，从而扩大其足迹。",
+          "source": "TechCrunch",
+          "date": "08-17",
+          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
           "summary": "OpenRouter 的首席执行官最近将这家初创公司描述为“Stripe for AI”。",
           "source": "TechCrunch",
           "date": "08-16",
@@ -17,7 +52,7 @@
         },
         {
           "title": "为什么人们不相信马克·扎克伯格的人工智能未来",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "在最新一集的《股票》播客中，我们讨论了为什么不是每个人都相信扎克伯格的愿景。",
           "source": "TechCrunch",
           "date": "08-16",
           "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
@@ -42,41 +77,6 @@
           "source": "TechCrunch",
           "date": "08-15",
           "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-        },
-        {
-          "title": "SpaceX 正式完成 Cursor 收购",
-          "summary": "AI 编码初创公司 Cursor 现已正式成为 SpaceX 的一部分。",
-          "source": "TechCrunch",
-          "date": "08-15",
-          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
-        },
-        {
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
-          "summary": "关闭此设置不会影响用于识别 AI 生成文件的隐形基准。",
-          "source": "TechCrunch",
-          "date": "08-14",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
-        },
-        {
-          "title": "马克·扎克伯格真的相信人工智能“适合所有人”吗？",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "source": "TechCrunch",
-          "date": "08-14",
-          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
-        },
-        {
-          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary": "法国初创公司 Kog 表示，认为 GPU 不太适合代理工作流程的想法可能是一种误解。",
-          "source": "TechCrunch",
-          "date": "08-14",
-          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
-        },
-        {
-          "title": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "source": "TechCrunch",
-          "date": "08-14",
-          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
         }
       ]
     },
@@ -162,7 +162,7 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、在与前作家进行有争议的交流后，Rideshare Stimulator 概述了人工智能的使用",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、Kernel Hearts 将于 9 月 17 日推出",
       "items": [
         {
           "title": "《军团要塞 2》更新已发布",
@@ -179,60 +179,60 @@
           "url": "https://store.steampowered.com/news/275791/"
         },
         {
-          "title": "在与前作家进行有争议的交流后，Rideshare Stimulator 概述了人工智能的使用",
-          "summary": "在 Sabre Interactive 推出即将推出的游戏Rideshare Stimulator后，前首席作家 Stella Sacco 站出来表示，她在开发过程中已被 ChatGPT 取代。 Sabre 首席执行官 Matthew Karch 否认了萨科关于她已被人工智能取代的指控，但该公司现已分享了之前未公开的有关 Rideshare Stimulator 使用人工智能的细节。\n\n\n\nRid",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer/"
+          "title": "Kernel Hearts 将于 9 月 17 日推出",
+          "summary": "动作角色扮演游戏和 Roguelike 混合型 Kernel Hearts 将于 PlayStation 5、Xbox Series、Switch 等平台推出",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/kernel-hearts-launches-september-17"
         },
         {
-          "title": "光环：进化后的战役很快就会变得更好",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/halo-campaign-evolved-will-look-way-better-soon/"
+          "title": "《遗物：第一守护者》Xbox 系列将于 9 月 25 日发售，Switch 2 将于 10 月 9 日发售",
+          "summary": "黑暗奇幻魂类动作角色扮演游戏 The Relic: First Guardian 将为 Xbox Series 和 &hellip;",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/the-relic-first-guardian-launches-september-25-for-xbox-series-october-9-for-switch-2"
         },
         {
-          "title": "观看《战神》劳菲明星第一天粉碎《最后生还者》高尔夫俱乐部道具",
-          "summary": "Deborah Ann Woll 在即将推出的 PS5 游戏中扮演 Faye 战神 Laufey，她在片场度过了非常难忘的第一天。最近在圣地亚哥动漫展上，她分享了一个故事，讲述了她在第一天如何凭借自己的力量和坚韧打破了《最后生还者》中的一个著名道具，只是当时她并不知道这意味着什么。现在，该活动的录像已经到达。\n\n\n\n“我不知道的是，这是他们在《最后生还者》中使用的一个非常著名的道具，”她说，然后开",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/watch-god-of-war-laufey-star-smash-the-last-of-us-golf-club-prop-on-her-first-day/"
+          "title": "1000xRESIST 将于 8 月 20 日登陆 Switch 2",
+          "summary": "发行商 Fellow Traveler 和开发者 Sunset Visitor 将发布“超电影叙事冒险”；游戏 1000xRESIST 为…",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/1000xresist-coming-to-switch-2-on-august-20"
         },
         {
-          "title": "《使命召唤：现代战争 4》Beta 版将做以前 CoD Beta 版没有的事情",
-          "summary": "动视宣布即将推出的《使命召唤：现代战争 4》测试版将不仅仅包含多人游戏内容。 MW4 Beta 版还将包括访问战役任务“根深蒂固”以及即将推出的战区模式“Resurgence Zodiac”。 \n\n\n\n动视将在 8 月 21 日的《使命召唤：下一个》活动期间展示其中的部分内容。正如之前所宣布的，该测试版将从 8 月 21 日至 25 日为预订者提供抢先体验期，然后在 8 月 28 日至 9 月 1",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has/"
+          "title": "Hubert 将于 10 月推出",
+          "summary": "休伯特 (Hubert) 是一款冒险游戏，讲述一只“过度自信、长着鼻子惹麻烦的牧羊犬”的故事。将会……",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/hubert-launches-in-october"
         },
         {
-          "title": "迪士尼拥有 9 个游戏专营权，零售额超过 10 亿美元，其中包括《王国之心》",
-          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/disney-has-9-gaming-franchises-that-have-generated-1-billion-at-retail-including-kingdom-hearts/"
+          "title": "MARVEL Cosmic Invasion DLC“末日城堡围攻”公布",
+          "summary": "发行商 Dotemu 和开发商 Tribute Games 宣布《MARVEL Cosmic Invasion》付费下载内容……",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/marvel-cosmic-invasion-dlc-the-siege-of-castle-doom-announced"
         },
         {
-          "title": "《使命召唤：现代战争 4》测试版：日期、内容以及如何参与",
-          "summary": "动视已确认《使命召唤：现代战争 4》多人测试版日期，将于 8 月 21 日开始。该公司还透露了如何获得它、测试版中有哪些内容以及何时可以期待更多详细信息。继续阅读以了解更多信息。\n\n\n\n现代战争 4 测试版日期\n\n\n\n抢先体验公开测试版将于 8 月 21 日至 25 日在 PC、PS5 和 Xbox Series X|S 上运行。然后，多人测试版将于 8 月 28 日至 9 月 1 日向所有人开放",
-          "source": "GameSpot",
-          "date": "07-20",
-          "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/"
+          "title": "Gobliiins Collection 现已推出 Switch 2",
+          "summary": "发行商 Red Art Games 宣布，《Gobliiins Collection》现已登陆 Switch 2。这是……",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/gobliiins-collection-now-available-for-switch-2"
         },
         {
-          "title": "VR 生活即将来临，是的，你可以抚摸你奇怪的枪",
-          "summary": "High on Life 即将登陆新平台，因为带有会说话的外星枪的不敬第一人称射击游戏即将获得 VR 端口。 VR 游戏展示会期间宣布，新版本的 High on Life 将于 2027 年针对 Meta Quest、PlayStation VR2 和 SteamVR 耳机推出。\n\n\n\n《High on Life》最初由 Squanch Games 开发，VR 移植由 Flat2VR Studio",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/high-on-life-is-coming-to-vr-and-yes-you-can-stroke-your-weird-guns/"
+          "title": "《房子的耳语》将于 8 月 27 日登陆 PS5、Xbox 系列",
+          "summary": "E-Home Entertainment Development 将推出 PlayStation 5 解谜模拟游戏《Whisper of the House》…",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/whisper-of-the-house-coming-to-ps5-xbox-series-on-august-27"
         },
         {
-          "title": "华纳兄弟前老板表示，2011 年《指环王》游戏在《天际》附近发行时并没有得到“公平的对待”",
-          "summary": "克里斯蒂安·艾伦 (Christian Allen) 在 2011 年《指环王：北方之战》上映时担任华纳兄弟游戏公司的领导团队成员，他对最近的重新发行发表了评论，称他很高兴这款游戏能够回归，因为它在最初发布时没有得到“公平的对待”。这是为什么呢？他表示，他“强烈主张”不要将其与 Bethesda 的标志性角色扮演游戏《上古卷轴 5：天际》同时发行。 \n\n\n\n“15 年前，我强烈主张不要发布针对《天",
-          "source": "GameSpot",
-          "date": "08-14",
-          "url": "https://www.gamespot.com/articles/2011-lord-of-the-rings-game-didnt-get-a-fair-shake-launching-near-skyrim-former-wb-boss-says/"
+          "title": "TSURUGIHIME以战斗为中心的内测将于8月25日至9月6日进行",
+          "summary": "《华氏 213》将为来自 &hellip; 的横向卷轴动作角色扮演游戏 TSURUGIHIME 举办以战斗为中心的封闭 Beta 测试。",
+          "source": "Gematsu",
+          "date": "08-17",
+          "url": "https://www.gematsu.com/2026/08/tsurugihime-combat-focused-closed-beta-test-set-for-august-25-to-september-6"
         }
       ]
     }
