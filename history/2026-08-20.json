@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-20",
+  "quote": "「Stripe 收购 OpenRouter 并不是因为它的“奇点”」等AI 46条、动漫 20条、游戏 35条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Stripe 收购 OpenRouter 并不是因为它的“奇点”、OpenAI 寻求通过新的客户隐私保护来超越 Anthropic、Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道",
+      "items": [
+        {
+          "title": "Stripe 收购 OpenRouter 并不是因为它的“奇点”",
+          "summary": "支付巨头想要一家在不同人工智能模型之间路由提示的初创公司做什么？ Stripe 说这是因为“奇点”，但实际上有一个更真实、更强大的原因。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
+        },
+        {
+          "title": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic",
+          "summary": "OpenAI 和 Anthropic 之间正在展开一场竞争，看谁能为企业客户数据提供最好的隐私保护。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+        },
+        {
+          "title": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道",
+          "summary": "据报道，SpaceX 正在洽谈收购人工智能编码初创公司 Cognition。 SpaceX 已经收购了 Cursor，以期在企业人工智能领域追赶 OpenAI 和 Anthropic 等竞争对手。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+        },
+        {
+          "title": "人工智能现在应该赢得人们的支持——但事实并非如此",
+          "summary": "随着人工智能变得越来越难以避免，消费者对这项技术越来越警惕——而硅谷发现，广泛采用并不一定会带来接受。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
+        },
+        {
+          "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具",
+          "summary": "新学习功能的推出标志着 Google 在继续与 OpenAI 等公司竞争的同时，将 Gemini 打造成学生在学习和学习时可以求助的 AI 助手的最新努力。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "OpenAI 的可信网络访问计划背后的想法是为受信任的防御者提供更好的模型，以便他们可以向公司报告错误和漏洞，目的是更快地修补缺陷。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
+        },
+        {
+          "title": "认识一下帮助华尔街为人工智能计算定价的初创公司",
+          "summary": "人工智能的发展没有放缓的迹象。随着每年数千亿美元投入数据中心和 GPU，计算已成为构建人工智能产品的最大单一成本。但尽管有这么多支出，仍然没有一种直接的方法来为“计算”定价，或者让公司在价格“变化时对冲风险”。硅数据[&#8230;]",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
+        },
+        {
+          "title": "TerraPower 的核反应堆拥有为人工智能数据中心供电的秘密武器",
+          "summary": "TerraPower 的核电站比竞争对手拥有战略优势，特别是在追逐数据中心交易时。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
+        },
+        {
+          "title": "亚马逊在 Fire TV 上免费提供人工智能驱动的 Alexa+，无需 Prime 会员",
+          "summary": "亚马逊正在美国所有兼容的 Fire TV 设备上免费提供人工智能驱动的 Alexa+ 助手，无论用户是否订阅 Prime，都会自动升级。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
+        },
+        {
+          "title": "人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么。",
+          "summary": "笨蛋，这就是数据。",
+          "source": "TechCrunch",
+          "date": "08-19",
+          "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《宇中神器皿》追加演员阵容公布、《骗子游戏》宣布追加演员阵容、《Tempal: Item no Chikara》公布额外演员阵容、主题曲、第二部宣传片",
+      "items": [
+        {
+          "title": "《宇中神器皿》追加演员阵容公布",
+          "summary": "周四，《Wareware wa Uchuujin》官方网站公布了追加演员阵容。该片预定于9月25日在日本影院首映。该片预定于9月25日在日本影院首映。该片预定于9月25日在日本影院首映。该片预定于9月25日在日本影院首映。Yaffle（Entotsu Machi no Poupelle）是一部免费音乐录影带。工作室开了一家。",
+          "source": "MyAnimeList",
+          "date": "08-20",
+          "url": "https://myanimelist.net/news/74610694?_location=rss"
+        },
+        {
+          "title": "《骗子游戏》宣布追加演员阵容",
+          "summary": "改编自海谷忍漫画《骗子游戏》的电视动画的官方网站于周二宣布了更多演员阵容。该动画系列于 4 月 7 日中午 12 点在东京电视台首播，随后在 BS 东京电视台播出。演员 Solario: 浪川大辅 (Trigun Stargaze) 菊池翔: 内田悠哉 (Koujo Denka no Kateikyoushi) 高坂忠子: 牛田博子 (Tonari no妖怪先生) 西田雄一: 白石稔 (Nippo",
+          "source": "MyAnimeList",
+          "date": "08-19",
+          "url": "https://myanimelist.net/news/74608212?_location=rss"
+        },
+        {
+          "title": "《Tempal: Item no Chikara》公布额外演员阵容、主题曲、第二部宣传片",
+          "summary": "改编自 Saenal Park 和 Team Argo's Tempal: Item no Chikara (Overgeared) 的电视动画的官方网站于周三公布了更多演员阵容、第二张主视觉图（如图）、主题曲和第二部宣传视频。该动画系列计划于 10 月 2 日晚上 11:30 在东京 MX 和 BS1 首播 演员：Riho Sugiyama（Nami Yo Kiitekure） 演员：Masaa",
+          "source": "MyAnimeList",
+          "date": "08-19",
+          "url": "https://myanimelist.net/news/74608014?_location=rss"
+        },
+        {
+          "title": "《黑暗机器：动画》公布额外演员阵容、片头主题以及 2026 年秋季第二部宣传片",
+          "summary": "电视动画《黑暗机器：动画》的官方网站于周三公布了更多演员阵容、片头主题曲和第二部宣传视频。该动画预计于 2026 年 10 月凌晨 1 点 45 分在富士电视台首播，随后在关西电视台和 BS Fuji 播出。演员 Nyudo: Ryuunosuke Watanuki (Blue Lock) Hachiman: Jun Kousaka Bianca: Minori Suzuki (Pokemon (",
+          "source": "MyAnimeList",
+          "date": "08-19",
+          "url": "https://myanimelist.net/news/74607310?_location=rss"
+        },
+        {
+          "title": "《Skip to Loafer 第二季》揭晓新员工，预告片，2027 年春季首播",
+          "summary": "电视动画《Skip to Loafer 第二季》（Skip and Loafer Season 2）的官方网站于周日公布了新的工作人员和预告片。由 P.A.Works 制作，改编自高松美咲的成长漫画的第二季将于 2027 年 4 月首播。 职员总监：出爱琴美（夏目友人帐） 系列构成：出爱琴美、米内山阳子（由比咲到人人） 新角色设计：梅下真奈美（花凛到佐久子角色设计）阿妮...",
+          "source": "MyAnimeList",
+          "date": "08-18",
+          "url": "https://myanimelist.net/news/74604332?_location=rss"
+        },
+        {
+          "title": "《转生shitara Ken deshita II》公布额外演员阵容、主题曲、第二部宣传片",
+          "summary": "周日，根据田中悠的轻小说《转生剑》改编的电视动画的官方网站公布了第二季的额外三名演员、主视觉图（如图）、主题曲和第二个宣传视频。该动画将于 10 月 8 日中午 12 点在 Tokyo MX 首播，随后在 ABC TV、BS Asahi 和 AT-X 上播出。配音演员井泽诗织 (Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?), Show ",
+          "source": "MyAnimeList",
+          "date": "08-16",
+          "url": "https://myanimelist.net/news/74598744?_location=rss"
+        },
+        {
+          "title": "网络漫画《小美与山田同学》第七卷完结",
+          "summary": "出版商讲谈社周六宣布，Nene Azuki 的 Mii-chan 与 Yamada-san（Mii-chan 和 Miss Yamada）网络漫画将在第七卷完结，该漫画在 Magazine Pocket 应用程序上发布了第 37 章，也是最后一章。第七卷计划于 9 月 9 日发行，标志着该系列的结束。两年运行。小豆于 2024 年 9 月开始在杂志口袋网站上连载该剧漫画。讲谈社于 4 月 23 日",
+          "source": "MyAnimeList",
+          "date": "08-16",
+          "url": "https://myanimelist.net/news/74596308?_location=rss"
+        },
+        {
+          "title": "游戏中心少女漫画第12卷",
+          "summary": "作者安原博和的官方 X 帐户于周六宣布，《游戏中心少女与游戏中心女孩的文化交流》漫画继第 153 章（即最后一章）出版后，将在第 12 卷完结。第 12 卷计划于 10 月 9 日发行，标志着该系列的结束。六年多的运行。安原最初在《Jump GIGA》中一次性出版了这部生活喜剧漫画，标题为《游戏中心 Ibunka Kouryuu i...》",
+          "source": "MyAnimeList",
+          "date": "08-15",
+          "url": "https://myanimelist.net/news/74596111?_location=rss"
+        },
+        {
+          "title": "《Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen》公布了更多演员、工作人员和首个宣传片",
+          "summary": "《新网球王子：U-17 世界杯拳手成员决战》电视动画系列的官方网站于周五公布了更多演员阵容、新工作人员、主视觉图（如图）以及首个宣传视频。续作动画预定于10月1日中午12点首播。东京电视台、大阪电视台和爱知电视台紧随其后。演员七月小说：Tasuku Hataqa（Boku no Hero Academy）哥伦布的火星：Reiji Kawashima（Kill Ao）Silva Serra Banb",
+          "source": "MyAnimeList",
+          "date": "08-14",
+          "url": "https://myanimelist.net/news/74591208?_location=rss"
+        },
+        {
+          "title": "《Katainaka no Ossan, Kensei ni Naru II》公布了更多演员阵容，第四个宣传片",
+          "summary": "改编自佐贺崎茂轻小说《片中大佬剑生》的电视动画官方网站周五公布了第二季的追加演员阵容和第四部宣传视频。该动画系列于 7 月 8 日晚上 11 点 45 分首播。朝日电视台播出，其次是 AT-X 和 BS Asahi。配音演员小野健翔（地狱乐）和上坂堇（春花秋藤大兴社）将加入演员阵容，饰演沃伦·弗鲁姆维尔克和舒……",
+          "source": "MyAnimeList",
+          "date": "08-14",
+          "url": "https://myanimelist.net/news/74590178?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、想要《现代战争 4》测试版代码吗？只说垃圾话",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，此更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "想要《现代战争 4》测试版代码吗？只说垃圾话",
+          "summary": "针对 CharlieIntel 在 X 上发布的《现代战争 4》多人游戏预告片，一位持怀疑态度的玩家 TristanSpoof 对于他们所看到的内容并没有说好话。\n\n\n\n“这 s*** 看起来很糟糕，”他们在转发的引文中写道。 “在看到它上线之前我不会计划购买。”\n\n\n\n\nhttps://twitter.com/CallofDutyCM/status/2090128038155464991?s=2",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/"
+        },
+        {
+          "title": "显然，GTA 6 的预购收入已经超过 4 亿美元",
+          "summary": "根据第三方研究公司的数据，GTA 6 已经通过预订带来了超过 4 亿美元的收入。\n\n\n\nSensor Tower 的 GTA 6 销售追踪显示，截至 8 月 18 日，Rockstar 已售出 438 万份（包括所有退货），创收 4.29 亿美元。该研究公司表示，销售组合中 77% 是 PS5，23% 是 Xbox Series X|S。 \n\n\n\n该数据尚未得到证实，但考虑到《GTA 6》背后的巨",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/gta-6-has-already-made-400-million-from-preorders-apparently/"
+        },
+        {
+          "title": "Xbox 的最新主机更新最终将允许您选择要删除的旧存档",
+          "summary": "Xbox 的最新主机更新现已向 Xbox Insider 推出，让玩家能够更好地控制主屏幕和保存，以及对个人资料自定义的改进。\n\n\n\n作为更新的一部分，该更新将首先推出到 Alpha 版和 Alpha 版从今天开始，跳过 Xbox Insider 会员可以更轻松地从主页顶部的“最近的游戏和应用程序”列表中删除图块，包括整个“播放历史记录”图块。对于那些想要隐藏主屏幕并享受背景艺术的荣耀的人来说，新",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/xboxs-latest-console-update-will-finally-let-you-choose-old-saves-to-delete/"
+        },
+        {
+          "title": "陆军部队向重新入伍的士兵提供 4 天畅玩 GTA 6 的通行证",
+          "summary": "为了鼓励士兵重新入伍，乔治亚州的一支美国陆军部队在 GTA 6 11 月推出时提供四天通行证。\n\n\n\n该奖励仅适用于佐治亚州斯图尔特堡陆军第 9 旅工兵营的士兵。陆军发言人告诉哥伦比亚广播公司新闻，到目前为止，已有 20 人同意接受奖励以换取重新入伍。 \n\n\n\n“我们的想法是制定一个独特的激励计划，与士兵感兴趣的内容联系起来，”发言人安吉尔·托姆科中校说。 “指挥团队与职业顾问一起，希望让士兵们重",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/"
+        },
+        {
+          "title": "初代 Xbox 回来了，这次你必须自己打造",
+          "summary": "最初的 Xbox 仍然是有史以来最漂亮的游戏机之一：一个大黑盒子，由于一些巧妙的设计选择，可以立即被识别。如果您曾经想拥有并组装其中一个，那么您很幸运，因为美泰刚刚开放了 1:1 复制品的预订，您可以将其与多个配件组合在一起。 330 美元有点贵，但它包含一些简洁的功能，使其成为一个很酷的展示品。\n\n\n\n类似于乐高的构建包括 3,509 个组件，您可以使用它们构建一个具有逼真灯光和声音的真人大小的",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/the-original-xbox-is-back-and-this-time-you-have-to-build-it-yourself/"
+        },
+        {
+          "title": "新《GTA 6》泄露的游戏画面令人震惊，我们是认真的",
+          "summary": "明显的侠盗猎车手 VI 泄密事件的第二天，以一段聚焦于 Jason Duval 的新游戏片段开始。驾驶不当、一首著名的流行歌曲以及多人被类似泰瑟枪的武器射中。视频甚至以杰森和他的好友卡尔·汉普顿在船上喝啤酒的过场动画结束。\n\n\n\nKotaku 发现了最新的 GTA 6 疑似泄露事件，并指出其标题为“泰瑟枪视频”。然而，杰森在踩踏人后从人身上捡起的武器通常被称为“震惊”。在这段视频中，主角电击了一个",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/"
+        },
+        {
+          "title": "前 PlayStation 老板表示，由于人工智能，游戏开发将面临“艰难的未来”",
+          "summary": "作为行业资深人士，前 PlayStation Studios 老板 Shuhei 对于当前的发展方向有很多想法。随着人工智能渗透到世界上几乎所有主要开发商的手中，他对人工智能对游戏开发的整体影响既着迷又担心。\n\n\n\n在 8 月 18 日 Gamerbraves 采访中，吉田表示人工智能工具“让几乎任何人都可以成为游戏开发者”。因为人工智能可以做一些事情，比如为你编写代码，所以艺术家或设计师现在可以",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/ex-playstation-boss-says-game-development-will-have-a-tough-future-because-of-ai/"
+        },
+        {
+          "title": "《使命召唤：现代战争 4》Beta 版为您提升排名提供这些奖励",
+          "summary": "《使命召唤：现代战争 4》测试版将于 8 月 21 日星期五开始，每个参与的人都有机会获得特殊奖励。\n\n\n\n与之前的《使命召唤》测试版一样，动视通过为晋级提供奖励来鼓励人们参与游戏。第一个奖励是徽章，在 4 级解锁。下一个奖励是魅力，在 8 级解锁，一直到 30 级。达到该上限的人将获得武器蓝图。\n\n\n\n测试版奖励\n\n\n\n\n4 级 - 徽章\n\n\n\n8级 - 魅力\n\n\n\n12 级 - 武器贴纸\n\n\n",
+          "source": "GameSpot",
+          "date": "08-19",
+          "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-offers-these-rewards-as-you-climb-the-ranks/"
+        }
+      ]
+    }
+  ]
+}
