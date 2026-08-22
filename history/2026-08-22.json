@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-22",
+  "quote": "「超过 100 万人点击了 LinkedIn 的 AI slop 按钮」等AI 36条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮、YouTube 主要创作者因接受人工智能资金而面临强烈反对、Google Discover 正在获得人工智能聊天机器人调整的提要",
+      "items": [
+        {
+          "title": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮",
+          "summary": "LinkedIn 实际上在 7 月 30 日宣布了一个“看起来像 AI slop”按钮，该公司表示很多人已经使用过它。根据首席产品官 Hari Srinivasan 周四发布的帖子，“超过一百万人”点击了该按钮，可以通过 [&#8230;] 上的三点菜单访问该按钮。",
+          "source": "The Verge",
+          "date": "08-21",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
+        },
+        {
+          "title": "YouTube 主要创作者因接受人工智能资金而面临强烈反对",
+          "summary": "在过去的几天里，包括 Matti Haapoja 和 Sam \"Kold\" Kolder 在内的许多著名电影制作内容创作者都发布了自己的视频，展示了人工智能平台 Higgsfield 的可能性。这些视频重点介绍了 Higgsfield 最近添加的 Seedance 2.5 功能，并将这些技术视为视频制作的未来。为了回应这些视频，[&#8230;]",
+          "source": "The Verge",
+          "date": "08-21",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
+        },
+        {
+          "title": "Google Discover 正在获得人工智能聊天机器人调整的提要",
+          "summary": "Google 很快将允许您通过描述您想要看到的内容来自定义您的 Discover feed。这项新功能将在“未来几天”推出到谷歌应用程序，将使用人工智能自动调整您的信息流并“记住”您未来访问的偏好。您可以在 [&#8230;] 上的三点菜单中找到该选项",
+          "source": "The Verge",
+          "date": "08-20",
+          "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
+        },
+        {
+          "title": "现在是 Greg Brockman 的 OpenAI",
+          "summary": "OpenAI 度过了地狱般的一年。该公司在一场轰动的陪审团审判中与前联合创始人埃隆·马斯克（Elon Musk）进行了数月的斗争，受到苹果公司高调的商业机密诉讼的打击，并在一个未发布的模型入侵另一家人工智能公司后面临广泛的审查。在准备首次公开募股时，一批稳定的高管[&#8230;]",
+          "source": "The Verge",
+          "date": "08-20",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
+        },
+        {
+          "title": "欢迎来到数学领域的人工智能危机",
+          "summary": "今天，我在 Decoder 上与 The Verge 驻伦敦人工智能记者罗伯特·哈特 (Robert Hart) 讨论人工智能对数学领域的影响，以及许多顶尖数学家面临的生存危机。 OpenAI 刚刚针对数学领域长期存在的问题发布了一套解决方案，这些解决方案在该领域引起了轰动。 [&#8230;]",
+          "source": "The Verge",
+          "date": "08-20",
+          "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis"
+        },
+        {
+          "title": "Slack 正在推出协作振动编码频道",
+          "summary": "Slack 正在引入专用通道，团队可以在其中与 AI 代理一起进行振动编码，而不是在不同的工具和对话之间跳转。 Slack Code 的发布包括带有专用用户选项卡的开放式、特定于项目的代码通道，以及在项目发布之前比较编码更改和预览 HTML 输出的功能。 “使用 Slack Code，当你[&#8230;]",
+          "source": "The Verge",
+          "date": "08-20",
+          "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
+        },
+        {
+          "title": "谷歌双子座将建立一个专门的学生中心",
+          "summary": "在我们为返校季做准备之际，Google 正在 Gemini 推出一个新的专用学生中心。它是一个一站式存储库，用于在学习笔记本中收集研究成果、创建抽认卡、参加练习测验等。谷歌还通过对图表和图像的支持来增强其学习笔记本。它甚至可以添加测试日期[&#8230;]",
+          "source": "The Verge",
+          "date": "08-19",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+        },
+        {
+          "title": "OpenAI 踩了刹车。现在怎么办？",
+          "summary": "随着 IPO 的临近、来自 Anthropic 的激烈竞争，以及中国和开放重量级竞争对手的紧随其后，OpenAI 有充分的理由迅速采取行动。相反，它踩了刹车。周二，该公司表示，在加强安全和保障措施的同时，已经放慢了部分人工智能开发的步伐。其中包括两周的暂停[&#8230;]",
+          "source": "The Verge",
+          "date": "08-19",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai"
+        },
+        {
+          "title": "Meta AI 即将推出 Mac 应用程序",
+          "summary": "Meta 正在推出一款专用于其 AI 聊天机器人的新 Mac 应用程序。 Meta 在周三的公告中表示，你可以与其人工智能聊天机器人共享你的窗口，后者可以提供建议、回答问题或根据屏幕上的内容创建内容。 Mac 上的 Meta AI 还支持所有应用程序的听写。 [&#8230;]",
+          "source": "The Verge",
+          "date": "08-19",
+          "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
+        },
+        {
+          "title": "英伟达的新财务战略并没有计算在内",
+          "summary": "1805 年 4 月 拿破仑是欧洲的主人 只有英国舰队站在他面前 计算现在是一种资产类别 我认为现在是再次谈论金融创新的时候了。 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 和 KKR 都在与 Nvidia 合作，筹集 5000 亿美元的资金来推动计算业务的发展[&#8230]",
+          "source": "The Verge",
+          "date": "08-19",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《命运/奇怪的赝品》新季公布、《奇观社的魔法 wa Tokubetsu desu 第二季》公布新员工，首个宣传片、“祝悠哥哥好运！”公布 2027 年冬季新增员工和预告片",
+      "items": [
+        {
+          "title": "《命运/奇怪的赝品》新季公布",
+          "summary": "Anime NYC 2026 的《Fate/strange Fake》舞台宣布新一季正在制作中，并于周五公布了预告片视觉效果（如图）。 A-1 Pictures 制作了一部动画特辑，字幕为《黎明的低语》，于 2023 年 7 月在 Anime Expo 2023 上播出，随后第一季于 2026 年冬季播出。Crunchyroll 联播了该动画，配有多个字幕和英文配音。文字&mdash;假/状态之夜",
+          "source": "MyAnimeList",
+          "date": "08-22",
+          "url": "https://myanimelist.net/news/74618248?_location=rss"
+        },
+        {
+          "title": "《奇观社的魔法 wa Tokubetsu desu 第二季》公布新员工，首个宣传片",
+          "summary": "改编自柳少男和英国漫画家的电视动画《归来者的魔法应该很特别》漫画的官方网站于周五公布了新的工作人员和第二季的首个宣传视频。该动画将于 2026 年 10 月每周四上午 12 点 45 分在富士电视台的 +Ultra 节目区播出。职员监督：川口大志（九龙一般言情剧导演）系列构成、剧本：河野高光（西京之恋）",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616525?_location=rss"
+        },
+        {
+          "title": "“祝悠哥哥好运！”公布 2027 年冬季新增员工和预告片",
+          "summary": "周五，制作公司 DMM Pictures 开设了改编自中山美雪的《鬼翔太男孩之爱》漫画的电视动画的官方网站，并透露了更多工作人员和预告片宣传视频。该动画系列将于 2027 年 1 月首播。首席动画总监、角色设计：黑岩悠美（Hypnosis Mic：Division Rap Battle - Rhyme Anima +）艺术总监：Hirofune Hane（Youkoso Jitsuryoku Sh",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616422?_location=rss"
+        },
+        {
+          "title": "原创电视动画《少女之血》将于 2027 年上映",
+          "summary": "制作公司 Pony Canyon 于周五开设了《少女之血》原创电视动画的官方网站，公布了主要演员、工作人员、预告片视觉效果（如图）和预告片宣传视频。该动画系列将于 2027 年首播。声优佐伯伊织 (Nekopara) 和安西由香里 (Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)) 分别饰演 Ev",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616368?_location=rss"
+        },
+        {
+          "title": "《Matsurika Kanriden》公布了更多演员、工作人员、片头曲、首个宣传片",
+          "summary": "改编自石田凛音轻小说《官僚祭典》的电视动画的官方网站于周五公布了更多演员、工作人员、片头曲和首个宣传视频。该动画系列计划于 2027 年 1 月在 Tokyo MX、MBS、TV Aichi 和 BS11 首播。演员 Tenga Rei：Takeo Ootsuka（[Oshi no Ko]） Shisei Hou：Koutarou Nishiyama（Tougen Anki）Shunsettsu ",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616235?_location=rss"
+        },
+        {
+          "title": "《Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru》公布主要演员、工作人员，2027 年首映",
+          "summary": "改编自北川尼基塔的作品《Saijaku na Boku wa “Kabenuke Bug”的电视动画的官方网站开通了de Nariagaru: Kabe wo Surinuketara, Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!周五发布的轻小说，公布了主要演员、工作人员和预告片视觉效果（如图）。该动画预计于 2027 年首播。配音演员青野",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616163?_location=rss"
+        },
+        {
+          "title": "《Pen to Wappa to Jijitsukon》公布主要演员、工作人员、预告片、2027 年冬季首映",
+          "summary": "改编自泽原木慎一漫画《钢笔、手铐和普通法婚姻》的电视动画的官方网站于周五公布了主要演员、工作人员、预告片视觉效果（如图）和预告片宣传视频。动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月播出。 动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月播出。",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616099?_location=rss"
+        },
+        {
+          "title": "《魔法公主明奇莫莫：Akogare no Yume e - Magokoro no Duo》宣布追加演员阵容",
+          "summary": "新剧《魔法公主明奇莫莫：Akogare no Yume e - Magokoro no Duo》（童话公主明奇莫莫）的官方网站于周五宣布了另外一对演员阵容。 OVA 预计于 11 月 13 日在影院上映。配音演员日笠阳子（春花树大工社：春之舞）和高冢智仁（影少女！！）将分别饰演彼得和鲁伯特。 Ayumu Watanabe（Summertime Render）正在 Ashi Productions ",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74615506?_location=rss"
+        },
+        {
+          "title": "《Soukou Kihei Votoms: Haiiro no Hexe》公布演员阵容、额外工作人员、预告片",
+          "summary": "周五，动画《装甲兵 Votoms：Die Graue Hexe》的官方网站公布了演员阵容、其他工作人员和主要预告片。该动画将作为两部电影首映，第一部计划于 11 月 20 日在影院上映。演员 Ash Vamps：泽城美雪（Hunter x Hunter (2011)）、Maki Stauffenberg：Mabuki Andou（Seirei no Moribito）Shinichiro Miki",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74615019?_location=rss"
+        },
+        {
+          "title": "《愚人之夜》公布更多演员阵容，第二部预告片将于 2026 年 11 月首映",
+          "summary": "周四，Anime NYC 2026 上的 Netflix 小组公布了安田霞的《愚人夜》漫画改编动画的更多演员阵容和第二部预告片宣传视频。该动画将于 11 月 26 日在 Netflix 上在全球独家首映。演员阵容 Saeko Kanaeno：Aya Endou（Mahoutsukai no Yome）Akira Yatsuka：Junya Enoki（Jujutsu Kaisen）Jin Hira",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74614851?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Rizz Dungeon：我心的万能钥匙推迟到 2027 年、Shroom 和 Gloom 将于 9 月 10 日推出抢先体验、《钢铁尾部 II：凛冬之须》免费扩展包“血与盐水”现已推出",
+      "items": [
+        {
+          "title": "Rizz Dungeon：我心的万能钥匙推迟到 2027 年",
+          "summary": "Snoozy Kazoo 推迟了浪漫回合制地下城爬行者约会模拟游戏 Rizz Dungeon: Skeleton Key 的发布",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/rizz-dungeon-skeleton-key-to-my-heart-delayed-to-2027"
+        },
+        {
+          "title": "Shroom 和 Gloom 将于 9 月 10 日推出抢先体验",
+          "summary": "第一人称双层牌组建造游戏 Shroom 和 Gloom 将通过 Steam 推出 PC 抢先体验版 &hellip;",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/shroom-and-gloom-launches-in-early-access-on-september-10"
+        },
+        {
+          "title": "《钢铁尾部 II：凛冬之须》免费扩展包“血与盐水”现已推出",
+          "summary": "出版商 United Label 和开发商 Odd Bug Studio 发布了中世纪冒险 RPG 续集《Tails》……",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/tails-of-iron-ii-whiskers-of-winter-free-expansion-blood-brine-now-available"
+        },
+        {
+          "title": "《POSTAL 2 Redux》将于 2027 年春季推出，适用于 PS5、PS VR2、PS4、PC 和 Quest；稍后用于其他平台",
+          "summary": "POSTAL 2 Redux 将为支持 PlayStation VR2 的 PlayStation 5、PlayStation 4、PC 等推出",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/postal-2-redux-launches-in-spring-2027-for-ps5-ps-vr2-ps4-pc-and-quest-later-for-additional-platforms"
+        },
+        {
+          "title": "漫威的金刚狼变成了黄金",
+          "summary": "Marvel 的金刚狼已经变成了金色，这意味着开发已经完成并且游戏已经准备就绪......",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/marvels-wolverine-goes-gold"
+        },
+        {
+          "title": "吸血鬼幸存者 DLC“血月的遗产”将于 8 月 28 日推出",
+          "summary": "吸血鬼幸存者可下载内容“血月的遗产” poncle 宣布将于 8 月 28 日推出。 ……",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/vampire-survivors-dlc-legacy-of-the-bloodmoon-launches-august-28"
+        },
+        {
+          "title": "基于物理的格斗游戏 Gladio Mori 将于 9 月 16 日推出 PS5、Xbox 系列和 PC 版",
+          "summary": "基于物理的格斗游戏 Gladio Mori 将退出抢先体验并推出 PlayStation 5、Xbox 等平台",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/physics-based-fighting-game-gladio-mori-launches-september-16-for-ps5-xbox-series-and-pc"
+        },
+        {
+          "title": "《逐出天堂：恒星天使》将于 11 月 26 日上映",
+          "summary": "《逐出天堂：恒星天使》将通过 Steam 推出 Switch 和 PC 版 &hellip;",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/expelled-from-paradise-the-stellar-angel-launches-november-26"
+        },
+        {
+          "title": "《姆明：仲夏疯狂》将于 11 月 12 日推出",
+          "summary": "点击式冒险游戏《姆明：仲夏疯狂》将于 Switch 2、Switch 和 PC 上推出……",
+          "source": "Gematsu",
+          "date": "08-21",
+          "url": "https://www.gematsu.com/2026/08/moomin-midsummer-madness-launches-november-12"
+        },
+        {
+          "title": "2XKO 将于 12 月结束积极开发",
+          "summary": "Riot Games 将于 12 月结束免费格斗游戏 2XKO 的积极开发工作……",
+          "source": "Gematsu",
+          "date": "08-20",
+          "url": "https://www.gematsu.com/2026/08/2xko-to-end-active-development-in-december"
+        }
+      ]
+    }
+  ]
+}
