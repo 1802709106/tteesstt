@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-23",
+  "quote": "「哈佛 699 美元的创业训练营提供其讲师的人工智能头像」等AI 36条、动漫 20条、游戏 34条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "哈佛 699 美元的创业训练营提供其讲师的人工智能头像、由 DeepMind 校友创立的 Inherent 表示，其 AI“队友”在复制研究方面刚刚超越了 Anthropic 和 OpenAI、OpenAI 表示加州应加强其人工智能安全法案",
+      "items": [
+        {
+          "title": "哈佛 699 美元的创业训练营提供其讲师的人工智能头像",
+          "summary": "在 HBS Foundry 计划中，人工智能化身在练习推介和董事会会议期间提供反馈。",
+          "source": "TechCrunch",
+          "date": "08-22",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+        },
+        {
+          "title": "由 DeepMind 校友创立的 Inherent 表示，其 AI“队友”在复制研究方面刚刚超越了 Anthropic 和 OpenAI",
+          "summary": "由 DeepMind 校友创建的英国人工智能实验室 Inherent 发布了 Faraday，这是一款人工智能代理，其复制科学论文的能力可能成为创新的垫脚石。",
+          "source": "TechCrunch",
+          "date": "08-22",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+        },
+        {
+          "title": "OpenAI 表示加州应加强其人工智能安全法案",
+          "summary": "OpenAI 呼吁加州加强 SB 53，这是该公司之前反对的人工智能安全法案。",
+          "source": "TechCrunch",
+          "date": "08-22",
+          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+        },
+        {
+          "title": "Frontier AI 实验室仍然不愿透露他们如何遏制流氓模型",
+          "summary": "一项新的研究发现，领先的人工智能实验室几乎没有公开记录的遏制流氓模型的计划，随着人工智能系统越来越多地表现出意外和潜在危险的行为，引发了有关准备工作的问题。",
+          "source": "TechCrunch",
+          "date": "08-22",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+        },
+        {
+          "title": "Anthropic 的 Opus 4.6 是一台色情机器",
+          "summary": "Anthropic 禁止其克劳德模型生成露骨的色情内容。但 TechCrunch 进行的一系列测试发现，不需要太多就能突破限制。",
+          "source": "TechCrunch",
+          "date": "08-21",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+        },
+        {
+          "title": "Nvidia 与数据中心开发商 Cloverleaf 合作",
+          "summary": "英伟达继续在数据中心开发上投入资金——就像人工智能数据中心为英伟达带来大量资金一样。",
+          "source": "TechCrunch",
+          "date": "08-21",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+        },
+        {
+          "title": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
+          "summary": "英伟达的研究表明，即使人工智能模型在这项任务上表现不佳，通过微调，人工智能代理也可以表现良好，并且不会陷入困境。",
+          "source": "TechCrunch",
+          "date": "08-21",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+        },
+        {
+          "title": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元",
+          "summary": "为了确保进入太空的安全，一场大战即将爆发。",
+          "source": "TechCrunch",
+          "date": "08-21",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+        },
+        {
+          "title": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
+          "summary": "Andreessen Horowitz 有两位合伙人在目前相互竞争的公司董事会中任职：Databricks 的 Ben Horowitz 和 Fivetran 的 Martin Casado。表面上看，并没有什么太丑闻的地方，只是据报道，司法部已经对这一安排进行了近一年的调查，以清除一名 112 岁的老人的灰尘。反垄断法很少用于针对风险投资。”董事会冲突并不是什么新鲜事，而且当 a16z 第一次投",
+          "source": "TechCrunch",
+          "date": "08-21",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+        },
+        {
+          "title": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元",
+          "summary": "对人工智能训练数据的需求激增正在推动这家初创公司及其竞争对手的快速增长。",
+          "source": "TechCrunch",
+          "date": "08-21",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "“马尤鲁全门！”宣布将于 2026 年 9 月推出动画短片、“圣东会是我的阿娜瓦阿鲁！”公布更多员工、开幕主题、首个促销活动、《命运/奇怪的赝品》新季公布",
+      "items": [
+        {
+          "title": "“马尤鲁全门！”宣布将于 2026 年 9 月推出动画短片",
+          "summary": "周六，《乌玛娘：漂亮德比》系列的官方网站宣布了一部新的动画短片，名为《乌玛尤鲁 Full Gate!》。这部动画短片由 AtoriE 制作，将于 2026 年 9 月在 Uma Musume 官方 YouTube 频道 PakaTube! 上首播。 《乌玛娘：漂亮德比》最初由制作工作室 P.A. 播出，共 13 集。于 2018 年春季上映。第四卷也是最后一卷蓝光光盘于当年 12 月捆绑了三集特别",
+          "source": "MyAnimeList",
+          "date": "08-22",
+          "url": "https://myanimelist.net/news/74621057?_location=rss"
+        },
+        {
+          "title": "“圣东会是我的阿娜瓦阿鲁！”公布更多员工、开幕主题、首个促销活动",
+          "summary": "改编自 Maro Muchi 的《Seitokai ni mo Ana wa Aru》的电视动画官方网站！ （学生组织中也有一个洞！）漫画在周六公布了额外的工作人员、开场主题和首个宣传视频。该动画系列计划于 10 月 4 日上午 12 点 30 分在东京 MX、BS11、群马电视台和栃木电视台首播。工作人员主要动画师：Kay Yu（制作女主角 ga Oosugiru！）、Konaming、Asar",
+          "source": "MyAnimeList",
+          "date": "08-22",
+          "url": "https://myanimelist.net/news/74618914?_location=rss"
+        },
+        {
+          "title": "《命运/奇怪的赝品》新季公布",
+          "summary": "Anime NYC 2026 的《Fate/strange Fake》舞台宣布新一季正在制作中，并于周五公布了预告片视觉效果（如图）。 A-1 Pictures 制作了一部动画特辑，字幕为《黎明的低语》，于 2023 年 7 月在 Anime Expo 2023 上播出，随后第一季于 2026 年冬季播出。Crunchyroll 联播了该动画，配有多个字幕和英文配音。文字&mdash;假/状态之夜",
+          "source": "MyAnimeList",
+          "date": "08-22",
+          "url": "https://myanimelist.net/news/74618248?_location=rss"
+        },
+        {
+          "title": "《奇观社的魔法 wa Tokubetsu desu 第二季》公布新员工，首个宣传片",
+          "summary": "改编自柳少男和英国漫画家的电视动画《归来者的魔法应该很特别》漫画的官方网站于周五公布了新的工作人员和第二季的首个宣传视频。该动画将于 2026 年 10 月每周四上午 12 点 45 分在富士电视台的 +Ultra 节目区播出。职员监督：川口大志（九龙一般言情剧导演）系列构成、剧本：河野高光（西京之恋）",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616525?_location=rss"
+        },
+        {
+          "title": "“祝悠哥哥好运！”公布 2027 年冬季新增员工和预告片",
+          "summary": "周五，制作公司 DMM Pictures 开设了改编自中山美雪的《鬼翔太男孩之爱》漫画的电视动画的官方网站，并透露了更多工作人员和预告片宣传视频。该动画系列将于 2027 年 1 月首播。首席动画总监、角色设计：黑岩悠美（Hypnosis Mic：Division Rap Battle - Rhyme Anima +）艺术总监：Hirofune Hane（Youkoso Jitsuryoku Sh",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616422?_location=rss"
+        },
+        {
+          "title": "原创电视动画《少女之血》将于 2027 年上映",
+          "summary": "制作公司 Pony Canyon 于周五开设了《少女之血》原创电视动画的官方网站，公布了主要演员、工作人员、预告片视觉效果（如图）和预告片宣传视频。该动画系列将于 2027 年首播。声优佐伯伊织 (Nekopara) 和安西由香里 (Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)) 分别饰演 Ev",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616368?_location=rss"
+        },
+        {
+          "title": "《Matsurika Kanriden》公布了更多演员、工作人员、片头曲、首个宣传片",
+          "summary": "改编自石田凛音轻小说《官僚祭典》的电视动画的官方网站于周五公布了更多演员、工作人员、片头曲和首个宣传视频。该动画系列计划于 2027 年 1 月在 Tokyo MX、MBS、TV Aichi 和 BS11 首播。演员 Tenga Rei：Takeo Ootsuka（[Oshi no Ko]） Shisei Hou：Koutarou Nishiyama（Tougen Anki）Shunsettsu ",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616235?_location=rss"
+        },
+        {
+          "title": "《Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru》公布主要演员、工作人员，2027 年首映",
+          "summary": "改编自北川尼基塔的作品《Saijaku na Boku wa “Kabenuke Bug”的电视动画的官方网站开通了de Nariagaru: Kabe wo Surinuketara, Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!周五发布的轻小说，公布了主要演员、工作人员和预告片视觉效果（如图）。该动画预计于 2027 年首播。配音演员青野",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616163?_location=rss"
+        },
+        {
+          "title": "《Pen to Wappa to Jijitsukon》公布主要演员、工作人员、预告片、2027 年冬季首映",
+          "summary": "改编自泽原木慎一漫画《钢笔、手铐和普通法婚姻》的电视动画的官方网站于周五公布了主要演员、工作人员、预告片视觉效果（如图）和预告片宣传视频。动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月播出。 动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月播出。",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74616099?_location=rss"
+        },
+        {
+          "title": "《魔法公主明奇莫莫：Akogare no Yume e - Magokoro no Duo》宣布追加演员阵容",
+          "summary": "新剧《魔法公主明奇莫莫：Akogare no Yume e - Magokoro no Duo》（童话公主明奇莫莫）的官方网站于周五宣布了另外一对演员阵容。 OVA 预计于 11 月 13 日在影院上映。配音演员日笠阳子（春花树大工社：春之舞）和高冢智仁（影少女！！）将分别饰演彼得和鲁伯特。 Ayumu Watanabe（Summertime Render）正在 Ashi Productions ",
+          "source": "MyAnimeList",
+          "date": "08-21",
+          "url": "https://myanimelist.net/news/74615506?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "尽管 Rockstar 所有者 Take-Two 向 Microsoft 和 Discord 发出传票，《GTA 6》泄密者还是发布了更多游戏视频、立即查看的最佳 PC 游戏协作合集、今日超值优惠：Nintendo Switch 2、…",
+      "items": [
+        {
+          "title": "尽管 Rockstar 所有者 Take-Two 向 Microsoft 和 Discord 发出传票，《GTA 6》泄密者还是发布了更多游戏视频",
+          "summary": "尽管 Rockstar 所有者 Take-Two 收到传票，要求微软和 Discord 提供身份信息，但据称《GTA 6》泄密者还是发布了另外两段游戏视频。",
+          "source": "IGN",
+          "date": "08-22",
+          "url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas"
+        },
+        {
+          "title": "立即查看的最佳 PC 游戏协作合集",
+          "summary": "如果您是一位热衷于酷炫合作的 PC 游戏玩家，您将不会想忽视这些杀手级的联动游戏。",
+          "source": "IGN",
+          "date": "08-22",
+          "url": "https://www.ign.com/articles/best-pc-gaming-collaborations"
+        },
+        {
+          "title": "今日超值优惠：Nintendo Switch 2、乐高热带水族馆、最终幻想 VII 重生等",
+          "summary": "",
+          "source": "IGN",
+          "date": "08-22",
+          "url": "https://www.ign.com/articles/best-deals-for-august-22-2026"
+        },
+        {
+          "title": "《合金装备 4》：小岛不想制作的有缺陷的杰作",
+          "summary": "得益于 Master Collection Vol.1，《合金装备 4》终于登陆现代游戏机。 2、我们回顾一下游戏的遗产。这真的只是一个大过场动画，还是小岛的杰作？",
+          "source": "IGN",
+          "date": "08-22",
+          "url": "https://www.ign.com/articles/metal-gear-solid-4-the-flawed-masterpiece-kojima-didnt-want-to-make"
+        },
+        {
+          "title": "超高图形设置是一个骗局：为什么对于大多数玩家来说，高图形设置即使不是更好，也足够好",
+          "summary": "大多数游戏实际上并不需要在 Ultra 设置下玩才能看起来不错。他们甚至不需要它看起来很棒。为了证明这一点，我调低了一些看起来很漂亮的游戏的设置，看看它到底能产生多大的差异。我不仅发现在我测试的大多数游戏中很难发现任何明显的视觉差异，而且性能显着提高，更流畅的帧速率非常值得最小的牺牲。",
+          "source": "IGN",
+          "date": "08-22",
+          "url": "https://www.ign.com/articles/ultra-graphics-settings-are-a-scam-why-high-is-good-enough-if-not-better-for-most-players"
+        },
+        {
+          "title": "Psychonauts Studio 确认，Double Fine 拥有 Xbox 拆分后所有游戏的知识产权和出版权",
+          "summary": "《Psychonauts》和《Brutal Legend》开发商 Double Fine Productions 确认，在与 Xbox 分离后，该公司已重新获得其在微软旗下发行的所有游戏的 IP 和发行权。",
+          "source": "IGN",
+          "date": "08-21",
+          "url": "https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms"
+        },
+        {
+          "title": "Genki 的新型高端 PC 和 Switch 2 控制器具有内置屏幕和板载操作系统",
+          "summary": "Genki 的新型可定制控制器已经实现了其 Kickstarter 目标，它包含大量高端功能，如 TMR 摇杆、可调节触发器和先进的触觉，以及更先进的技术，如完整的操作系统，配有数字显示屏，内置于控制器本身。",
+          "source": "IGN",
+          "date": "08-21",
+          "url": "https://www.ign.com/articles/genkis-new-high-end-pc-and-switch-2-controller-has-a-built-in-screen-and-onboard-os"
+        },
+        {
+          "title": "GTA 6 美国陆军协议已说服至少 20 名士兵重新入伍",
+          "summary": "在佐治亚州斯图尔特堡的美国陆军基地开始为《侠盗猎车手 6》的发布提供休假后，至少有 20 名士兵选择重新入伍。",
+          "source": "IGN",
+          "date": "08-21",
+          "url": "https://www.ign.com/articles/gta-6-us-army-deal-has-already-convinced-at-least-20-soldiers-to-reenlist"
+        },
+        {
+          "title": "《使命召唤》中最具争议的物品回归《现代战争 4》，但有一些重大变化",
+          "summary": "《使命召唤》中最臭名昭著、最具争议的物品之一是防暴盾牌。有些人喜欢它。有些人讨厌它。嗯，它在《使命召唤：现代战争 4》中回归，但有一些关键变化。\n\n\n\n随着《MW4》测试版的上线，我们正在亲眼目睹这款游戏并了解更多相关信息。其中包括防暴盾牌的新细节，包括它现在如何被破坏。不仅如此，新的防暴盾牌还可以放置在地面上，让玩家无论身在何处都可以创建自己的掩体。此外，防暴盾牌现在作为现场升级解锁，而不是占用",
+          "source": "GameSpot",
+          "date": "08-21",
+          "url": "https://www.gamespot.com/articles/call-of-dutys-most-controversial-item-is-back-in-modern-warfare-4-but-with-some-major-changes/"
+        },
+        {
+          "title": "GTA 6 泄密者尚未确定 – 报告",
+          "summary": "本周游戏界最大的新闻之一是正在进行的 GTA 6 游戏玩法泄露，这些都是关于炒作模因币以获取利润。 一份新报告深入了解了 Rockstar 内部如何处理这一情况。\n\n\n\n彭博社据报道，Rockstar 尚未确定责任方或此类违规行为是如何发生的。 Rockstar 的一位高管发送了一份备忘录",
+          "source": "GameSpot",
+          "date": "08-21",
+          "url": "https://www.gamespot.com/articles/gta-6-leaker-has-not-been-identified-yet-report/"
+        }
+      ]
+    }
+  ]
+}
