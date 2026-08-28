@@ -1,0 +1,233 @@
+{
+  "date": "2026-08-28",
+  "quote": "「Anthropic 首次在法庭上战胜五角大楼的供应链风险标签」等AI 18条、动漫 9条、游戏 15条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Anthropic 首次在法庭上战胜五角大楼的供应链风险标签、Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again la…",
+      "items": [
+        {
+          "title": "Anthropic 首次在法庭上战胜五角大楼的供应链风险标签",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "TechCrunch",
+          "date": "08-28",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "TechCrunch",
+          "date": "08-28",
+          "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
+        },
+        {
+          "title": "法院裁定 Anthropic 被特朗普政府非法列入黑名单",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "The Verge",
+          "date": "08-28",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+        },
+        {
+          "title": "谷歌的人工智能笔记应用程序现在可以让你与书籍互动",
+          "summary": "谷歌的人工智能笔记应用程序 Gemini Notebook 现在可以从您购买的图书中提取信息。新的“专家智能”功能允许您将 Google Play 图书中的图书直接导入 Gemini Notebook，这意味着您可以提出有关材料的问题，并根据其[&#8230;]生成计划、信息图表、AI 播客等。",
+          "source": "The Verge",
+          "date": "08-27",
+          "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
+        },
+        {
+          "title": "黄仁勋表示 Nvidia 再次实现了 AGI——但这并不重要",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "The Verge",
+          "date": "08-27",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
+        },
+        {
+          "title": "Plaud 即将推出 AI 耳机",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "The Verge",
+          "date": "08-27",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability"
+        },
+        {
+          "title": "比尔盖茨说我们已经超过了人工智能的危险阈值。现在怎么办？",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MIT科技评论",
+          "date": "08-26",
+          "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
+        },
+        {
+          "title": "EduRiskX：用于早期学术风险预测的具有 F 逻辑推理的神经符号框架",
+          "summary": "arXiv:2608.26107v1 公告类型：新 \n摘要：预测学生在线教育中的学业风险对于及时采取干预措施以提高保留率和学习成果至关重要。然而，现有模型往往存在早期检测能力有限和可解释性不足的问题，导致“黑匣子”信任危机，阻碍了它们在现实世界教学环境中的采用。为了应对这些挑战，我们提出了 EduRiskX，这是一种神经符号框架，它将基于时间 Transformer 的预测器与 F-Logic 符",
+          "source": "ArXiv AI",
+          "date": "08-28",
+          "url": "https://arxiv.org/abs/2608.26107"
+        },
+        {
+          "title": "电池预测和健康管理的大型模型：回顾和未来路线图",
+          "summary": "arXiv:2608.26111v1 公告类型：新 \n摘要：电池预测和健康管理（BPHM）对于确保电动汽车、电网存储和消费电子产品中电池的安全、可靠和经济高效的运行至关重要。传统的 BPHM 方法，包括基于物理的模型和以任务为中心的深度学习方法，在计算效率和参数化、跨域泛化、对大量标记的运行到故障数据的依赖以及模型可解释性方面面临挑战。最近基于 Transformer 架构和自监督预训练构建的大型",
+          "source": "ArXiv AI",
+          "date": "08-28",
+          "url": "https://arxiv.org/abs/2608.26111"
+        },
+        {
+          "title": "PICasso：用于硅光子器件自主优化的人工智能设计框架",
+          "summary": "arXiv:2608.26113v1 公告类型：新 \n摘要：我们提出了 PICasso，这是一种人工智能辅助框架，用于根据自然语言规范自动合成、验证和优化光子集成电路 (PIC)。 PICasso 将结构化的 NL -> YAML -> GDS 生成管道与 PDK 感知知识注入、自动布局和布线、DRC/LVS 验证和基于 SAX 的光子模拟结合起来。为了系统地评估 AI 驱动的光子设计，我们引入了",
+          "source": "ArXiv AI",
+          "date": "08-28",
+          "url": "https://arxiv.org/abs/2608.26113"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《魔法探索者》追加演员、工作人员、主题曲第二宣传片公开、《十王无神丹神》追加演员阵容公布、《神乐巴奇》宣布追加演员阵容",
+      "items": [
+        {
+          "title": "《魔法探索者》追加演员、工作人员、主题曲第二宣传片公开",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MyAnimeList",
+          "date": "08-28",
+          "url": "https://myanimelist.net/news/74642904?_location=rss"
+        },
+        {
+          "title": "《十王无神丹神》追加演员阵容公布",
+          "summary": "周五，原创电视动画《兽王战神 Dandivine》的官方网站公布了更多演员阵容。该动画系列计划于 10 月 8 日中午 12 点 30 分在东京 MX、BS11、群马电视台、栃木电视台首播，随后在中京电视台和 MBS 首播。演员 Haru: Nao Touyama (Katainaka no Ossan, Kensei ni Naru) Natsu: Aya Yamane (Dandadan) A",
+          "source": "MyAnimeList",
+          "date": "08-28",
+          "url": "https://myanimelist.net/news/74642759?_location=rss"
+        },
+        {
+          "title": "《神乐巴奇》宣布追加演员阵容",
+          "summary": "改编自北田武神乐町漫画的电视动画的官方网站于周五公布了另外两部演员和角色宣传视频。该动画计划于 2027 年春季播出。配音演员伊藤未来（5-toubun no Hanayome）和根本宫里（Ruri no Houseki）将分别饰演日向和夏亚京凪。竹内哲也（Akuyaku Reijou Tensei Ojisan）正在 Cypic 执导该动画。佐佐木圭吾 (Nantasu no Taizai) 正",
+          "source": "MyAnimeList",
+          "date": "08-28",
+          "url": "https://myanimelist.net/news/74642378?_location=rss"
+        },
+        {
+          "title": "《风与嗣》公布追加演员阵容",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MyAnimeList",
+          "date": "08-26",
+          "url": "https://myanimelist.net/news/74634425?_location=rss"
+        },
+        {
+          "title": "摇滚乐队 SCANDAL 成立 21 年后宣布解散",
+          "summary": "SCANDAL 官方网站周一宣布，这支四人全女性摇滚乐队将于 2​​027 年 8 月 21 日在神奈川县横滨竞技场举行最后一场音乐会后解散。解散日期将恰逢乐队成立 21 周年纪念日。乐队解释说，在成立20周年后，他们进行了多次讨论，并认为作为一个四人团体，他们已经完全完成了他们能一起做的一切。为了结束他们的旅程，SCANDA...",
+          "source": "MyAnimeList",
+          "date": "08-24",
+          "url": "https://myanimelist.net/news/74627545?_location=rss"
+        },
+        {
+          "title": "《Sora wa Akai Kawa no Hotori》宣布 2026 年秋季第二场追加演员阵容",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MyAnimeList",
+          "date": "08-24",
+          "url": "https://myanimelist.net/news/74625504?_location=rss"
+        },
+        {
+          "title": "“现在我可以用鼠标光标控制现实了，我要点击女孩们了！”主视觉",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "Reddit动漫",
+          "date": "08-28",
+          "url": "https://www.reddit.com/r/anime/comments/1w0s0cm/now_that_i_can_control_reality_with_a_mouse/"
+        },
+        {
+          "title": "武食转生：无业转生 - 第 3 季第 10 集预览",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "Reddit动漫",
+          "date": "08-28",
+          "url": "https://www.reddit.com/r/anime/comments/1w0maf8/mushoku_tensei_jobless_reincarnation_season_3/"
+        },
+        {
+          "title": "《神乐巴奇》日直＆夏亚京凪角色视觉效果",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "Reddit动漫",
+          "date": "08-28",
+          "url": "https://www.reddit.com/r/anime/comments/1w0f4fi/kagurabachi_hinao_char_kyonagi_character_visuals/"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、《侠盗猎车手 6》将没有微交易或生成人工智能",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "《侠盗猎车手 6》将没有微交易或生成人工智能",
+          "summary": "侠盗猎车手 VI。这是今年甚至可能是有史以来最受期待的视频游戏。 Netflix 刚刚播出了一段 27 分钟的加长预告片，此后您可能已经在该网站上阅读过多个有关它的故事。多家媒体现在正在谈论最近对苏格兰 Rockstar North 的访问，据一位消息人士透露，GTA VI 在发布时不会有任何微交易，并且在其开发过程中也没有使用生成人工智能。 \n\n\n\n在 Kindaunny Gamecast 上发",
+          "source": "GameSpot",
+          "date": "08-27",
+          "url": "https://www.gamespot.com/articles/grand-theft-auto-6-will-have-no-microtransactions-or-generative-ai/"
+        },
+        {
+          "title": "GTA 6 的杰森和露西亚不一定是情侣",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "GameSpot",
+          "date": "08-27",
+          "url": "https://www.gamespot.com/articles/gta-6s-jason-and-lucia-arent-necessarily-a-couple/"
+        },
+        {
+          "title": "Fable Gamescom 2026“战斗”游戏玩法",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "Gematsu",
+          "date": "08-28",
+          "url": "https://www.gematsu.com/2026/08/fable-gamescom-2026-combat-gameplay"
+        },
+        {
+          "title": "漫威金刚狼“游戏特色”预告片",
+          "summary": "发行商索尼互动娱乐公司和开发商 Insomniac Games 发布了 Marvel 的新预告片……",
+          "source": "Gematsu",
+          "date": "08-28",
+          "url": "https://www.gematsu.com/2026/08/marvels-wolverine-game-features-trailer"
+        },
+        {
+          "title": "Roguelite 策略角色扮演游戏 Wishseeker 宣布推出 PC 版",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "Gematsu",
+          "date": "08-27",
+          "url": "https://www.gematsu.com/2026/08/roguelite-strategy-rpg-wishseeker-announced-for-pc"
+        },
+        {
+          "title": "您应该为 GTA 6 购买什么游戏机？我们详细分析 PS5 与 Xbox 的定价、优惠等信息",
+          "summary": "玩侠盗猎车手 6 的最佳游戏机是什么？我们详细分析了 PS5、PS5 Pro 和 Xbox Series X 的定价、预期帧速率、新的或即将推出的硬件交易，以及是否值得等待 PC 发布。",
+          "source": "IGN",
+          "date": "08-28",
+          "url": "https://www.ign.com/articles/gta-6-best-console-guide-ps5-xbox"
+        },
+        {
+          "title": "《共鸣：瘟疫传说遗产》的游戏总监和主演讲述索菲亚为何如此特别，以及为什么这款前传让团队“呼吸新鲜空气” 2026 年科隆游戏展",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "IGN",
+          "date": "08-28",
+          "url": "https://www.ign.com/articles/resonance-a-plague-tale-legacys-game-director-and-star-on-why-sophia-is-so-special-and-why-this-prequel-let-the-team-get-some-fresh-air-gamescom-2026"
+        },
+        {
+          "title": "Rockstar 将《荒野大镖客：救赎 2》融入 GTA 6 扩展版外观中——当然，粉丝们立即发现了它",
+          "summary": "您在昨晚的 GTA 6 Extended Look 中看到了 Red Dead Redemption 2 的世界吗？ Rockstar 的牛仔史诗片短暂露面，当然，一些粉丝立即发现了它。",
+          "source": "IGN",
+          "date": "08-28",
+          "url": "https://www.ign.com/articles/rockstar-snuck-red-dead-redemption-2-into-its-gta-6-extended-look-and-of-course-fans-spotted-it-immediately"
+        }
+      ]
+    }
+  ]
+}
