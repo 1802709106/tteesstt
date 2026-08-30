@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-30",
+  "quote": "「索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的盗窃知识产权活动”」等AI 35条、动漫 18条、游戏 25条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的盗窃知识产权活动”、“我们每年不会进行 30 次投注”：Vijay Pande 在 a16z 投入 40 亿美元后谈小额投注、Nvidia 的 AI 优势正在超越 GPU",
+      "items": [
+        {
+          "title": "索尼音乐、华纳起诉 Anthropic，指控其进行“无耻的盗窃知识产权活动”",
+          "summary": "这起最新诉讼的范围特别广泛，主要针对非法盗版的指控。",
+          "source": "TechCrunch",
+          "date": "08-29",
+          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+        },
+        {
+          "title": "“我们每年不会进行 30 次投注”：Vijay Pande 在 a16z 投入 40 亿美元后谈小额投注",
+          "summary": "Vijay Pande 去年离开了 a16z 价值约 40 亿美元的生物技术业务，创办了规模小得多的人工智能原生 VZVC。他谈到了为什么生物学最终从“发现”科学转变为“工程”科学，为什么临床试验仍然极其昂贵，以及为什么他认为开放、共享的数据集（而不是封闭的数据集）真正能让人工智能改变医学。",
+          "source": "TechCrunch",
+          "date": "08-29",
+          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+        },
+        {
+          "title": "Nvidia 的 AI 优势正在超越 GPU",
+          "summary": "新一代数据中心系统通过更智能的流量控制而不仅仅是更多的处理器周期来提高效率。",
+          "source": "TechCrunch",
+          "date": "08-29",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+        },
+        {
+          "title": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片",
+          "summary": "Neocloud Lambda 已筹集 10 亿美元私人债务来购买 Nvidia AI 芯片并将其出租给微软。这是一系列贷款中的最新一笔，突显了人工智能热潮的高昂成本。",
+          "source": "TechCrunch",
+          "date": "08-28",
+          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+        },
+        {
+          "title": "一位人类研究人员刚刚让我们了解了自我改进的人工智能",
+          "summary": "给定针对特定失调行为的 10 个基准，自动化系统能够提高每一项的性能，而不会降低整体性能。",
+          "source": "TechCrunch",
+          "date": "08-28",
+          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+        },
+        {
+          "title": "开放式人工智能公司是硅谷最热门的收购目标",
+          "summary": "有大量资本涌入免费模型业务。",
+          "source": "TechCrunch",
+          "date": "08-28",
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+        },
+        {
+          "title": "Anthropic 首次在法庭上战胜五角大楼的供应链风险标签",
+          "summary": "一名联邦法官裁定特朗普政府非法将 Anthropic 贴上供应链风险的标签，这使得这家人工智能公司在五角大楼的第二起诉讼仍在华盛顿继续进行时取得了胜利。",
+          "source": "TechCrunch",
+          "date": "08-28",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
+        },
+        {
+          "title": "由于社交媒体巨头在印度面临越来越严格的审查，Meta 高管离职前往 OpenAI",
+          "summary": "Sandhya Devanathan 在新职位上将负责监督东南亚和澳大利亚的一些 OpenAI 业务。",
+          "source": "TechCrunch",
+          "date": "08-28",
+          "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
+        },
+        {
+          "title": "Anthropic 和 OpenAI 将在 TechCrunch Disrupt 2026 上加入人工智能舞台",
+          "summary": "在 TechCrunch Disrupt 2026 上，AI Stage 再次深入探讨过去几年社区中最热门的话题，由 Google for Startups 提出。",
+          "source": "TechCrunch",
+          "date": "08-27",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+        },
+        {
+          "title": "在加入 OpenAI 之前被解雇的 Thinking Machines 联合创始人 Barret Zoph 现在在 Google",
+          "summary": "Zoph 与 Mira Murati 共同创立了 Thinking Machines Lab，并担任该初创公司的首席技术官，曾在 OpenAI 短暂领导过一段时间，目前在 Google 任职。",
+          "source": "TechCrunch",
+          "date": "08-27",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《Arcanadea》公布了主要工作人员、其他演员以及 2027 年冬季第二部预告片、《魔法探索者》追加演员、工作人员、主题曲第二宣传片公开、《十王无神丹神》追加演员阵容公布",
+      "items": [
+        {
+          "title": "《Arcanadea》公布了主要工作人员、其他演员以及 2027 年冬季第二部预告片",
+          "summary": "周六，Arcanadea Engage Fest 2026 活动公布了主要工作人员、四名额外演员，以及改编自 Arcanadea 模型系列的电视动画的第二个预告片宣传视频。该动画系列计划于 2027 年 1 月在朝日电视台的 NUMAnimation 节目组和 BS Asahi 播出。演员 久我翔吾：岛崎信长（Kiseijuu：Sei no Kakuritsu） 浅木嘉帆：稻垣幸美（Otaku n",
+          "source": "MyAnimeList",
+          "date": "08-29",
+          "url": "https://myanimelist.net/news/74645052?_location=rss"
+        },
+        {
+          "title": "《魔法探索者》追加演员、工作人员、主题曲第二宣传片公开",
+          "summary": "电视动画改编的《Iris》的特别直播演示魔法探险家：工口游戏吧的游神-Chara ni Tensei Shita kedo、Game Chishiki Tsukatte Jiyuu ni Ikiru（魔法探险家：重生为幻想约会模拟中的配角）轻小说于周五公布了额外的演员、工作人员、第二个主视觉图（如图）、主题曲和第二个宣传视频。该动画系列计划于 10 月 4 日中午 12:00 在东京 MX、栃木电",
+          "source": "MyAnimeList",
+          "date": "08-28",
+          "url": "https://myanimelist.net/news/74642904?_location=rss"
+        },
+        {
+          "title": "《十王无神丹神》追加演员阵容公布",
+          "summary": "周五，原创电视动画《兽王战神 Dandivine》的官方网站公布了更多演员阵容。该动画系列计划于 10 月 8 日中午 12 点 30 分在东京 MX、BS11、群马电视台、栃木电视台首播，随后在中京电视台和 MBS 首播。演员 Haru: Nao Touyama (Katainaka no Ossan, Kensei ni Naru) Natsu: Aya Yamane (Dandadan) A",
+          "source": "MyAnimeList",
+          "date": "08-28",
+          "url": "https://myanimelist.net/news/74642759?_location=rss"
+        },
+        {
+          "title": "《神乐巴奇》宣布追加演员阵容",
+          "summary": "改编自北田武神乐町漫画的电视动画的官方网站于周五公布了另外两部演员和角色宣传视频。该动画计划于 2027 年春季播出。配音演员伊藤未来（5-toubun no Hanayome）和根本宫里（Ruri no Houseki）将分别饰演日向和夏亚京凪。竹内哲也（Akuyaku Reijou Tensei Ojisan）正在 Cypic 执导该动画。佐佐木圭吾 (Nantasu no Taizai) 正",
+          "source": "MyAnimeList",
+          "date": "08-28",
+          "url": "https://myanimelist.net/news/74642378?_location=rss"
+        },
+        {
+          "title": "漫画《Boku no Suki na Hito ga Suki na Hito》电视动画化",
+          "summary": "周五宣布改编自苍井关名和津良亮的漫画《我的暗恋》的电视动画。 Tsuzura 画了一幅插图来纪念这一宣布（如上图所示）。葵（游戏玩家！）于 2022 年 11 月开始在《Young Animal Zero》杂志上连载由 Tsuzura 绘制的浪漫喜剧漫画。白泉社于 2 月 27 日发行第六卷，第七卷计划于 8 月 28 日发行。颜平...",
+          "source": "MyAnimeList",
+          "date": "08-27",
+          "url": "https://myanimelist.net/news/74639969?_location=rss"
+        },
+        {
+          "title": "《世界最强的魔女，创始》公布追加演员阵容、工作人员、主题曲、首个宣传片",
+          "summary": "改编自榊榊的电视动画《世界最强的魔女，肇始：渡岳》的官方网站《世界最强魔女：在只有我能看到在线攻略指南的世界里开始自由生活》周四公布了更多演员、工作人员、主题曲和首个宣传视频。该动画系列预计于 10 月 7 日晚上 10 点首播。在东京 MX 上，跟随...",
+          "source": "MyAnimeList",
+          "date": "08-27",
+          "url": "https://myanimelist.net/news/74638626?_location=rss"
+        },
+        {
+          "title": "漫画《Ochikobore水果挞》第9卷完结",
+          "summary": "作者Sou Hamayumiba的官方X帐户周三宣布，《Ochikobore Fruit Tart》（Dropout Idol Fruit Tart）漫画将在第九卷完结。该系列于 7 月 28 日在 Manga Time Kirara Carat 2026 年 9 月号上结束了杂志连载，随后于 8 月 1 日以数字方式发布了第 123 章（也是最后一章）。第九卷（也是最后一卷）计划于 8 月 27",
+          "source": "MyAnimeList",
+          "date": "08-26",
+          "url": "https://myanimelist.net/news/74636310?_location=rss"
+        },
+        {
+          "title": "《Kyouran Reijou Nia Liston》追加演员阵容公布",
+          "summary": "改编自海风南野的轻小说《Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kamigoroshi no Bujin no Karei naru Musouroku》（Nia Liston：无情的少女）的电视动画官方网站于周三公布了支持演员阵容。动画预定于10月6日晚9点25分首播。东京 MX 播出，其次是 BS 日本电视台和 MB",
+          "source": "MyAnimeList",
+          "date": "08-26",
+          "url": "https://myanimelist.net/news/74634861?_location=rss"
+        },
+        {
+          "title": "《风与嗣》公布追加演员阵容",
+          "summary": "原创电视动画《风之继承》的官方网站周三宣布了更多演员阵容。该动画系列将于 2027 年 1 月晚上 11:30 首播。 CBC 和 TBS 的 Agaru Anime 节目栏目28个附属站。主演：木村亮平（碧蓝之海） 东堂平介：村濑步（电锯男） 原田佐之介：土屋辛巴（燃烧魔女） 山波圭介：大冢武夫（乙女游戏世界 Mob ni Kibishii S.）",
+          "source": "MyAnimeList",
+          "date": "08-26",
+          "url": "https://myanimelist.net/news/74634425?_location=rss"
+        },
+        {
+          "title": "摇滚乐队 SCANDAL 成立 21 年后宣布解散",
+          "summary": "SCANDAL 官方网站周一宣布，这支四人全女性摇滚乐队将于 2​​027 年 8 月 21 日在神奈川县横滨竞技场举行最后一场音乐会后解散。解散日期将恰逢乐队成立 21 周年纪念日。乐队解释说，在成立20周年后，他们进行了多次讨论，并认为作为一个四人团体，他们已经完全完成了他们能一起做的一切。为了结束他们的旅程，SCANDA...",
+          "source": "MyAnimeList",
+          "date": "08-24",
+          "url": "https://myanimelist.net/news/74627545?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、技术专家称《侠盗猎车手 6》是迄今为止视觉效果最先进的游戏，这解释了为什么它卡在 30 FPS",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器的缺失声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的顶",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 在丰富的科幻场景中汇集了您所喜爱的所有战斗。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "技术专家称《侠盗猎车手 6》是迄今为止视觉效果最先进的游戏，这解释了为什么它卡在 30 FPS",
+          "summary": "侠盗猎车手 6 终于首次公开了其大型游戏玩法，让我们第一次真正看到 Rockstar 庞大的开放世界及其所包含的大量细节。据 Digital Foundry 的专家称，这可能是我们见过的视觉效果最令人印象深刻的游戏。\n\n\n\nDigital Foundry 的 Oliver Mackenzie 和 Richard Leadbetter 赞扬了《GTA 6》的视觉呈现，其中 Mackenzie 特别推",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/tech-experts-call-grand-theft-auto-6-the-most-visually-advanced-game-to-date-which-explains-why-its-stuck-at-30fps/"
+        },
+        {
+          "title": "CD Projekt Red 愿意帮助 Gamescom 盗窃受害者，业界也表示支持",
+          "summary": "一年一度的 Gamescom 活动旨在展示一些即将推出的最佳视频游戏，但至少两起明显的盗窃事件给今年的庆祝活动带来了阻碍。独立开发者 Ryan Laley 报告，他的 Gamescom 展位上的设备被盗，他表示这“对经济和精神都是巨大的打击”。幸运的是，Laley 得到了业界的大力支持，包括《巫师 3》和《赛博朋克 2077》开发商 CD Projekt Red。\n\n\n\nX 上，CD Projek",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/cd-projekt-red-offers-to-help-gamescom-theft-victim-as-industry-shows-its-support/"
+        },
+        {
+          "title": "泄露的 DLSS 5 Mod 显示了 Nvidia 的 AI 过滤器会对您的游戏产生多大​​的干扰",
+          "summary": "Nvidia 尚未宣布 DLSS 5 的发布日期，今年早些时候该产品的发布引起了广泛的强烈反对。但最近的一次泄露让 PC 改装者能够在几乎所有游戏中注入神经渲染，这被用来展示其人工智能驱动的面部滤镜有多糟糕。\n\n\n\n意外包含在 NBA 2K27 的构建中（通过 VideoCardz），DLSS 5 的早期版本被 RenoDX 模组社区访问并使用，他们很快开发了一个粗略的版本工具集允许任何人在各种游",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/leaked-dlss-5-mod-shows-just-how-much-nvidias-ai-filter-can-mess-with-your-games/"
+        },
+        {
+          "title": "《神鬼寓言》开发者对推迟到 2027 年以避免“混乱窗口”感到高兴，我们都知道这意味着 GTA 6",
+          "summary": "微软的新《神鬼寓言》游戏原定于今年推出，但被推迟到 2027 年 2 月。该游戏总监 Ralph Fulton 在接受采访时表示，他对《神鬼寓言》的推出时间感到“非常好”，并补充说，推迟到 2027 年有助于该游戏避免 2026 年底的原始时间表的“混乱窗口”。\n\n\n\n在接受 IGN 采访时，富尔顿表示延迟的原因“相当充分”大家都看得出来。”他表示，他“真的很期待”在 2026 年推出《神鬼寓言》",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/fable-dev-happy-about-delay-to-2027-to-avoid-chaotic-window-and-we-all-know-that-means-gta-6/"
+        },
+        {
+          "title": "GTA 6 看起来就像是这个热门电视节目中的公寓",
+          "summary": "GTA 6 的故事发生在罪恶都市，这是迈阿密的替身，游戏中的场景似乎是热门电视节目中的迈阿密公寓楼。\n\n\n\n眼尖的粉丝们注意到电视剧《嗜血法医》中德克斯特·摩根在迈阿密的公寓似乎出现在《侠盗猎车手 6》中。这部电视剧以迈阿密为背景，外部镜头是在迈阿密湾港俱乐部公寓拍摄的。您可以在下面看到比较图片。\n\n\n\n\nhttps://twitter.com/DrakoAfoa/status/209312125",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/gta-6-looks-like-it-features-this-popular-tv-show-apartment/"
+        },
+        {
+          "title": "是时候放弃我最喜欢的《异形隔离 2》理论了",
+          "summary": "《异形隔离 2》 推出了一位名为 Blake 的新主角。 Creative Assembly 整个夏天都清楚这一点，但直到现在我才明白这一点。自从今年 6 月的夏季游戏节 Play Days 上我第一次玩了这款生存恐怖游戏的演示版以来，我一直坚持这样一种理论，即布莱克在故事中的角色是一个诱饵和开关——很快布莱克就会被异形刺穿，而第一款游戏的明星阿曼达·雷普利 (Amanda Ripley) 会以异",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/its-time-i-let-go-of-my-favorite-alien-isolation-2-theory/"
+        },
+        {
+          "title": "回合制战术游戏粉丝突然吃得很好",
+          "summary": "《XCOM》系列实际上已中断多年，而 AAA 级回合制战术游戏最近也很难再出现了。然而，从本周推出的《星球大战零公司》开始，这种情况正在发生变化。它实际上是经典 XCOM 游戏玩法和克隆人战争时代的星球大战故事讲述的结合，在开始游戏的几分钟内，我就得到了与第一次玩 XCOM 游戏时一样的兴奋感。 \n\n\n\n通常情况下，我会尝试尽可能多地享受这样的回合制战术体验，因为我知道至少要过几年才能再次出现类似",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/turn-based-tactics-fans-are-suddenly-eating-very-well/"
+        },
+        {
+          "title": "《GTA 6》的漫长等待让人们意识到自己的死亡",
+          "summary": "在《侠盗猎车手 VI》的全新加长预告片展示了超过 25 分钟的新镜头后，您可能会期待人们谈论视觉效果、灯光、动作序列或枪战。但 Rockstar 的 YouTube 上传的该视频的热门评论更多地涉及人类状况，其程度超出了预期。事实上，有很多关于死亡和纪念的讨论。\n\n\n\n最上面的评论（在发布时）指出：“为未能来到这里的人们默哀片刻。”与此同时，另一个人写道：“目标：活到发布日。” 等待《GTA 6》",
+          "source": "GameSpot",
+          "date": "08-28",
+          "url": "https://www.gamespot.com/articles/gta-6s-long-wait-has-people-realizing-their-own-mortality/"
+        }
+      ]
+    }
+  ]
+}
