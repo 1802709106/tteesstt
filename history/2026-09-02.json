@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-02",
+  "quote": "「Error 500 (Server Error)!!1500.That’s an error.The」等AI 30条、动漫 11条、游戏 18条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.、约翰迪尔为农民…",
+      "items": [
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "TechCrunch",
+          "date": "09-01",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+        },
+        {
+          "title": "约翰迪尔为农民推出人工智能聊天机器人",
+          "summary": "约翰迪尔正在测试一款新的“JD”人工智能助手，据称该助手可以帮助农民赚更多钱，并根据他们自己的数据提供有关最佳实践和历史趋势的答案。它使用他们的“现场、机器和操作数据”来回答有关设备设置、燃料使用或收获时间等主题的问题。 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-01",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
+        },
+        {
+          "title": "纽约州州长 Kathy Hochul 认为人工智能应该“减少邪恶”",
+          "summary": "今天，我正在与纽约州州长凯西·霍赫尔交谈，我只是警告你——这一集进展得非常快。毕竟，今年是选举年，涉及数量惊人的科技政策，而霍赫尔州长在几乎所有重大科技问题上都采取了强硬立场。例如，Meta 刚刚达到 [&#8230;]",
+          "source": "The Verge",
+          "date": "08-31",
+          "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+        },
+        {
+          "title": "人工智能如何规划前往半人马座阿尔法星的星际之旅",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MIT科技评论",
+          "date": "09-01",
+          "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+        },
+        {
+          "title": "为遗产现代化提供人工智能驱动的案例",
+          "summary": "多年来，遗留技术一直是公司知道他们需要解决的问题，但他们经常难以解决。更换关键业务系统的成本、复杂性和风险可能会让现代化感觉像是一种管理中断，而不是一个值得追求的机会。但随着客户期望的提高和变化——",
+          "source": "MIT科技评论",
+          "date": "09-01",
+          "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+        },
+        {
+          "title": "下载：农作物工程微生物以及 OpenAI 的培养问题",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。工程微生物如何帮助喂养世界各地的农作物肥料对于全球粮食供应至关重要，但制造肥料需要消耗大量能源并产生大量排放。",
+          "source": "MIT科技评论",
+          "date": "09-01",
+          "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+        },
+        {
+          "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
+          "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。现在你可能已经听说过上个月发生的重大人工智能安全事件，其中 OpenAI 代理逃离了沙箱，并在试图欺骗人工智能平台 Hugging Face 的同时入侵了人工智能平台 Hugging Face。",
+          "source": "MIT科技评论",
+          "date": "08-31",
+          "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+        },
+        {
+          "title": "下载：一种秘密的抗衰老药物和加入虚拟发电厂",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它发现了一种让你的血液年轻的药物——Antonio Regalado 当一家名为 Generation Lab 的公司向我提供“长寿影响者”时，我知道我正式成为“长寿影响者”。",
+          "source": "MIT科技评论",
+          "date": "08-28",
+          "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+        },
+        {
+          "title": "一家初创公司声称发现了一种可以让你的血液年轻的药物",
+          "summary": "本月，当一家名为 Generation Lab 的公司向我伸出援手，为我提供撰写甚至接受他们新的返老还童疗法的机会时，我知道我正式成为“长寿影响者”，这是一种由两种现有药物组成的注射组合，他们称之为 1 Generation。这也不仅仅是任何抗衰老治疗。公司情况说明书称——",
+          "source": "MIT科技评论",
+          "date": "08-27",
+          "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+        },
+        {
+          "title": "下载：OpenAI 的 Hugging Face 黑客技术，以及一款新的电动汽车挑战美国",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 代理为何攻击 Hugging Face 的内幕 负责上个月代理攻击 Hugging Face 的模型无意中接受了欺骗并与“Hugging Face”进行交流的训练。",
+          "source": "MIT科技评论",
+          "date": "08-27",
+          "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《一响之梦 Nuri Minarai》主要工作人员公布、“Isekai wa Smartphone to Tomo ni.”总监柳濑雄二去世，享年 59 岁、聚焦：与 Studio KAI 打造黑暗奇幻“被判英雄”",
+      "items": [
+        {
+          "title": "《一响之梦 Nuri Minarai》主要工作人员公布",
+          "summary": "周三，出版公司 Shufu to Seikatsusha 公布了村川漫画《异国美甲师学徒》动画改编的主要工作人员名单。职员导演：岩永大治（Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi） 系列构成：金春智子（Kimi ni Todoke） 脚本：金春智子、横手美智子（火影忍者） 工作室：零重力丸川开始在 Comic ",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660419?_location=rss"
+        },
+        {
+          "title": "“Isekai wa Smartphone to Tomo ni.”总监柳濑雄二去世，享年 59 岁",
+          "summary": "Yuuji Yanase，异世界智能手机的总监。 《带着智能手机闯荡异世界》8月22日因心肌梗塞去世。享年 59 岁，近亲为他举办了葬礼。动画工作室 Maho Film 于周三宣布了这一消息，柳濑自 2023 年以来一直是该公司的全职员工。正在制作的动画系列《西京 Degarashi Ouji no Anyaku Teii Arasoi》（《平淡王子偷偷夺取王位》）的制作委员会还发布了...",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660251?_location=rss"
+        },
+        {
+          "title": "聚焦：与 Studio KAI 打造黑暗奇幻“被判英雄”",
+          "summary": "Studio KAI成立于2019年，他们的名字“KAI”意思是“桨”。日语。由于桨是划船时使用的工具，Studio KAI 的使命就是带着激情和决心大胆地划入动画的无尽海洋。其结果就是我们在《刑成英雄》中看到的令人惊叹的角色表演和令人瞠目结舌的动作。在动漫博览会的第二天，《刑成英雄》背后的创意人员讨论了吸引粉丝的改编作品……",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660102?_location=rss"
+        },
+        {
+          "title": "《青阿石第 2 季》公布新员工和首个宣传片",
+          "summary": "周二，《青阿史》电视动画系列的官方网站公布了更多的工作人员，并发布了首个宣传视频。改编自小林佑吾体育漫画的动画续集预计于 10 月 4 日下午 5:00 首播。在 NHK-E 上。首席动画导演：中武学（芦青）、田口麻美（羽扇豆零）、山中淳子（河野音泊！） 动作动画导演：冲村忠义（Blue Lock vs. U-20 Japan）、久保聪（芦青） 艺术设计：重川佑树...",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74659902?_location=rss"
+        },
+        {
+          "title": "《Tefuda ga Oome no Victoria》第二季制作中",
+          "summary": "《多面维多利亚》的第九集也是最后一集于周三结束，并宣布新的特别集和第二季正在制作中。官方网站还公开了公告视觉图（如图）。第一季由 Studio Deen 制作，于 7 月 8 日首播。Crunchyroll 联播了这部动画，并配有多种语言的字幕。 Shuu于2021年9月至11月在Shousetsuka ni Narou网站上创作了这部奇幻小说，于2021年推出...",
+          "source": "MyAnimeList",
+          "date": "09-01",
+          "url": "https://myanimelist.net/news/74658587?_location=rss"
+        },
+        {
+          "title": "焦点：京都动画以明日的火花开拓新领域",
+          "summary": "动漫迷聚集在动漫博览会的第二天，观看深受喜爱的京都动画工作室制作的最新杰作动画作品《明日火花》（二十世纪电气默鲁）的美国首映，并聆听 2026 年夏季电视动画背后的工作人员的讲述。 MyAnimeList 的社区在阅读了我们之前在动漫博览会小组和动漫播出之前对太田稔导演的采访后受邀发送问题。其中五个问题由工作人员选择并回答......",
+          "source": "MyAnimeList",
+          "date": "09-01",
+          "url": "https://myanimelist.net/news/74657428?_location=rss"
+        },
+        {
+          "title": "漫画《Hikaru ga Shinda Natsu》分两章完结",
+          "summary": "Mokumokuren 的《Hikaru ga Shinda Natsu》漫画的官方 X 帐户周二宣布，该系列将以两章结束。第 50 章计划于 10 月 13 日发行，第 51 章也是最后一章将于 10 月 20 日发行。Mokumokuren 最初在他们的 X（以前的 Twitter）帐户上发布了这部恐怖悬疑漫画，也被称为 Hikanatsu，然后于 202 年 8 月开始在 Young Ace",
+          "source": "MyAnimeList",
+          "date": "09-01",
+          "url": "https://myanimelist.net/news/74657377?_location=rss"
+        },
+        {
+          "title": "《FX战士胡桃酱》追加人员、片头曲、主要宣传片公开",
+          "summary": "改编自 Demunyan 和 Daisuki Tansan 的 FX Senshi Kurumi-chan（FX Fighter Kurumi-chan）漫画的电视动画的官方网站于周一公布了额外的工作人员、片头主题和主要宣传视频。动画将于10月1日晚上9点30分首播。 AT-X 上播出，其次是东京 MX、BS11 和关西电视台。第一集将于9月27日下午5点55分提前放映。位于东京池袋 HUMAX ",
+          "source": "MyAnimeList",
+          "date": "08-31",
+          "url": "https://myanimelist.net/news/74653960?_location=rss"
+        },
+        {
+          "title": "CloverWorks 制作 2027 年新电影《精灵宝可梦：通配符》",
+          "summary": "周一，精灵宝可梦公司在旧金山举行的 2026 年精灵宝可梦世界锦标赛期间宣布了一部名为《精灵宝可梦：通配符》的新动画电影，公布了主要工作人员、公告视觉和宣传视频。 《口袋妖怪》系列七年来的首部新电影计划于 2027 年首映。北田胜彦（《灌篮高手》剧集导演）正在 CloverWorks 执导该电影。 Akemi Hayashi（拉撒路）正在设计角色。故事公司正在处理策划和制作...",
+          "source": "MyAnimeList",
+          "date": "08-31",
+          "url": "https://myanimelist.net/news/74653487?_location=rss"
+        },
+        {
+          "title": "漫画《8-gatsu 31-nichi no Long Summer》获得电视动画、真人改编",
+          "summary": "伊藤一堂的《8 月 31 日的漫长夏天》漫画的官方 X 帐户周一宣布将改编成电视动画和真人电视剧，并公开了超预告视觉效果（如图）。以《魔法少女小圆★魔法》（Puella Magi Madoka Magica）和《物语》系列而闻名的动画工作室 Shaft 正在制作该动画系列。伊藤于 2023 年 3 月开始在《晨报》杂志上连载这部科幻喜剧漫画。讲谈社出版了第 13 期……",
+          "source": "MyAnimeList",
+          "date": "08-31",
+          "url": "https://myanimelist.net/news/74653274?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、索尼将支付近 800 万美元的游戏价格集体诉讼和解金",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器的缺失声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的顶",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "索尼将支付近 800 万美元的游戏价格集体诉讼和解金",
+          "summary": "索尼将向 PlayStation 客户支付近 800 万美元，作为数字游戏价格和解协议的一部分。该和解协议（通过 IGN）是在索尼驳回诉讼的动议被拒绝后达成的，四年多期间的和解集体成员可能有资格获得付款。 \n\n\n\n该诉讼最初于 2024 年提起，指控索尼通过让发行商“将最终价格的控制权交给索尼”来建立对 PlayStation Store 价格的垄断，并且索尼“当它不再允许外部零售商销售可以在 P",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/sony-to-pay-out-nearly-8-million-in-class-action-settlement-over-game-prices/"
+        },
+        {
+          "title": "生化危机电影爆米花桶虽然恶心但很合适",
+          "summary": "与当今大多数大片一样，《武器》导演扎克·克雷格 (Zach Cregger) 即将上映的《生化危机》电影将有自己的专用爆米花桶，现在它已经曝光了，至少对于一家连锁影院来说是这样。\n\n\n\n在富豪剧院观看《生化危机》的人们将能够购买以器官运输袋为主题的爆米花桶，就像奥斯汀·艾布拉姆斯在电影中扮演的角色一样。爆米花桶可以容纳一大份爆米花，并且附有小字说明，它没有像下面宣传图片中那样带有一颗跳动的心。唷。",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/resident-evil-movie-popcorn-bucket-is-gross-but-fitting/"
+        },
+        {
+          "title": "《GTA 6》的加长预告片似乎为 Netflix 带来了巨大的收视率",
+          "summary": "Netflix 确认《GTA 6》最近发布了“扩展版预告片”是该主播上周观看次数最多的作品，观看次数达 3110 万次。\n\n\n\n该预告片被 Netflix 标记为“英语电影”，并且在 Netflix 播放的全球 93 个地区中的 87 个地区中，该预告片排名第一 (via品种）。\n\n\n\n上周，《GTA 6》预告片远远领先于排名第二的电影《耳语者》，该片拥有 2,320 万观众。 \n\n\n\n\nhttp",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/gta-6s-extended-look-trailer-seemingly-paid-off-for-netflix-with-massive-viewership/"
+        },
+        {
+          "title": "CD Projekt 承认，在糟糕的状态下发布《赛博朋克 2077》“肯定是错误的”",
+          "summary": "CD Projekt Red 的 RPG 《赛博朋克 2077》于 2020 年 12 月推出，技术状况非常糟糕，以至于索尼采取了罕见的举措将其从 PlayStation Store 下架。数千人为游戏退款。 CD Projekt 联合首席执行官 Michał Nowakowski 现在对此进行了反思，称在该州推出游戏“肯定是错误的”，但他反驳了工作室这样做是为了安抚希望看到财务回报的投资者的理论",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/releasing-cyberpunk-2077-in-its-poor-state-was-for-sure-wrong-cd-projekt-admits/"
+        },
+        {
+          "title": "《巫师重制版》正在等待《巫师 4》继续开发",
+          "summary": "CD Projekt 透露，随着工作室的工作，《愚人理论》的《巫师重制版》目前已被搁置《巫师 3：狂猎》的《过去之歌》资料片，正在等待《巫师 4》的一些技术创新。\n\n\n\n联合首席执行官 Michał Nowakowski 在接受游戏业务采访时提到了该项目的障碍。 “我们开始与 Fool’s Theory 合作。他们本来应该参与《巫师 1》[重制版]，但我们意识到，由于《巫师 4》的某些技术依赖，我",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/the-witcher-remake-is-waiting-on-the-witcher-4-to-continue-development/"
+        },
+        {
+          "title": "《使命召唤：现代战争 4》测试版延长，增加双倍经验值以帮助您获得奖励",
+          "summary": "《使命召唤：现代战争 4》公开测试版原定于今天（9 月 1 日）上午 10 点（太平洋时间）/下午 1 点（东部时间）结束，但动视公司延长了期限。\n\n\n\n测试版现定于太平洋时间晚上 10 点/东部时间凌晨 1 点（9 月 2 日）结束，这意味着测试时间已延长了整整 12 小时。不仅如此，动视现在还提供双进度 XP 和双武器 XP，直到测试版结束为止。\n\n\n\n对于任何努力通过关卡并领取MW4 公开测",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-extended-adds-double-xp-to-help-you-grind-for-rewards/"
+        },
+        {
+          "title": "Xbox Game Pass 9 月新增 7 款新游戏",
+          "summary": "这是新一个月的开始，恰逢此时，微软公布了将于 9 月份登陆 Xbox Game Pass 的第一批游戏。即将推出的批次并不是太大，但它确实包括竞技游戏玩家想要查看的第一天版本，以及 Xbox Game Pass Premium 的更多游戏。相反，Game Pass 本月将失去一些相当大的游戏，其中《赛博朋克 2077》将引领退出浪潮。\n\n\n\n今天的开场游戏是 Shelldiver，这是一款增量游戏",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-in-september-expands-with-seven-new-games/"
+        },
+        {
+          "title": "Xbox Game Pass 很快就会删除《赛博朋克 2077》和其他 9 款游戏",
+          "summary": "最新一批从 Xbox Game Pass 中删除的内容已经宣布，一些重量级人物即将离开。继《巫师 3》于 8 月下架后，另一款 CD Projekt Red 游戏《赛博朋克 2077》将于 9 月 15 日停止服务。\n\n\n\n当天还有其他 9 款游戏离开 Game Pass，包括《死亡细胞》、《冰汽朋克 2》、《Spiritfarer》、《火车模拟世界 5》等。您可以在下面查看完整列表。\n\n\n\n《赛",
+          "source": "GameSpot",
+          "date": "09-01",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-removes-cyberpunk-2077-and-9-other-games-very-soon/"
+        }
+      ]
+    }
+  ]
+}
