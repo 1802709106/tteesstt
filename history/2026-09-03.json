@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-03",
+  "quote": "「Error 500 (Server Error)!!1500.That’s an error.The」等AI 33条、动漫 11条、游戏 11条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.、下载：人工智能…",
+      "items": [
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "TechCrunch",
+          "date": "09-02",
+          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+        },
+        {
+          "title": "下载：人工智能谜题和通往距离我们最近的恒星系统的路径",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MIT科技评论",
+          "date": "09-02",
+          "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
+        },
+        {
+          "title": "为遗产现代化提供人工智能驱动的案例",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MIT科技评论",
+          "date": "09-01",
+          "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+        },
+        {
+          "title": "下载：农作物工程微生物以及 OpenAI 的培养问题",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MIT科技评论",
+          "date": "09-01",
+          "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+        },
+        {
+          "title": "一家初创公司声称发现了一种让你的血液年轻的药物",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MIT科技评论",
+          "date": "08-27",
+          "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+        },
+        {
+          "title": "EvalDetectBench：衡量前沿语言模型评估意识的基准",
+          "summary": "arXiv:2609.01611v1 公告类型：新 \n摘要：前沿大型语言模型通常可以在评估时进行识别，这种能力称为评估意识。如果模型在评估中的表现与在部署中的表现不同，就会破坏评估结果的有效性，而评估结果是当前人工智能安全框架的重要组成部分。我们推出了 EvalDetectBench，这是一个开放式管道和基准，用于测量评估意识，可与任何 Inspect 兼容的评估配合使用，允许从业者根据当前和未来",
+          "source": "ArXiv AI",
+          "date": "09-03",
+          "url": "https://arxiv.org/abs/2609.01611"
+        },
+        {
+          "title": "元伦理与人工智能：探索人工智能时代新的元伦理问题",
+          "summary": "arXiv:2609.01685v1 公告类型：新 \n摘要：随着人工智能（AI）的发展，主要以人类伦理为中心的元伦理学格局面临着可能对其进行重大重构的压力。特别是，如果未来的人工智能系统要表现出足够综合的道德推理、道德意向性和道德反思的能力，就会出现关于我所说的“人工智能自身伦理”的新的元伦理问题，这与人类设计者仅仅强加给人工智能的伦理原则不同。本文提供了一个条件和方法框架，用于确定此类人工智能系",
+          "source": "ArXiv AI",
+          "date": "09-03",
+          "url": "https://arxiv.org/abs/2609.01685"
+        },
+        {
+          "title": "机器什么时候可以信任法规？机器提取的法律逻辑的生存证明",
+          "summary": "arXiv:2609.01741v1 公告类型：新 \n摘要：在人们阅读法规之前，机器越来越多地对其进行解析，并且解析器存在分歧：在密苏里州的法规中，两个独立编写的提取器在数字阈值存在上存在分歧，假阴性率为 0.43。我们要问什么形式逻辑能够在这样的噪音中幸存下来。我们为机器提取的法定上下文的 Duquenne-Guigues 蕴涵基础构建了一个被动生存证书：测量每个属性提取器之间的分歧，并在 1,",
+          "source": "ArXiv AI",
+          "date": "09-03",
+          "url": "https://arxiv.org/abs/2609.01741"
+        },
+        {
+          "title": "信息共享何时可以改善去中心化发现？聚合、独立救援、均衡选择",
+          "summary": "arXiv:2609.01814v1 公告类型：新 \n摘要：信息共享可以改进汇总估计，同时消除独立的救援行动。本文将这些影响分离到精确的有限发现模型中。集中的行动预算概况表明，相同的个人准确性可以与不同的投资组合价值共存。在注册的增量共享协议下，当合并的残余错误收缩速度比独立救援尝试更快时，共享步骤可以准确地改善发现。精确有界注册表表现出压缩、聚合、中性曲线和有界零混合类。在具有共同和独立信号源的",
+          "source": "ArXiv AI",
+          "date": "09-03",
+          "url": "https://arxiv.org/abs/2609.01814"
+        },
+        {
+          "title": "通过语言和代码的概率推理进行归纳和探究",
+          "summary": "arXiv:2609.01815v1 公告类型：新 \n摘要：人类如何从稀疏的、流动的、嘈杂的经验数据中增长和维护抽象知识是认知科学中长期存在的挑战。任何计算帐户都必须至少满足三个要求：它必须（1）数据效率和计算效率，（2）捕获不确定性的等级以支持智能查询和信息收集，以及（3）足够灵活以在心理上代表人们可以学习和思考的无限范围的概念。在这里，我们介绍了一种捕获这三个属性的计算模型，通过将符号知识编码",
+          "source": "ArXiv AI",
+          "date": "09-03",
+          "url": "https://arxiv.org/abs/2609.01815"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "《龙珠超：比鲁斯》公开主要工作人员、主题曲、“Super Surge”宣传片、《日本三国》动画续集公布、《Kanata kara》公布了更多演员、工作人员、主题曲、主要宣传片",
+      "items": [
+        {
+          "title": "《龙珠超：比鲁斯》公开主要工作人员、主题曲、“Super Surge”宣传片",
+          "summary": "《龙珠》系列官方网站公开了主要工作人员、主题曲《Super Surge》周四，其新电视动画的视觉效果（如图）和宣传视频。由东映动画出品的新动画系列《龙珠超：比鲁斯》采用全新剪辑、重画场景、完整重构龙珠超故事，将于10月11日晚上11点15分首播。在富士电视台的全国网络上播出。员工系列构成、制作安排：M...",
+          "source": "MyAnimeList",
+          "date": "09-03",
+          "url": "https://myanimelist.net/news/74662863?_location=rss"
+        },
+        {
+          "title": "《日本三国》动画续集公布",
+          "summary": "制作公司 Twin Engine 周四宣布，电视动画《日本三国：赤日三国》的续集正在制作中。由 Studio Kafka 制作的这部改编自松木一花的末日戏剧漫画的动画剧集于 4 月 7 日开始播出。亚马逊的 Prime Video 服务以多个字幕和配音播放该剧集。松木于 2021 年 11 月开始在 MangaONE 应用程序和网站上连载该漫画。小学馆出版了……",
+          "source": "MyAnimeList",
+          "date": "09-03",
+          "url": "https://myanimelist.net/news/74662721?_location=rss"
+        },
+        {
+          "title": "《Kanata kara》公布了更多演员、工作人员、主题曲、主要宣传片",
+          "summary": "周三，根据冰川恭子的漫画《彼方》改编的电视动画的官方网站公布了额外的演员阵容、工作人员、主题曲、主视觉图（如图）和主要宣传视频。该动画系列计划于 10 月 5 日中午 12 点在 Tokyo MX 首播，随后在 AT-X、ABC TV 和 WOWOW 上播出。主演：齐藤公子（厄里斯的青海） 血淋淋：宫泽正（宇都内的真堂柱大丽雅） 守门员：中野泰辅（真中中。",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660904?_location=rss"
+        },
+        {
+          "title": "《一响之梦 Nuri Minarai》主要工作人员公布",
+          "summary": "周三，出版公司 Shufu to Seikatsusha 公布了村川漫画《异国美甲师学徒》动画改编的主要工作人员名单。职员导演：岩永大治（Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi） 系列构成：金春智子（Kimi ni Todoke） 脚本：金春智子、横手美智子（火影忍者） 工作室：零重力丸川开始在 Comic ",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660419?_location=rss"
+        },
+        {
+          "title": "“Isekai wa Smartphone to Tomo ni.”总监柳濑雄二去世，享年 59 岁",
+          "summary": "Yuuji Yanase，异世界智能手机的总监。 《带着智能手机闯荡异世界》8月22日因心肌梗塞去世。享年 59 岁，近亲为他举办了葬礼。动画工作室 Maho Film 于周三宣布了这一消息，柳濑自 2023 年以来一直是该公司的全职员工。正在制作的动画系列《西京 Degarashi Ouji no Anyaku Teii Arasoi》（《平淡王子偷偷夺取王位》）的制作委员会还发布了...",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660251?_location=rss"
+        },
+        {
+          "title": "焦点：与 Studio KAI 打造“被判英雄”的黑暗幻想",
+          "summary": "Studio KAI成立于2019年，他们的名字“KAI”意思是“桨”。日语。由于桨是划船时使用的工具，Studio KAI 的使命就是带着激情和决心大胆地划入动画的无尽海洋。其结果就是我们在《刑成英雄》中看到的令人惊叹的角色表演和令人瞠目结舌的动作。在动漫博览会的第二天，《刑成英雄》背后的创意人员讨论了吸引粉丝的改编作品……",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660102?_location=rss"
+        },
+        {
+          "title": "《青阿石第 2 季》公布新员工和首个宣传片",
+          "summary": "周二，《青阿史》电视动画系列的官方网站公布了更多的工作人员，并发布了首个宣传视频。改编自小林佑吾体育漫画的动画续集预计于 10 月 4 日下午 5:00 首播。在 NHK-E 上。首席动画导演：中武学（芦青）、田口麻美（羽扇豆零）、山中淳子（河野音泊！） 动作动画导演：冲村忠义（Blue Lock vs. U-20 Japan）、久保聪（芦青） 艺术设计：重川佑树...",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74659902?_location=rss"
+        },
+        {
+          "title": "《Tefuda ga Oome no Victoria》第二季制作中",
+          "summary": "《多面维多利亚》的第九集也是最后一集于周三结束，并宣布新的特别集和第二季正在制作中。官方网站还公开了公告视觉图（如图）。第一季由 Studio Deen 制作，于 7 月 8 日首播。Crunchyroll 联播了该动画，并配有多种语言的字幕。 Shuu于2021年9月至11月在Shousetsuka ni Narou网站上创作了这部奇幻小说，于2021年推出...",
+          "source": "MyAnimeList",
+          "date": "09-01",
+          "url": "https://myanimelist.net/news/74658587?_location=rss"
+        },
+        {
+          "title": "聚焦：京都动画以明日的火花开拓新领域",
+          "summary": "动漫迷聚集在动漫博览会的第二天，观看深受喜爱的京都动画工作室制作的最新杰作动画作品《明日火花》（二十世纪电气默鲁）的美国首映，并聆听 2026 年夏季电视动画背后的工作人员的讲述。 MyAnimeList 的社区在阅读了我们之前在动漫博览会小组和动漫播出之前对太田稔导演的采访后受邀发送问题。其中五个问题由工作人员选择并回答......",
+          "source": "MyAnimeList",
+          "date": "09-01",
+          "url": "https://myanimelist.net/news/74657428?_location=rss"
+        },
+        {
+          "title": "漫画《Hikaru ga Shinda Natsu》分两章完结",
+          "summary": "Mokumokuren 的《Hikaru ga Shinda Natsu》漫画的官方 X 帐户周二宣布，该系列将以两章结束。第 50 章计划于 10 月 13 日发行，第 51 章也是最后一章将于 10 月 20 日发行。Mokumokuren 最初在他们的 X（以前的 Twitter）帐户上发布了这部恐怖悬疑漫画，也被称为 Hikanatsu，然后于 202 年 8 月开始在 Young Ace",
+          "source": "MyAnimeList",
+          "date": "09-01",
+          "url": "https://myanimelist.net/news/74657377?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、PlayStation State of Play 2026 年 9 月：开始时间、如何观看以及期待什么",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器的缺失声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的顶",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "PlayStation State of Play 2026 年 9 月：开始时间、如何观看以及期待什么",
+          "summary": "就在您以为科隆游戏展后视频游戏直播会暂停时，索尼却突然注意到，State of Play 直播将带着两场连续直播回归。与往常一样，这将是即将推出的 PlayStation 5 游戏的新面貌，但除此之外，索尼只透露了一些细节。如果您打算观看，这里有您需要了解的有关何时何地可以观看的所有信息。\n\n\n\n如何观看比赛状态\n\n\n\n\nhttps://youtu.be/JHaGFvazVA8\n\n\n\n\n与往常一样",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/playstation-state-of-play-september-2026-start-time-how-to-watch-and-what-to-expect/"
+        },
+        {
+          "title": "CD Projekt Red 仍在大肆赚钱，等待《巫师 4》",
+          "summary": "CD Projekt Red 发布了 2026 年上半年的最新收益报告，简而言之，这对该公司来说是一个糟糕的时期，随着许多大牌产品的发布，预计情况只会有所改善。\n\n\n\n1 月至 7 月期间，CD Projekt Red 的收入为 4.35 亿兹罗提（1.164 亿美元），同比增长 23%。此外，该公司净利润为 2.49 亿兹罗提（6660 万美元），同比增长 37%。公司的总净利润高达 57%，令",
+          "source": "GameSpot",
+          "date": "09-02",
+          "url": "https://www.gamespot.com/articles/cd-projekt-red-is-still-raking-in-the-cash-as-we-wait-for-the-witcher-4/"
+        },
+        {
+          "title": "拖延已久的《监狱建筑师 2》在沉寂两年后终于迎来了激动人心的更新",
+          "summary": "《监狱建筑师 2》是一款备受期待的续作，原定于 2024 年推出。该游戏被推迟到当年 9 月，之后又无限期推迟，但经过两年多的等待，我们终于有迹象表明它可能即将迎来新的发布日期：另一次 Beta 测试。 \n\n\n\n继 4 月份的测试版之后（这是自 2024 年推迟以来 Paradox 首次对游戏进行正式更新），《监狱建筑师 2》将于 9 月举行另一次内测。 \n\n\n\n注册表现已关闭，其中向潜在测试人员",
+          "source": "GameSpot",
+          "date": "09-02",
+          "url": "https://www.gamespot.com/articles/long-delayed-prison-architect-2-gets-exciting-update-after-two-years-of-mostly-silence/"
+        },
+        {
+          "title": "现实生活中的浪漫（以及粉丝的喜爱）推动了经典红白机翻拍",
+          "summary": "头条新闻充斥着收购、裁员、虐待员工和加班的故事，人们很容易认为游戏开发是一场持续不断的痛苦和冲突。但绝大多数开发者仍然出于对媒体的真正热爱而制作游戏，并且与队友有着深厚的联系。 Steam 出人意料地宣布将重制 NES 经典游戏《奥林匹斯之战》，展示了游戏开发的快乐的一面：这个项目源于一个想法，后来发展成现实生活中的浪漫、长达十年的职业生涯，以及对那些让这款游戏铭记在心的粉丝的感激之情。\n\n\n\n\n",
+          "source": "GameSpot",
+          "date": "09-02",
+          "url": "https://www.gamespot.com/articles/a-real-life-romance-and-the-love-of-fans-fueled-a-classic-nes-remake/"
+        },
+        {
+          "title": "《生化危机》导演表示他“没有机会”在自己的电影中幸存",
+          "summary": "多年来，《生化危机》游戏在生物武器横行的故事中慢慢添加了更多奇幻元素，但对于新的真人版在电影中，导演扎克·克雷格正在将这些想法回溯到更“脚踏实地”的水平。即便如此，他也不认为如果自己被丢到那个世界，自己会过得不太好。\n\n\n\n“我觉得《生化危机》的一些游戏有点神奇，”Cregger 在 Reddit 提问中说道会议（来自 YouTuber Troy Hill Talks Movies）。 \n\n\n\n\"",
+          "source": "GameSpot",
+          "date": "09-02",
+          "url": "https://www.gamespot.com/articles/resident-evil-director-says-theres-no-chance-hed-survive-his-own-movie/"
+        },
+        {
+          "title": "这款恐怖游戏正在经历一场不同类型的恐龙危机",
+          "summary": "Athanasia 是一款将您困在充满恐龙的神秘设施中的独立恐怖游戏，即将在理想的恐怖游戏窗口推出：万圣节前夕。 GameSpot 可以独家透露《Athanasia》的发售日期；它将于 10 月 19 日通过 Steam 抢先体验登陆 PC。\n\n\n\n在《Athanasia》中，玩家发现自己被困在南美的一个研究设施中，那里挤满了恐龙，这些恐龙不知何故穿越到了游戏故事中的今天。虽然艺术风格让人想起卡普",
+          "source": "GameSpot",
+          "date": "09-02",
+          "url": "https://www.gamespot.com/articles/this-horror-game-is-having-a-dino-crisis-of-a-different-sort/"
+        },
+        {
+          "title": "《生化危机》电影如何借鉴《生化危机 4》和《生化危机 7》",
+          "summary": "在本月晚些时候《生化危机》上映之前，导演 Zach Cregger 在 Reddit 他回答了有关这部电影的问题。虽然《生化危机》的预告片中透露了一些游戏玩家会认出的复活节彩蛋，但克雷格还谈到了游戏对他的恐怖电影的另一个影响：《生化危机》的第三人称视角。\n\n\n\n“我觉得这件事的最大灵感来自于游戏，我指的是电影，”Cregger 在 AMA 期间说道（来自 YouTuber Troy Hill Ta",
+          "source": "GameSpot",
+          "date": "09-02",
+          "url": "https://www.gamespot.com/articles/how-the-resident-evil-movie-borrows-from-re4-and-re7/"
+        },
+        {
+          "title": "《马里奥赛车 8 豪华版》刚刚获得惊喜免费更新，支持 8 人分屏游戏",
+          "summary": "《马里奥赛车 8 豪华版》 多年来一直是任天堂的金鹅，因为它是公司有史以来最畅销的 Switch 游戏，多年来不断更新，成为功能丰富的体验。尽管《马里奥赛车世界》旨在篡夺其地位，但任天堂还没有停止在《马里奥赛车 8》中添加新内容，因为该游戏刚刚在 Switch 2 上突然获得了新的八人分屏模式。该模式可以免费下载，最多允许八名玩家在本地共享屏幕，而且在运行时看起来狂野。\n\n\n\n除了像一块巧克力一样",
+          "source": "GameSpot",
+          "date": "09-02",
+          "url": "https://www.gamespot.com/articles/mario-kart-8-deluxe-just-got-a-surprise-free-update-with-8-player-split-screen/"
+        }
+      ]
+    }
+  ]
+}
