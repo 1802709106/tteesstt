@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-04",
+  "quote": "「OpenAI的下一个大AI模型已经“进入AGI时代”」等AI 45条、动漫 20条、游戏 32条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "OpenAI的下一个大AI模型已经“进入AGI时代”、Nvidia 推出免费工具，将闲置计算机连接到个人人工智能数据中心、Google 现在允许您使用 Gmail、Docs 和 Keep 聊天",
+      "items": [
+        {
+          "title": "OpenAI的下一个大AI模型已经“进入AGI时代”",
+          "summary": "OpenAI 的下一个大型模型就在这里：GPT-6 Astra。该公司称其为网络安全、专业工作、软件工程、科学和计算机使用等领域的“能力的代际飞跃”。正如 OpenAI 本周早些时候宣布的那样，这也是第一个被指定满足 OpenAI 的“关键网络安全能力阈值”的模型 - 但该公司承诺不会 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-03",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+        },
+        {
+          "title": "Nvidia 推出免费工具，将闲置计算机连接到个人人工智能数据中心",
+          "summary": "Nvidia 宣布推出新的个人 AI 路由器 (PAIR)，这是一款免费工具，可以同步您的家用计算机，以便与 Ollama 和 LM Studio 等工具一起处理本地 AI 推理任务。让我们先解决一个显而易见的问题，不管它的名字可能意味着什么：PAIR 不是硬件路由器。它是开源软件[&#8230;]",
+          "source": "The Verge",
+          "date": "09-03",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
+        },
+        {
+          "title": "Google 现在允许您使用 Gmail、Docs 和 Keep 聊天",
+          "summary": "谷歌正在为 Gmail、Docs 和 Keep 推出人工智能驱动的语音助手模式，让你可以通过与应用程序交谈来管理它们。实时对话功能被称为 Gmail Live、Docs Live 和 Keep Live，与 Google 聊天机器人的 Gemini Live 体验一样，旨在让记录变得更容易[&#8230;]",
+          "source": "The Verge",
+          "date": "09-03",
+          "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini"
+        },
+        {
+          "title": "ChatGPT、Grok、Claude 同时宕机",
+          "summary": "OpenAI 的 ChatGPT、xAI 的 Grok 和 Anthropic 的 Claude 在周四大约同一时间开始遇到问题后又重新上线。美国东部时间上午 11 点左右，ChatGPT 开始向尝试使用聊天机器人的用户返回错误消息，其状态页面显示“ChatGPT 和 Codex 之间的错误增多”。除了防止[&#8230;]",
+          "source": "The Verge",
+          "date": "09-03",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down"
+        },
+        {
+          "title": "谷歌表示其人工智能天气模型正在变得更好",
+          "summary": "谷歌正在推出一个更新的人工智能天气模型，该模型应该更加准确，特别是在预测降雨和降雪方面。在今天的公告中，该公司表示，现在能够使用其新的 WeatherNext 3 人工智能模型以“前所未有的分辨率”进行预测。它可以生成五张全球图片[&#8230;]",
+          "source": "The Verge",
+          "date": "09-03",
+          "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update"
+        },
+        {
+          "title": "Nvidia 斥资近 130 亿美元收购 Hugging Face",
+          "summary": "Nvidia 已同意以 129.3 亿美元收购 Hugging Face，将最受欢迎的开源 AI 模型、数据集和工具托管平台之一纳入全球最大的 AI 芯片制造商的手中。 Hugging Face 是一个成立于 2016 年的在线平台，为 AI 开发者提供了分享项目和数据的空间 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-03",
+          "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+        },
+        {
+          "title": "谷歌称其新的 Gemini 3.8 Flash 型号“工作更努力”但可能成本更高",
+          "summary": "Google 推出了 Gemini 3.8 Flash，比其前身仅几周后就发布了。该公司声称，新模型比 Gemini 3.7 Flash“工作更努力”，对复杂任务执行更多推理步骤并“迭代调用工具”。它的介绍性定价与 3.7 Flash 相同，每百万个输入代币 0.75 美元，每百万个输入代币 3.75 美元[&#8230;]",
+          "source": "The Verge",
+          "date": "09-02",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
+        },
+        {
+          "title": "亚马逊的人工智能助手现在可以识别来自该公司的虚假电子邮件",
+          "summary": "亚马逊正试图通过一项新功能来打击假冒诈骗，该功能允许您使用其人工智能助手来确定电子邮件、短信或电话是否确实来自该公司。通过更新，您可以向 Alexa for Shopping 询问您收到的消息，它将使用 AI 进行比较 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-02",
+          "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
+        },
+        {
+          "title": "研究人员担心 OpenAI 的 Astra 发布之前会发生安全灾难",
+          "summary": "OpenAI 即将发布其迄今为止最强大的人工智能模型 Astra，因为其代理在测试期间攻击了真实目标，该模型为支持安全协议而延迟了数周。随着有关该模型的详细信息逐渐流出，研究人员警告说，它“可能是迄今为止人工智能安全性方面最糟糕的发展”。不久之后[&#8230;]",
+          "source": "The Verge",
+          "date": "09-02",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+        },
+        {
+          "title": "特朗普政府在《纽约时报》版权诉讼中支持 OpenAI",
+          "summary": "特朗普政府介入了《纽约时报》针对 OpenAI 的版权诉讼，为人工智能实验室做出了有利于其的论点。这起具有里程碑意义的诉讼于 2023 年 12 月提起，指控 OpenAI 根据《纽约时报》的文章非法训练其人工智能系统，并寻求从 [&#8230;] 赔偿“数十亿美元”的损失。",
+          "source": "The Verge",
+          "date": "09-02",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "“转生贵族，Nariagaru 第 3 季的关帝技能”公布了额外演员、新员工、第二个宣传片、《黑暗召唤师到德基泰鲁》公布额外演员阵容、第二部宣传片、主题曲、《Sekai Saikou no Ansatsusha, Isekai Kiz…",
+      "items": [
+        {
+          "title": "“转生贵族，Nariagaru 第 3 季的关帝技能”公布了额外演员、新员工、第二个宣传片",
+          "summary": "电视动画《转生贵族、鉴赏技能第 3 季》（作为转世贵族，我将用我的鉴定能力在世界上崛起第 3 季）的官方网站周五公布了额外演员阵容、新工作人员、第二个主视觉图（如图）和第二个宣传视频。改编自未来人 A 的冒险奇幻轻小说的动画系列于 9 月 27 日在 CBC 和 TBS 播出。 28站“Agaru Anime”晚上 11:30 的节目时段，...",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74666617?_location=rss"
+        },
+        {
+          "title": "《黑暗召唤师到德基泰鲁》公布额外演员阵容、第二部宣传片、主题曲",
+          "summary": "电视动画《黑暗召唤师与黑暗召唤师约会》的官方网站于周五公布了另外两名演员、主题曲、第二个主视觉图（如图）和第二个宣传视频。改编自 Shaoh 的喜剧奇幻漫画的短篇动画系列将于 10 月 5 日凌晨 1:20 在 Tokyo MX 首播，随后于 10 月 8 日在 BS11 首播。配音演员西村茜和八鹿麻也将分别饰演 Haru Parvain 和 Eury Lililala。戒指...",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74666393?_location=rss"
+        },
+        {
+          "title": "《Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru Season 2》公布了额外演员、新员工以及 2027 年冬季首个宣传片",
+          "summary": "改编自月夜琉璃的电视动画的官方网站周五公布了第二季的更多演员、新工作人员、主视觉图（如图）和首个宣传视频。该动画系列将于 2027 年 1 月首播。配音演员上坂堇（Tokidoki Bosotto Russia-go of Dereru Tonari no Alya-san）和。",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74666317?_location=rss"
+        },
+        {
+          "title": "《巨人日》公布主要演员、其他工作人员、预告片",
+          "summary": "主要演员、其他工作人员和预告片宣传视频已于周五公布。动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月首播。 动画预定于 2027 年 1 月首播。美术设计人员：Hiruma Takashi (Higurashi no Naku Koro ni Gou) 艺术总监：Akira Itou (Studio ARA.",
+          "source": "MyAnimeList",
+          "date": "09-03",
+          "url": "https://myanimelist.net/news/74664090?_location=rss"
+        },
+        {
+          "title": "《魔法少女舞 Lulutto Lily Part 2》公布追加演员阵容、主题曲",
+          "summary": "周四，《魔法姐妹露露托莉莉》原创电视动画的官方网站公布了第二部的额外演员阵容、主题曲和主视觉图（如图）。第二部预计10月4日晚上10点30分首播。东京 MX，随后在 ABC 电视台、爱知电视台、BS 日本电视台和 AT-X 上播出。配音演员白井雄介（Sono Bisque Doll wa Koi wo Suru）和夏吉优子（Hanazakari no Kimitachi e）是...",
+          "source": "MyAnimeList",
+          "date": "09-03",
+          "url": "https://myanimelist.net/news/74663415?_location=rss"
+        },
+        {
+          "title": "《龙珠超：比鲁斯》公开主要工作人员、主题曲、“Super Surge”宣传片",
+          "summary": "《龙珠》系列官方网站公开了主要工作人员、主题曲《Super Surge》周四，其新电视动画的视觉效果（如图）和宣传视频。由东映动画出品的新动画系列《龙珠超：比鲁斯》采用全新剪辑、重画场景、完整重构龙珠超故事，将于10月11日晚上11点15分首播。在富士电视台的全国网络上播出。员工系列构成、制作安排：M...",
+          "source": "MyAnimeList",
+          "date": "09-03",
+          "url": "https://myanimelist.net/news/74662863?_location=rss"
+        },
+        {
+          "title": "《日本三国》动画续集公布",
+          "summary": "制作公司 Twin Engine 周四宣布，电视动画《日本三国：赤日三国》的续集正在制作中。由 Studio Kafka 制作的这部改编自松木一花的末日戏剧漫画的动画剧集于 4 月 7 日开始播出。亚马逊的 Prime Video 服务以多个字幕和配音播放该剧集。松木于 2021 年 11 月开始在 MangaONE 应用程序和网站上连载该漫画。小学馆出版了……",
+          "source": "MyAnimeList",
+          "date": "09-03",
+          "url": "https://myanimelist.net/news/74662721?_location=rss"
+        },
+        {
+          "title": "《Kanata kara》公布了更多演员、工作人员、主题曲、主要宣传片",
+          "summary": "周三，根据冰川恭子的漫画《彼方》改编的电视动画的官方网站公布了额外的演员阵容、工作人员、主题曲、主视觉图（如图）和主要宣传视频。该动画系列计划于 10 月 5 日中午 12 点在 Tokyo MX 首播，随后在 AT-X、ABC TV 和 WOWOW 上播出。主演：齐藤公子（厄里斯的青海） 血淋淋：宫泽正（宇都内的真堂柱大丽雅） 守门员：中野泰辅（真中中。",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660904?_location=rss"
+        },
+        {
+          "title": "电视动画《Kin to Tetsu》公布主演人员名单",
+          "summary": "片山绫香的漫画《金与铁》改编作品于周二公布了主要工作人员和第二个预告片视觉效果（如图）。 Keitarou Motonaga（《Hametsu no Oukoku》、《Saikyou no Ousama》、《Nidome no Jinsei》《你害怕谁？》）正在横滨动画实验室执导这部动画。片山于 2021 年 3 月开始在别册少年杂志上绘制反乌托邦科幻悬疑漫画，并将于 9 月 9 日 10 月号结",
+          "source": "MyAnimeList",
+          "date": "09-03",
+          "url": "https://myanimelist.net/news/74660473?_location=rss"
+        },
+        {
+          "title": "《一响之梦 Nuri Minarai》主要工作人员公布",
+          "summary": "周三，出版公司 Shufu to Seikatsusha 公布了村川漫画《异国美甲师学徒》动画改编的主要工作人员名单。职员导演：岩永大治（Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi） 系列构成：金春智子（Kimi ni Todoke） 脚本：金春智子、横手美智子（火影忍者） 工作室：零重力丸川开始在 Comic ",
+          "source": "MyAnimeList",
+          "date": "09-02",
+          "url": "https://myanimelist.net/news/74660419?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、Craftopia 将于 2027 年推出",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器的缺失声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的顶",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Craftopia 将于 2027 年推出",
+          "summary": "多人开放世界生存动作游戏 Craftopia 将退出抢先体验并在 Xbox 系列上推出……",
+          "source": "Gematsu",
+          "date": "09-04",
+          "url": "https://www.gematsu.com/2026/09/craftopia-launches-in-2027"
+        },
+        {
+          "title": "Square Enix 公布 TGS 2026 阵容",
+          "summary": "Square Enix 公布了 2026 年东京游戏展的阵容，该展将于",
+          "source": "Gematsu",
+          "date": "09-04",
+          "url": "https://www.gematsu.com/2026/09/square-enix-announces-tgs-2026-lineup"
+        },
+        {
+          "title": "《开放世界子弹天堂 RPG》Mana Alchemy 宣布登陆 PC",
+          "summary": "Sea Fantasy 开发商 METASLA 宣布推出《Mana Alchemy》，这是一款“开放世界子弹天堂 RPG”。来到……",
+          "source": "Gematsu",
+          "date": "09-03",
+          "url": "https://www.gematsu.com/2026/09/open-world-bullet-heaven-rpg-mana-alchemy-announced-for-pc"
+        },
+        {
+          "title": "Konami 推出 PC 版暗黑奇幻 Roguelike 牌组构建卡牌游戏 PROJECT ZIRCON",
+          "summary": "Konami 宣布推出《PROJECT ZIRCON》，这是一款黑暗奇幻 roguelike 牌组构建游戏，即将登陆 PC",
+          "source": "Gematsu",
+          "date": "09-03",
+          "url": "https://www.gematsu.com/2026/09/konami-announces-dark-fantasy-roguelike-deckbuilding-card-game-project-zircon-for-pc"
+        },
+        {
+          "title": "《Kemono Teatime》登陆 PS5、Switch 2",
+          "summary": "Studio Lalala 将推出 PlayStation 5 和 Switch 2 版本的咖啡馆管理 ASMR 游戏…",
+          "source": "Gematsu",
+          "date": "09-03",
+          "url": "https://www.gematsu.com/2026/09/kemono-teatime-coming-to-ps5-switch-2"
+        },
+        {
+          "title": "《Fall Up》将于 12 月 3 日推出 PS5、Xbox 系列、Switch 2、PS4、Switch 和 PC 版",
+          "summary": "多彩 2.5D 精准平台游戏 Fall Up 即将推出 PlayStation 5、Xbox Series、Switch 2 等平台",
+          "source": "Gematsu",
+          "date": "09-03",
+          "url": "https://www.gematsu.com/2026/09/fall-up-launches-december-3-for-ps5-xbox-series-switch-2-ps4-switch-and-pc"
+        },
+        {
+          "title": "《地球必须死》将于 9 月 9 日登陆 PS5、Switch",
+          "summary": "发行商 No More Robots 和开发商 Size Five 将发布点击式冒险游戏 Earth Must ……",
+          "source": "Gematsu",
+          "date": "09-03",
+          "url": "https://www.gematsu.com/2026/09/earth-must-die-coming-to-ps5-switch-on-september-9"
+        },
+        {
+          "title": "《大巴：水之痕之地》将于 2027 年春季推出，由索尼互动娱乐发行",
+          "summary": "PlayStation 中国英雄计划支持的动作角色扮演游戏《大巴：水之痕》即将登陆 PlayStation",
+          "source": "Gematsu",
+          "date": "09-03",
+          "url": "https://www.gematsu.com/2026/09/daba-land-of-water-scar-launches-in-spring-2027-published-by-sony-interactive-entertainment"
+        }
+      ]
+    }
+  ]
+}
