@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-05",
+  "quote": "「XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元」等AI 35条、动漫 17条、游戏 23条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元、OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们、AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+      "items": [
+        {
+          "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "TechCrunch",
+          "date": "09-04",
+          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+        },
+        {
+          "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+          "summary": "OpenAI 最新的代理群事件增加了独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。",
+          "source": "TechCrunch",
+          "date": "09-04",
+          "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
+        },
+        {
+          "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+          "summary": "Nscale 最近与 Anthropic 达成了 450 亿美元的交易，目前正在洽谈筹集更多资金，以应对即将到来的 IPO。",
+          "source": "TechCrunch",
+          "date": "09-04",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "Apple 正式进入 Ternus 时代。蒂姆·库克 (Tim Cook) 本周辞去了首席执行官一职，将公司交给了前硬件主管约翰·特努斯 (John Ternus)，后者在第一份备忘录中承诺“下周将推出大型产品”——在他还没坐下来之前，他就把苹果的下一次 iPhone 发布会摆到了他的办公桌上。不过，库克并没有走得太远：他将继续担任执行董事长，专注于政策类型[&#8230;]",
+          "source": "TechCrunch",
+          "date": "09-04",
+          "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
+        },
+        {
+          "title": "另一群 OpenAI 代理在前沿实验室不知情的情况下进入了开放互联网",
+          "summary": "这是 OpenAI 内部监控和安全系统的最新一次失败。",
+          "source": "TechCrunch",
+          "date": "09-04",
+          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+        },
+        {
+          "title": "那些令人倒胃口的人工智能生成菜单背后的千篇一律问题",
+          "summary": "虽然餐厅老板可能会将生成式人工智能视为美化菜单的捷径，但顾客可以本能地感觉到食物出了问题。",
+          "source": "TechCrunch",
+          "date": "09-04",
+          "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+        },
+        {
+          "title": "据报道 Crusoe 以 30B 美元的估值筹集了 3B 美元",
+          "summary": "据报道，这家数据中心开发商与 Jane Street 签订了价值 130 亿美元的合同后，本轮融资就完成了。",
+          "source": "TechCrunch",
+          "date": "09-04",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+        },
+        {
+          "title": "Abliteration.ai 正在通过拆除人工智能护栏来做生意",
+          "summary": "Abliteration.AI 正在使没有护栏的强大人工智能模型更容易访问，并认为为防御者提供与不良行为者相同的工具最终可以改善网络安全。",
+          "source": "TechCrunch",
+          "date": "09-03",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+        },
+        {
+          "title": "构建人工智能时代的内存和存储",
+          "summary": "AI推理时代已经到来。想象一下，一个医疗保健系统可以实时分析数百万个数据点，以加速挽救生命的医学研究，或者一个智能助理可以立即解决数千个复杂的客户需求。这些现实世界的突破依赖于先进的基础设施作为持续智能的引擎，为实时服务提供支持，同时……",
+          "source": "MIT科技评论",
+          "date": "09-04",
+          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
+        },
+        {
+          "title": "下载：出售战场无人机数据和AI重塑语言",
+          "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。来自乌克兰无人机的数据正在推动一个新的狂野西部市场的发展——墨尔本大学研究人工智能对民主影响的研究员科里·阿尔珀特（Cory Alpert）曾在“狂野西部”市场任职。",
+          "source": "MIT科技评论",
+          "date": "09-04",
+          "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "“Yowaki Max Reijou nanoni，Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta”公布了额外演员、主题曲、第二个宣传片、《新小知胜角龟有高苑前波秋都城》公开主要演…",
+      "items": [
+        {
+          "title": "“Yowaki Max Reijou nanoni，Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta”公布了额外演员、主题曲、第二个宣传片",
+          "summary": "改编自小田浩的《耀崎·马克斯·丽城·纳诺尼》的电视动画轻小说《虽然我是超级胆小的贵族少女，但我接受了狡猾的未婚夫的赌注》的官方网站于周六公布了追加演员阵容、主视觉图（如图）、主题曲和第二部宣传视频。该动画系列预计于 10 月 4 日晚上 11:30 首播。在 AT-X 上，其次是 Tokyo MX、Sun TV、KBS 京都等...",
+          "source": "MyAnimeList",
+          "date": "09-05",
+          "url": "https://myanimelist.net/news/74670013?_location=rss"
+        },
+        {
+          "title": "《新小知胜角龟有高苑前波秋都城》公开主要演员、工作人员、角色宣传片，将于 2027 年首次亮相",
+          "summary": "周六，改编自秋元修的《Kochira Katsushikaku Kameari Koenmae Hashutsujo》（KochiKame）漫画的新电视动画特别直播介绍了主要演员、工作人员、主视觉图（右图）和角色宣传视频。该动画系列将于 2027 年在富士电视台首播。演员 Kankichi Ryotsu：Fukushi Ochiai（Hai to Gensou no Grimgar）Keiichi",
+          "source": "MyAnimeList",
+          "date": "09-05",
+          "url": "https://myanimelist.net/news/74669928?_location=rss"
+        },
+        {
+          "title": "《罗梅莉亚战记》追加演员阵容公布",
+          "summary": "周五，电视动画《Romelia Senki》（Romelia War Chronicle）的官方网站宣布了 14 名新增演员。改编自有山亮的动作奇幻轻小说的动画系列将于 2026 年 10 月在东京 MX、BS11、Sun TV 和 KBS 京都播出两期。 演员：手冢弘道（杀青）、广濑龙一（王国第三季）塔斯：细田健太（Re:Monster）圣：海藤佑（寓言）",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74667443?_location=rss"
+        },
+        {
+          "title": "'Tantei wa Mou，Shindeiru。第二季公布了更多演员、新员工、主题曲、第三个宣传片",
+          "summary": "改编自 Nigojuu 的《侦探 wa Mou, Shindeiru》的电视动画的官方网站。 《侦探已死》周五公布了第二季的更多演员、新工作人员、主题曲和第三个宣传视频。该动画系列预计于 10 月 7 日晚上 9 点 30 分首播。 AT-X，其次是东京 MX 和 BS 日本电视台。配音演员小宫山明里和冈本信彦（Sousou no Frieren）将加入演员阵容，分别饰演米娅·惠特洛克和斯嘉丽……",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74667406?_location=rss"
+        },
+        {
+          "title": "《真者零之女神大人与始异世界强者》追加演员阵容及主题曲公开",
+          "summary": "改编自大崎岛的《真者零之女神》轻小说的电视动画官方网站于周五公布了追加演员阵容、主视觉图（如图）和主题曲。该动画系列预定于 10 月 11 日晚上 11 点 30 分首播。 BS Asahi，其次是 Tokyo MX 和 AT-X。演员 露西·J·沃克: Yukina Shutou (乌玛娘: Pretty Derby) 佐佐木绫: 关根仁美 (Hitomi Sekine)",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74667186?_location=rss"
+        },
+        {
+          "title": "《Soukou Kihei Votoms: Haiiro No Hexe》宣布配角和追加工作人员",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74667144?_location=rss"
+        },
+        {
+          "title": "《野良神》作者足立时将于 10 月开始创作新漫画",
+          "summary": "《野良神》（Noragami：Stray God）的创作者足立时周五在 X（以前的 Twitter）上宣布，他们的新漫画《旅馆的贵族狗》将于 10 月 6 日在月刊少年杂志上开始连载。这标志着足立时自《野良神》于 2024 年 2 月完结以来的第一部漫画系列。 《Oinu-sama》讲述了黑峰霞的日常生活，她是一个在学校旅行中从山坡上摔下来的女孩，最终进入了一个陌生的新世界。",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74666955?_location=rss"
+        },
+        {
+          "title": "“转生贵族，Nariagaru 第 3 季的关帝技能”公布了额外演员、新员工、第二个宣传片",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74666617?_location=rss"
+        },
+        {
+          "title": "《黑暗召唤师到德基泰鲁》公布额外演员阵容、第二部宣传片、主题曲",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "MyAnimeList",
+          "date": "09-04",
+          "url": "https://myanimelist.net/news/74666393?_location=rss"
+        },
+        {
+          "title": "动漫问题、建议和讨论 - 2026 年 9 月 4 日",
+          "summary": "这是关于动漫的一般讨论的每日超级线程。有疑问或需要建议吗？来这里炫耀你的商品？想谈谈你刚刚观看的内容吗？ 这是深奥的地方，这就是深奥的时间。 所有剧透都必须被标记。使用[动漫名称]来指示a",
+          "source": "Reddit动漫",
+          "date": "09-04",
+          "url": "https://www.reddit.com/r/anime/comments/1w702ut/anime_questions_recommendations_and_discussion/"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、游戏总监终于解决了他传闻中的恋足癖问题——等等，不是小岛，而是另一个、Xbox 与 TCL 的新合作来得正是时候",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器的缺失声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的顶",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "游戏总监终于解决了他传闻中的恋足癖问题——等等，不是小岛，而是另一个",
+          "summary": "一位多产的日本游戏开发者终于解决了他的视频游戏中所有奇怪的脚部图像问题。什么？不，我不是在谈论小岛秀夫（无论如何，他现在正忙于和 The Backrooms 导演一起出去玩）。我指的是黑暗之魂和Elden Ring导演宫崎英高，他终于回应了网上关于他是脚男的猜测。\n\n\n\n“这不一定是我一直意识到的事情——也许我",
+          "source": "GameSpot",
+          "date": "09-04",
+          "url": "https://www.gamespot.com/articles/game-director-finally-addresses-his-rumored-foot-fetish-wait-not-kojima-the-other-one/"
+        },
+        {
+          "title": "Xbox 与 TCL 的新合作来得正是时候",
+          "summary": "Xbox 宣布与 TCL 建立新的合作伙伴关系，Xbox 应用程序将添加到该品牌的“精选”型号中。这意味着这些 TCL 电视的所有者无需花费 500 美元购买 Xbox Series S 或花费 800 美元购买 Xbox Series X，因为他们可以利用每月 Xbox Game Pass 订阅中提供的基于云的游戏功能 -但每个月只能玩几个小时，然后他们就需要开始掏出一些额外的现金来购买更多的游",
+          "source": "GameSpot",
+          "date": "09-04",
+          "url": "https://www.gamespot.com/articles/xbox-new-tcl-partnership-couldnt-come-at-a-worse-time/"
+        },
+        {
+          "title": "下周将宣布两场任天堂直面，其中包括塞尔达传说演示",
+          "summary": "下周将有两场任天堂直面会。任天堂已确认《塞尔达传说》直面会将于 9 月 8 日太平洋时间上午 7 点/东部时间上午 10 点举行，随后将于 9 月 9 日同时举行任天堂直面会。 《塞尔达传说：40 周年直面会》将持续 30 分钟，而《任天堂直面会》预计将持续 45 分钟。要更仔细地了解所展示的游戏，您还可以在 Nintendo Direct 之后收看 Nintendo Treehouse 直播，该",
+          "source": "GameSpot",
+          "date": "09-04",
+          "url": "https://www.gamespot.com/articles/two-nintendo-directs-announced-for-next-week-including-a-zelda-presentation/"
+        },
+        {
+          "title": "截至 2026 年，Steam 已产生 150 亿美元收入，新游戏占其中很大一部分",
+          "summary": "作为占据 PC 游戏销量最大份额的平台，Steam 自然每年都会通过其店面从佣金、发行费等方面赚到不少钱。但2026年到目前为止，它赚了多少现金？不出所料，这笔钱足够为 Valve 联合创始人 Gabe Newell 购买几艘超级游艇。 Alinea Analytics 市场分析主管 Rhys Elliot 表示，Steam 到 2026 年的收入将达到 150 亿美元，随着大量备受瞩目的游戏发布",
+          "source": "GameSpot",
+          "date": "09-04",
+          "url": "https://www.gamespot.com/articles/steam-has-generated-15-billion-in-revenue-so-far-and-new-games-are-a-big-part-of-it/"
+        },
+        {
+          "title": "Valve 资深人士表示，GTA 6 Online 可能很难让玩家远离 GTA Online",
+          "summary": "关于《侠盗猎车手 6》 的最大问题是什么？轻松了解 Rockstar 对 GTA Online 的计划，以及它将如何纳入 GTA 6 的发布后计划。考虑到 GTA Online 一直受到开发商的欢迎，Rockstar 尚未公开评论预期的多人游戏模式，这很奇怪，因为到目前为止，它只专注于谈论 GTA 6 的“单人游戏体验”。这可能是该系列的一个主要问题。\n\n\n\n正如 Valve 资深人士 Chet ",
+          "source": "GameSpot",
+          "date": "09-04",
+          "url": "https://www.gamespot.com/articles/gta-6-online-could-struggle-to-pull-players-away-from-gta-online-says-valve-veteran/"
+        },
+        {
+          "title": "GTA 6 彻底改变偷车方式",
+          "summary": "正如标题所示，侠盗猎车手游戏中的劫车一直是该系列的主要内容。到目前为止，情况基本上是一样的。虽然多年来添加了更多细节和动画，但前提仍然是你要走到一辆车前，按 Y 或三角形，把司机扔出去，上车然后开走。如果汽车停着，您可以按下相同的按钮来打破窗户并偷走它。在 GTA 6 中，劫车行为将得到彻底改革。在这里，我们获得了迄今为止所知道的有关如何在 GTA 6 中偷车的所有信息。\n\n\n\n偷车有两种方法：偷",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/gta-6-how-to-steal-cars/"
+        },
+        {
+          "title": "《最后生还者》第三季没有顽皮狗参与创意选择",
+          "summary": "编剧兼导演尼尔·德鲁克曼 (Neil Druckmann) 退出 HBO 的《最后生还者》电视节目，专注于顽皮狗的游戏作品，包括《星际穿越：异端先知》。在一次新的采访中，他表示第三季——他也没有直接参与——将“结束”该系列剧。他还透露，与第一季和第二季不同，顽皮狗“在第三季的方向上没有发挥创意作用”。\n\n\n\n德鲁克曼向华盛顿邮报说了这番话，确认“我没有参与塑造本季的创意方向”，顽皮狗也没有参与其中",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/the-last-of-us-season-3-did-not-include-naughty-dogs-involvement-for-creative-choices/"
+        },
+        {
+          "title": "星际争霸正在酝酿一些事情",
+          "summary": "距离暴雪嘉年华只剩下一周了，我们有新的理由相信某种星际争霸新闻即将到来。 星际争霸网站上的各种视觉元素现在出现故障，看起来更像是“嘿，粉丝们，兴奋起来”，而不是“提醒工程团队我们遇到了问题”。\n\n\n\nJohn Carson 在 Bluesky 上标记了这些故障，并且它们特别出现在暴雪网站的 2017 年星际争霸重制版广告部分，而不是星际争霸 II。这些故障导致某些图像和文本短暂扭曲，尽管在我看来，",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/something-is-brewing-with-starcraft/"
+        },
+        {
+          "title": "《龙与地下城》的偶像可以将 TTRPG 带到现代环境",
+          "summary": "D&D Icons 计划由演员兼长期 D&D 狂热者 Joe Manganiello 领导，带来了今天的《龙与地下城》和《龙与地下城》。 Dragons 游戏与过去著名的系列创作者合作，例如作者 R.A.萨尔瓦多的《崔斯特传奇》。但曼加尼罗开玩笑说，事情不会严格局限于经典奇幻背景。\n\n\n\nManganiello 在 Gen Con 2026 上与 GameSpot 的 Jessica Cogswe",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/dungeons-and-dragons-icons-could-take-the-ttrpg-to-a-modern-day-setting/"
+        }
+      ]
+    }
+  ]
+}
