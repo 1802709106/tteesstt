@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-08",
+  "quote": "「西雅图时报和新闻日报起诉 OpenAI 和微软侵权」等AI 38条、动漫 20条、游戏 24条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "西雅图时报和新闻日报起诉 OpenAI 和微软侵权、OpenAI 承认德国维基“事件”、Roland 正在通过 Melody Flip 进入生成人工智能音乐领域",
+      "items": [
+        {
+          "title": "西雅图时报和新闻日报起诉 OpenAI 和微软侵权",
+          "summary": "《西雅图时报》和《新闻日报》是最新将 OpenAI 告上法庭的原告，指控其侵犯版权。这两家媒体表示，该公司未经许可使用他们的新闻作为其人工智能模型的训练数据，并经常复制他们报道中的段落以回应用户的查询。这类似于[&#8230;]提起的诉讼",
+          "source": "The Verge",
+          "date": "09-06",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+        },
+        {
+          "title": "OpenAI 承认德国维基“事件”",
+          "summary": "OpenAI 表示，它需要彻底修改报告人工智能模型攻击现实世界目标的实例的方式和时间。该公司承认这一消息之际，正值该公司正在处理有关其一群失控特工劫持德国维基网站的报道所带来的影响。关于“我们的特工向多个互联网网站写信的‘维基事件’”，OpenAI 写道 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-05",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
+        },
+        {
+          "title": "Roland 正在通过 Melody Flip 进入生成人工智能音乐领域",
+          "summary": "这并不完全是 Suno 的“按下按钮；获取歌曲”，但 Roland 的新 Melody Flip 工具标志着该公司进军生成人工智能音乐领域。 Melody Flip 可作为数字音频工作站 (DAW) 的插件使用，提供约 250 个“调色板”，它们本质上是按流派排序的音乐创意主题集合。你可以从[&#8230;]开始",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
+        },
+        {
+          "title": "微软表示几乎没有人通过其聊天机器人抓取《纽约时报》的文章",
+          "summary": "微软在新的法律文件中表示，微软的 Copilot 很少复制新闻文章和书籍中的完整句子，更不用说可以替代原文的实质性内容了，因为它正在与包括《纽约时报》和书籍作者在内的出版商的版权主张作斗争。作为诉讼发现的一部分，微软提供了 820 万个 Copilot [&#8230;]",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
+        },
+        {
+          "title": "流氓 OpenAI 代理似乎使用德国维基组织了另一次攻击",
+          "summary": "据报道，来自 OpenAI 的一群流氓人工智能代理霸占了一个德国网站，并将其转变为其他代理的留言板，几周来官员们对这一事件保持沉默，因为该公司准备推出迄今为止最先进的模型 Astra。这一发现加剧了人们对前沿人工智能监管的担忧[&#8230;]",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+        },
+        {
+          "title": "Instagram 的人工智能检测（再次）一团糟",
+          "summary": "Instagram 的可见人工智能标签应该可以帮助人们一目了然地快速发现合成生成的内容。然而，在过去的几周里，用户一直报告说该系统已经失控。他们表示，Meta 已自动将“AI 内容”标签应用于他们未使用生成式 AI 创建或编辑的图像 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion"
+        },
+        {
+          "title": "为什么人工智能食物看起来是这样的",
+          "summary": "餐馆、咖啡馆和品牌越来越多地利用人工智能来生成宣传其食品的图像，从而产生了大量令人倒胃口的食物。由此产生的恐怖表演包括甜甜圈虾、来自深处的鲁本斯、蠕虫般的面条、面条般的糕点和鸡肉。还有伪装成冰淇淋的建筑材料，伪装成冰淇淋的[&#8230;]",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
+        },
+        {
+          "title": "山姆·奥尔特曼为“混乱”道歉GPT-6 Astra 的推出将付费用户拒之门外",
+          "summary": "就在 OpenAI 推出 GPT-6 Astra 几个小时后，首席执行官 Sam Altman 就已经为他所描述的“混乱的推出”道歉，因为期望访问新前沿模型的付费用户只能等待。该公司周四称赞该模型是“能力的代际飞跃”，并将其描述为“[&#8230;]",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout"
+        },
+        {
+          "title": "这家 NAS 公司想要运行您本地的智能家居",
+          "summary": "Ugreen 以其手机移动电源、充电器和 NAS 存储解决方案而闻名，正在大举进军智能家居。本周在 IFA 科技展上，该公司推出了 HomeAgent 智能家居平台，该平台将安全摄像头存储、设备上人工智能和智能家居控制结合在一个系统中，并由 [...]",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home"
+        },
+        {
+          "title": "不透明循环以及您可能应该知道的其他人工智能术语",
+          "summary": "人工智能的兴起带来了大量新术语和俚语。这是一个词汇表，其中包含您可能遇到的一些最重要单词和短语的定义。",
+          "source": "TechCrunch",
+          "date": "09-07",
+          "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "意志的力量：高桥理惠和速水沙织重新发现《魔法骑士雷亚斯》、漫画《你是四叶草》获得动画改编、Studio KAI 制作 Hololive 电视动画《Odeholo》",
+      "items": [
+        {
+          "title": "意志的力量：高桥理惠和速水沙织重新发现《魔法骑士雷亚斯》",
+          "summary": "自 1993 年首次亮相以来，CLAMP 的《魔法骑士雷亚斯》一直是深受人们喜爱的经典之作，因其令人难忘的女主角、富有想象力的奇幻世界以及友谊和意志力的主题而被人们铭记。现在，三十多年后，该系列以全新的电视动画改编版回归，在今年十月首播时向新一代介绍了塞菲罗的魔法世界。在该动画在 2026 年动漫博览会上进行预映之前，我们与高桥理惠 (Rie Takahashi) 和速水沙织 (Saori Hay",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74684465?_location=rss"
+        },
+        {
+          "title": "漫画《你是四叶草》获得动画改编",
+          "summary": "作者 Koushi 的官方 X（以前的 Twitter）账户周二宣布，《你是四叶草》漫画即将改编成动画，并发布了公告视觉图（如图）。 Koushi于2024年7月开始在《少年Champion》中连载这部浪漫惊悚漫画。秋田书店于周二出版了第十卷。剧情简介 宇一曾经是一个快乐而受欢迎的男孩，现在却成为残酷欺凌的受害者。然后突然四叶，他儿时的朋友和...",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74682926?_location=rss"
+        },
+        {
+          "title": "Studio KAI 制作 Hololive 电视动画《Odeholo》",
+          "summary": "制作公司角川和娱乐公司 Cover Corporation 周一宣布，VTuber 经纪公司 Hololive 正在制作一部名为《Odeholo》的电视动画，并公布了公告视觉图（如上图）和公告宣传片。 Studio KAI 是《Yuusha-kei ni Shosu》（《被判为英雄》）和 Gaikotsu Kishi-sama、Tadaima Isekai e Odekakechuu（异世界的骷髅",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74682835?_location=rss"
+        },
+        {
+          "title": "《Keroro军曹☆》主要演员、工作人员、首个宣传片公开",
+          "summary": "改编自美峰吉崎的《Keroro Gunsou》漫画的新电视动画的官方网站于周一公布了主要演员、工作人员、主视觉图（右图）和首个宣传视频。该动画系列预定于 10 月 3 日上午 9 点 30 分在东京电视台首播。演员：小一真（Tomo-chan wa Onnanoko！）NEW Rika Nagae（PriPri Chii-chan！！）NEW Toshiki Masuda（Boku no Hero",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74681689?_location=rss"
+        },
+        {
+          "title": "《黑暗机器：动画》宣布配角",
+          "summary": "电视动画《黑暗机器：动画》的官方网站于周一公布了配角阵容。该动画预定于 10 月 14 日凌晨 1 点 45 分在富士电视台、关西电视台和 BS 富士电视台首播。演员 Aluk：Nao Touyama（坂本时代）Denebola：Nonoka Oobuchi（Tasokare Hotel）Spica：Rei Nakashima Kazumi Terada（Chikyuugai Shounen Sh",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74681527?_location=rss"
+        },
+        {
+          "title": "《Marronnier Oukoku no Shichinin no Kishi》公布额外演员阵容、片头曲、第二部宣传片",
+          "summary": "岩本奈绪的《Marronnier Oukoku no Shichinin no Kishi》漫画改编的电视动画官方网站于周一公布了追加演员阵容、片头曲和第二部宣传视频。该动画系列预计于 10 月 3 日下午 6 点 25 分首播。 NHK E-Tele。演员 艾莉奥诺拉：樱井美雪（幽灵音乐会） 布伦希尔德公主：藤原夏美（雪球地球） 埃利奥特：小安武人（神之庭月楠木亭...",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74681352?_location=rss"
+        },
+        {
+          "title": "“Ojisan wa Kawaii Mono ga Osuki。”公布更多演员阵容、主题曲、第二部宣传片",
+          "summary": "《Ojisan of Kawaii Mono ga Osuki》是改编自努的《Ojisan wa Kawaii Mono ga Osuki》的电视动画。 《流行音乐爱卡哇伊东西》漫画于周一公布了额外的演员阵容、主题曲和第二部宣传视频。该动画系列预计于 10 月 4 日晚上 10 点首播。在东京 MX 上播出，随后于 10 月 5 日在 BS Asahi 和读卖电视台播出。 Rio Moshina ",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74680699?_location=rss"
+        },
+        {
+          "title": "轻小说《无名记忆：终结之后》第八卷完结",
+          "summary": "古宫久司和《樱桃小嘴》的《无名记忆：终结之后》轻小说系列第八卷将于 12 月 17 日完结，角川电击新文艺厂牌的官方 X（以前的 Twitter）帐户于 2022 年 8 月 27 日宣布，插图由《小豆豆》（《转生下大成城和》、《阿鲁琴我的秘密》）绘制。角川于2025年5月出版了第六卷。",
+          "source": "MyAnimeList",
+          "date": "09-06",
+          "url": "https://myanimelist.net/news/74676481?_location=rss"
+        },
+        {
+          "title": "“Yowaki Max Reijou nanoni，Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta”公布了额外演员、主题曲、第二个宣传片",
+          "summary": "改编自小田浩的《耀崎马克斯·丽城·纳诺尼》的电视动画轻小说《虽然我是超级胆怯的贵族少女，但我接受了狡猾的未婚夫的赌注》的官方网站于周六公布了额外演员阵容、主视觉图（如图）、主题曲和第二部宣传视频。该动画系列预计于 10 月 4 日晚上 11 点 30 分首播。在 AT-X 上，其次是 Tokyo MX、Sun TV、KBS 京都等...",
+          "source": "MyAnimeList",
+          "date": "09-05",
+          "url": "https://myanimelist.net/news/74670013?_location=rss"
+        },
+        {
+          "title": "《新小知罗胜四角 龟有高苑前 波秋都城》公开主要演员、工作人员、角色宣传片，将于 2027 年首次亮相",
+          "summary": "周六，改编自秋元修的《Kochira Katsushikaku Kameari Koenmae Hashutsujo》（KochiKame）漫画的新电视动画特别直播介绍了主要演员、工作人员、主视觉图（右图）和角色宣传视频。该动画系列将于 2027 年在富士电视台首播。演员 Kankichi Ryotsu：Fukushi Ochiai（Hai to Gensou no Grimgar）Keiichi",
+          "source": "MyAnimeList",
+          "date": "09-05",
+          "url": "https://myanimelist.net/news/74669928?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "《军团要塞 2》更新已发布、现已在 Steam 上架 - Angels Fall First，10% 折扣！、《塞尔达传说》40 周年纪念直播：开始时间、如何观看以及期待什么",
+      "items": [
+        {
+          "title": "《军团要塞 2》更新已发布",
+          "summary": "《军团要塞 2》的更新已发布。当您重新启动《军团要塞 2》时，该更新将自动应用。主要变化包括：修复了嘲讽：断路器中缺失的声音将“北国之夜”2026 年夏季的不寻常效果重命名为“极地棱镜”更新了花卉生长修复方向/位置问题的不寻常效果更新了秃头发现器调整了头部的顶点法线和漫反射调整了头镜上的法线和镜面反射稍微减小了头部前部和后部的网格尺寸修复了一些面部弯曲缩小了镜头的纹理尺寸更新了手术罩修复了外套上的",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "现已在 Steam 上架 - Angels Fall First，10% 折扣！",
+          "summary": "Angels Fall First 现已在 Steam 上推出，并享受 10% 折扣！*从站在旗舰舰桥上指挥战斗，一直到战术步兵交火 - AFF 将您喜爱的所有战斗汇集在丰富的科幻场景中。包括登机、可驾驶主力舰、深度武器定制和完整的机器人支持！*优惠将于太平洋时间 7 月 18 日上午 10 点结束",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "《塞尔达传说》40 周年纪念直播：开始时间、如何观看以及期待什么",
+          "summary": "你能相信《塞尔达传说》系列今年已经 40 岁了吗？确实如此，这也是今天新任天堂直面会的主要焦点。该系列备受关注，任天堂表示将通过新的广播来庆祝其红宝石周年纪念日，粉丝们会想看看。别忘了，9 月 9 日还将举办 Nintendo Direct，但现在，我们将详细介绍如何观看《塞尔达传说》直播。\n\n\n\n如何观看《塞尔达传说》40 周年纪念直播\n\n\n\n像往常一样，您可以在 YouTube 和 Twitc",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-start-time-how-to-watch-and-what-to-expect/"
+        },
+        {
+          "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "GameSpot",
+          "date": "09-05",
+          "url": "https://www.gamespot.com/articles/before-hbos-the-last-of-us-an-entirely-different-adaptation-was-proposed/"
+        },
+        {
+          "title": "GTA 6 彻底改变偷车方式",
+          "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/gta-6-how-to-steal-cars/"
+        },
+        {
+          "title": "《最后生还者》第三季没有顽皮狗参与创意选择",
+          "summary": "编剧兼导演尼尔·德鲁克曼 (Neil Druckmann) 退出 HBO 的《最后生还者》电视节目，专注于顽皮狗的游戏作品，包括《星际穿越：异端先知》。在一次新的采访中，他表示第三季——他也没有直接参与——将“结束”该系列剧。他还透露，与第一季和第二季不同，顽皮狗“在第三季的方向上没有发挥创意作用”。\n\n\n\n德鲁克曼向华盛顿邮报说了这番话，确认“我没有参与塑造本季的创意方向”，顽皮狗也没有参与其中",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/the-last-of-us-season-3-did-not-include-naughty-dogs-involvement-for-creative-choices/"
+        },
+        {
+          "title": "星际争霸正在酝酿一些事情",
+          "summary": "距离暴雪嘉年华只剩下一周了，我们有新的理由相信某种星际争霸新闻即将到来。 星际争霸网站上的各种视觉元素现在出现故障，看起来更像是“嘿，粉丝们，兴奋起来”，而不是“提醒工程团队我们遇到了问题”。\n\n\n\nJohn Carson 在 Bluesky 上标记了这些故障，并且它们特别出现在暴雪网站的 2017 年星际争霸重制版广告部分，而不是星际争霸 II。这些故障导致某些图像和文本短暂扭曲，尽管在我看来，",
+          "source": "GameSpot",
+          "date": "09-03",
+          "url": "https://www.gamespot.com/articles/something-is-brewing-with-starcraft/"
+        },
+        {
+          "title": "以唐朝为背景的回合制角色扮演游戏《天机：上古之影》宣布登陆 PS5、Switch 2、Switch 和 PC",
+          "summary": "Justdan International 宣布推出一款内部开发的回合制 RPG 游戏《天极：上古之影》……",
+          "source": "Gematsu",
+          "date": "09-08",
+          "url": "https://www.gematsu.com/2026/09/tang-dynasty-set-turn-based-rpg-tianji-shadow-of-the-ancients-announced-for-ps5-switch-2-switch-and-pc"
+        },
+        {
+          "title": "《街头霸王 6》DLC 角色 Arjun 将于 10 月 13 日推出",
+          "summary": "《街头霸王 6》第 4 年级可下载内容角色 Arjun 将于 10 月 13 日在 Capcom 推出……",
+          "source": "Gematsu",
+          "date": "09-07",
+          "url": "https://www.gematsu.com/2026/09/street-fighter-6-dlc-character-arjun-launches-october-13"
+        },
+        {
+          "title": "《鬼武者：剑道》发售当天销量突破百万",
+          "summary": "刀剑动作游戏《鬼武者剑道》总销量突破百万份&hellip;",
+          "source": "Gematsu",
+          "date": "09-07",
+          "url": "https://www.gematsu.com/2026/09/onimusha-way-of-the-sword-sales-top-one-million-on-launch-day"
+        }
+      ]
+    }
+  ]
+}
