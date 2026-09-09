@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-09",
+  "quote": "「戏剧围绕 OpenAI 的传奇数学里程碑展开」等AI 38条、动漫 20条、游戏 32条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "戏剧围绕 OpenAI 的传奇数学里程碑展开、ChatGPT Sketch 将你糟糕的绘图变成详细的 AI 图像、Meta 押注 AI 代理 Muse 将在 AI 竞赛中迎头赶上",
+      "items": [
+        {
+          "title": "戏剧围绕 OpenAI 的传奇数学里程碑展开",
+          "summary": "据《纽约时报》和《连线》早些时候报道，OpenAI 表示，它找到了一个大约 90 年来一直悬而未决的重大数学问题的解决方案。在周二的一篇博客文章中，OpenAI 宣布它发现了纳维-斯托克斯问题的解决方案 - 该问题与液体的流动和[&#8230;]",
+          "source": "The Verge",
+          "date": "09-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
+        },
+        {
+          "title": "ChatGPT Sketch 将你糟糕的绘图变成详细的 AI 图像",
+          "summary": "OpenAI 于周二发布了 ChatGPT Images 2.5，并添加了一种新的方式来告诉 ChatGPT 你想要它制作什么图像：通过绘制涂鸦。借助名为 Sketch 的新功能，您可以直接在 ChatGPT 内绘制一些内容，然后告诉 ChatGPT 您希望它如何制作图像 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch"
+        },
+        {
+          "title": "Meta 押注 AI 代理 Muse 将在 AI 竞赛中迎头赶上",
+          "summary": "Meta 正在通过 Muse 再次推动人工智能走向大众，Muse 是一款个人助理，据称可以将人工智能带到几乎任何人的手中。该产品是耗资数十亿美元的战略改革的最新一步，旨在重振该公司在人工智能竞赛中的不佳地位，并帮助其迎头赶上[&#8230;]",
+          "source": "The Verge",
+          "date": "09-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
+        },
+        {
+          "title": "AI 高级用户声称 Anthropic 通过订阅欺骗了他们，他们将其告上法庭",
+          "summary": "Anthropic 表示，高级用户是其业务的关键 - 即使这意味着切断 OpenClaw 等其他流行应用程序，它也会优先考虑他们。但其中一些客户表示，Anthropic 误导了他们，让他们相信自己可以从顶级定价订阅中获得比实际更多的收益。在提起的扩大集体诉讼中[&#8230;]",
+          "source": "The Verge",
+          "date": "09-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans"
+        },
+        {
+          "title": "谷歌的人类基因组图谱可能为新疗法铺平道路",
+          "summary": "谷歌 DeepMind 推出了一款人工智能工具，科学家声称该工具可以帮助解开人类基因组之谜，改变我们对生物学的理解，加速科学研究，并最终为疾病的新疗法铺平道路。该平台名为 AlphaGenome Atlas，包含“[&#8230;]中每个可能的 DNA 字母变化的预测图。",
+          "source": "The Verge",
+          "date": "09-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+        },
+        {
+          "title": "Adobe 正试图使其 AI 生成器在 Premiere 中防白痴",
+          "summary": "Adobe 正在其 Premiere 专业视频编辑软件中彻底改革编辑人员与 AI 的交互方式。其新的生成媒体工具可以更轻松地生成视频、音效、音乐和音景，而无需离开项目时间线。发电机本身并不是全新的。最大的变化是您可以轻松地访问它们而不破坏[&#8230;]",
+          "source": "The Verge",
+          "date": "09-08",
+          "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+        },
+        {
+          "title": "西雅图时报和新闻日报起诉 OpenAI 和微软侵权",
+          "summary": "《西雅图时报》和《新闻日报》是最新将 OpenAI 告上法庭的原告，指控其侵犯版权。这两家媒体表示，该公司未经许可使用他们的新闻作为其人工智能模型的训练数据，并经常复制他们报道中的段落以回应用户的查询。这类似于[&#8230;]提起的诉讼",
+          "source": "The Verge",
+          "date": "09-06",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+        },
+        {
+          "title": "OpenAI 承认德国维基“事件”",
+          "summary": "OpenAI 表示，它需要彻底修改报告人工智能模型攻击现实世界目标的实例的方式和时间。该公司承认这一消息之际，正值该公司正在处理有关其一群失控特工劫持德国维基网站的报道所带来的影响。关于“我们的特工向多个互联网网站写信的‘维基事件’”，OpenAI 写道 [&#8230;]",
+          "source": "The Verge",
+          "date": "09-05",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
+        },
+        {
+          "title": "Roland 正在通过 Melody Flip 进入生成人工智能音乐领域",
+          "summary": "这并不完全是 Suno 的“按下按钮；获取歌曲”，但 Roland 的新 Melody Flip 工具标志着该公司进军生成人工智能音乐领域。 Melody Flip 可作为数字音频工作站 (DAW) 的插件使用，提供约 250 个“调色板”，它们本质上是按流派排序的音乐创意主题集合。你可以从[&#8230;]开始",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
+        },
+        {
+          "title": "微软表示几乎没有人通过其聊天机器人抓取《纽约时报》的文章",
+          "summary": "微软在新的法律文件中表示，微软的 Copilot 很少复制新闻文章和书籍中的完整句子，更不用说可以替代原文的实质性内容了，因为它正在与包括《纽约时报》和书籍作者在内的出版商的版权主张作斗争。作为诉讼发现的一部分，微软提供了 820 万个 Copilot [&#8230;]",
+          "source": "The Verge",
+          "date": "09-04",
+          "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "从《药剂师日记》到《侏罗纪阴影》：长沼典宏的下一个创意挑战、轻小说《黑色子弹》时隔12年后重新推出、漫画《Kin to Tetsu》连载结束",
+      "items": [
+        {
+          "title": "从《药剂师日记》到《侏罗纪阴影》：长沼典宏的下一个创意挑战",
+          "summary": "当《药剂师日记》和《魔法使新娘》的导演用宫廷阴谋和奇幻换取恐龙、忍者和超能力化妆时，会发生什么？这是《侏罗纪阴影》的核心问题，这是导演永沼典宏的第一个完全原创的动画项目。该系列在 2026 年动漫博览会上宣布全球首映，长沼与 Avex Pictures 制片人一起亮相……",
+          "source": "MyAnimeList",
+          "date": "09-09",
+          "url": "https://myanimelist.net/news/74690718?_location=rss"
+        },
+        {
+          "title": "轻小说《黑色子弹》时隔12年后重新推出",
+          "summary": "角川出版公司周三宣布，神崎紫电的动作科幻轻小说《黑色子弹》在中断 12 年之后将重新推出。重启版名为《黑色子弹：新世界秩序》，将是原版轻小说的修订和扩展版本。故事将涵盖原版前六卷到新世界秩序第四卷的事件，然后在第五卷中继续进入全新的弧线，这将是一个完全重写的版本......",
+          "source": "MyAnimeList",
+          "date": "09-09",
+          "url": "https://myanimelist.net/news/74690587?_location=rss"
+        },
+        {
+          "title": "漫画《Kin to Tetsu》连载结束",
+          "summary": "片山绫香的《金与铁》已于周二在《别册少年杂志》2026 年 10 月号上完结第 105 章，标志着该系列的完结。五年连载。片山于 2021 年 3 月开始在别册少年杂志上绘制反乌托邦科幻悬疑漫画。讲谈社于 4 月 9 日出版了第九卷，第十卷也是最后一卷定于 10 月 8 日发行。美国讲谈社授权该漫画以英文数字发行。",
+          "source": "MyAnimeList",
+          "date": "09-09",
+          "url": "https://myanimelist.net/news/74690517?_location=rss"
+        },
+        {
+          "title": "《Cheat Fuyo》公布额外演员阵容、片头主题和首个宣传片",
+          "summary": "改编自六岛麻的电视动画《Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru》的官方网站。一立大城部？ （下岗的金手指法师享受新生活：我不仅可以给武器加“强化点”，还可以给任何东西加“强化点”，并且可以随时取消效果，……",
+          "source": "MyAnimeList",
+          "date": "09-09",
+          "url": "https://myanimelist.net/news/74690257?_location=rss"
+        },
+        {
+          "title": "《中介银行》播出推迟",
+          "summary": "周二，叠银银行动漫系列的官方网站宣布无限期推迟播出。该动画系列改编自田中一光的赌博惊悚漫画《中介银行》，原计划于 2026 年 10 月首播。新的播出日期尚未公布。工作人员解释说，为了满足粉丝的期望并匹配原作的质量，需要额外的制作时间。岸精二（Ansatsu Kyoushitsu）正在执导...",
+          "source": "MyAnimeList",
+          "date": "09-08",
+          "url": "https://myanimelist.net/news/74688429?_location=rss"
+        },
+        {
+          "title": "《Kyouran Reijou Nia Liston》公布了更多演员阵容、第二部宣传片、连续两场课程",
+          "summary": "改编自海风南野的轻小说《Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kamigoroshi no Bujin no Karei naru Musouroku》的电视动画官方网站于周二公布了更多演员阵容和第二部宣传视频。动画将于10月6日晚上9点25分开始连续两期播出。东京 MX 播出，其次是 BS 日本电视台和 MBS。一场",
+          "source": "MyAnimeList",
+          "date": "09-08",
+          "url": "https://myanimelist.net/news/74687352?_location=rss"
+        },
+        {
+          "title": "意志的力量：高桥理惠和速水沙织重新发现“魔法骑士雷亚斯”",
+          "summary": "自 1993 年首次亮相以来，CLAMP 的《魔法骑士雷亚斯》一直是深受人们喜爱的经典之作，因其令人难忘的女主角、富有想象力的奇幻世界以及友谊和意志力的主题而被人们铭记。现在，三十多年后，该系列以全新的电视动画改编版回归，在今年十月首播时向新一代介绍了塞菲罗的魔法世界。在该动画在 2026 年动漫博览会上进行预映之前，我们与高桥理惠 (Rie Takahashi) 和速水沙织 (Saori Hay",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74684465?_location=rss"
+        },
+        {
+          "title": "漫画《你是四叶草》获得动画改编",
+          "summary": "作者 Koushi 的官方 X（以前的 Twitter）账户周二宣布，《你是四叶草》漫画即将改编成动画，并发布了公告视觉图（如图）。 Koushi于2024年7月开始在《少年Champion》中连载这部浪漫惊悚漫画。秋田书店于周二出版了第十卷。剧情简介 宇一曾经是一个快乐而受欢迎的男孩，现在却成为残酷欺凌的受害者。然后突然四叶，他儿时的朋友和...",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74682926?_location=rss"
+        },
+        {
+          "title": "Studio KAI 制作 Hololive 电视动画《Odeholo》",
+          "summary": "制作公司角川和娱乐公司 Cover Corporation 周一宣布，VTuber 经纪公司 Hololive 正在制作一部名为《Odeholo》的电视动画，并公布了公告视觉图（如上图）和公告宣传片。 Studio KAI 是《Yuusha-kei ni Shosu》（《被判为英雄》）和 Gaikotsu Kishi-sama、Tadaima Isekai e Odekakechuu（异世界的骷髅",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74682835?_location=rss"
+        },
+        {
+          "title": "《Keroro军曹☆》主要演员、工作人员、首个宣传片公开",
+          "summary": "改编自美峰吉崎的《Keroro Gunsou》漫画的新电视动画的官方网站于周一公布了主要演员、工作人员、主视觉图（右图）和首个宣传视频。该动画系列预定于 10 月 3 日上午 9 点 30 分在东京电视台首播。演员：小一真（Tomo-chan wa Onnanoko！）NEW Rika Nagae（PriPri Chii-chan！！）NEW Toshiki Masuda（Boku no Hero",
+          "source": "MyAnimeList",
+          "date": "09-07",
+          "url": "https://myanimelist.net/news/74681689?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Nintendo Direct 2026 年 9 月：开始时间、如何观看以及期待什么、Xbox Game Pass 今天新增一款精彩的《使命召唤》游戏、互联网对《塞尔达传说：时之笛》的反应",
+      "items": [
+        {
+          "title": "Nintendo Direct 2026 年 9 月：开始时间、如何观看以及期待什么",
+          "summary": "昨天的《塞尔达传说 Direct》已经收入囊中，是时候更广泛地了解 Switch 主机上的新内容了九月任天堂直面会。昨天的广播主要集中在即将推出的《塞尔达传说：时之笛》重制版《塞尔达传说：时之笛》，但今天我们期待看到更多内容不仅仅是绿衣英雄。如果您无法出席，我们将在发布时报道每条新公告和预告片，因此请继续滚动查看所有内容，并按 F5 键刷新您的动态，同时我们将深入探讨大型 Nintendo Dir",
+          "source": "GameSpot",
+          "date": "09-09",
+          "url": "https://www.gamespot.com/articles/nintendo-direct-september-2026-start-time-how-to-watch-and-what-to-expect/"
+        },
+        {
+          "title": "Xbox Game Pass 今天新增一款精彩的《使命召唤》游戏",
+          "summary": "Xbox Game Pass 如今随着流行的《使命召唤》游戏的加入而不断发展。从今天（9 月 8 日）开始，该服务新增了 2020 年的使命召唤：黑色行动冷战。它可在 Game Pass Ultimate、Game Pass Premium 和 PC Game Pass 上使用，并且该游戏还支持云流式传输。\n\n\n\n由 Treyarch 和 Raven 开发的《黑色行动冷战》以冷战时期的 1981 ",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-adds-a-great-call-of-duty-game-today/"
+        },
+        {
+          "title": "互联网对《塞尔达传说：时之笛》的反应",
+          "summary": "继今年早些时候发布《塞尔达传说：时之笛》重制版之后，任天堂在公司最新的 Direct。当然，玩家们一直在社交媒体上分享他们的观点，而游戏艺术风格的某些方面在粉丝群中也存在分歧。不过，也出现了一些非常积极的反应。\n\n\n\n年轻林克和其他一些角色的新造型引发了一系列表情包和笑话。\n\n\n\n\nhttps://twitter.com/harrybookTV/status/2097338008638738442",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/the-internet-reacts-to-zelda-ocarina-of-times-changes/"
+        },
+        {
+          "title": "Xbox 的光盘转数字计划有一个大问题：几家主要发行商不参与",
+          "summary": "Xbox 的光盘转数字计划对于想要保留自己的游戏的玩家来说似乎是向前迈出的重要一步在日益数字化的世界中进行实体游戏，但它确实有局限性。似乎并非所有游戏发行商都参与其中，因为 Xbox 用户报告说，四家最大的公司根本没有“参与”。\n\n\n\n到目前为止，世嘉、史克威尔艾尼克斯、育碧和万代南梦宫的游戏在很大程度上与光盘转数字服务不兼容。经 Kotaku 验证，从这些发行商之一弹出游戏光盘可能会导致“不参与",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/xbox-disc-to-digital-program-has-a-big-problem-several-major-publishers-arent-participating/"
+        },
+        {
+          "title": "GameStop 创下新的财务记录，这并不是游戏的功劳",
+          "summary": "零售商 GameStop 发布了最新的盈利报告，该报告打破了该公司的记录。这家总部位于得克萨斯州的零售商截至 8 月 1 日的第二财季的最高数字为 1.602 亿美元。这就是 GameStop 在此期间的营业收入，也是该公司自 2002 年上市以来第二季度营业收入的最高水平。\n\n\n\n净利润也有所增长，达到 2.987 亿美元，而去年为 1.686 亿美元。 \n\n\n\nGameStop 受益于其最大销",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/gamestop-sets-a-new-financial-record-and-its-no-thanks-to-games/"
+        },
+        {
+          "title": "暴雪嘉年华 2026 值得期待：《星际争霸》回归，大量魔兽争霸",
+          "summary": "2026 年暴雪嘉年华将于 9 月 12 日开幕，虽然每次开发商暴雪决定举办粉丝大会时都会有重大新闻，但在两年的中断之后，今年的展会似乎将成为《魔兽争霸》、《星际争霸》、《暗黑破坏神》和《守望先锋》等暴雪系列游戏粉丝的一个重要场合。\n\n\n\n暴雪总裁 Johanna Faries 在采访中并不羞于大肆宣传今年的展会，她称 2026暴雪“迄今为止最重要的一年”。她表示，其各个开发团队正在其主要特许经营",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/what-to-expect-from-blizzcon-2026-starcrafts-return-a-whole-lot-of-warcraft/"
+        },
+        {
+          "title": "停止媒体，林克可以在时之笛重制版中跳跃",
+          "summary": "今天，任天堂播出了《塞尔达传说》40 周年纪念直播。我们了解到《时之笛》重制版将于于 11 月 5 日推出。我们听说新的管弦乐团音乐会将于 2027 年全球巡演。我们终于看到了即将上映的完整电影的标题：塞尔达传说（不，真的，就是这样）。然后，青沼英二向我们演示了即将推出的时之笛重制版的 15 分钟游戏演示，而游戏的新外观和游戏玩法已经在准备中。",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/stop-the-presses-link-can-jump-in-ocarina-of-time-remake/"
+        },
+        {
+          "title": "《塞尔达传说》40周年直映错过了风之杖大小的巨大机会",
+          "summary": "如果您希望在最近的《塞尔达传说 40 周年直面会》上看到旧版《塞尔达传说》游戏移植到 Switch 或重制版，那么您可能会感到失望，因为任天堂几乎将整个节目到即将推出的时之笛翻拍版。\n\n\n\n在多年来登陆 Switch 主机的所有《塞尔达传说》重制版中，该系列中仍然存在一个相当大的风之杖 HD 形状的漏洞。 《塞尔达传说：风之杖 HD》于 2013 年在 Wii U 上发布，与 2003 年 Gam",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-missed-a-giant-wind-waker-sized-opportunity/"
+        },
+        {
+          "title": "《塞尔达传说》40 周年纪念直播：所有最重要的公告",
+          "summary": "今年是《塞尔达传说》IP 的一个重要里程碑，但其母公司任天堂似乎并没有对其大肆宣扬。今天，一切都改变了，任天堂专门整个直播来讲述其长期流传的绿色英雄故事、神秘的力量物品和名义上的塞尔达公主。 \n\n\n\n此次活动主要关注重制版《塞尔达传说：时之笛》，演示文稿还透露了世界各地正在举办的新庆祝活动。我们还将提高我们的音乐技能，因为任天堂将出售一种陶笛乐器，您可以在即将推出的重制版中使用它，",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-all-the-biggest-announcements/"
+        },
+        {
+          "title": "《塞尔达传说：时之笛》重制版的第一款游戏看起来非常棒",
+          "summary": "经过几个月的谣言，任天堂终于在 6 月份透露《塞尔达传说：时之笛》重制版是真的。虽然这一透露纯粹是电影，但今天的任天堂 Direct for The Legend of Zelda 展示了重制版的游戏玩法，并仔细研究了其更新的艺术方向。\n\n\n\nSwitch 2 独占版忠实于 1998 年原版的美学，同时展示了视觉上的巨大升级。例如，林克的帽子和外衣展示了详细的螺纹和刺绣，以及帽子上的浆果。当林克走",
+          "source": "GameSpot",
+          "date": "09-08",
+          "url": "https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-remake-looks-fantastic-in-first-gameplay-look/"
+        }
+      ]
+    }
+  ]
+}
