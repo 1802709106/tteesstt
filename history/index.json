@@ -1,11 +1,19 @@
 [
   {
-    "date": "2026-09-11",
-    "quote": "「Error 500 (Server Error)!!1500.That’s an error.The」等AI 11条——每日精选资讯速览。",
+    "date": "2026-09-12",
+    "quote": "「Error 500 (Server Error)!!1500.That’s an error.The」等AI 8条、动漫 4条、游戏 2条——每日精选资讯速览。",
     "sections": [
       [
         "ai",
-        10
+        8
+      ],
+      [
+        "anime",
+        4
+      ],
+      [
+        "game",
+        2
       ]
     ]
   }
