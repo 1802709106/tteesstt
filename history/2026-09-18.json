@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-18",
+  "quote": "「Crusoe raises $3.9B to build massive data centers 」等AI 46条、动漫 20条、游戏 36条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’、Google DeepMind launches institute…",
+      "items": [
+        {
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+          "summary": "The round values the data center giant at $30.9 billion.",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+        },
+        {
+          "title": "Google DeepMind launches institute to widen the AGI debate",
+          "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their ",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+        },
+        {
+          "title": "PrismML hopes its tiny LLM will change how we all use AI",
+          "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+        },
+        {
+          "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+        },
+        {
+          "title": "The fix for rogue AI agents could be more AI",
+          "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+        },
+        {
+          "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable ",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
+        },
+        {
+          "title": "Is the AI safety debate about safety or control?",
+          "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
+        },
+        {
+          "title": "UN turns to Google to make its global data ready for AI agents",
+          "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
+        },
+        {
+          "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+        },
+        {
+          "title": "Even the king of England has his hesitations about AI",
+          "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+          "source": "TechCrunch",
+          "date": "09-17",
+          "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "'Silent Witch' Author and 'Mushoku Tensei' Artist Begin New Light Novel、'Kyoufu Collector' Reveals Main Cast, Staff, …",
+      "items": [
+        {
+          "title": "'Silent Witch' Author and 'Mushoku Tensei' Artist Begin New Light Novel",
+          "summary": "Silent Witch: Chinmoku no Majo no Kakushigoto (Secrets of the Silent Witch) author Matsuri Isora and Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) illustrator Sirota",
+          "source": "MyAnimeList",
+          "date": "09-18",
+          "url": "https://myanimelist.net/news/74732075?_location=rss"
+        },
+        {
+          "title": "'Kyoufu Collector' Reveals Main Cast, Staff, Teaser Promo",
+          "summary": "The official website for the television anime adaptation of Midori Satou&#039;s Kyoufu Collector (Horror Collector) novel revealed the main cast, staff, a key visual (pictured), and teaser promotional",
+          "source": "MyAnimeList",
+          "date": "09-18",
+          "url": "https://myanimelist.net/news/74732013?_location=rss"
+        },
+        {
+          "title": "'Hotaru no Yomeiri' Reveals Additional Staff, Opening Theme, First Promo",
+          "summary": "The official website for the television anime adaptation of Oreco Tachibana&#039;s Hotaru no Yomeiri (Firefly Wedding) web manga revealed additional staff, the opening theme, and first promotional vid",
+          "source": "MyAnimeList",
+          "date": "09-18",
+          "url": "https://myanimelist.net/news/74731610?_location=rss"
+        },
+        {
+          "title": "Manga 'Kamisama Gakkou no Ochikobore' Gets TV Anime",
+          "summary": "Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga and Modomu Akagawara&#039;s Kamisama Gakkou no Ochikobore (The Failure at God Sch",
+          "source": "MyAnimeList",
+          "date": "09-17",
+          "url": "https://myanimelist.net/news/74730180?_location=rss"
+        },
+        {
+          "title": "Japan-French Co-Production 'Aoki Denshou Welsh & Shedar' Announced for Fall 2026",
+          "summary": "An official website opened for an original television anime co-produced by Japan and France titled Aoki Denshou Welsh &amp; Shedar, and it revealed the main cast, staff, and a key visual (pictured) on",
+          "source": "MyAnimeList",
+          "date": "09-16",
+          "url": "https://myanimelist.net/news/74727107?_location=rss"
+        },
+        {
+          "title": "'Demons' Crest' Announces Additional Cast",
+          "summary": "The official website for the original net anime adaptation of Reki Kawahara&#039;s Demons&#039; Crest light novel announced additional cast on Wednesday. The anime is scheduled to premiere on Amazon P",
+          "source": "MyAnimeList",
+          "date": "09-16",
+          "url": "https://myanimelist.net/news/74725906?_location=rss"
+        },
+        {
+          "title": "The Road to Redemption: Unmasking The Vermilion Mask",
+          "summary": "Combining dark fantasy, action, and an unconventional approach to the shounen genre, Shuiro no Kamen (The Vermilion Mask) is set to bring its striking world and mysterious masks to television this Oct",
+          "source": "MyAnimeList",
+          "date": "09-16",
+          "url": "https://myanimelist.net/news/74725112?_location=rss"
+        },
+        {
+          "title": "'Majo to Youhei' Reveals Additional Cast, Staff, First Promo for Spring 2027",
+          "summary": "The official website for the television anime adaptation of Kaeru Chouhoukiteki&#039;s Majo to Youhei (Witch and Mercenary) light novel revealed additional cast, start, a second teaser visual (picture",
+          "source": "MyAnimeList",
+          "date": "09-16",
+          "url": "https://myanimelist.net/news/74725001?_location=rss"
+        },
+        {
+          "title": "Fall 2026 Preview",
+          "summary": "In this thread, you&#039;ll find a comprehensive list of Fall 2026 titles with an accompanying promotional video, commercial, teaser, or trailer. This post will be updated to include a video for title",
+          "source": "MyAnimeList",
+          "date": "09-15",
+          "url": "https://myanimelist.net/news/74723259?_location=rss"
+        },
+        {
+          "title": "'Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai' Unveils Additional Cast, Staff, Theme Songs, First Promo",
+          "summary": "The official website for the television anime adaptation of Ryuto&#039;s Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai (Reborn as a Space Merc",
+          "source": "MyAnimeList",
+          "date": "09-15",
+          "url": "https://myanimelist.net/news/74722593?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、Sugar Lies launches in late 2026…",
+      "items": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Fixed missing sound for Taunt: Circuit BreakerRenam",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Sugar Lies launches in late 2026 for PC, in spring 2027 for Switch",
+          "summary": "Romance visual novel Sugar Lies will launch for PC via Steam in late 2026 for &hellip;",
+          "source": "Gematsu",
+          "date": "09-18",
+          "url": "https://www.gematsu.com/2026/09/sugar-lies-launches-in-late-2026-for-pc-in-spring-2027-for-switch"
+        },
+        {
+          "title": "Tropico 7 adds Switch 2 version",
+          "summary": "Dictator simulation game Tropico 7 will launch for Switch 2 alongside its previously announced PlayStation &hellip;",
+          "source": "Gematsu",
+          "date": "09-17",
+          "url": "https://www.gematsu.com/2026/09/tropico-7-adds-switch-2-version"
+        },
+        {
+          "title": "Ved: Recure launches September 22",
+          "summary": "Fast-paced roguelite action game Ved: Recure will launch for PC via Steam on September 22, &hellip;",
+          "source": "Gematsu",
+          "date": "09-17",
+          "url": "https://www.gematsu.com/2026/09/ved-recure-launches-september-22"
+        },
+        {
+          "title": "Psikyo Memories announced for PS5, Switch 2",
+          "summary": "Edia has announced shoot &#8217;em up collection Psikyo Memories for PlayStation 5 and Switch 2. &hellip;",
+          "source": "Gematsu",
+          "date": "09-17",
+          "url": "https://www.gematsu.com/2026/09/psikyo-memories-announced-for-ps5-switch-2"
+        },
+        {
+          "title": "Dragon Slayer: The Legend of Heroes I & II announced for PS5, PS4, Switch, and PC",
+          "summary": "Edia has announced RPG collection Dragon Slayer: The Legend of Heroes I &amp; II for &hellip;",
+          "source": "Gematsu",
+          "date": "09-17",
+          "url": "https://www.gematsu.com/2026/09/dragon-slayer-the-legend-of-heroes-i-ii-announced-for-ps5-ps4-switch-and-pc"
+        },
+        {
+          "title": "Toshinden Collection announced for PS5, Switch 2, and PC",
+          "summary": "Edia has announced fighting game collection Toshinden Collection for PlayStation 5, Switch 2, and PC &hellip;",
+          "source": "Gematsu",
+          "date": "09-17",
+          "url": "https://www.gematsu.com/2026/09/toshinden-collection-announced-for-ps5-switch-2-and-pc"
+        },
+        {
+          "title": "Kingdom of Night for PS5, Xbox Series, and Switch launches November 5",
+          "summary": "80s-themed story-driven action RPG Kingdom of Night will launch for PlayStation 5, Xbox Series, and &hellip;",
+          "source": "Gematsu",
+          "date": "09-17",
+          "url": "https://www.gematsu.com/2026/09/kingdom-of-night-for-ps5-xbox-series-and-switch-launches-november-5"
+        },
+        {
+          "title": "Famitsu Sales: 9/7/26 – 9/13/26 [Update]",
+          "summary": "Famitsu has published its estimated physical game software data for Japan for the week of &hellip;",
+          "source": "Gematsu",
+          "date": "09-17",
+          "url": "https://www.gematsu.com/2026/09/famitsu-sales-9-7-26-9-13-26"
+        }
+      ]
+    }
+  ]
+}
