@@ -1,13 +1,20 @@
 {
-  "date": "2026-09-20",
-  "quote": "「Flock reportedly tries to shrink workforce with em」等AI 37条、动漫 20条、游戏 32条——每日精选资讯速览。",
+  "date": "2026-09-21",
+  "quote": "「Is the AI industry really ready to slow down?」等AI 48条、动漫 20条、游戏 32条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Flock reportedly tries to shrink workforce with employee buyouts、Trump says it’s time to rebrand AI with a new name —…",
+      "summary": "Is the AI industry really ready to slow down?、Flock reportedly tries to shrink workforce with employee buyouts、Trump …",
       "items": [
+        {
+          "title": "Is the AI industry really ready to slow down?",
+          "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+          "source": "TechCrunch",
+          "date": "09-20",
+          "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+        },
         {
           "title": "Flock reportedly tries to shrink workforce with employee buyouts",
           "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
@@ -70,13 +77,6 @@
           "source": "TechCrunch",
           "date": "09-18",
           "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
-        },
-        {
-          "title": "AI hallucination nearly triggers US military operation",
-          "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-          "source": "TechCrunch",
-          "date": "09-18",
-          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
         }
       ]
     },
@@ -84,8 +84,22 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "'Tensei Goblin dakedo Shitsumon Aru?' Announces Supporting Cast、New 'Magic Knight Rayearth' Unveils Additional Cast, …",
+      "summary": "'Kekkaishi no Ichirinka' Unveils Additional Cast, Second Teaser Promo、'Futsutsuka na Akujo dewa Gozaimasu ga' Second …",
       "items": [
+        {
+          "title": "'Kekkaishi no Ichirinka' Unveils Additional Cast, Second Teaser Promo",
+          "summary": "The official website for the television anime adaptation of Kureha&#039;s Kekkaishi no Ichirinka (Bride of the Barrier Master) novel unveiled additional cast, a third teaser visual (pictured), and sec",
+          "source": "MyAnimeList",
+          "date": "09-21",
+          "url": "https://myanimelist.net/news/74741587?_location=rss"
+        },
+        {
+          "title": "'Futsutsuka na Akujo dewa Gozaimasu ga' Second Part Announced for Winter 2027",
+          "summary": "The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that its second part, titled Hajim",
+          "source": "MyAnimeList",
+          "date": "09-20",
+          "url": "https://myanimelist.net/news/74739206?_location=rss"
+        },
         {
           "title": "'Tensei Goblin dakedo Shitsumon Aru?' Announces Supporting Cast",
           "summary": "The official website for the television anime adaptation of Nazuna Miki&#039;s Tensei Goblin dakedo Shitsumon Aru? (So What&#039;s Wrong with Getting Reborn as a Goblin?) manga announced supporting ca",
@@ -94,7 +108,7 @@
           "url": "https://myanimelist.net/news/74738383?_location=rss"
         },
         {
-          "title": "New 'Magic Knight Rayearth' Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours",
+          "title": "New 'Magic Knight Rayearth' TV Anime Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours",
           "summary": "The stage event for the new television anime adaptation of CLAMP&#039;s Magic Knight Rayearth at the Kyoto International Manga Anime Fair 2026 unveiled additional cast, the theme songs, and a second p",
           "source": "MyAnimeList",
           "date": "09-20",
@@ -141,20 +155,6 @@
           "source": "MyAnimeList",
           "date": "09-19",
           "url": "https://myanimelist.net/news/74735069?_location=rss"
-        },
-        {
-          "title": "'Silent Witch' Author and 'Mushoku Tensei' Artist Begin New Light Novel",
-          "summary": "Silent Witch: Chinmoku no Majo no Kakushigoto (Secrets of the Silent Witch) author Matsuri Isora and Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) illustrator Sirota",
-          "source": "MyAnimeList",
-          "date": "09-18",
-          "url": "https://myanimelist.net/news/74732075?_location=rss"
-        },
-        {
-          "title": "'Kyoufu Collector' Reveals Main Cast, Staff, Teaser Promo",
-          "summary": "The official website for the television anime adaptation of Midori Satou&#039;s Kyoufu Collector (Horror Collector) novel revealed the main cast, staff, a key visual (pictured), and teaser promotional",
-          "source": "MyAnimeList",
-          "date": "09-18",
-          "url": "https://myanimelist.net/news/74732013?_location=rss"
         }
       ]
     },
@@ -162,8 +162,36 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'、Insomniac Says M…",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、Poppy Playtime Spinoff Escape fr…",
       "items": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Fixed missing sound for Taunt: Circuit BreakerRenam",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date",
+          "summary": "Escape from Playtime, the co-op survival horror extraction spinoff of the popular Poppy's Playtime episodic horror games that was announced at Gamescom last month, will be launching into Steam Early A",
+          "source": "IGN",
+          "date": "09-20",
+          "url": "https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date"
+        },
+        {
+          "title": "Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint",
+          "summary": "Hideo Kojima reveals what happened with Sony in his first interview since PlayStation ditched Physint.",
+          "source": "IGN",
+          "date": "09-20",
+          "url": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint"
+        },
         {
           "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
           "summary": "The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought \"uninvited and unnecessary negative attention.\"",
@@ -200,39 +228,11 @@
           "url": "https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games"
         },
         {
-          "title": "Walmart Just Discounted Over a Dozen Nintendo Switch Games, Plus Get an Extra $10 With This Secret Coupon",
-          "summary": "It's a good time to be a Switch gamer.",
-          "source": "IGN",
-          "date": "09-18",
-          "url": "https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-at-walmart-plus-secret-coupon"
-        },
-        {
-          "title": "The New SteelSeries Aeon Pro Wireless Gaming Controller With Infinite Battery Life Is Now Available",
-          "summary": "Quite possibly the best wireless PC and Xbox gaming controller ever.",
-          "source": "IGN",
-          "date": "09-18",
-          "url": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal"
-        },
-        {
-          "title": "Team Fortress 2 Update Released",
-          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Fixed missing sound for Taunt: Circuit BreakerRenam",
-          "source": "Steam",
-          "date": "07-14",
-          "url": "https://store.steampowered.com/news/276074/"
-        },
-        {
-          "title": "Now Available on Steam - Angels Fall First, 10% off!",
-          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
-          "source": "Steam",
-          "date": "07-11",
-          "url": "https://store.steampowered.com/news/275791/"
-        },
-        {
-          "title": "Indie Dev Says “AI” Voice In His Game Was Actually His Wife",
-          "summary": "Someone playing Refractive Entertainment's recently released action-RPG Luminary for less than an hour accused the team of using AI for the game's only voiced character. The player said the voice \"kil",
-          "source": "GameSpot",
-          "date": "09-18",
-          "url": "https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/"
+          "title": "This Week’s Japanese Game Releases: Silent Hill: Townfall, GOBBLE, more",
+          "summary": "Silent Hill: Townfall for PlayStation 5 and PC, and GOBBLE for PlayStation 5, Switch 2, &hellip;",
+          "source": "Gematsu",
+          "date": "09-21",
+          "url": "https://www.gematsu.com/2026/09/this-weeks-japanese-game-releases-silent-hill-townfall-gobble-more"
         }
       ]
     }
