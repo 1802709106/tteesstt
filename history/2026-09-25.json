@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-25",
+  "quote": "「Gemini 3.8 Live with Live Avatar gives Google&#821」等AI 48条、动漫 20条、游戏 35条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face、Jensen Huang talks about AI and climate change like a…",
+      "items": [
+        {
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial e",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+        },
+        {
+          "title": "Jensen Huang talks about AI and climate change like a supervillain",
+          "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on o",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
+        },
+        {
+          "title": "Meta is going to let you build games with AI right on your phone",
+          "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
+        },
+        {
+          "title": "Muse will apparently let you download its entire filesystem",
+          "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zi",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
+        },
+        {
+          "title": "Muse sure looks a lot like OpenClaw",
+          "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an A",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike"
+        },
+        {
+          "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute"
+        },
+        {
+          "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+          "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an a",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls"
+        },
+        {
+          "title": "Why can’t we just keep rogue AIs off the internet?",
+          "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these ",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"
+        },
+        {
+          "title": "Google is sending an AI satellite into space next week",
+          "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher,",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher"
+        },
+        {
+          "title": "The vibes are bad for Flock in Washington",
+          "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but th",
+          "source": "The Verge",
+          "date": "09-24",
+          "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "Manga 'Elf-sensei no Toilet wa Doko desu ka?' Receives TV Anime Adaptation、'Nisemono no Renkinjutsushi' Reveals Main …",
+      "items": [
+        {
+          "title": "Manga 'Elf-sensei no Toilet wa Doko desu ka?' Receives TV Anime Adaptation",
+          "summary": "WWWave Corporation&#039;s Deregula animation label announced a television anime adaptation of Chizuna Nakajima&#039;s Elf-sensei no Toilet wa Doko desu ka? (Where Is the Elf Teacher&#039;s Toilet?) on",
+          "source": "MyAnimeList",
+          "date": "09-25",
+          "url": "https://myanimelist.net/news/74757191?_location=rss"
+        },
+        {
+          "title": "'Nisemono no Renkinjutsushi' Reveals Main Cast, Staff, Teaser Promo",
+          "summary": "The official website for the television anime adaptation of Jirou Sugiura and Umemaru&#039;s Nisemono no Renkinjutsushi (The Fake Alchemist) manga revealed the main cast, staff, and a teaser promotion",
+          "source": "MyAnimeList",
+          "date": "09-25",
+          "url": "https://myanimelist.net/news/74756971?_location=rss"
+        },
+        {
+          "title": "'Kakunaru Ue wa' Reveals Additional Staff, First Promo for Winter 2027",
+          "summary": "The official website for the television anime adaptation of Kyuu Takahata and Yuuji Kaba&#039;s Kakunaru Ue wa (Now That We Draw) manga revealed additional staff, a character visual (pictured above), ",
+          "source": "MyAnimeList",
+          "date": "09-24",
+          "url": "https://myanimelist.net/news/74754396?_location=rss"
+        },
+        {
+          "title": "'Bless' Unveils Additional Cast, Character Promo",
+          "summary": "The official website for the television anime adaptation of Yukino Sonoyama&#039;s Bless manga unveiled additional cast and the character promotional video on Thursday. The anime series is scheduled t",
+          "source": "MyAnimeList",
+          "date": "09-24",
+          "url": "https://myanimelist.net/news/74754247?_location=rss"
+        },
+        {
+          "title": "'Isshiki-san wa Koi wo Shiritai.' Announces Additional Cast",
+          "summary": "The official website for the television anime adaptation of Ayune Araragi&#039;s Isshiki-san wa Koi wo Shiritai. (Ms. Isshiki Wants to Know About Love) manga revealed additional cast and a key visual ",
+          "source": "MyAnimeList",
+          "date": "09-24",
+          "url": "https://myanimelist.net/news/74754203?_location=rss"
+        },
+        {
+          "title": "'Shin Oishinbo'  Reveals Main Cast, Staff",
+          "summary": "The official website for the television anime adaptation of Tetsu Kariya&#039;s Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). Th",
+          "source": "MyAnimeList",
+          "date": "09-24",
+          "url": "https://myanimelist.net/news/74754201?_location=rss"
+        },
+        {
+          "title": "'Aoki Denshou Welsh & Shedar' Reveals Additional Cast, Theme Songs, Main Promo",
+          "summary": "The main promotional video for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast and theme songs on Thursday. The anime is scheduled t",
+          "source": "MyAnimeList",
+          "date": "09-24",
+          "url": "https://myanimelist.net/news/74754150?_location=rss"
+        },
+        {
+          "title": "'Phantom Busters' TV Anime Announced For 2027",
+          "summary": "Production company TOHO animation opened an official website for a television anime adaptation of Shoco&#039;s Phantom Busters manga on Thursday, revealing a commemorative illustration by the original",
+          "source": "MyAnimeList",
+          "date": "09-24",
+          "url": "https://myanimelist.net/news/74754110?_location=rss"
+        },
+        {
+          "title": "'Hyouken no Majutsushi ga Sekai wo Suberu II' Announces Additional Cast Pair",
+          "summary": "The official website for the television anime adaptation of Nana Mikoshiba&#039;s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced an additio",
+          "source": "MyAnimeList",
+          "date": "09-24",
+          "url": "https://myanimelist.net/news/74754105?_location=rss"
+        },
+        {
+          "title": "'Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru' Unveils Additional Cast, Theme Songs, Main Promo for Second Cour",
+          "summary": "The official website for the television anime adaptation of Necoco and Lee Brocco&#039;s Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru (The Exiled Reincarnated Heavy Knight is Unrivale",
+          "source": "MyAnimeList",
+          "date": "09-23",
+          "url": "https://myanimelist.net/news/74753120?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、The Best News For Saw: Genesis I…",
+      "items": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Fixed missing sound for Taunt: Circuit BreakerRenam",
+          "source": "Steam",
+          "date": "07-14",
+          "url": "https://store.steampowered.com/news/276074/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "The Best News For Saw: Genesis Is We Have To Wait Longer To Play It",
+          "summary": "Saw: Genesis was set to be the next asymmetrical multiplayer horror game to debut, but its 2026 early-access launch has been pushed to 2027, developer Bloober Team announced. \n\n\n\nThe horror-focused st",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it/"
+        },
+        {
+          "title": "In Saraab: Beyond The Veil, Your Inner Demons Are Coming For You This November",
+          "summary": "Anyone looking for a&nbsp;creepy adventure to play in November&nbsp;will want to check out Saraab: Beyond the Veil. Solo developer&nbsp;Lubna Ahmed has announced a November 3 release date for the game",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/in-saraab-beyond-the-veil-your-inner-demons-are-coming-for-you-this-november/"
+        },
+        {
+          "title": "First Full Madden Movie Trailer Has Us So Very Confused",
+          "summary": "Madden, the David O. Russell-directed John Madden biopic starring Nic Cage, got its first full-length trailer today, and to be completely honest, I have no idea what to make of this movie. Based on th",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/first-full-madden-movie-trailer-has-us-so-very-confused/"
+        },
+        {
+          "title": "Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf",
+          "summary": "Zelda fans have had no shortage of new games to play in recent years, but it appears that one game--starring the franchise's iconic villain--was also in the works at one point. Rather than having Nint",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf/"
+        },
+        {
+          "title": "Steam’s Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis",
+          "summary": "Punks are taking over Steam starting on October 9 with the Punk Games Showcase, a week-long, curated digital festival celebrating games made with and expressing a punk spirit.&nbsp;\n\n\n\nOver 400 games ",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/"
+        },
+        {
+          "title": "Arc Raiders Is Finally Testing A PvE Mode",
+          "summary": "Arc Raiders developer Embark Studios has officially announced that fans of the popular extraction shooter will soon have a more cooperative-focused way to enjoy exploring topside, as a long-awaited Pv",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/arc-raiders-is-finally-testing-a-pve-mode/"
+        },
+        {
+          "title": "March 2027 Could Be Make-Or-Break For Marathon",
+          "summary": "Bungie has big plans to revive not only Destiny 2, but to also evolve its extraction shooter, Marathon. Following its launch in March 2026, the studio says that it has been reviewing feedback around M",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/march-2027-could-be-make-or-break-for-marathon/"
+        },
+        {
+          "title": "Control Resonant Is Making Dylan Stronger, Even If He Just Woke Up From A Coma",
+          "summary": "Control Resonant has officially launched, and Remedy Entertainment has also paired it with a fresh patch to make it a little less brutal. Hotfix 1.3.3 is primarily focused on adjusting enemy health po",
+          "source": "GameSpot",
+          "date": "09-24",
+          "url": "https://www.gamespot.com/articles/control-resonant-is-making-dylan-stronger-even-if-he-just-woke-up-from-a-coma/"
+        }
+      ]
+    }
+  ]
+}
