@@ -1,13 +1,34 @@
 {
-  "date": "2026-09-26",
-  "quote": "「Crusoe abandons $1.25B plan to use Boom turbines a」等AI 38条、动漫 20条、游戏 33条——每日精选资讯速览。",
+  "date": "2026-09-27",
+  "quote": "「Google tests buying from Walmart-owned Flipkart th」等AI 39条、动漫 20条、游戏 31条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers、Unsecured OpenAI agents posted 53 user images on …",
+      "summary": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India、Insurers claim AI is already incr…",
       "items": [
+        {
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "source": "TechCrunch",
+          "date": "09-27",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+        },
+        {
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+          "source": "TechCrunch",
+          "date": "09-26",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+        },
+        {
+          "title": "I created an interactive digital avatar of myself — and you can talk to it",
+          "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+          "source": "TechCrunch",
+          "date": "09-26",
+          "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+        },
         {
           "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
           "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
@@ -56,27 +77,6 @@
           "source": "TechCrunch",
           "date": "09-25",
           "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
-        },
-        {
-          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-          "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-          "source": "TechCrunch",
-          "date": "09-25",
-          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
-        },
-        {
-          "title": "Meta’s AI Tamagotchi bet is…working?",
-          "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both ",
-          "source": "TechCrunch",
-          "date": "09-25",
-          "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
-        },
-        {
-          "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-          "source": "TechCrunch",
-          "date": "09-25",
-          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
         }
       ]
     },
@@ -84,8 +84,15 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "'Tensei shitara Slime Datta Ken 4th Season' Part 2 Announced for Summer 2027, 'Clayman Revenge' Spin-off Gets TV Anim…",
+      "summary": "Toshio Masuda, Director of 'Uchuu Senkan Yamato' Movies, Dies at 98、'Tensei shitara Slime Datta Ken 4th Season' Part …",
       "items": [
+        {
+          "title": "Toshio Masuda, Director of 'Uchuu Senkan Yamato' Movies, Dies at 98",
+          "summary": "Toshio Masuda, the director behind Uchuu Senkan Yamato (Space Battleship Yamato) movies, died on August 26 due to natural causes. He was 98. The Directors Guild of Japan announced the news on Thursday",
+          "source": "MyAnimeList",
+          "date": "09-27",
+          "url": "https://myanimelist.net/news/74764175?_location=rss"
+        },
         {
           "title": "'Tensei shitara Slime Datta Ken 4th Season' Part 2 Announced for Summer 2027, 'Clayman Revenge' Spin-off Gets TV Anime for Spring 2027",
           "summary": "The 24th and final episode of the Tensei shitara Slime Datta Ken 4th Season (That Time I Got Reincarnated as a Slime Season 4) television anime announced on Friday that its second part will premiere i",
@@ -148,13 +155,6 @@
           "source": "MyAnimeList",
           "date": "09-24",
           "url": "https://myanimelist.net/news/74754203?_location=rss"
-        },
-        {
-          "title": "'Shin Oishinbo'  Reveals Main Cast, Staff",
-          "summary": "The official website for the television anime adaptation of Tetsu Kariya&#039;s Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). Th",
-          "source": "MyAnimeList",
-          "date": "09-24",
-          "url": "https://myanimelist.net/news/74754201?_location=rss"
         }
       ]
     },
