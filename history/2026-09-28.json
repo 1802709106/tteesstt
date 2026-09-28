@@ -1,13 +1,27 @@
 {
-  "date": "2026-09-27",
-  "quote": "「Google tests buying from Walmart-owned Flipkart th」等AI 39条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "date": "2026-09-28",
+  "quote": "「Can Muse overcome Meta’s trust issues?」等AI 48条、动漫 20条、游戏 31条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India、Insurers claim AI is already incr…",
+      "summary": "Can Muse overcome Meta’s trust issues?、Anthropic’s Dario Amodei gets the SNL treatment、Google tests buying from Walma…",
       "items": [
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "source": "TechCrunch",
+          "date": "09-27",
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+        },
+        {
+          "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+          "summary": "\"AI is the devil and I its maker.\"",
+          "source": "TechCrunch",
+          "date": "09-27",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+        },
         {
           "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
           "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
@@ -63,20 +77,6 @@
           "source": "TechCrunch",
           "date": "09-25",
           "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
-        },
-        {
-          "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-          "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-          "source": "TechCrunch",
-          "date": "09-25",
-          "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
-        },
-        {
-          "title": "Astra and Opus just passed Turing’s other test",
-          "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-          "source": "TechCrunch",
-          "date": "09-25",
-          "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
         }
       ]
     },
@@ -84,8 +84,36 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "Toshio Masuda, Director of 'Uchuu Senkan Yamato' Movies, Dies at 98、'Tensei shitara Slime Datta Ken 4th Season' Part …",
+      "summary": "Web Manga 'Houkago no Idol ni wa Himitsu ga Aru' Gets TV Anime in Spring 2027、'Mushoku Tensei III: Isekai Ittara Honk…",
       "items": [
+        {
+          "title": "Web Manga 'Houkago no Idol ni wa Himitsu ga Aru' Gets TV Anime in Spring 2027",
+          "summary": "Production company Bushiroad opened an official website for a television anime adaptation of Kashiko Amane&#039;s Houkago no Idol ni wa Himitsu ga Aru (Everyone&#039;s Darling Has a Secret) web manga ",
+          "source": "MyAnimeList",
+          "date": "09-28",
+          "url": "https://myanimelist.net/news/74768378?_location=rss"
+        },
+        {
+          "title": "'Mushoku Tensei III: Isekai Ittara Honki Dasu' Part 2 Announced for 2027",
+          "summary": "The 14th and final episode of Mushoku Tensei III: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation Season 3) television anime announced on Sunday that its second part is scheduled for 2",
+          "source": "MyAnimeList",
+          "date": "09-27",
+          "url": "https://myanimelist.net/news/74766124?_location=rss"
+        },
+        {
+          "title": "New 'Monster Strike' Anime 'Mera×Death - Shinigami to Boku no Ijou na Koi' Announced for Winter 2027",
+          "summary": "Game publisher and developer Mixi announced a new television anime adaptation for the Monster Strike smartphone role-playing game, subtitled Monster Strike: Mera&times;Death: Shinigami to Boku no Ijou",
+          "source": "MyAnimeList",
+          "date": "09-27",
+          "url": "https://myanimelist.net/news/74765539?_location=rss"
+        },
+        {
+          "title": "'Mairimashita! Iruma-kun' Anime Movie Announced",
+          "summary": "The Mairimashita! Iruma-kun (Welcome to Demon School! Iruma-kun) special event &quot;Devils Party 2&quot; announced an anime movie project for the franchise on Sunday. The official website also reveal",
+          "source": "MyAnimeList",
+          "date": "09-27",
+          "url": "https://myanimelist.net/news/74765400?_location=rss"
+        },
         {
           "title": "Toshio Masuda, Director of 'Uchuu Senkan Yamato' Movies, Dies at 98",
           "summary": "Toshio Masuda, the director behind Uchuu Senkan Yamato (Space Battleship Yamato) movies, died on August 26 due to natural causes. He was 98. The Directors Guild of Japan announced the news on Thursday",
@@ -127,34 +155,6 @@
           "source": "MyAnimeList",
           "date": "09-25",
           "url": "https://myanimelist.net/news/74757191?_location=rss"
-        },
-        {
-          "title": "'Nisemono no Renkinjutsushi' Reveals Main Cast, Staff, Teaser Promo",
-          "summary": "The official website for the television anime adaptation of Jirou Sugiura and Umemaru&#039;s Nisemono no Renkinjutsushi (The Fake Alchemist) manga revealed the main cast, staff, and a teaser promotion",
-          "source": "MyAnimeList",
-          "date": "09-25",
-          "url": "https://myanimelist.net/news/74756971?_location=rss"
-        },
-        {
-          "title": "'Kakunaru Ue wa' Reveals Additional Staff, First Promo for Winter 2027",
-          "summary": "The official website for the television anime adaptation of Kyuu Takahata and Yuuji Kaba&#039;s Kakunaru Ue wa (Now That We Draw) manga revealed additional staff, a character visual (pictured above), ",
-          "source": "MyAnimeList",
-          "date": "09-24",
-          "url": "https://myanimelist.net/news/74754396?_location=rss"
-        },
-        {
-          "title": "'Bless' Unveils Additional Cast, Character Promo",
-          "summary": "The official website for the television anime adaptation of Yukino Sonoyama&#039;s Bless manga unveiled additional cast and the character promotional video on Thursday. The anime series is scheduled t",
-          "source": "MyAnimeList",
-          "date": "09-24",
-          "url": "https://myanimelist.net/news/74754247?_location=rss"
-        },
-        {
-          "title": "'Isshiki-san wa Koi wo Shiritai.' Announces Additional Cast",
-          "summary": "The official website for the television anime adaptation of Ayune Araragi&#039;s Isshiki-san wa Koi wo Shiritai. (Ms. Isshiki Wants to Know About Love) manga revealed additional cast and a key visual ",
-          "source": "MyAnimeList",
-          "date": "09-24",
-          "url": "https://myanimelist.net/news/74754203?_location=rss"
         }
       ]
     },
@@ -162,7 +162,7 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、Professor Layton and the New Wor…",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、This Week’s Japanese Game Releas…",
       "items": [
         {
           "title": "Team Fortress 2 Update Released",
@@ -177,6 +177,13 @@
           "source": "Steam",
           "date": "07-11",
           "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "This Week’s Japanese Game Releases: Ace Combat 8: Wings of Theve, Dynasty Warriors 3: Complete Edition Remastered, more",
+          "summary": "Ace Combat 8: Wings of Theve for PlayStation 5, Xbox Series, and PC, and Dynasty &hellip;",
+          "source": "Gematsu",
+          "date": "09-28",
+          "url": "https://www.gematsu.com/2026/09/this-weeks-japanese-game-releases-ace-combat-8-wings-of-theve-dynasty-warriors-3-complete-edition-remastered-more"
         },
         {
           "title": "Professor Layton and the New World of Steam TGS 2026 demo gameplay",
@@ -226,13 +233,6 @@
           "source": "Gematsu",
           "date": "09-25",
           "url": "https://www.gematsu.com/2026/09/mercenaries-grace-black-feather-and-the-golden-right-arm-announced-for-ps5-switch-and-pc"
-        },
-        {
-          "title": "Unicorn Overlord director Takafumi Noma announces fantasy IP IGNISPHERE and action RPG DAWNGAZER for PS5, Switch 2, and PC",
-          "summary": "Publisher Good Smile Company and developer Monochrome Corporation have announced new fantasy intellectual property IGNISPHERE, &hellip;",
-          "source": "Gematsu",
-          "date": "09-25",
-          "url": "https://www.gematsu.com/2026/09/unicorn-overlord-director-takafumi-noma-announces-fantasy-ip-ignisphere-and-action-rpg-dawngazer-for-ps5-switch-2-and-pc"
         }
       ]
     }
