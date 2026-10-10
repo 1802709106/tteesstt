@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-10",
+  "quote": "「Anthropic’s AI gave Philadelphia police a fake tip」等AI 35条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide、&#8216;Pure insanity&#8217;: Mathematic…",
+      "items": [
+        {
+          "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the P",
+          "source": "The Verge",
+          "date": "10-09",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+        },
+        {
+          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr",
+          "source": "The Verge",
+          "date": "10-09",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+        },
+        {
+          "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+          "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place",
+          "source": "The Verge",
+          "date": "10-09",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
+        },
+        {
+          "title": "Trump’s attempt to rename AI is looking awfully artificial",
+          "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" ",
+          "source": "The Verge",
+          "date": "10-09",
+          "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding"
+        },
+        {
+          "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+          "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet,",
+          "source": "The Verge",
+          "date": "10-09",
+          "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
+        },
+        {
+          "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+          "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine",
+          "source": "The Verge",
+          "date": "10-09",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+        },
+        {
+          "title": "Anthropic launches free AI security scans for open-source projects",
+          "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic secur",
+          "source": "The Verge",
+          "date": "10-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+        },
+        {
+          "title": "California is trying to shut down robot vs. human cage matches",
+          "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which too",
+          "source": "The Verge",
+          "date": "10-08",
+          "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
+        },
+        {
+          "title": "USA Today becomes the latest publisher to sue OpenAI",
+          "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by R",
+          "source": "The Verge",
+          "date": "10-08",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+        },
+        {
+          "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+          "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy",
+          "source": "The Verge",
+          "date": "10-08",
+          "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Unveils Additional Cast, Staff, Theme Songs, First Promo、Manga 'H…",
+      "items": [
+        {
+          "title": "'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Unveils Additional Cast, Staff, Theme Songs, First Promo",
+          "summary": "The official website for the television anime adaptation of Rokuro Uraji&#039;s Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I&#039;m the Only One Who Doesn&#039;t Get",
+          "source": "MyAnimeList",
+          "date": "10-10",
+          "url": "https://myanimelist.net/news/74807103?_location=rss"
+        },
+        {
+          "title": "Manga 'Hotaru no Yomeiri' Gets Live-Action Adaptation in 2027",
+          "summary": "Television broadcast company Fuji TV announced a live-action adaptation of Oreco Tachibana&#039;s Hotaru no Yomeiri (Firefly Wedding) web manga on Saturday, revealing an announcement promotional video",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74805426?_location=rss"
+        },
+        {
+          "title": "White Fox Produces 'Monster no Niku wo Kutte Itara Oui ni Tsuita Ken' TV Anime Adaptation for 2027",
+          "summary": "Production company King Records opened an official website for a television anime adaptation of Daken&#039;s Monster no Niku wo Kutte Itara Oui ni Tsuita Ken (How I Became King by Eating Monsters) lig",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74804055?_location=rss"
+        },
+        {
+          "title": "'Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu' Reveals Main Cast, Teaser Promo for Winter 2027",
+          "summary": "The official website for the television anime adaptation of Kennoji and R_ringo&#039;s Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute t",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74804034?_location=rss"
+        },
+        {
+          "title": "Animator Kenichirou Katsura Dies at 59",
+          "summary": "Kenichirou Katsura, known for his character designs for Macross 7 and Knight&#039;s &amp; Magic, died on September 30. He was 59. A funeral service was held by his close relatives. Satoko Miyachi, his",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74803941?_location=rss"
+        },
+        {
+          "title": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Unveils Additional Cast, Opening Theme, Second Promo",
+          "summary": "The Crunchyroll Showcase at New York Comic Con 2026 unveiled additional cast, a second key visual (pictured right), the opening theme, and second promotional video for the television anime adaptation ",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74803756?_location=rss"
+        },
+        {
+          "title": "'Ghost of Tsushima Kuroudo Kitan' Announces Additional Cast, Staff, 2028 Delay",
+          "summary": "The Crunchyroll showcase at New York Comic Con 2026 revealed additional cast and staff for the anime adaptation of Sucker Punch Productions&#039; Ghost of Tsushima video game on Thursday. The anime ha",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74803695?_location=rss"
+        },
+        {
+          "title": "'Teenage Mercenary' Reveals Main Staff, 2027 Debut",
+          "summary": "The Crunchyroll Showcase at New York Comic Con 2026 revealed the main staff, a teaser visual (pictured), and an announcement promo for the television anime adaptation of YC&#039;s Teenage Mercenary (N",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74803693?_location=rss"
+        },
+        {
+          "title": "'Kininatteru Hito ga Otoko ja Nakatta' Reveals Additional Cast, Staff, First Promo",
+          "summary": "The Crunchyroll Showcase at New York Comic Con 2026 revealed additional cast, staff, and a promotional video for the television anime adaptation of Sumiko Arai&#039;s Kininatteru Hito ga Otoko ja Naka",
+          "source": "MyAnimeList",
+          "date": "10-09",
+          "url": "https://myanimelist.net/news/74803545?_location=rss"
+        },
+        {
+          "title": "Webtoon 'The Boxer' Gets TV Anime",
+          "summary": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Ji-Hoon Jeong&#039;s The Boxer webtoon on Thursday, revealing the main cast, staff, and a special promoti",
+          "source": "MyAnimeList",
+          "date": "10-08",
+          "url": "https://myanimelist.net/news/74803494?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、Sonic Racing: CrossWorlds Year T…",
+      "items": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Added sv_wallbug convar to allow previous movement ",
+          "source": "Steam",
+          "date": "10-05",
+          "url": "https://store.steampowered.com/news/285564/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Sonic Racing: CrossWorlds Year Two updates and DLC announced",
+          "summary": "SEGA has announced new updates and downloadable content coming to crossover racing game Sonic Racing: &hellip;",
+          "source": "Gematsu",
+          "date": "10-09",
+          "url": "https://www.gematsu.com/2026/10/sonic-racing-crossworlds-year-two-updates-and-dlc-announced"
+        },
+        {
+          "title": "Fatal Fury: City of the Wolves DLC character Reina from Tekken announced",
+          "summary": "SNK has announced Fatal Fury: City of the Wolves downloadable content characters Reina from the &hellip;",
+          "source": "Gematsu",
+          "date": "10-09",
+          "url": "https://www.gematsu.com/2026/10/fatal-fury-city-of-the-wolves-dlc-character-reina-from-tekken-announced"
+        },
+        {
+          "title": "Shadow of the Road delayed to March 10, 2027",
+          "summary": "Publisher Owlcat Games and developer Another Angle Games have delayed story-driven turn-based RPG Shadow of &hellip;",
+          "source": "Gematsu",
+          "date": "10-09",
+          "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027"
+        },
+        {
+          "title": "BeXide announces copy-and-paste hide-and-seek party game Cat and Paste! for PC",
+          "summary": "BeXide has announced Cat and Paste!, a copy-and-paste hide-and-seek party game for up to 16 &hellip;",
+          "source": "Gematsu",
+          "date": "10-09",
+          "url": "https://www.gematsu.com/2026/10/bexide-announces-copy-and-paste-hide-and-seek-party-game-cat-and-paste-for-pc"
+        },
+        {
+          "title": "Ghost of Tsushima: Legends anime delayed to 2028",
+          "summary": "The anime series based on the Sucker Punch Productions-developed PlayStation game Ghost of Tsushima: Legends, &hellip;",
+          "source": "Gematsu",
+          "date": "10-09",
+          "url": "https://www.gematsu.com/2026/10/ghost-of-tsushima-legends-anime-delayed-to-2028"
+        },
+        {
+          "title": "The Road of Dust and Sorrow launches December 3",
+          "summary": "Cozy survival horror adventure game The Road of Dust and Sorrow will launch for PlayStation &hellip;",
+          "source": "Gematsu",
+          "date": "10-08",
+          "url": "https://www.gematsu.com/2026/10/the-road-of-dust-and-sorrow-launches-december-3"
+        },
+        {
+          "title": "Forza Horizon 6 for PS5 launches January 26, 2027 alongside first expansion",
+          "summary": "Forza Horizon 6 will launch for PlayStation 5 on January 26, 2027 alongside the game&#8217;s &hellip;",
+          "source": "Gematsu",
+          "date": "10-08",
+          "url": "https://www.gematsu.com/2026/10/forza-horizon-6-for-ps5-launches-january-26-2027-alongside-first-expansion"
+        },
+        {
+          "title": "Mafia III: Definitive Edition now available for PS5, Xbox Series",
+          "summary": "Native PlayStation 5 and Xbox Series versions of Mafia III: Definitive Edition are now available, &hellip;",
+          "source": "Gematsu",
+          "date": "10-08",
+          "url": "https://www.gematsu.com/2026/10/mafia-iii-definitive-edition-now-available-for-ps5-xbox-series"
+        }
+      ]
+    }
+  ]
+}
