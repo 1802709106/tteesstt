@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-13",
+  "quote": "「Character.AI files for bankruptcy」等AI 45条、动漫 20条、游戏 33条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Character.AI files for bankruptcy、Meta has some Wonder Full new AI models、Microsoft’s new AI chip makes it less relia…",
+      "items": [
+        {
+          "title": "Character.AI files for bankruptcy",
+          "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for user",
+          "source": "The Verge",
+          "date": "10-13",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+        },
+        {
+          "title": "Meta has some Wonder Full new AI models",
+          "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new model",
+          "source": "The Verge",
+          "date": "10-12",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+        },
+        {
+          "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+          "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost an",
+          "source": "The Verge",
+          "date": "10-12",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+        },
+        {
+          "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+          "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu",
+          "source": "The Verge",
+          "date": "10-11",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+        },
+        {
+          "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly p",
+          "source": "The Verge",
+          "date": "10-11",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+        },
+        {
+          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+          "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t",
+          "source": "The Verge",
+          "date": "10-10",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+        },
+        {
+          "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+          "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t",
+          "source": "The Verge",
+          "date": "10-10",
+          "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+        },
+        {
+          "title": "Anthropic is cutting off its internal evaluations from the internet",
+          "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"",
+          "source": "The Verge",
+          "date": "10-10",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+        },
+        {
+          "title": "AI agent makers are promising privacy — will they deliver?",
+          "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend",
+          "source": "The Verge",
+          "date": "10-10",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+        },
+        {
+          "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the P",
+          "source": "The Verge",
+          "date": "10-09",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "'Hirayasumi' Announces Additional Cast、Voice Actress Manaka Iwami Announces Marriage、Manga 'Nue no Onmyouji' Gets TV …",
+      "items": [
+        {
+          "title": "'Hirayasumi' Announces Additional Cast",
+          "summary": "The official website for the television anime adaptation of Keigo Shinzou&#039;s Hirayasumi manga announced five additional cast members on Tuesday. The anime series will premiere on NHK-G in January ",
+          "source": "MyAnimeList",
+          "date": "10-13",
+          "url": "https://myanimelist.net/news/74817329?_location=rss"
+        },
+        {
+          "title": "Voice Actress Manaka Iwami Announces Marriage",
+          "summary": "Voice actress Manaka Iwami announced her marriage to a man outside of the industry and the birth of her first child on her official radio program on Tuesday. &quot;It&#039;s been a while, everyone. Th",
+          "source": "MyAnimeList",
+          "date": "10-13",
+          "url": "https://myanimelist.net/news/74817108?_location=rss"
+        },
+        {
+          "title": "Manga 'Nue no Onmyouji' Gets TV Anime in Summer 2027",
+          "summary": "The sixth Jump Press livestream event announced a television anime adaptation of Kouta Kawae&#039;s Nue no Onmyouji (Nue&#039;s Exorcist) manga on Monday, revealing the main cast, staff, a teaser visu",
+          "source": "MyAnimeList",
+          "date": "10-12",
+          "url": "https://myanimelist.net/news/74814550?_location=rss"
+        },
+        {
+          "title": "'Kino no Tabi' Creator Duo Begins New Light Novel",
+          "summary": "Publishing company Kadokawa announced on Friday that author Keiichi Sigsawa and illustrator Kouhaku Kuroboshi, the duo behind the Kino no Tabi: The Beautiful World (Kino&#039;s Journey: The Beautiful ",
+          "source": "MyAnimeList",
+          "date": "10-12",
+          "url": "https://myanimelist.net/news/74813800?_location=rss"
+        },
+        {
+          "title": "Idol Group i☆Ris to End Activities in 2027",
+          "summary": "Voice actress idol unit i☆Ris announced on Sunday on their official website that they will end their activities at the end of 2027, coinciding with the group&#039;s 15th anniversary and marking the co",
+          "source": "MyAnimeList",
+          "date": "10-12",
+          "url": "https://myanimelist.net/news/74813653?_location=rss"
+        },
+        {
+          "title": "'Noa-senpai wa Tomodachi' Reveals Main Cast, 2027 Debut",
+          "summary": "The official website for the television anime adaptation of Enma Akiyama&#039;s Noa-senpai wa Tomodachi (Noa Is My Senior, and My Friend) manga revealed the main cast and a key visual (pictured) on Su",
+          "source": "MyAnimeList",
+          "date": "10-11",
+          "url": "https://myanimelist.net/news/74811025?_location=rss"
+        },
+        {
+          "title": "'Shishite Ikiru SSS-kyuu Hunter' Reveals Additional Cast, Ending Theme, Second Promo",
+          "summary": "The official website of the television anime adaptation of Sinnoa and Bill K&#039;s SSS-Class Revival Hunter webtoon revealed additional cast members, ending theme artists, and a second promotional vi",
+          "source": "MyAnimeList",
+          "date": "10-11",
+          "url": "https://myanimelist.net/news/74810180?_location=rss"
+        },
+        {
+          "title": "New 'Naruto' Manga 'Shadow Rising' Announced",
+          "summary": "The Naruto: What&#039;s Next? panel at New York Comic Con 2026 announced on Saturday that Masashi Kishimoto will launch a new Naruto manga titled Naruto: Shadow Rising, revealing a super teaser announ",
+          "source": "MyAnimeList",
+          "date": "10-11",
+          "url": "https://myanimelist.net/news/74809691?_location=rss"
+        },
+        {
+          "title": "'Naruto x Ninkuu' Crossover Anime Announced",
+          "summary": "The &quot;Naruto: What&#039;s Next?&quot; panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto&#039;s Naruto manga and Kouji Kiriyama&#039;s N",
+          "source": "MyAnimeList",
+          "date": "10-10",
+          "url": "https://myanimelist.net/news/74809610?_location=rss"
+        },
+        {
+          "title": "New 'Dr. Stone' Anime Announced",
+          "summary": "The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured ",
+          "source": "MyAnimeList",
+          "date": "10-10",
+          "url": "https://myanimelist.net/news/74808029?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、How to Play Your Favourite Games…",
+      "items": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Added 'No Grenades' style for the General's Greatco",
+          "source": "Steam",
+          "date": "10-12",
+          "url": "https://store.steampowered.com/news/285796/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "How to Play Your Favourite Games at Uni with Top Graphics on Your Laptop",
+          "summary": "",
+          "source": "IGN",
+          "date": "10-13",
+          "url": "https://www.ign.com/sponsored/how-to-play-your-favourite-games-at-uni-with-top-graphics-on-your-laptop"
+        },
+        {
+          "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
+          "summary": "Universal cables perfect for your Switch 2, Steam Deck, or iPhone 18.",
+          "source": "IGN",
+          "date": "10-12",
+          "url": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026"
+        },
+        {
+          "title": "Satisfactory: The Board Game Preview",
+          "summary": "",
+          "source": "IGN",
+          "date": "10-12",
+          "url": "https://www.ign.com/articles/satisfactory-the-board-game-preview"
+        },
+        {
+          "title": "Nintendo Was Reportedly Unhappy With Elon Musk's Saturday Night Live Wario Sketch",
+          "summary": "Nintendo was reportedly unhappy with Elon Musk's 2021 Saturday Night Live sketch where he played Wario.",
+          "source": "IGN",
+          "date": "10-12",
+          "url": "https://www.ign.com/articles/nintendo-was-reportedly-unhappy-with-elon-musks-saturday-night-live-wario-sketch"
+        },
+        {
+          "title": "EXCLUSIVE: For the Stars Images Showcase the Upcoming Space Sandbox Survival Multiplayer Game | IGN Fall Fan Fest 2026",
+          "summary": "As part of IGN Fan Fest 2026: Fall Edition, we are proud to reveal five brand-new screenshots of For the Stars, Snail Games USA's upcoming space sandbox survival game that will have you exploring and ",
+          "source": "IGN",
+          "date": "10-12",
+          "url": "https://www.ign.com/articles/exclusive-for-the-stars-screenshots-showcase-the-upcoming-space-sandbox-survival-multiplayer-game-ign-fall-fan-fest-2026"
+        },
+        {
+          "title": "Save Over $1,000 Off the Cyberpowerpc RTX 5080 Prebuilt Gaming PC With 32GB of RAM and 2TB SSD",
+          "summary": "Play every game comfortably in 4K.",
+          "source": "IGN",
+          "date": "10-12",
+          "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5080-gaming-pc-deal-october-2026"
+        },
+        {
+          "title": "Forza Horizon 6 for PS5 Is Up for Preorder - Here's What Comes in Each Edition",
+          "summary": "Preorders are live for the PS5 version of Forza Horizon 6, and it's even getting a physical edition.",
+          "source": "IGN",
+          "date": "10-12",
+          "url": "https://www.ign.com/articles/forza-horizon-6-ps5-where-to-buy"
+        },
+        {
+          "title": "Epic Reportedly Pushing Devs to Use AI, Delays Secret Star Wars and Marvel Crossover Shooter",
+          "summary": "Epic Games has reportedly delayed its secret Star Wars and Marvel crossover shooter as it pushes its developers to shift to an \"AI first\" production model.",
+          "source": "IGN",
+          "date": "10-12",
+          "url": "https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter"
+        }
+      ]
+    }
+  ]
+}
