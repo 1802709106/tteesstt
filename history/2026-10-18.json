@@ -1,19 +1,26 @@
 {
-  "date": "2026-10-17",
-  "quote": "「Replit is no longer working with Anthropic, CEO sa」等AI 35条、动漫 20条、游戏 34条——每日精选资讯速览。",
+  "date": "2026-10-18",
+  "quote": "「Meta removes language that raised scraping and AI 」等AI 36条、动漫 20条、游戏 35条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Replit is no longer working with Anthropic, CEO says、India becomes the latest country to report rogue AI agent activi…",
+      "summary": "Meta removes language that raised scraping and AI training concerns、Replit makes OpenAI its default over Anthropic, C…",
       "items": [
         {
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
           "source": "TechCrunch",
-          "date": "10-16",
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          "date": "10-17",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "source": "TechCrunch",
+          "date": "10-17",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
         },
         {
           "title": "India becomes the latest country to report rogue AI agent activity",
@@ -70,13 +77,6 @@
           "source": "TechCrunch",
           "date": "10-15",
           "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
-        },
-        {
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-          "source": "TechCrunch",
-          "date": "10-15",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
         }
       ]
     },
@@ -84,77 +84,77 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "Anime Questions, Recommendations, and Discussion - October 16, 2026、The 2026 r/anime Awards Announcement and Jury App…",
+      "summary": "Manga 'Shiawase Kanako no Koroshiya Seikatsu' Gets TV Anime in Spring 2027、'Kizuguchi to Houtai' Reveals Main Cast, T…",
       "items": [
         {
-          "title": "Anime Questions, Recommendations, and Discussion - October 16, 2026",
-          "summary": "This is a daily megathread for general chatter about anime. Have questions or need recommendations? Here to show off your merch? Want to talk about what you just watched? This is the place! All spoile",
-          "source": "Reddit动漫",
+          "title": "Manga 'Shiawase Kanako no Koroshiya Seikatsu' Gets TV Anime in Spring 2027",
+          "summary": "Production company TOHO animation opened an official website for a television anime adaptation of Toshiya Wakabayashi&#039;s Shiawase Kanako no Koroshiya Seikatsu (Happy Kanako&#039;s Killer Life) man",
+          "source": "MyAnimeList",
           "date": "10-16",
-          "url": "https://www.reddit.com/r/anime/comments/1x7c6bx/anime_questions_recommendations_and_discussion/"
+          "url": "https://myanimelist.net/news/74827326?_location=rss"
         },
         {
-          "title": "The 2026 r/anime Awards Announcement and Jury Application",
-          "summary": "LINK TO THE JUROR APPLICATION APPLICATIONS CLOSE OCTOBER 18th 23:59 PDT! Hello everyone~  Welcome back to the 11th annual r/anime Awards! It's once again time to watch a bunch of seasonals and argue a",
-          "source": "Reddit动漫",
-          "date": "10-03",
-          "url": "https://www.reddit.com/r/anime/comments/1wwu5xg/the_2026_ranime_awards_announcement_and_jury/"
-        },
-        {
-          "title": "The Apothecary Diaries Season 3 • Kusuriya no Hitorigoto Season 3 - Episode 3 discussion",
-          "summary": "Kusuriya no Hitorigoto Season 3, episode 3 Alternative names: Kusuriya no Hitorigoto 3rd Season Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the r",
-          "source": "Reddit动漫",
+          "title": "'Kizuguchi to Houtai' Reveals Main Cast, Teaser Promo",
+          "summary": "The official website for the television anime adaptation of Nanai Umihoshi&#039;s Kizuguchi to Houtai (Wound and Bandage) manga revealed the main cast, a theme visual (pictured), and teaser promotiona",
+          "source": "MyAnimeList",
           "date": "10-16",
-          "url": "https://www.reddit.com/r/anime/comments/1x7ikgb/the_apothecary_diaries_season_3_kusuriya_no/"
+          "url": "https://myanimelist.net/news/74826432?_location=rss"
         },
         {
-          "title": "Sentenced to be a hero",
-          "summary": "This one got a lot of buzz after coming out and it definitely lives up to it. The twist on being a prisoner/hero is great. The action and gore is in point. The MC is amazing. He does have that innocen",
-          "source": "Reddit动漫",
-          "date": "10-17",
-          "url": "https://www.reddit.com/r/anime/comments/1x7xryx/sentenced_to_be_a_hero/"
+          "title": "'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru 2nd Season' Reveals Additional Cast, New Staff, First Promo for Winter 2027",
+          "summary": "The official website for the television anime adaptation of Miku&#039;s Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (I Got a Cheat Skill i",
+          "source": "MyAnimeList",
+          "date": "10-15",
+          "url": "https://myanimelist.net/news/74823641?_location=rss"
         },
         {
-          "title": "Happy Kanako's Killer Life | Anime Announced (Teaser Visual)",
-          "summary": "&#32; submitted by &#32;  /u/zenzen_0   [link] &#32; [comments]",
-          "source": "Reddit动漫",
-          "date": "10-16",
-          "url": "https://www.reddit.com/r/anime/comments/1x7iiqj/happy_kanakos_killer_life_anime_announced_teaser/"
+          "title": "'Matsurika Kanriden' Announces Additional Cast Pair",
+          "summary": "The official website for the television anime adaptation of Rinne Ishida&#039;s Matsurika Kanriden (The Legend of Bureaucrat Matsurika) light novel announced an additional pair of cast on Thursday. Th",
+          "source": "MyAnimeList",
+          "date": "10-15",
+          "url": "https://myanimelist.net/news/74823576?_location=rss"
         },
         {
-          "title": "A Certain Dark Item • Toaru Anbu no ITEM - Episode 2 discussion",
-          "summary": "Toaru Anbu no ITEM, episode 2 Alternative names: A Certain Dark Item Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.  ",
-          "source": "Reddit动漫",
-          "date": "10-16",
-          "url": "https://www.reddit.com/r/anime/comments/1x7jdhx/a_certain_dark_item_toaru_anbu_no_item_episode_2/"
+          "title": "'Boukensha License wo Hakudatsu sareta Ossan dakedo' Reveals Main Cast, Staff, Teaser Promo for Winter 2027",
+          "summary": "The official website for the television anime adaptation of Manimani Ononata&#039;s Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru (I Lost My",
+          "source": "MyAnimeList",
+          "date": "10-15",
+          "url": "https://myanimelist.net/news/74823153?_location=rss"
         },
         {
-          "title": "Top 10 Anime of the Week #2 - Fall 2026 (Anime Corner)",
-          "summary": "&#32; submitted by &#32;  /u/animecorner   [link] &#32; [comments]",
-          "source": "Reddit动漫",
-          "date": "10-16",
-          "url": "https://www.reddit.com/r/anime/comments/1x7exgq/top_10_anime_of_the_week_2_fall_2026_anime_corner/"
+          "title": "Voice Actors Kouji Yusa and Miyari Nemoto Announce Marriage",
+          "summary": "Voice actors Kouji Yusa and Miyari Nemoto revealed their marriage through personal statements posted on social media on Thursday. Nemoto shared the news on her X account, writing, &quot;It is with gre",
+          "source": "MyAnimeList",
+          "date": "10-15",
+          "url": "https://myanimelist.net/news/74823040?_location=rss"
         },
         {
-          "title": "Rascal Does Not Dream of a Dear Friend | Final Film | All 11 Countdown Illustrations",
-          "summary": "&#32; submitted by &#32;  /u/LegitimateCurve8525   [link] &#32; [comments]",
-          "source": "Reddit动漫",
-          "date": "10-16",
-          "url": "https://www.reddit.com/r/anime/comments/1x7d0jl/rascal_does_not_dream_of_a_dear_friend_final_film/"
+          "title": "Manga 'Kimi to Koete Koi ni Naru' Ends Serialization",
+          "summary": "Chihiro Yuzuki&#039;s Kimi to Koete Koi ni Naru (With You, Our Love Will Make It Through) manga ended its serialization on Wednesday. The 133th and final chapter marked the end of its five-year run. Y",
+          "source": "MyAnimeList",
+          "date": "10-14",
+          "url": "https://myanimelist.net/news/74820139?_location=rss"
         },
         {
-          "title": "Firefly Wedding • Hotaru no Yomeiri - Episode 2 discussion",
-          "summary": "Hotaru no Yomeiri, episode 2 Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.  Streams  Crunchyroll  Show information  ",
-          "source": "Reddit动漫",
-          "date": "10-16",
-          "url": "https://www.reddit.com/r/anime/comments/1x7ikfn/firefly_wedding_hotaru_no_yomeiri_episode_2/"
+          "title": "Manga 'Yumene Connect' Gets TV Anime",
+          "summary": "Production company Shochiku opened an official website for a television anime adaptation of Kou Sawada&#039;s Yumene Connect manga on Wednesday, revealing the main cast, staff, a teaser visual (pictur",
+          "source": "MyAnimeList",
+          "date": "10-14",
+          "url": "https://myanimelist.net/news/74820023?_location=rss"
         },
         {
-          "title": "\"Full Clearing Another World under a Goddess with Zero Believers\" — 2nd PV",
-          "summary": "&#32; submitted by &#32;  /u/Task_Force-191   [link] &#32; [comments]",
-          "source": "Reddit动漫",
-          "date": "10-17",
-          "url": "https://www.reddit.com/r/anime/comments/1x7zjg5/full_clearing_another_world_under_a_goddess_with/"
+          "title": "'The Fable 2nd Season' Announces Additional Cast",
+          "summary": "The official website for the The Fable television anime revealed additional cast and the main visual (pictured) for its second season on Wednesday. The new season will adapt the Yamaoka-hen (Yamaoka A",
+          "source": "MyAnimeList",
+          "date": "10-13",
+          "url": "https://myanimelist.net/news/74818100?_location=rss"
+        },
+        {
+          "title": "'Kusuriya no Hitorigoto' Movie Reveals Additional Cast, Character Trailers [Update 10/14]",
+          "summary": "The official website for the Kusuriya no Hitorigoto anime series revealed the additional cast and two character trailers for the anime movie on Tuesday. The movie, subtitled Bouhi no Hihou (The Secret",
+          "source": "MyAnimeList",
+          "date": "10-13",
+          "url": "https://myanimelist.net/news/74817857?_location=rss"
         }
       ]
     },
