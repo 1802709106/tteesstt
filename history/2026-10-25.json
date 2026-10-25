@@ -1,13 +1,27 @@
 {
-  "date": "2026-10-24",
-  "quote": "「OpenAI now trains its frontier AI models with no i」等AI 32条、动漫 20条、游戏 30条——每日精选资讯速览。",
+  "date": "2026-10-25",
+  "quote": "「Blue Planet III is keeping the rough edges in the 」等AI 33条、动漫 20条、游戏 28条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "OpenAI now trains its frontier AI models with no internet access、Jack Dorsey’s Block made an AI model that talks to y…",
+      "summary": "Blue Planet III is keeping the rough edges in the age of AI、Pennsylvania will require labels on AI-generated ads、Open…",
       "items": [
+        {
+          "title": "Blue Planet III is keeping the rough edges in the age of AI",
+          "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
+          "source": "The Verge",
+          "date": "10-24",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+        },
+        {
+          "title": "Pennsylvania will require labels on AI-generated ads",
+          "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's",
+          "source": "The Verge",
+          "date": "10-24",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+        },
         {
           "title": "OpenAI now trains its frontier AI models with no internet access",
           "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment ",
@@ -58,25 +72,11 @@
           "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
         },
         {
-          "title": "Meta turns Muse sharing back on",
-          "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketi",
-          "source": "The Verge",
-          "date": "10-22",
-          "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
-        },
-        {
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
           "source": "TechCrunch",
-          "date": "10-23",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-        },
-        {
-          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-          "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d",
-          "source": "TechCrunch",
-          "date": "10-23",
-          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+          "date": "10-24",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
         }
       ]
     },
@@ -162,22 +162,8 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、Call Of Duty: Modern Warfare 4’s…",
+      "summary": "Call Of Duty: Modern Warfare 4’s First DLC Is Out Now,  Honors A Real Soldier Who Sustained Gruesome Injuries、Shepard…",
       "items": [
-        {
-          "title": "Team Fortress 2 Update Released",
-          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Added 'No Grenades' style for the General's Greatco",
-          "source": "Steam",
-          "date": "10-12",
-          "url": "https://store.steampowered.com/news/285796/"
-        },
-        {
-          "title": "Now Available on Steam - Angels Fall First, 10% off!",
-          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
-          "source": "Steam",
-          "date": "07-11",
-          "url": "https://store.steampowered.com/news/275791/"
-        },
         {
           "title": "Call Of Duty: Modern Warfare 4’s First DLC Is Out Now,  Honors A Real Soldier Who Sustained Gruesome Injuries",
           "summary": "Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of Duty Endowment (CODE) pa",
@@ -233,6 +219,20 @@
           "source": "GameSpot",
           "date": "10-23",
           "url": "https://www.gamespot.com/articles/gta-6-burgers-will-be-available-in-florida-throughout-the-year/"
+        },
+        {
+          "title": "Xbox Wanted A Gargantuan Paycheck To Partner With Netflix On TV And Movies",
+          "summary": "Video game adaptations are all the rage right now, with movie and TV projects in various stages of development, and Netflix is looking to strike while the proverbial IP iron is hot. The streaming gian",
+          "source": "GameSpot",
+          "date": "10-23",
+          "url": "https://www.gamespot.com/articles/xbox-wanted-a-gargantuan-paycheck-to-partner-with-netflix-on-tv-and-movies/"
+        },
+        {
+          "title": "Cancelling Mass Effect And Closing BioWare Was An Obvious Thing For EA To Do, Experts Say",
+          "summary": "Electronic Arts just confirmed a major shakeup that included the closure of BioWare and cancellation of its upcoming Mass Effect game. Closing the studio and cancelling the project was a horrible thin",
+          "source": "GameSpot",
+          "date": "10-23",
+          "url": "https://www.gamespot.com/articles/cancelling-mass-effect-and-closing-bioware-was-an-obvious-thing-for-ea-to-do-experts-say/"
         }
       ]
     }
