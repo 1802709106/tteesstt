@@ -1,75 +1,33 @@
 {
-  "date": "2026-10-25",
-  "quote": "「Blue Planet III is keeping the rough edges in the 」等AI 33条、动漫 20条、游戏 28条——每日精选资讯速览。",
+  "date": "2026-10-26",
+  "quote": "「Grok releases the first seven minutes of its AI-ge」等AI 45条、动漫 20条、游戏 32条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Blue Planet III is keeping the rough edges in the age of AI、Pennsylvania will require labels on AI-generated ads、Open…",
+      "summary": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’、AI delivers ‘zero financial payoff’ to most compa…",
       "items": [
         {
-          "title": "Blue Planet III is keeping the rough edges in the age of AI",
-          "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
-          "source": "The Verge",
-          "date": "10-24",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "source": "TechCrunch",
+          "date": "10-25",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
         },
         {
-          "title": "Pennsylvania will require labels on AI-generated ads",
-          "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's",
-          "source": "The Verge",
-          "date": "10-24",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+          "source": "TechCrunch",
+          "date": "10-25",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
         },
         {
-          "title": "OpenAI now trains its frontier AI models with no internet access",
-          "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment ",
-          "source": "The Verge",
-          "date": "10-23",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
-        },
-        {
-          "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-          "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can oc",
-          "source": "The Verge",
-          "date": "10-23",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
-        },
-        {
-          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-          "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Aut",
-          "source": "The Verge",
-          "date": "10-23",
-          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
-        },
-        {
-          "title": "Meta delays new business terms after publisher pushback on AI scraping",
-          "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
-          "source": "The Verge",
-          "date": "10-23",
-          "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-        },
-        {
-          "title": "Retro gaming is being overrun with AI",
-          "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont",
-          "source": "The Verge",
-          "date": "10-23",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
-        },
-        {
-          "title": "Canva’s first AI image model plans designs before generating them",
-          "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a",
-          "source": "The Verge",
-          "date": "10-22",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
-        },
-        {
-          "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-          "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address ",
-          "source": "The Verge",
-          "date": "10-22",
-          "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+          "title": "The hottest AI wearables and gadgets you should know about",
+          "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+          "source": "TechCrunch",
+          "date": "10-25",
+          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
         },
         {
           "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -77,6 +35,48 @@
           "source": "TechCrunch",
           "date": "10-24",
           "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+        },
+        {
+          "title": "Block’s new voice model sounds eerily human",
+          "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+          "source": "TechCrunch",
+          "date": "10-24",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+        },
+        {
+          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+          "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+          "source": "TechCrunch",
+          "date": "10-24",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "date": "10-24",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
+        {
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+          "source": "TechCrunch",
+          "date": "10-23",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+        },
+        {
+          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+          "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d",
+          "source": "TechCrunch",
+          "date": "10-23",
+          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+        },
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+          "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+          "source": "TechCrunch",
+          "date": "10-23",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
         }
       ]
     },
@@ -84,8 +84,36 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "New 'Ghost in the Shell' Anime Project in Production、'Made in Abyss: Mezameru Shinpi' Movie Second Part Announced、Man…",
+      "summary": "'Houseki no Kuni' Creator Launches New Manga、'Ousama no Propose' Reveals Lead Cast, 2027 Debut、'Kimi to Boku no Saigo…",
       "items": [
+        {
+          "title": "'Houseki no Kuni' Creator Launches New Manga",
+          "summary": "The December 2026 issue of Monthly Afternoon magazine announced on Friday that manga creator Haruko Ichikawa will launch a new sci-fi manga, titled Cosmic Mimimi, in the magazine next issue, scheduled",
+          "source": "MyAnimeList",
+          "date": "10-25",
+          "url": "https://myanimelist.net/news/74862294?_location=rss"
+        },
+        {
+          "title": "'Ousama no Propose' Reveals Lead Cast, 2027 Debut",
+          "summary": "The Fantasia Bunko Daikanshasai 2026 event revealed the lead cast and a teaser visual (pictured) for the television anime adaptation of Koushi Tachibana&#039;s Ousama no Propose (King&rsquo;s Proposal",
+          "source": "MyAnimeList",
+          "date": "10-25",
+          "url": "https://myanimelist.net/news/74861034?_location=rss"
+        },
+        {
+          "title": "'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen' Season 3 in Production",
+          "summary": "The Fantasia Bunko Daikanshasai 2026 event announced a third season for the Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Our Last Crusade or the Rise of a New World) anime series ",
+          "source": "MyAnimeList",
+          "date": "10-25",
+          "url": "https://myanimelist.net/news/74860120?_location=rss"
+        },
+        {
+          "title": "'Akane-banashi 2nd Season' Reveals Additional Cast, Teaser Promo",
+          "summary": "The special livestream presentation for the television anime adaptation of Yuuki Suenaga and Takamasa Moue&#039;s Akane-banashi manga revealed a pair of additional cast, key visual (pictured), and tea",
+          "source": "MyAnimeList",
+          "date": "10-25",
+          "url": "https://myanimelist.net/news/74860669?_location=rss"
+        },
         {
           "title": "New 'Ghost in the Shell' Anime Project in Production",
           "summary": "The Dover Street Market Ginza Open House public event announced on Friday that a new Koukaku Kidoutai (The Ghost in the Shell) anime project is in production, revealing an announcement visual (picture",
@@ -127,34 +155,6 @@
           "source": "MyAnimeList",
           "date": "10-21",
           "url": "https://myanimelist.net/news/74842607?_location=rss"
-        },
-        {
-          "title": "'Murciélago' Reveals Main Cast, Additional Staff, Second Teaser, Winter 2027 Debut",
-          "summary": "The official website for the television anime adaptation of Kana Yoshimura&#039;s Murci&eacute;lago manga revealed main cast, additional staff, a teaser visual, and a second teaser promo on Wednesday.",
-          "source": "MyAnimeList",
-          "date": "10-20",
-          "url": "https://myanimelist.net/news/74841491?_location=rss"
-        },
-        {
-          "title": "'Shingeki no Kyojin' Voice Actor Hiroshi Tsuchida Dies at 54",
-          "summary": "Voice actor Hiroshi Tsuchida, best known for Grisha Yeager in Shingeki no Kyojin (Attack on Titan) and Daikichi Kawachi in Usagi Drop (Bunny Drop), died on October 11 of heart failure. He was 54. His ",
-          "source": "MyAnimeList",
-          "date": "10-20",
-          "url": "https://myanimelist.net/news/74840663?_location=rss"
-        },
-        {
-          "title": "Light Novel 'Maou 2099' Concludes with 6th Volume",
-          "summary": "The official X (formerly Twitter) account of Kadokawa&#039;s Fantasia Bunko label announced on Tuesday that Daigo Murasaki&#039;s Maou 2099 (Demon Lord 2099) light novel will end with its sixth volume",
-          "source": "MyAnimeList",
-          "date": "10-20",
-          "url": "https://myanimelist.net/news/74840116?_location=rss"
-        },
-        {
-          "title": "Visual Novel Creator Jun Maeda Diagnosed with Pharyngeal Cancer",
-          "summary": "Jun Maeda, the acclaimed writer and composer known for visual novels such as Kanon, Air, Clannad, and Little Busters!, has been diagnosed with pharyngeal cancer. Visual Arts/Key announced the news on ",
-          "source": "MyAnimeList",
-          "date": "10-20",
-          "url": "https://myanimelist.net/news/74839395?_location=rss"
         }
       ]
     },
