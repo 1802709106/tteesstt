@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-31",
+  "quote": "「Apple Intelligence is finally coming to China with」等AI 45条、动漫 20条、游戏 33条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Apple Intelligence is finally coming to China with iOS 27.3、Sam Altman says it’s better for RAM to be in a data cente…",
+      "items": [
+        {
+          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+        },
+        {
+          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+          "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+        },
+        {
+          "title": "The biggest names in AI are backing a new way to opt out of scraping",
+          "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+        },
+        {
+          "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+          "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+        },
+        {
+          "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+          "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+        },
+        {
+          "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+          "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+        },
+        {
+          "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+          "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+        },
+        {
+          "title": "Maine’s data center revolt will decide who controls the Senate",
+          "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data ",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+        },
+        {
+          "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+          "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not",
+          "source": "The Verge",
+          "date": "10-30",
+          "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+        },
+        {
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "source": "TechCrunch",
+          "date": "10-31",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "Supporting Cast for 'Kaze wo Tsugumono' Announced、Sumitomo Mitsui Trust Bank, Comisma Plan 10 Billion Yen Anime Produ…",
+      "items": [
+        {
+          "title": "Supporting Cast for 'Kaze wo Tsugumono' Announced",
+          "summary": "The official website for the Kaze wo Tsugumono (Inherit the Winds) original television anime announced supporting cast on Saturday. An advance theatrical screening will run for two weeks starting Nove",
+          "source": "MyAnimeList",
+          "date": "10-31",
+          "url": "https://myanimelist.net/news/74888954?_location=rss"
+        },
+        {
+          "title": "Sumitomo Mitsui Trust Bank, Comisma Plan 10 Billion Yen Anime Production Fund",
+          "summary": "Sumitomo Mitsui Trust Bank and IP platform company Comisma have agreed in principle to establish an investment fund focused on anime production, targeting 10 billion yen (approximately US$63.4 million",
+          "source": "MyAnimeList",
+          "date": "10-31",
+          "url": "https://myanimelist.net/news/74888629?_location=rss"
+        },
+        {
+          "title": "Manga 'Hiiragi-san Chi no Kyuuketsu Jijou' Gets TV Anime",
+          "summary": "TMS Entertainment opened an official website for a television anime adaptation of Miki Yoshikawa&#039;s Hiiragi-san Chi no Kyuuketsu Jijou (Hiragi-san&#039;s House of Vampires) manga on Saturday, reve",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74885918?_location=rss"
+        },
+        {
+          "title": "'Pole Princess!!' Gets Theatrical Anime in January 2027",
+          "summary": "The official website of the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!!: Croix du Nord on Friday, revealing the returning cast and staff. The anime will run fo",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74885701?_location=rss"
+        },
+        {
+          "title": "Light Novel 'Mushoku Tensei: Dasoku-hen' Concludes with Fourth Volume",
+          "summary": "The official X account for Kadokawa&#039;s MF Books label announced on Friday that Rifujin na Magonote&#039;s Mushoku Tensei: Dasoku-hen (Mushoku Tensei: Redundant Reincarnation) light novel will end ",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74885300?_location=rss"
+        },
+        {
+          "title": "'Kaketa Tsuki no Mercedes' Reveals Additional Cast, Second Promo",
+          "summary": "The official website for the television anime adaptation of Firehead&#039;s Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and ",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74885002?_location=rss"
+        },
+        {
+          "title": "'Destiny Unchain Online' Reveals Main Cast, Staff, Teaser Promo, 2027 Debut",
+          "summary": "An official website opened for the Destiny Unchain Online television anime on Friday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series adaptin",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74884436?_location=rss"
+        },
+        {
+          "title": "'Kizuguchi to Houtai' Unveils Additional Cast, Third Teaser Promo",
+          "summary": "The official website of the Kizuguchi to Houtai (Wound and Bandage) television anime unveiled additional cast, third teaser visual (pictured), and third promotional video on Friday. The anime series a",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74884610?_location=rss"
+        },
+        {
+          "title": "'Death Stranding: Isolations' Reveals Additional Staff, Teaser Promo",
+          "summary": "The official X of Kojima Productions revealed additional staff, teaser visual (pictured), and a teaser promotional video for the Death Stranding: Isolations anime series on Friday. The anime is schedu",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74883978?_location=rss"
+        },
+        {
+          "title": "'Shin Oishinbo' Reveals Additional Cast, Theme Songs",
+          "summary": "The official website for the television anime adaptation of Tetsu Kariya&#039;s Oishinbo manga, titled Shin Oishinbo, revealed additional cast and theme songs on Thursday. The anime is scheduled to pr",
+          "source": "MyAnimeList",
+          "date": "10-29",
+          "url": "https://myanimelist.net/news/74880493?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、Arkade is a PC Peripheral That T…",
+      "items": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Added 'No Grenades' style for the General's Greatco",
+          "source": "Steam",
+          "date": "10-12",
+          "url": "https://store.steampowered.com/news/285796/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
+          "summary": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
+          "source": "IGN",
+          "date": "10-31",
+          "url": "https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game"
+        },
+        {
+          "title": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
+          "summary": "The MMORPG's next expansion was set to launch shortly after the new year, but Warriors of Light will have to wait a bit longer.",
+          "source": "IGN",
+          "date": "10-31",
+          "url": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest"
+        },
+        {
+          "title": "Monster Hunter Outlanders Review So Far",
+          "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.",
+          "source": "IGN",
+          "date": "10-31",
+          "url": "https://www.ign.com/articles/monster-hunter-outlanders-review"
+        },
+        {
+          "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
+          "summary": "Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval op",
+          "source": "IGN",
+          "date": "10-31",
+          "url": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place"
+        },
+        {
+          "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+          "summary": "Bethesda and Xbox development studio id Software, maker of the Doom franchise, has deepened its partnership with fellow Bethesda and Xbox studio MachineGames, makers of the most recent Wolfenstein gam",
+          "source": "IGN",
+          "date": "10-31",
+          "url": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs"
+        },
+        {
+          "title": "Save 20% (or More) Off Minecraft Dungeons 2 for Nintendo Switch 2 Ahead of Black Friday",
+          "summary": "A perfect new release game to gift to kids this holiday season.",
+          "source": "IGN",
+          "date": "10-30",
+          "url": "https://www.ign.com/articles/minecraft-dungeons-2-deal-october-2026"
+        },
+        {
+          "title": "Crimson Desert: Charting the Unknown Review So Far",
+          "summary": "After six hours with this beefy DLC, it seems to add even more to Crimson Desert’s buffet-style approach while doing little to improve existing systems.",
+          "source": "IGN",
+          "date": "10-30",
+          "url": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-review"
+        },
+        {
+          "title": "EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players",
+          "summary": "It's been another rough year for video games, with countless studio closures, staff layoffs, and projects that barely managed to even get off the ground before they were unceremoniously cut short. But",
+          "source": "GameSpot",
+          "date": "10-30",
+          "url": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/"
+        }
+      ]
+    }
+  ]
+}
