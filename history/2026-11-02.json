@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-02",
+  "quote": "「OpenAI might rebrand its data centers as ‘AI compu」等AI 36条、动漫 20条、游戏 31条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "OpenAI might rebrand its data centers as ‘AI compute campuses’、AI can make tech CEOs’ lives easier. What about everyo…",
+      "items": [
+        {
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+          "source": "TechCrunch",
+          "date": "11-01",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+        },
+        {
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+          "source": "TechCrunch",
+          "date": "11-01",
+          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+        },
+        {
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "source": "TechCrunch",
+          "date": "10-31",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        },
+        {
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "source": "TechCrunch",
+          "date": "10-31",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+        },
+        {
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+          "source": "TechCrunch",
+          "date": "10-31",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+        },
+        {
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "source": "TechCrunch",
+          "date": "10-31",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+        },
+        {
+          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+          "source": "TechCrunch",
+          "date": "10-30",
+          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+        },
+        {
+          "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+          "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+          "source": "TechCrunch",
+          "date": "10-30",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+        },
+        {
+          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
+          "source": "TechCrunch",
+          "date": "10-30",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+        },
+        {
+          "title": "Last-minute Halloween costumes for tech nerds",
+          "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+          "source": "TechCrunch",
+          "date": "10-30",
+          "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "North American Anime & Manga Releases for November、'Claymore' Creator Norihiro Yagi Begins New Manga、'Charisma' Unvei…",
+      "items": [
+        {
+          "title": "North American Anime & Manga Releases for November",
+          "summary": "Here are the North American anime, manga, and light novel releases for November. Week 1: November 3 - 9 Anime Releases Kobayashi-san Chi no Maid Dragon (incl. Valentine, Soshite Onsen! - Amari Kitai S",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74894552?_location=rss"
+        },
+        {
+          "title": "'Claymore' Creator Norihiro Yagi Begins New Manga",
+          "summary": "Norihiro Yagi, the creator of Claymore, began serializing a new manga titled Bartlet Fairy Basslet on the Shounen Jump+ platform on Monday. Yagi serialized Claymore in Monthly Shounen Jump from June 2",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74894409?_location=rss"
+        },
+        {
+          "title": "'Charisma' Unveils Additional Cast, Teaser Promo",
+          "summary": "The official website for the television anime adaptation of the Charisma House mixed-media project unveiled a pair of additional cast and teaser promotional video on Sunday. The anime series will prem",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74894062?_location=rss"
+        },
+        {
+          "title": "'Bocchi the Rock!' Gets Prequel Anime Movie in 2027",
+          "summary": "The official website of the Bocchi the Rock! anime series announced a new prequel anime movie subtitled Hoshi no Ashiato, revealing the main cast, staff, a teaser visual (pictured), and an announcemen",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74893965?_location=rss"
+        },
+        {
+          "title": "'Rock wa Lady no Tashinami deshite' Creator Launches New Manga",
+          "summary": "The official X (formerly Twitter) account of Comic Heaven announced on Friday that manga creator Hiroshi Fukuda will launch a new manga, titled Koko wa Kagari no Territory (Here is Kagari&#039;s terri",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74893568?_location=rss"
+        },
+        {
+          "title": "Manga 'Shibatsuki Bukken' Gets TV Anime Adaptation in Summer 2027",
+          "summary": "Publishing company Shueisha announced a television anime adaptation of Esu Omori&#039;s Shibatsuki Bukken (Shiba Inu Rooms) on Sunday. An official website also opened and revealed the main staff, cast",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74892534?_location=rss"
+        },
+        {
+          "title": "Supporting Cast for 'Kaze wo Tsugumono' Announced",
+          "summary": "The official website for the Kaze wo Tsugumono (Inherit the Winds) original television anime announced supporting cast on Saturday. An advance theatrical screening will run for two weeks starting Nove",
+          "source": "MyAnimeList",
+          "date": "10-31",
+          "url": "https://myanimelist.net/news/74888954?_location=rss"
+        },
+        {
+          "title": "Sumitomo Mitsui Trust Bank, Comisma Plan 10 Billion Yen Anime Production Fund",
+          "summary": "Sumitomo Mitsui Trust Bank and IP platform company Comisma have agreed in principle to establish an investment fund focused on anime production, targeting 10 billion yen (approximately US$63.4 million",
+          "source": "MyAnimeList",
+          "date": "10-31",
+          "url": "https://myanimelist.net/news/74888629?_location=rss"
+        },
+        {
+          "title": "Manga 'Hiiragi-san Chi no Kyuuketsu Jijou' Gets TV Anime",
+          "summary": "TMS Entertainment opened an official website for a television anime adaptation of Miki Yoshikawa&#039;s Hiiragi-san Chi no Kyuuketsu Jijou (Hiragi-san&#039;s House of Vampires) manga on Saturday, reve",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74885918?_location=rss"
+        },
+        {
+          "title": "'Pole Princess!!' Gets Theatrical Anime in January 2027",
+          "summary": "The official website of the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!!: Croix du Nord on Friday, revealing the returning cast and staff. The anime will run fo",
+          "source": "MyAnimeList",
+          "date": "10-30",
+          "url": "https://myanimelist.net/news/74885701?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Nagoshi Studio shuts down、Phantom Blade Zero sales top four million in 72 hours、This Week’s Japanese Game Releases: T…",
+      "items": [
+        {
+          "title": "Nagoshi Studio shuts down",
+          "summary": "Nagoshi Studio, the Shinjuku, Tokyo-based founded by Yakuza series creator Toshiro Nagoshi under NetEase Games &hellip;",
+          "source": "Gematsu",
+          "date": "11-02",
+          "url": "https://www.gematsu.com/2026/11/nagoshi-studio-shuts-down"
+        },
+        {
+          "title": "Phantom Blade Zero sales top four million in 72 hours",
+          "summary": "Total sales for Wuxia action RPG Phantom Blade Zero have surpassed four million units in &hellip;",
+          "source": "Gematsu",
+          "date": "11-02",
+          "url": "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours"
+        },
+        {
+          "title": "This Week’s Japanese Game Releases: The Legend of Zelda: Ocarina of Time, CRYMELIGHT, more",
+          "summary": "The remake of The Legend of Zelda: Ocarina of Time for Switch 2, and CRYMELIGHT &hellip;",
+          "source": "Gematsu",
+          "date": "11-01",
+          "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-the-legend-of-zelda-ocarina-of-time-crymelight-more"
+        },
+        {
+          "title": "Petit Planet coming to Switch 2 in 2027",
+          "summary": "miHoYo will release a Switch 2 version of free-to-play cosmic life simulation game Petit Planet &hellip;",
+          "source": "Gematsu",
+          "date": "11-01",
+          "url": "https://www.gematsu.com/2026/11/petit-planet-coming-to-switch-2-in-2027"
+        },
+        {
+          "title": "Silver Palace launches December 14",
+          "summary": "Free-to-play open-world action adventure RPG Silver Palace will launch for PlayStation 5, PC via client &hellip;",
+          "source": "Gematsu",
+          "date": "10-31",
+          "url": "https://www.gematsu.com/2026/10/silver-palace-launches-december-14"
+        },
+        {
+          "title": "WORLD OF HORROR ‘AS BELOW SO ABOVE’ update now available for PC, launches in 2027 for PS4 and Switch",
+          "summary": "Publisher Ysbryd Games and developer Panstasz have released a major free update for Cosmic horror &hellip;",
+          "source": "Gematsu",
+          "date": "10-30",
+          "url": "https://www.gematsu.com/2026/10/world-of-horror-as-below-so-above-update-now-available-for-pc-launches-in-2027-for-ps4-and-switch"
+        },
+        {
+          "title": "Seeker Eye adds Switch 2 version, launches February 25, 2027 in Japan",
+          "summary": "&#8220;Non-science&#8221; occult suspense visual novel Seeker Eye will launch for PlayStation 5, Switch 2, and &hellip;",
+          "source": "Gematsu",
+          "date": "10-30",
+          "url": "https://www.gematsu.com/2026/10/seeker-eye-adds-switch-2-version-launches-february-25-2027-in-japan"
+        },
+        {
+          "title": "Petit Planet launches December 4",
+          "summary": "Cosmic life simulation game Petit Planet will launch for PC via Epic Games Store and &hellip;",
+          "source": "Gematsu",
+          "date": "10-30",
+          "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4"
+        },
+        {
+          "title": "Resonance of Fate Enhanced Remaster now available for PS5, PC",
+          "summary": "tri-Ace has announced &#8220;gunplay symphony RPG&#8221; Resonance of Fate Enhanced Remaster for PlayStation 5 and &hellip;",
+          "source": "Gematsu",
+          "date": "10-30",
+          "url": "https://www.gematsu.com/2026/10/resonance-of-fate-enhanced-remaster-now-available-for-ps5-pc"
+        },
+        {
+          "title": "Leaf Blower Co. for PS5, Xbox Series launches November 13",
+          "summary": "Leaf blowing simulation game Leaf Blower Co. will launch for PlayStation 5 and Xbox Series &hellip;",
+          "source": "Gematsu",
+          "date": "10-29",
+          "url": "https://www.gematsu.com/2026/10/leaf-blower-co-for-ps5-xbox-series-launches-november-13"
+        }
+      ]
+    }
+  ]
+}
