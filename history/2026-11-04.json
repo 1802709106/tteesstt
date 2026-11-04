@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-04",
+  "quote": "「Anthropic is working on a system to prove AI model」等AI 37条、动漫 20条、游戏 37条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Anthropic is working on a system to prove AI models’ identity、Data centers are turning to old jet engines as the wait…",
+      "items": [
+        {
+          "title": "Anthropic is working on a system to prove AI models’ identity",
+          "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+        },
+        {
+          "title": "Data centers are turning to old jet engines as the wait for power grows",
+          "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+        },
+        {
+          "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+        },
+        {
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+        },
+        {
+          "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+          "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+        },
+        {
+          "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+          "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+        },
+        {
+          "title": "Apple restricts dating apps and AI companions to users 18 and up",
+          "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+        },
+        {
+          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+          "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+        },
+        {
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+          "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+        },
+        {
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+          "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+          "source": "TechCrunch",
+          "date": "11-03",
+          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "'Ramen Akeneko 2nd Season' Announces New Staff、'Game Sekai Tensei \"Dankatsu\"' Reveals Additional Cast, Second Teaser …",
+      "items": [
+        {
+          "title": "'Ramen Akeneko 2nd Season' Announces New Staff",
+          "summary": "The official website for the television anime adaptation of Angyaman&#039;s Ramen Akaneko (Red Cat Ramen) revealed new staff and key visual (pictured) for the upcoming second season. The anime is sche",
+          "source": "MyAnimeList",
+          "date": "11-04",
+          "url": "https://myanimelist.net/news/74903763?_location=rss"
+        },
+        {
+          "title": "'Game Sekai Tensei \"Dankatsu\"' Reveals Additional Cast, Second Teaser Promo",
+          "summary": "The official website for the television anime adaptation of Kaede Nishikigi&#039;s Game Sekai Tensei &quot;Dankatsu&quot;: Gamer wa &quot;Dungeon Shuukatsu no Susume&quot; wo &quot;Hajime kara&quot; P",
+          "source": "MyAnimeList",
+          "date": "11-04",
+          "url": "https://myanimelist.net/news/74903583?_location=rss"
+        },
+        {
+          "title": "'Watashi wo Center ni Suru to Chikaimasu ka?' Reveals Main Cast, Staff, Opening Theme, Teaser Promo",
+          "summary": "The official website of the Watashi wo Center ni Suru to Chikaimasu ka? (Promise Me the Spotlight) television anime revealed the main cast, staff, a key visual (pictured), the opening theme, and a tea",
+          "source": "MyAnimeList",
+          "date": "11-04",
+          "url": "https://myanimelist.net/news/74903023?_location=rss"
+        },
+        {
+          "title": "'Mashle' Gets Live-Action Movie Adaptation",
+          "summary": "Production company Warner Bros. Japan announced a live-action movie adaptation of Hajime Koumoto&#039;s Mashle (Mashle: Magic and Muscles) manga on Wednesday, revealing a super teaser visual (pictured",
+          "source": "MyAnimeList",
+          "date": "11-04",
+          "url": "https://myanimelist.net/news/74902561?_location=rss"
+        },
+        {
+          "title": "Manga 'Oshi ni Amagami' Receives TV Anime Adaptation",
+          "summary": "Production company Shogakukan-Shueisha Productions announced a television anime adaptation of Julietta Suzuki&#039;s Oshi ni Amagami (Otaku Vampire&#039;s Love Bite) manga on Wednesday, revealing spec",
+          "source": "MyAnimeList",
+          "date": "11-03",
+          "url": "https://myanimelist.net/news/74902452?_location=rss"
+        },
+        {
+          "title": "'Kawaii dake ja Nai Shikimori-san' Creator Begins 'Mahoutsukai no Yoru' Manga Adaptation",
+          "summary": "Manga creator Keigo Maki (Kawaii dake ja Nai Shikimori-san) will draw a manga adaptation of Type-Moon&#039;s Mahoutsukai no Yoru (Witch on the Holy Night) visual novel, the official X (formerly Twitte",
+          "source": "MyAnimeList",
+          "date": "11-03",
+          "url": "https://myanimelist.net/news/74900816?_location=rss"
+        },
+        {
+          "title": "'Hyouken no Majutsushi ga Sekai wo Suberu II' Announces Additional Cast",
+          "summary": "The official website for the television anime adaptation of Nana Mikoshiba&#039;s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced five addit",
+          "source": "MyAnimeList",
+          "date": "11-03",
+          "url": "https://myanimelist.net/news/74900432?_location=rss"
+        },
+        {
+          "title": "North American Anime & Manga Releases for November",
+          "summary": "Here are the North American anime, manga, and light novel releases for November. Week 1: November 3 - 9 Anime Releases Kobayashi-san Chi no Maid Dragon (incl. Valentine, Soshite Onsen! - Amari Kitai S",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74894552?_location=rss"
+        },
+        {
+          "title": "'Claymore' Creator Norihiro Yagi Begins New Manga",
+          "summary": "Norihiro Yagi, the creator of Claymore, began serializing a new manga titled Bartlet Fairy Basslet on the Shounen Jump+ platform on Monday. Yagi serialized Claymore in Monthly Shounen Jump from June 2",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74894409?_location=rss"
+        },
+        {
+          "title": "'Charisma' Unveils Additional Cast, Teaser Promo",
+          "summary": "The official website for the television anime adaptation of the Charisma House mixed-media project unveiled a pair of additional cast and teaser promotional video on Sunday. The anime series will prem",
+          "source": "MyAnimeList",
+          "date": "11-01",
+          "url": "https://myanimelist.net/news/74894062?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!、Guild Wars Is Getting Its First …",
+      "items": [
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Added 'No Grenades' style for the General's Greatco",
+          "source": "Steam",
+          "date": "10-12",
+          "url": "https://store.steampowered.com/news/285796/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "Guild Wars Is Getting Its First New Expansion In Almost 20 Years",
+          "summary": "ArenaNet may be hard at work on a new entry in the Guild Wars series, but it apparently won't stop it from releasing brand-new content for the 21-year-old original. Guild Wars Afterlife has just been ",
+          "source": "GameSpot",
+          "date": "11-04",
+          "url": "https://www.gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years/"
+        },
+        {
+          "title": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
+          "summary": "Given that Sony holds the marketing rights for Grand Theft Auto 6, Microsoft has had to get creative to promote the open-world crime game for Xbox--and the company's latest effort in that department g",
+          "source": "GameSpot",
+          "date": "11-03",
+          "url": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/"
+        },
+        {
+          "title": "WoW: Forever Shamans Are Protesting Class Changes After Being “Completely Ignored”",
+          "summary": "World of Warcraft: Forever just received a massive batch of class-balance updates ahead of launch that have boosted power across the board, but one group of players isn't happy with the changes: Shama",
+          "source": "GameSpot",
+          "date": "11-03",
+          "url": "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/"
+        },
+        {
+          "title": "WoW: Forever Won’t Get More Class Balance Changes Any Time Soon",
+          "summary": "World of Warcraft: Forever is gearing up for launch with some major class balance changes, but don't expect any more for at least a month.\n\n\n\nAs detailed in Forever's launch patch notes, Blizzard is m",
+          "source": "GameSpot",
+          "date": "11-03",
+          "url": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/"
+        },
+        {
+          "title": "GTA 6 Is Getting A Physical Map–Here’s How To Get One For Free Or Very Cheap",
+          "summary": "Rockstar Games has confirmed more details about Grand Theft Auto 6's impending release on November 19, including more information about physical goodies. While the game itself won't be available on a ",
+          "source": "GameSpot",
+          "date": "11-03",
+          "url": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/"
+        },
+        {
+          "title": "WoW: Forever Is Giving Players A Big Damage Boost For Launch",
+          "summary": "World of Warcraft: Forever is changing in some major ways for launch, with Blizzard revealing classes across the board will deal more damage as it pursues design solutions that better fit in with Fore",
+          "source": "GameSpot",
+          "date": "11-03",
+          "url": "https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/"
+        },
+        {
+          "title": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
+          "summary": "The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to the service. November is frontloaded with new game releases",
+          "source": "GameSpot",
+          "date": "11-02",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/"
+        },
+        {
+          "title": "25 Years Of Xbox Bundle Includes All These Games For $570",
+          "summary": "To celebrate the 25th anniversary of Xbox this year, Microsoft has launched a \"25 Years of Xbox\" digital game bundle. It includes 25 games for $570. \n\n\n\nThat works out to about $23/game, but it's more",
+          "source": "GameSpot",
+          "date": "11-03",
+          "url": "https://www.gamespot.com/articles/25-years-of-xbox-bundle-includes-all-these-games-for-570/"
+        }
+      ]
+    }
+  ]
+}
