@@ -1,13 +1,20 @@
 {
-  "date": "2026-11-07",
-  "quote": "「Crusoe sells troubled Wyoming data center project 」等AI 35条、动漫 20条、游戏 33条——每日精选资讯速览。",
+  "date": "2026-11-08",
+  "quote": "「Megaspeed exec was recruited to spy on Nvidia CEO,」等AI 36条、动漫 20条、游戏 34条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Crusoe sells troubled Wyoming data center project to Google、OpenAI reportedly raises an additional $11 billion at a $…",
+      "summary": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo、Crusoe sells troubled Wyoming da…",
       "items": [
+        {
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+          "source": "TechCrunch",
+          "date": "11-07",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        },
         {
           "title": "Crusoe sells troubled Wyoming data center project to Google",
           "summary": "The deal highlights the challenges of developing massive AI data centers.",
@@ -70,13 +77,6 @@
           "source": "TechCrunch",
           "date": "11-06",
           "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
-        },
-        {
-          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-          "source": "TechCrunch",
-          "date": "11-06",
-          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
         }
       ]
     },
@@ -84,8 +84,15 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "'Houkago no Idol ni wa Himitsu ga Aru' Reveals Additional Cast, Ending Theme、Additional Cast for 'Gacha wo Mawashite …",
+      "summary": "'Minami-ke Korekara' Reveals New Staff, Teaser Promo, Spring 2027 Premiere、'Houkago no Idol ni wa Himitsu ga Aru' Rev…",
       "items": [
+        {
+          "title": "'Minami-ke Korekara' Reveals New Staff, Teaser Promo, Spring 2027 Premiere",
+          "summary": "The Minami-ke Special Event 2026 revealed new staff, teaser visual (pictured), and teaser promotional video for the Season 5 on Sunday. The fifth season adapting Coharu Sakuraba&#039;s comedy slice of",
+          "source": "MyAnimeList",
+          "date": "11-08",
+          "url": "https://myanimelist.net/news/74916427?_location=rss"
+        },
         {
           "title": "'Houkago no Idol ni wa Himitsu ga Aru' Reveals Additional Cast, Ending Theme",
           "summary": "The official website of the Houkago no Idol ni wa Himitsu ga Aru (Everyone&#039;s Darling Has a Secret) television anime revealed additional cast and the ending theme on Saturday. The anime series ada",
@@ -102,7 +109,7 @@
         },
         {
           "title": "'Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.' Second Season in Production",
-          "summary": "The official website for the television anime adaptation of Suisei and Kairi&rsquo;s Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. (There was a Cute Girl in the Hero&rsquo;s Party, so I T",
+          "summary": "The official website for the television anime adaptation of Suisei and Kairi&#039;s Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. (There was a Cute Girl in the Hero&rsquo;s Party, so I Tr",
           "source": "MyAnimeList",
           "date": "11-07",
           "url": "https://myanimelist.net/news/74913297?_location=rss"
@@ -148,13 +155,6 @@
           "source": "MyAnimeList",
           "date": "11-06",
           "url": "https://myanimelist.net/news/74909290?_location=rss"
-        },
-        {
-          "title": "Manga '33-sai Dokushin Onna Kishi Taichou.' Gets Anime Adaptation in 2027",
-          "summary": "Content platform Digital Shokunin announced an anime adaptation of Amahara&#039;s 33-sai Dokushin Onna Kishi Taichou. (33 Years Old Single Female Knight Captain.) manga on Friday, revealing the main c",
-          "source": "MyAnimeList",
-          "date": "11-06",
-          "url": "https://myanimelist.net/news/74909101?_location=rss"
         }
       ]
     },
@@ -186,41 +186,6 @@
           "url": "https://store.steampowered.com/news/275791/"
         },
         {
-          "title": "Get a Nintendo Switch 2 Console (USA Model) for $448 During the AliExpress Early Black Friday Sale",
-          "summary": "Just in time to play The Legend of Zelda: Ocarina of Time which comes out this week.",
-          "source": "IGN",
-          "date": "11-06",
-          "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale"
-        },
-        {
-          "title": "Steam Is Having an Early Black Friday Sale on Digital Board Games Right Now",
-          "summary": "",
-          "source": "IGN",
-          "date": "11-06",
-          "url": "https://www.ign.com/articles/steam-digital-tabletop-fest-early-black-friday-deals-2026"
-        },
-        {
-          "title": "Ed Boon Wants to Know What Fans Want the Next Mortal Kombat Game to Be Called",
-          "summary": "Ed Boon is stirring up excitement in the fighting game community after releasing a poll asking fans what they’d like the next Mortal Kombat installment to be called.",
-          "source": "IGN",
-          "date": "11-06",
-          "url": "https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called"
-        },
-        {
-          "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-          "summary": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
-          "source": "IGN",
-          "date": "11-06",
-          "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch"
-        },
-        {
-          "title": "God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation",
-          "summary": "Sony Santa Monica Studios' God of War Ragnarok tops the list of highest-grossing PlayStation Studios games of the PS5 generation, according to Alinea Analytics.",
-          "source": "IGN",
-          "date": "11-06",
-          "url": "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation"
-        },
-        {
           "title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
           "summary": "Rockstar's Grand Theft Auto 6 launches on November 19. If you're planning to buy the $80 edition but want to upgrade later to the $100 version, you might be interested to know if such a thing is possi",
           "source": "GameSpot",
@@ -233,6 +198,41 @@
           "source": "GameSpot",
           "date": "11-06",
           "url": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges/"
+        },
+        {
+          "title": "You Can Finally Drive A Dreamcast, Thanks To Sonic",
+          "summary": "Sonic Racing: CrossWorlds is gearing up for a second year of action, and while you can expect new courses, modes,&nbsp;and characters to join the game, the real headline act here is the new cars comin",
+          "source": "GameSpot",
+          "date": "11-06",
+          "url": "https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic/"
+        },
+        {
+          "title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
+          "summary": "This year's annual Mass Effect Day looks to be somber in light of the studio behind the games, BioWare, being shut down last month. But while no new Mass Effect games are currently on the horizon, you",
+          "source": "GameSpot",
+          "date": "11-06",
+          "url": "https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans/"
+        },
+        {
+          "title": "GTA+: Price, Free Games, And All The Other Perks You Get With A Membership Ahead Of GTA 6 Launch",
+          "summary": "In 2022, Rockstar Games introduced GTA+, a subscription service that provides a variety of perks and bonuses in GTA Online--and beyond. \n\n\n\nWith GTA 6's release coming up this month, we're running thr",
+          "source": "GameSpot",
+          "date": "04-16",
+          "url": "https://www.gamespot.com/articles/gta-price-free-games-and-all-the-other-perks-you-get-with-a-membership/1100-6530905/"
+        },
+        {
+          "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
+          "summary": "It's the smallest details that stand out most in Grand Theft Auto 6, and thanks to all the screenshots that developer Rockstar Games has posted since the game was officially announced, there's been no",
+          "source": "GameSpot",
+          "date": "11-06",
+          "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/"
+        },
+        {
+          "title": "Ratchet & Clank Game Shutting Down Before Ever Fully Launching",
+          "summary": "Sony Interactive Entertainment and French developer Oh BiBi have announced Ratchet &amp; Clank: Ranger Rumble, a phone and tablet game, is coming to a close before it was even released fully. \n\n\n\nIn a",
+          "source": "GameSpot",
+          "date": "11-06",
+          "url": "https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching/"
         }
       ]
     }
