@@ -1,13 +1,20 @@
 {
-  "date": "2026-11-08",
-  "quote": "「Megaspeed exec was recruited to spy on Nvidia CEO,」等AI 36条、动漫 20条、游戏 34条——每日精选资讯速览。",
+  "date": "2026-11-09",
+  "quote": "「Nvidia will investigate CEO Jensen Huang’s relatio」等AI 33条、动漫 20条、游戏 30条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo、Crusoe sells troubled Wyoming da…",
+      "summary": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy、Megaspeed exec was recruited to spy…",
       "items": [
+        {
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "summary": "In a memo to the company, Huang admitted that he had an affair.",
+          "source": "TechCrunch",
+          "date": "11-08",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+        },
         {
           "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
           "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
@@ -70,13 +77,6 @@
           "source": "TechCrunch",
           "date": "11-06",
           "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
-        },
-        {
-          "title": "Physicl raises $10M to make the digital world real enough for robots",
-          "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-          "source": "TechCrunch",
-          "date": "11-06",
-          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
         }
       ]
     },
@@ -84,8 +84,22 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "'Minami-ke Korekara' Reveals New Staff, Teaser Promo, Spring 2027 Premiere、'Houkago no Idol ni wa Himitsu ga Aru' Rev…",
+      "summary": "'Boku no Suki na Hito ga Suki na Hito' Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere、'Spy x Family' Ge…",
       "items": [
+        {
+          "title": "'Boku no Suki na Hito ga Suki na Hito' Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere",
+          "summary": "Production company Avex Pictures opened an official website for a television anime adaptation of Sekina Aoi and Ryou Tsuzura&#039;s Boku no Suki na Hito ga Suki na Hito (My Crush&#039;s Crush) manga o",
+          "source": "MyAnimeList",
+          "date": "11-08",
+          "url": "https://myanimelist.net/news/74917765?_location=rss"
+        },
+        {
+          "title": "'Spy x Family' Gets Season 4, Second Anime Movie in 2027",
+          "summary": "The Spy x Family Anime Extra Mission II special event announced a fourth season and a second theatrical movie on Sunday, revealing the production staff and a teaser visual (pictured) for Season 4. The",
+          "source": "MyAnimeList",
+          "date": "11-08",
+          "url": "https://myanimelist.net/news/74917181?_location=rss"
+        },
         {
           "title": "'Minami-ke Korekara' Reveals New Staff, Teaser Promo, Spring 2027 Premiere",
           "summary": "The Minami-ke Special Event 2026 revealed new staff, teaser visual (pictured), and teaser promotional video for the Season 5 on Sunday. The fifth season adapting Coharu Sakuraba&#039;s comedy slice of",
@@ -141,20 +155,6 @@
           "source": "MyAnimeList",
           "date": "11-06",
           "url": "https://myanimelist.net/news/74910044?_location=rss"
-        },
-        {
-          "title": "'Kizuguchi to Houtai' Reveals Additional Cast, Staff, Opening Theme, First Promo",
-          "summary": "The official website for the television anime adaptation of Nanai Umihoshi&#039;s Kizuguchi to Houtai (Wound and Bandage) manga revealed additional cast, staff, a key visual (pictured), the opening th",
-          "source": "MyAnimeList",
-          "date": "11-06",
-          "url": "https://myanimelist.net/news/74909626?_location=rss"
-        },
-        {
-          "title": "Manga 'Hagure Idol: Jigoku-hen' Gets TV Anime in Winter 2027",
-          "summary": "WWWave Corporation&#039;s Deregula animation label opened an official website for a television anime adaptation of Rui Takatou&#039;s Hagure Idol: Jigoku-hen (Booty Royale: Never Go Down Without a Fig",
-          "source": "MyAnimeList",
-          "date": "11-06",
-          "url": "https://myanimelist.net/news/74909290?_location=rss"
         }
       ]
     },
