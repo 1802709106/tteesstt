@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-14",
+  "quote": "「Amazon has a plan to index the world’s online shop」等AI 43条、动漫 20条、游戏 33条——每日精选资讯速览。",
+  "sections": [
+    {
+      "key": "ai",
+      "icon": "🤖",
+      "label": "AI 前沿",
+      "summary": "Amazon has a plan to index the world’s online shopping data、ChatGPT Wallet lets OpenAI’s Dots agents make purchases f…",
+      "items": [
+        {
+          "title": "Amazon has a plan to index the world’s online shopping data",
+          "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
+          "source": "The Verge",
+          "date": "11-13",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+        },
+        {
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
+          "source": "The Verge",
+          "date": "11-13",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+        },
+        {
+          "title": "What&#8217;s really at stake in the Jensen Huang saga",
+          "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much ",
+          "source": "The Verge",
+          "date": "11-13",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+        },
+        {
+          "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+          "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try ",
+          "source": "The Verge",
+          "date": "11-13",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+        },
+        {
+          "title": "Let’s talk about Jensen Huang’s many affairs!",
+          "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the ",
+          "source": "The Verge",
+          "date": "11-13",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+        },
+        {
+          "title": "Google’s new Gemini model is better at understanding complicated questions",
+          "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
+          "source": "The Verge",
+          "date": "11-12",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+        },
+        {
+          "title": "No, AI agents did not discover a previously unknown Maya site",
+          "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had alread",
+          "source": "The Verge",
+          "date": "11-12",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+        },
+        {
+          "title": "The Jensen Huang scandal is hardly over",
+          "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and fa",
+          "source": "The Verge",
+          "date": "11-12",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+        },
+        {
+          "title": "AI chatbots are recommending fake retail websites, study finds",
+          "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi ",
+          "source": "The Verge",
+          "date": "11-12",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+        },
+        {
+          "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why d",
+          "source": "MIT科技评论",
+          "date": "11-13",
+          "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "icon": "🎬",
+      "label": "动漫",
+      "summary": "'Isekai Tensei Soudouki' Reveals Additional Cast, Staff, Theme Songs, Second Promo、CyberAgent Expands Production Netw…",
+      "items": [
+        {
+          "title": "'Isekai Tensei Soudouki' Reveals Additional Cast, Staff, Theme Songs, Second Promo",
+          "summary": "The official website for the television anime adaptation of Ryousen Takami&#039;s Isekai Tensei Soudouki (Multi-Mind Mayhem) novel revealed additional cast, staff, theme songs, a second key visual (pi",
+          "source": "MyAnimeList",
+          "date": "11-13",
+          "url": "https://myanimelist.net/news/74934867?_location=rss"
+        },
+        {
+          "title": "CyberAgent Expands Production Network With Latent One Launch and MAPPA Partnership",
+          "summary": "CyberAgent is expanding its presence in Japan&#039;s animation industry through a combination of studio development and strategic investment, establishing a new animation studio under its subsidiary C",
+          "source": "MyAnimeList",
+          "date": "11-13",
+          "url": "https://myanimelist.net/news/74934668?_location=rss"
+        },
+        {
+          "title": "Light Novel 'Isekai Douraku ni Akitara' Gets TV Anime in Winter 2027",
+          "summary": "Publishing company Shufunotomo announced a television anime adaptation of Fudaya Sanmongarasu and Tomozo&#039;s Isekai Douraku ni Akitara (Living It Up in Another World Until I Get Bored) light novel ",
+          "source": "MyAnimeList",
+          "date": "11-13",
+          "url": "https://myanimelist.net/news/74934042?_location=rss"
+        },
+        {
+          "title": "Supporting Cast Pair for 'Shin Oishinbo' Announced",
+          "summary": "The official website for the television anime adaptation of Tetsu Kariya&#039;s Oishinbo manga, titled Shin Oishinbo, announced a supporting pair of cast on Thursday. The anime is scheduled to premier",
+          "source": "MyAnimeList",
+          "date": "11-12",
+          "url": "https://myanimelist.net/news/74931275?_location=rss"
+        },
+        {
+          "title": "'Nabe ni Tama wo Ukenagara' Reveals Main Cast, Staff, Teaser Promo, Winter 2027 Premiere",
+          "summary": "Production company Asmik Ace opened an official website for a television anime adaptation of Juntarou Aoki and Shin Moriyama&#039;s Nabe ni Tama wo Ukenagara (Getting Shots on Frying Pan) manga on Thu",
+          "source": "MyAnimeList",
+          "date": "11-12",
+          "url": "https://myanimelist.net/news/74931133?_location=rss"
+        },
+        {
+          "title": "'Mashle: Sanma Taisou Shinkakusha Saishuu Shiken-hen' Reveals Additional Cast, Promo",
+          "summary": "The official website of the Mashle (Mashle: Magic and Muscles) television anime revealed additional cast pair, a key visual and a promotional video for its third season on Wednesday. The new season is",
+          "source": "MyAnimeList",
+          "date": "11-11",
+          "url": "https://myanimelist.net/news/74928431?_location=rss"
+        },
+        {
+          "title": "Manga 'Nanatsuya: Shinobu no Housekibako' Gets TV Anime in 2027",
+          "summary": "Production company Pony Canyon opened an official website for a television anime adaptation of Tomoko Ninomiya&#039;s Nanatsuya: Shinobu no Housekibako (Nanatsu-ya: Shinobou and Her Jewelry Box) on We",
+          "source": "MyAnimeList",
+          "date": "11-11",
+          "url": "https://myanimelist.net/news/74927894?_location=rss"
+        },
+        {
+          "title": "Light Novel 'Hyouken no Majutsushi ga Sekai wo Suberu' Concludes with 10th Volume",
+          "summary": "The official X account for author Nana Mikoshiba announced on Tuesday that the Hyouken no Majutsushi ga Sekai wo Suberu: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugaku suru ",
+          "source": "MyAnimeList",
+          "date": "11-10",
+          "url": "https://myanimelist.net/news/74924616?_location=rss"
+        },
+        {
+          "title": "Web Manga 'Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai' Gets TV Anime in 2027",
+          "summary": "Publishing company Manga Box announced a television anime adaptation of Izumi and Mitsuya Otosu&#039;s Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai (My Death Flags Show No Sign of Ending) web man",
+          "source": "MyAnimeList",
+          "date": "11-10",
+          "url": "https://myanimelist.net/news/74923434?_location=rss"
+        },
+        {
+          "title": "'Ghost: Yoru no Hate' Unveils Additional Cast, Staff, Theme Song, Main Trailer",
+          "summary": "The official website for the Ghost: Yoru no Hate original anime movie unveiled additional cast, staff, a second key visual (pictured right), the theme song, and main trailer on Tuesday. The movie is s",
+          "source": "MyAnimeList",
+          "date": "11-10",
+          "url": "https://myanimelist.net/news/74922872?_location=rss"
+        }
+      ]
+    },
+    {
+      "key": "game",
+      "icon": "🎮",
+      "label": "游戏",
+      "summary": "Now Available on Steam - Domino VR、Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!",
+      "items": [
+        {
+          "title": "Now Available on Steam - Domino VR",
+          "summary": "Domino VR is Now Available on Steam!Build domino chains as big and silly as you like, then give them a push. Domino VR is a VR physics sandbox with real-scale dominoes, contraptions, 24 puzzle levels,",
+          "source": "Steam",
+          "date": "11-04",
+          "url": "https://store.steampowered.com/news/290724/"
+        },
+        {
+          "title": "Team Fortress 2 Update Released",
+          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Added 'No Grenades' style for the General's Greatco",
+          "source": "Steam",
+          "date": "10-12",
+          "url": "https://store.steampowered.com/news/285796/"
+        },
+        {
+          "title": "Now Available on Steam - Angels Fall First, 10% off!",
+          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
+          "source": "Steam",
+          "date": "07-11",
+          "url": "https://store.steampowered.com/news/275791/"
+        },
+        {
+          "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
+          "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appears a packaging choic",
+          "source": "GameSpot",
+          "date": "11-13",
+          "url": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/"
+        },
+        {
+          "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
+          "summary": "Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big co",
+          "source": "GameSpot",
+          "date": "11-13",
+          "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/"
+        },
+        {
+          "title": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
+          "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be? Investor's Business Daily compiled data from a series",
+          "source": "GameSpot",
+          "date": "11-13",
+          "url": "https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/"
+        },
+        {
+          "title": "You Can Probably Guess WoW: Forever’s Most Popular Race, Class, And Faction",
+          "summary": "World of Warcraft: Forever has been in the wild for one week, and now we have all kinds of stats to sink our teeth into as they relate to the most popular races, classes, and faction in the latest ver",
+          "source": "GameSpot",
+          "date": "11-13",
+          "url": "https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/"
+        },
+        {
+          "title": "Official Zelda Website Raises Eyebrows By Labeling 3DS Game As Playable On Switch",
+          "summary": "Nintendo is celebrating The Legend of Zelda's 40th anniversary in many different ways, but one detail on the company's official website raised confusion--and curiosity-- about a classic 3DS Zelda game",
+          "source": "GameSpot",
+          "date": "11-13",
+          "url": "https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/"
+        },
+        {
+          "title": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
+          "summary": "Rockstar's Grand Theft Auto 6 finally releases on November 19, and you'll have to pay at least $80 for it. That's a full $20 more than what GTA 5 cost in 2013 and $10 more than many other big AAA game",
+          "source": "GameSpot",
+          "date": "11-13",
+          "url": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/"
+        },
+        {
+          "title": "GTA 6 In-Game TV Show Macca & Friends Looks Ridiculous In The Best Way",
+          "summary": "Rockstar Games has released the first footage of an in-game GTA 6 TV show called \"Macca &amp; Friends,\" which is about a sunglass-wearing pink alligator and his wetland friends in Leonida (the stand-i",
+          "source": "GameSpot",
+          "date": "11-13",
+          "url": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/"
+        }
+      ]
+    }
+  ]
+}
