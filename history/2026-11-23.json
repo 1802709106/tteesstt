@@ -1,13 +1,27 @@
 {
-  "date": "2026-11-22",
-  "quote": "「Signal restricts mobile screenshots as it confront」等AI 35条、动漫 10条、游戏 34条——每日精选资讯速览。",
+  "date": "2026-11-23",
+  "quote": "「How Notable Capital, GIC, and Baillie Gifford bet 」等AI 47条、动漫 10条、游戏 36条——每日精选资讯速览。",
   "sections": [
     {
       "key": "ai",
       "icon": "🤖",
       "label": "AI 前沿",
-      "summary": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance、Here are the top AI agent…",
+      "summary": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO、OpenAI’s chief scientist has though…",
       "items": [
+        {
+          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+          "source": "TechCrunch",
+          "date": "11-23",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        },
+        {
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+          "source": "TechCrunch",
+          "date": "11-22",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
         {
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
           "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -63,20 +77,6 @@
           "source": "TechCrunch",
           "date": "11-20",
           "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-        },
-        {
-          "title": "Meta’s new Muse Charm device may cost $300",
-          "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-          "source": "TechCrunch",
-          "date": "11-19",
-          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-        },
-        {
-          "title": "These tech outages are giving Y2K, AI agent style",
-          "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-          "source": "TechCrunch",
-          "date": "11-19",
-          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
         }
       ]
     },
@@ -84,8 +84,29 @@
       "key": "anime",
       "icon": "🎬",
       "label": "动漫",
-      "summary": "Singer, Voice Actress Kiyono Yasuno Announces Marriage、Light Novel 'Sono Mono. Nochi ni…' Gets TV Anime in 2027、'Tens…",
+      "summary": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Announces Additional Cast、'Yozakura-san Chi no Daisakusen…",
       "items": [
+        {
+          "title": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Announces Additional Cast",
+          "summary": "The official website for the television anime adaptation of Haka Tokura and Shin Arakawa&#039;s Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger",
+          "source": "MyAnimeList",
+          "date": "11-23",
+          "url": "https://myanimelist.net/news/74972403?_location=rss"
+        },
+        {
+          "title": "'Yozakura-san Chi no Daisakusen' Creator Launches New Manga",
+          "summary": "The 52nd issue of Weekly Shounen Jump magazine began serializing a new manga by Hitsuji Gondaira, titled Ginza Uradoori Kouban no Hizuki-san (Hizuki of the Ginza Patrol), on Monday. This marks Gondair",
+          "source": "MyAnimeList",
+          "date": "11-22",
+          "url": "https://myanimelist.net/news/74968770?_location=rss"
+        },
+        {
+          "title": "Manga 'Sakamoto Days' Concludes Serialization",
+          "summary": "Yuuto Suzuki&#039;s Sakamoto Days manga has concluded with chapter 284 in the 52nd issue of Weekly Shounen Jump magazine on Monday, after 6-year serialization. Suzuki originally drew the action comedy",
+          "source": "MyAnimeList",
+          "date": "11-22",
+          "url": "https://myanimelist.net/news/74968755?_location=rss"
+        },
         {
           "title": "Singer, Voice Actress Kiyono Yasuno Announces Marriage",
           "summary": "Voice actress Kiyono Yasuno announced her marriage on her official website on Sunday. In her written message, Yasuno expressed her gratitude to everyone who had supported her throughout her career as ",
@@ -134,27 +155,6 @@
           "source": "MyAnimeList",
           "date": "11-22",
           "url": "https://myanimelist.net/news/74967203?_location=rss"
-        },
-        {
-          "title": "'Tamon-kun Ima Docchi!?' Second Season in Production",
-          "summary": "The F/ACE First Live Nautical Star event for the television anime adaptation of Yuki Shiwasu&#039;s Tamon-kun Ima Docchi!? (Tamon&#039;s B-Side) manga announced a second season on Saturday. The offici",
-          "source": "MyAnimeList",
-          "date": "11-21",
-          "url": "https://myanimelist.net/news/74964214?_location=rss"
-        },
-        {
-          "title": "Manga 'Yubisaki to Renren' Ends in Three Chapters",
-          "summary": "The official X (formerly Twitter) account of Dessert magazine announced on Saturday that Suu Morishita&#039;s Yubisaki to Renren (A Sign of Affection) manga will end in three chapters. The 63rd chapte",
-          "source": "MyAnimeList",
-          "date": "11-21",
-          "url": "https://myanimelist.net/news/74963930?_location=rss"
-        },
-        {
-          "title": "'Tougen Anki: Nikko Kegon no Taki-hen' Unveils Additional Cast",
-          "summary": "The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime unveiled additional cast members on Saturday. The first part of the second seaso",
-          "source": "MyAnimeList",
-          "date": "11-20",
-          "url": "https://myanimelist.net/news/74961958?_location=rss"
         }
       ]
     },
@@ -162,28 +162,21 @@
       "key": "game",
       "icon": "🎮",
       "label": "游戏",
-      "summary": "Now Available on Steam - Domino VR、Team Fortress 2 Update Released、Now Available on Steam - Angels Fall First, 10% off!",
+      "summary": "Acts of Blood for PC delayed to spring 2027、This Week’s Japanese Game Releases: Azur Promilia, Expelled from Paradise…",
       "items": [
         {
-          "title": "Now Available on Steam - Domino VR",
-          "summary": "Domino VR is Now Available on Steam!Build domino chains as big and silly as you like, then give them a push. Domino VR is a VR physics sandbox with real-scale dominoes, contraptions, 24 puzzle levels,",
-          "source": "Steam",
-          "date": "11-04",
-          "url": "https://store.steampowered.com/news/290724/"
+          "title": "Acts of Blood for PC delayed to spring 2027",
+          "summary": "Publisher Big Fan Games and developer Eksil Team have delayed beat &#8217;em up action game &hellip;",
+          "source": "Gematsu",
+          "date": "11-23",
+          "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027"
         },
         {
-          "title": "Team Fortress 2 Update Released",
-          "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Added 'No Grenades' style for the General's Greatco",
-          "source": "Steam",
-          "date": "10-12",
-          "url": "https://store.steampowered.com/news/285796/"
-        },
-        {
-          "title": "Now Available on Steam - Angels Fall First, 10% off!",
-          "summary": "Angels Fall First is Now Available on Steam and is 10% off!*From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together al",
-          "source": "Steam",
-          "date": "07-11",
-          "url": "https://store.steampowered.com/news/275791/"
+          "title": "This Week’s Japanese Game Releases: Azur Promilia, Expelled from Paradise: The Stellar Angel, more",
+          "summary": "Azur Promilia for PC, iOS, and Android, and Expelled from Paradise: The Stellar Angel for &hellip;",
+          "source": "Gematsu",
+          "date": "11-23",
+          "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise-the-stellar-angel-more"
         },
         {
           "title": "1666: Amsterdam Early Access first major update launches in December",
@@ -233,6 +226,13 @@
           "source": "Gematsu",
           "date": "11-20",
           "url": "https://www.gematsu.com/2026/11/mr-magpies-harmless-card-game-launches-february-18-2027"
+        },
+        {
+          "title": "Grand Theft Auto VI tops $3.79 billion in day one retail sales after 32.5 million pre-orders",
+          "summary": "Grand Theft Auto VI achieved $3.79 billion in day one retail sales after selling 32.5 &hellip;",
+          "source": "Gematsu",
+          "date": "11-20",
+          "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-tops-3-79-billion-in-day-one-retail-sales-after-32-5-million-pre-orders"
         }
       ]
     }
